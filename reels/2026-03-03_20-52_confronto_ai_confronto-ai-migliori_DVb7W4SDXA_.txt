@@ -8,6 +8,7 @@ ORA: 20:52
 --- METRICHE ---
 LIKE: 316
 COMMENTI: 60
+VISUALIZZAZIONI: 0
 DURATA VIDEO: 80 secondi
 CARATTERI CAPTION: 667
 HASHTAG: #intelligenzaartificiale #chatgpt #gemini #ai #risparmiare

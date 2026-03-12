@@ -8,6 +8,7 @@ ORA: 12:14
 --- METRICHE ---
 LIKE: 923
 COMMENTI: 17
+VISUALIZZAZIONI: 0
 DURATA VIDEO: 180 secondi
 CARATTERI CAPTION: 1239
 HASHTAG: #iliad #esim #iphone #tutorial #risparmiare

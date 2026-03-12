@@ -1,0 +1,45 @@
+POST ID: 18401398333133487
+IG ID: 3787622183510830760
+SHORTCODE: DSQVk7njW6o
+PERMALINK: https://www.instagram.com/reel/DSQVk7njW6o/
+DATA: 2025-12-14
+ORA: 19:18
+
+--- METRICHE ---
+LIKE: 1915
+COMMENTI: 47
+DURATA VIDEO: 53 secondi
+CARATTERI CAPTION: 488
+HASHTAG: #intelligenzaartificiale #risparmiare #videoai #ai #ia
+
+--- FLAGS ---
+CTA COMMENTO: no
+CTA FOLLOW: no
+LINK IN CAPTION: sì (link presente)
+
+--- CATEGORIA ---
+CATEGORIA: news_ai
+TAG: intelligenza artificiale, video ai, longcat
+TOPIC: Un modello cinese di intelligenza artificiale supera i modelli più famosi al mondo per la creazione di video lunghi
+
+--- HOOK TESTUALE (dal frame) ---
+Google Veo è già stata già superata da questa intelligenza artificiale cinese
+
+--- DESCRIZIONE VISIVA ---
+Un uomo con una maglietta beige sembra parlare direttamente alla telecamera. Dietro di lui, una finestra con cornice in legno.
+
+--- CAPTION COMPLETA ---
+I cinesi continuano a superare i modelli più famosi al mondo, sono senza parole!
+
+Questo modello cinese longcat ti permette di creare video lunghi fino a 3/4 minuti mantenendo la consistenza e la coerenza!
+
+È completamente gratuito e potete scaricarlo e installarlo usando ComfyUI, pazzesco!
+
+Il link è questo: https://github.com/meituan-longcat/LongCat-Video
+
+Io sono il tuo smanettone di fiducia, noi ci vediamo al prossimo video!
+
+#intelligenzaartificiale #risparmiare #videoai #ai #ia
+
+--- TRASCRIZIONE AUDIO ---
+Non ci posso credere, vi ricordate tipo un mesetto fa che è uscito VEO 3.1, poi è uscito Sora, poi tutti che ti fanno generare video da tipo massimo 10-15 secondi? Ecco, dei cinesi hanno creato il long cat video che però si è aggiornato e adesso in pochi minuti ti fa generare un video di 3 minuti addirittura. Guardate qua questo video, l'è generato completamente con l'intelligenza artificiale, adesso l'ho velocizzato a tipo 5-6x. Costa pochi dollari e con pochi euro vi crea video di questo tipo Cioè è un video che dura un sacco di tempo, l'ho velocizzato, stiamo guardando tipo 30-40 Se non volete pagare niente di abbonamenti per generare questi video e utilizzare questo modello La cosa incredibile è che potete farlo utilizzando ConfuY Questo però lo vediamo in un altro video Io sono Matteo Zampieri, il tuo smanettone di fiducia Noi ci vediamo ad un prossimo video, ricordati di seguirmi se ancora non l'hai fatto

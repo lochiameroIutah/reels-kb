@@ -1,0 +1,39 @@
+POST ID: undefined
+IG ID: undefined
+SHORTCODE: DTDgor0jfBd
+PERMALINK: undefined
+DATA: 2026-01-03
+ORA: 16:30
+
+--- METRICHE ---
+LIKE: 35
+COMMENTI: 32
+DURATA VIDEO: 98 secondi
+CARATTERI CAPTION: 242
+HASHTAG: #intelligenzaartificiale #risparmiare #ia #ai #trascriviaudio
+
+--- FLAGS ---
+CTA COMMENTO: no
+CTA FOLLOW: no
+LINK IN CAPTION: no
+
+--- CATEGORIA ---
+CATEGORIA: tutorial_ai
+TAG: intelligenza-artificiale, trascrizione-audio, grock, automazione
+TOPIC: Il video mostra come utilizzare un metodo gratuito per trascrivere audio con intelligenza artificiale
+
+--- HOOK TESTUALE (dal frame) ---
+IL PROBLEMA DELLE
+
+--- DESCRIZIONE VISIVA ---
+Un frame di un Reel Instagram con un uomo in un cerchio in alto e una screenshot di una chat in basso
+
+--- CAPTION COMPLETA ---
+Se vuoi avere anche te questa funzionalità scrivimi per messaggio “COMANDO” e te lo mando :) 
+
+Io sono il tuo smanettone di fiducia, noi ci vediamo al prossimo video!
+
+#intelligenzaartificiale #risparmiare #ia #ai #trascriviaudio trascrizione
+
+--- TRASCRIZIONE AUDIO ---
+Il problema delle trascrizioni di WhatsApp è che non capisce niente. Invece col metodo che adesso vedremo in questo video, guarda un po', capisce perfettamente tutto. È completamente gratuito, l'ho creata io questa automazione e adesso andiamo a vedere come fare. Io lo aprirò da qui ma non vi preoccupate, voi cliccate quello che trovate in descrizione. Per far funzionare tutto ciò abbiamo bisogno di un codice dell'applicazione Grock, che è un'azienda che ti offre dei modelli di intelligenza artificiale completamente gratuiti. Ci dirà, vuoi aggiungerlo? Noi facciamo aggiungi comando rapido, clicchiamo inoltre, scegliamo ad esempio il nostro audio vocale, facciamo condividi, scorriamo qui in basso fino a che non troviamo trascrivi audio by lo smanettone di fiducia. Premetelo ed ecco qua che dice, adesso ti aiuterò a completare l'installazione. Importantissimo, premi sempre, consenti sempre, quando il tuo iPhone te lo chiede, se no non funziona. Per prima cosa hai bisogno del tuo codice di collegamento. Clicchiamo devo ottenere il codice e ci dice che cosa dobbiamo fare. Passo 1. Registrati su groc.com. E noi clicchiamo apri groc.com. L'importante è fare continua con Google proprio perché così diciamo non avete problemi. Una volta che siete entrati dentro a groc appunto vi varrà fuori questo testo. Benissimo ora fai questo. Clicca sul pulsante create API key. Scrivi trascrizione. Clicca submit e premi sul pulsante copia. Clicchiamo su ok lo faccio subito. Quindi clicchiamo su create API key. Chiamiamola trascrizione. Clicchiamo su submit. lo noi ce lo copiamo adesso abbiamo fatto tutto correttamente ci dice ottimo l'installazione è completata cliccando su ok appunto ci farà la trascrizione ecco qui che ha fatto la nostra trascrizione

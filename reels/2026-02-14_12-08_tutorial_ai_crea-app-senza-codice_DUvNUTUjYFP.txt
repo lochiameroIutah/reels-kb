@@ -8,6 +8,7 @@ ORA: 12:08
 --- METRICHE ---
 LIKE: 1808
 COMMENTI: 865
+VISUALIZZAZIONI: 0
 DURATA VIDEO: 74 secondi
 CARATTERI CAPTION: 758
 HASHTAG: #adv #verdent #verdentai #aicoding #intelligenzaartificiale

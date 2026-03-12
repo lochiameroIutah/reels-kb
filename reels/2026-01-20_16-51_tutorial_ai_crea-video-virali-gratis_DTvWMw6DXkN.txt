@@ -8,6 +8,7 @@ ORA: 16:51
 --- METRICHE ---
 LIKE: 51
 COMMENTI: 1
+VISUALIZZAZIONI: 0
 DURATA VIDEO: 49 secondi
 CARATTERI CAPTION: 587
 HASHTAG: #intelligenzaartificiale #tutorial #videovirali #aiviralvideo #klingai

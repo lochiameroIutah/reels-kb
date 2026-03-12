@@ -8,6 +8,7 @@ ORA: 12:25
 --- METRICHE ---
 LIKE: 29
 COMMENTI: 12
+VISUALIZZAZIONI: 0
 DURATA VIDEO: 49 secondi
 CARATTERI CAPTION: 938
 HASHTAG: #vibecoding #intelligenzaartificiale #iosapp #tutorial #ia

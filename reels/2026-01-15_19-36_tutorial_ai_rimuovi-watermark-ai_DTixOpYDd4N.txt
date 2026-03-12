@@ -8,6 +8,7 @@ ORA: 19:36
 --- METRICHE ---
 LIKE: 92
 COMMENTI: 4
+VISUALIZZAZIONI: 0
 DURATA VIDEO: 51 secondi
 CARATTERI CAPTION: 576
 HASHTAG: #intelligenzaartificiale #nanobanana #watermarksremoved #gemini #tutorial

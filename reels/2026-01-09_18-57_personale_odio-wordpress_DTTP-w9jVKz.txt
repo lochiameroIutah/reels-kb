@@ -8,6 +8,7 @@ ORA: 18:57
 --- METRICHE ---
 LIKE: 3
 COMMENTI: 0
+VISUALIZZAZIONI: 0
 DURATA VIDEO: 31 secondi
 CARATTERI CAPTION: 379
 HASHTAG: #wordpress #sfogo #intelligenzaartificiale #tutorial

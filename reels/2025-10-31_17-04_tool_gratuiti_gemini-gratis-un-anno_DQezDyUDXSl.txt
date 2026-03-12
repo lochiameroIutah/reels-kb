@@ -8,6 +8,7 @@ ORA: 17:04
 --- METRICHE ---
 LIKE: 3576
 COMMENTI: 92
+VISUALIZZAZIONI: 0
 DURATA VIDEO: 56 secondi
 CARATTERI CAPTION: 591
 HASHTAG: #intelligenzaartificiale #risparmiare #gratis #gemini #univerit

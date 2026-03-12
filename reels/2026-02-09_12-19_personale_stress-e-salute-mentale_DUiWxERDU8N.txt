@@ -8,6 +8,7 @@ ORA: 12:19
 --- METRICHE ---
 LIKE: 72
 COMMENTI: 10
+VISUALIZZAZIONI: 0
 DURATA VIDEO: 58 secondi
 CARATTERI CAPTION: 118
 HASHTAG: #salutementale #intelligenzaartificiale #biohacker #psicofisiolog

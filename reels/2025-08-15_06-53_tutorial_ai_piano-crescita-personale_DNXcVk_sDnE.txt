@@ -1,0 +1,65 @@
+POST ID: 18055156472611555
+IG ID: 3699550247042693572
+SHORTCODE: DNXcVk_sDnE
+PERMALINK: https://www.instagram.com/reel/DNXcVk_sDnE/
+DATA: 2025-08-15
+ORA: 06:53
+
+--- METRICHE ---
+LIKE: 46
+COMMENTI: 0
+DURATA VIDEO: 8 secondi
+CARATTERI CAPTION: 1560
+HASHTAG: #intelligenzaartificiale #chatgptprompts #ai #produttivit #crescita #chatgpthacks
+
+--- FLAGS ---
+CTA COMMENTO: no
+CTA FOLLOW: sì
+LINK IN CAPTION: no
+
+--- CATEGORIA ---
+CATEGORIA: tutorial_ai
+TAG: chatgpt, produttività, crescita
+TOPIC: Utilizzare ChatGPT per creare un piano di 30 giorni per raggiungere un obiettivo personale
+
+--- HOOK TESTUALE (dal frame) ---
+Vuoi che ChatGPT-5 ti faccia un piano di 30 giorni per ottenere quello che vuoi? Fai questo
+
+--- DESCRIZIONE VISIVA ---
+Una persona in una cucina sta poggiando un laptop su un tavolo. Sullo sfondo, un frigorifero con diversi magneti.
+
+--- CAPTION COMPLETA ---
+Inizia scrivendo questo:
+
+Prima di tutto 👉 clicca segui @themattvision
+
+Copia e incolla questo prompt in ChatGPT:
+“Ho bisogno di una strategia personale. Obiettivo: (inserisci il tuo obiettivo). Dammi un piano di 30 giorni, suddiviso per settimane. Includi azioni specifiche, traguardi e abitudini. Rendilo realistico ma abbastanza impegnativo da permettermi di crescere.”
+
+Inoltre, se vuoi che durante la chat lui ti segua come un vero coach, incollagli in un secondo messaggio (dopo che ti ha creato il piano) anche questo:
+
+“D’ora in poi, durante questa chat, aiutami a raggiungere il mio obiettivo come se fossi il mio coach. Voglio che tu mi guidi passo passo, settimana dopo settimana, facendomi fare queste cose:
+
+1. Definisci chiaramente il punto di partenza
+Aiutami a descrivere la mia situazione attuale e cosa voglio migliorare nei prossimi 30 giorni.
+
+2. Scomponi in settimane
+Mantieni il focus su un obiettivo preciso ogni settimana, con azioni chiare e misurabili.
+
+3. Stabilisci traguardi intermedi
+Motivami fissando piccoli risultati concreti da raggiungere ogni 7 giorni.
+
+4. Monitora e correggi
+Alla fine di ogni settimana, chiedimi i progressi e aiutami ad adattare il piano se necessario.
+
+5. Mantieni l’impegno
+Se salto un giorno, ricordami che non ho perso la settimana: spronami a riprendere subito.
+
+Il tuo obiettivo è farmi restare costante, motivato e focalizzato fino alla fine dei 30 giorni.”
+
+Non rimanere indietro 👉 clicca segui @themattvision 
+
+#intelligenzaartificiale #chatgptprompts #ai #produttività #crescita #chatgpthacks
+
+--- TRASCRIZIONE AUDIO ---
+Grazie a tutti!

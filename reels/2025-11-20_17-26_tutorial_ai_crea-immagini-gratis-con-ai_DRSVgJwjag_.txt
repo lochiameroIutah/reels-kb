@@ -1,0 +1,49 @@
+POST ID: 18063319409631303
+IG ID: 3770170406540781631
+SHORTCODE: DRSVgJwjag_
+PERMALINK: https://www.instagram.com/reel/DRSVgJwjag_/
+DATA: 2025-11-20
+ORA: 17:26
+
+--- METRICHE ---
+LIKE: 264
+COMMENTI: 93
+DURATA VIDEO: 38 secondi
+CARATTERI CAPTION: 535
+HASHTAG: #intelligenzaartificiale #ia #risparmiare
+
+--- FLAGS ---
+CTA COMMENTO: no
+CTA FOLLOW: sì
+LINK IN CAPTION: sì (link presente)
+
+--- CATEGORIA ---
+CATEGORIA: tutorial_ai
+TAG: intelligenza artificiale, ia, risparmiare, gemini-2.5-flash-image
+TOPIC: Matt Vision mostra come utilizzare una piattaforma di intelligenza artificiale gratuita per creare immagini in pochi secondi
+
+--- HOOK TESTUALE (dal frame) ---
+Vuoi che ChatGPT-5 smetta sempre di farti perdere tempo? Fai questo
+
+--- DESCRIZIONE VISIVA ---
+Un uomo con un maglione grigio chiaro parla verso la telecamera. Sullo sfondo si vede una finestra con cornice in legno.
+
+--- CAPTION COMPLETA ---
+Sinceramente stupendo in un attimo mi crea gratis tutte le immagini che voglio.
+
+Prima di tutto 👉 clicca segui @themattvision
+
+Questa intelligenza artificiale è la svolta (non mi pagano per dirtelo)
+
+Ecco il link: https://aistudio.google.com/prompts/new_chat?model=gemini-2.5-flash-image
+
+Se non riesci a copiare il link SCRIVIMI che te lo mando direttamente!
+
+Se ti sono stato utile 👉 clicca segui @themattvision 
+
+Io sono il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video!
+
+#intelligenzaartificiale #ia #risparmiare
+
+--- TRASCRIZIONE AUDIO ---
+So se lo sai però CiaGPT sembra progettato per farti perdere tempo. Cioè te prova a creare un'immagine con CiaGPT non ce la fai. Infatti guarda qua gli ho detto crea un'immagine con queste due persone e dopo tipo dieci minuti mi dice addirittura che non la può neanche creare. Per questo motivo c'è il tuo smanettone di fiducia adesso vediamo come fare. Andate su questo sito qua ma non vi preoccupate ve lo metto in descrizione. Incollate il vostro testo che vi interessa prendete eventualmente le foto e caricatele premendo su run. D'ora in poi non avrai più problemi nel creare immagini con l'intelligenza artificiale Guarda qua in due secondi me l'ha creato Io sono il tuo smanettone di fiducia Noi ci vediamo ad un prossimo video Ricordati di seguirmi se ancora non l'hai fatto

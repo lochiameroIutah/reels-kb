@@ -1,0 +1,43 @@
+POST ID: 18108833011623651
+IG ID: 3778992092098675043
+SHORTCODE: DRxrUkqjUFj
+PERMALINK: https://www.instagram.com/reel/DRxrUkqjUFj/
+DATA: 2025-12-02
+ORA: 21:30
+
+--- METRICHE ---
+LIKE: 5942
+COMMENTI: 126
+DURATA VIDEO: 56 secondi
+CARATTERI CAPTION: 376
+HASHTAG: #intelligenzaartificiale #ia #risparmiare #nanobanana #zimage
+
+--- FLAGS ---
+CTA COMMENTO: no
+CTA FOLLOW: no
+LINK IN CAPTION: sì (link presente)
+
+--- CATEGORIA ---
+CATEGORIA: news_ai
+TAG: zimage, intelligenza-artificiale, risparmio
+TOPIC: Un'intelligenza artificiale cinese supera la precedente tecnologia di generazione di immagini
+
+--- HOOK TESTUALE (dal frame) ---
+Nano banana 2 è già stata superata da un'intelligenza artificiale cinese
+
+--- DESCRIZIONE VISIVA ---
+Un uomo con una maglietta beige guarda una schermata di un computer con un grafico mentre tiene una mano vicino allo schermo. Sullo sfondo, un monitor mostra un'immagine di un bosco. Ci sono anche una cuffia e un piccolo dispositivo bianco sul tavolo.
+
+--- CAPTION COMPLETA ---
+Quanto corre questa intelligenza artificiale non finirò mai di sbalordirmi!
+
+Il link del modello è questo:  https://huggingface.co/Tongyi-MAI/Z-Image-Turbo
+
+Per scaricare comfyUI vai qui: https://www.comfy.org
+
+Zimage rende mille volte più economica la generazione di immagini. Sta andando tutt sempre più veloce!
+
+#intelligenzaartificiale #ia #risparmiare #nanobanana #zimage
+
+--- TRASCRIZIONE AUDIO ---
+Senza parole, cioè una settimana e mezza fa vi ricordate che era uscito Gemini 3, incredibile, immagini pazzesche, un costo irrisorio. Ecco, adesso è uscito Z Image da un tizio cinese che non è la prima volta che droppa perché aveva già droppato delle robe. 86.000 persone già l'hanno scaricato nel giro di 4-5 giorni. Gemini ti costava 5 centesimi a immagine. Adesso questo qua ti costa 0,005 centesimi Ho fatto dei test e le genera tranquillamente col test in italiano Per utilizzare ConfUI che è fenomenale Con questo ConfUI praticamente ti costa 0 Perché usi la potenza del tuo computer ed è tutto in locale, privato Come magari piaccia a te Io sono Matteo Zampieri, il tuo smanetto di fiducia Ti ho messo il link in descrizione del modello Noi ci vediamo ad un prossimo video E ricordati di seguirmi se ancora non l'hai fatto

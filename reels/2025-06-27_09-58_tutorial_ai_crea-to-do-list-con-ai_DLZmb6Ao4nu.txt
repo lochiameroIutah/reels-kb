@@ -1,0 +1,41 @@
+POST ID: 18048766166184346
+IG ID: 3664128815323646446
+SHORTCODE: DLZmb6Ao4nu
+PERMALINK: https://www.instagram.com/reel/DLZmb6Ao4nu/
+DATA: 2025-06-27
+ORA: 09:58
+
+--- METRICHE ---
+LIKE: 199
+COMMENTI: 12
+DURATA VIDEO: 63 secondi
+CARATTERI CAPTION: 349
+HASHTAG: #intelligenzaartificiale #ai #chatgptdown #ia #motivation #chatgptalternative #storytelling #claude #chatgptvsclaude #artifacts #newsclaude #newsai
+
+--- FLAGS ---
+CTA COMMENTO: sì
+CTA FOLLOW: sì
+LINK IN CAPTION: no
+
+--- CATEGORIA ---
+CATEGORIA: tutorial_ai
+TAG: intelligenza-artificiale, cloud, to-do-list
+TOPIC: Creare uno strumento personale di intelligenza artificiale per generare to-do list
+
+--- HOOK TESTUALE (dal frame) ---
+POV: sono le 5 di mattina
+
+--- DESCRIZIONE VISIVA ---
+Una mano destra è mostrata mentre preme il tasto 'Invio' su un laptop. Sullo schermo è visibile una schermata di ChatGPT con il messaggio 'In cosa posso essere utile?' Il laptop è posizionato su un tavolo. 
+
+--- CAPTION COMPLETA ---
+Da oggi puoi creare il tuo strumento personale di intelligenza artificiale, senza senso.
+
+👀 Se vuoi il link commenta LINK e te lo mando per messaggio
+
+Rimani sul pezzo 👉 clicca segui @themattvision 
+
+#intelligenzaartificiale #ai #chatgptdown #ia #motivation #chatgptalternative #storytelling #claude #chatgptvsclaude #artifacts #newsclaude #newsai
+
+--- TRASCRIZIONE AUDIO ---
+però tu non hai capito che cazzo ha appena rilasciato, non c'ha GPT ma si chiama Cloud, no? Io gli posso dare questo prompt, ovvero voglio creare uno strumento che ti crea una to-do list al volo con le AI, basandosi su quello che gli hai chiesto, no? E ogni task può essere spuntata, eventualmente scaricata e cazzi ammazzi. Faccio già vedere il risultato finale, praticamente è questa roba qua, vediamo se riesco a fartelo vedere, eccolo qua, generatore di to-do list con le AI. Gli ho dato delle cose stupide tipo fare la spesa, cibo gatti, pubblicare video YouTube, pubblicare Reel del cane, lui sta generando con l'intelligenza artificiale, l'ha già fatto, fare la spesa, comprare cibo per gatti, pubblicare video su YouTube, vedi che ha anche scritto correttamente, io avevo scritto male, pubblicare Reel del cane, posso cliccare qui? me l'ha spuntata l'ho fatta c'è generatore di to do list al volo incredibile sfrutta l'API di Cloud gratuitamente perché io qui non ho mica l'abbonamento pro cioè io qui zero

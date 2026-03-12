@@ -8,6 +8,7 @@ ORA: 17:45
 --- METRICHE ---
 LIKE: 6
 COMMENTI: 0
+VISUALIZZAZIONI: 0
 DURATA VIDEO: 47 secondi
 CARATTERI CAPTION: 840
 HASHTAG: #intelligenzaartificiale #chatgptprompts #ai #chatgpthacks

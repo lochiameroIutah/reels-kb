@@ -1,0 +1,53 @@
+POST ID: 18133907674412409
+IG ID: 3745281036709117014
+SHORTCODE: DP56UJxDbxW
+PERMALINK: https://www.instagram.com/reel/DP56UJxDbxW/
+DATA: 2025-10-17
+ORA: 09:14
+
+--- METRICHE ---
+LIKE: 47
+COMMENTI: 5
+DURATA VIDEO: 41 secondi
+CARATTERI CAPTION: 677
+HASHTAG: #intelligenzaartificiale #risparmiare #ai #chatgpt #ia #chatgpt5
+
+--- FLAGS ---
+CTA COMMENTO: no
+CTA FOLLOW: sì
+LINK IN CAPTION: no
+
+--- CATEGORIA ---
+CATEGORIA: confronto_ai
+TAG: chatgpt, intelligenza-artificiale, risparmio
+TOPIC: Il video spiega come utilizzare correttamente ChatGPT-5 e come evitare errori a causa dei modelli di default
+
+--- HOOK TESTUALE (dal frame) ---
+Ecco perchè ChatGPT-5 ti sembra peggio di ChatGPT-4
+
+--- DESCRIZIONE VISIVA ---
+Un uomo con una maglietta bianca si trova davanti a una postazione di lavoro con un monitor acceso che mostra del codice. Sembra che stia parlando direttamente alla telecamera.
+
+--- CAPTION COMPLETA ---
+Ecco come aggiustarlo:
+
+Prima di tutto 👉 clicca segui @themattvision 
+
+1 Accertati di non essere in modalità “Auto”
+
+2 Controlla se la tua domanda è complessa/scritta in modo ordinato
+
+3 Se lo è ➜ scegli il modello “Thinking”
+
+4 È importante usare il modello corretto per ogni richiesta e non far decidere a ChatGPT se non hai le idee chiare.
+
+5 Se sei indeciso fai decidere a ChatGPT e poi se non sei soddisfatto clicca sul pulsante rigenera risposta ➜ scegli il modello thinking 
+
+Se ti sono stato utile 👉 clicca segui @themattvision 
+
+Io sono il tuo smanettone di fiducia, noi ci vediamo al prossimo video!
+
+#intelligenzaartificiale #risparmiare #ai #chatgpt #ia #chatgpt5
+
+--- TRASCRIZIONE AUDIO ---
+C'è chi dice che c'ha GPT-5 non è più stupido del 4, ma guardate qua. Allora, io gli ho detto di scrivere tra parentesi una cosa. Aperta parentesi, aperta parentesi, chiusa parentesi, aperta parentesi, chiusa parentesi, chiusa parentesi. Gli stavo anche chiedendo prima, ma non ti sembra stupido da parte tua, no? Fare una cosa del genere? E lui mi ha detto, hai ragione, hai perfettamente ragione, non dovevo scriverlo letteralmente. Era ovvio che intendessi, ma allora, perché cazzo fa ste cose? semplicemente lui utilizza dei modelli più del cazzo che gli costa meno a OpenAI che l'azienda dietro a CiaGPT per risparmiare anche se pago 20 euro al mese

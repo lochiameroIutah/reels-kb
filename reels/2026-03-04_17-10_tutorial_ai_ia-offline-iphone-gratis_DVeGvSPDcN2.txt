@@ -8,6 +8,7 @@ ORA: 17:10
 --- METRICHE ---
 LIKE: 79
 COMMENTI: 99
+VISUALIZZAZIONI: 0
 DURATA VIDEO: 30 secondi
 CARATTERI CAPTION: 750
 HASHTAG: #intelligenzaartificiale #ai #risparmiare #ia #chatgpt

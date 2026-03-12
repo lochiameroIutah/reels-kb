@@ -1,0 +1,46 @@
+POST ID: 17842820208619368
+IG ID: 3767791443264795219
+SHORTCODE: DRJ4lrjjfJT
+PERMALINK: https://www.instagram.com/reel/DRJ4lrjjfJT/
+DATA: 2025-11-17
+ORA: 10:39
+
+--- METRICHE ---
+LIKE: 4
+COMMENTI: 1
+DURATA VIDEO: 40 secondi
+CARATTERI CAPTION: 362
+HASHTAG: #intelligenzaartificiale #risparmiare #ai #chatgpt #claude #todolist
+
+--- FLAGS ---
+CTA COMMENTO: no
+CTA FOLLOW: sì
+LINK IN CAPTION: sì (matteozampieri.com/lista-con-ia)
+
+--- CATEGORIA ---
+CATEGORIA: tool_gratuiti
+TAG: intelligenzaartificiale, ai, chatgpt, claude, todolist
+TOPIC: Un tool gratuito per creare liste di task con l'aiuto dell'intelligenza artificiale
+
+--- HOOK TESTUALE (dal frame) ---
+Scusa Matteo, ma non mi sembra possibile che la to-do-list utilizzi le API di Claude, le task Al sono dei template predefiniti. O forse mi è sfuggito qualcosa, o non ho capito io
+
+--- DESCRIZIONE VISIVA ---
+Un uomo con la maglietta bianca, seduto davanti ad uno sfondo grigio, guarda verso la telecamera con un'espressione pensierosa. La sua mano destra è alzata verso l'alto, come se stesse facendo una domanda o sottolineando un punto. Sullo sfondo compare un commento di un utente su Instagram
+
+--- CAPTION COMPLETA ---
+Il link è questo:
+
+prima di tutto 👉 clicca segui @themattvision 
+
+E se vuoi usarlo eccolo:
+matteozampieri.com/lista-con-ia
+
+In pratica tu gli dici le cose da fare e lui di crea tutta la lista, devo dire comodissimo!
+
+Io sono il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video!
+
+#intelligenzaartificiale #risparmiare #ai #chatgpt #claude #todolist
+
+--- TRASCRIZIONE AUDIO ---
+Hai capito? C'è la rivoluzione, è proprio questa. Se io adesso attivo la dittatura e dico, devo comprare il pane, devo andare da mangiare al gatto, andare da mia nonna, andare dal medico, comprare le cuffie nuove, regalare delle airpods a qualcuno e rubare le forbici, clicco genera task, lui in automatico adesso mi creerà tutto, guarda un po', sta generando, guarda va, comprare il pane, comprare il cibo per gatto, andare a trovare la nonna, è veramente comodissima eh adesso comunque per provarla andate in questo link qua ma comunque vi faccio vedere questo codice voi scansionate questo e potete andarci valla a provare che è completamente gratuita poi fammi sapere se funziona anche per te

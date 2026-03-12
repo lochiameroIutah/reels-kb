@@ -8,6 +8,7 @@ ORA: 12:41
 --- METRICHE ---
 LIKE: 342
 COMMENTI: 31
+VISUALIZZAZIONI: 0
 DURATA VIDEO: 71 secondi
 CARATTERI CAPTION: 1373
 HASHTAG: #capcut #intelligenzaartificiale #ia #transizioni #contentcreator

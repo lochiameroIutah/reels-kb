@@ -8,6 +8,7 @@ ORA: 17:36
 --- METRICHE ---
 LIKE: 41
 COMMENTI: 4
+VISUALIZZAZIONI: 0
 DURATA VIDEO: 55 secondi
 CARATTERI CAPTION: 134
 HASHTAG: #intelligenzaartificiale #trascrizione #tutorial #ia #macos

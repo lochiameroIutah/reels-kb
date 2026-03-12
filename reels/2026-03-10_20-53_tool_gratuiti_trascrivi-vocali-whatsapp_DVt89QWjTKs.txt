@@ -8,6 +8,7 @@ ORA: 20:53
 --- METRICHE ---
 LIKE: 71
 COMMENTI: 99
+VISUALIZZAZIONI: 0
 DURATA VIDEO: 49 secondi
 CARATTERI CAPTION: 826
 HASHTAG: #intelligenzaartificiale #vibecoding #trascriviaudio #ia #whatsapp

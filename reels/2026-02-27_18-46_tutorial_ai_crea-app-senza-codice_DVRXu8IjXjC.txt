@@ -8,6 +8,7 @@ ORA: 18:46
 --- METRICHE ---
 LIKE: 43
 COMMENTI: 21
+VISUALIZZAZIONI: 0
 DURATA VIDEO: 57 secondi
 CARATTERI CAPTION: 567
 HASHTAG: #vibecoding #intelligenzaartificiale #risparmiare #ai #chatgpt

@@ -8,6 +8,7 @@ ORA: 02:14
 --- METRICHE ---
 LIKE: 3414
 COMMENTI: 353
+VISUALIZZAZIONI: 0
 DURATA VIDEO: 178 secondi
 CARATTERI CAPTION: 964
 HASHTAG: #intelligenzaartificiale #higgsfield #cinemastudio #aivideo #tutorial

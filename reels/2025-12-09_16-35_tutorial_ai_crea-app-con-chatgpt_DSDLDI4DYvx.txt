@@ -1,0 +1,43 @@
+POST ID: 17846075535620397
+IG ID: 3783916706121747441
+SHORTCODE: DSDLDI4DYvx
+PERMALINK: https://www.instagram.com/reel/DSDLDI4DYvx/
+DATA: 2025-12-09
+ORA: 16:35
+
+--- METRICHE ---
+LIKE: 318
+COMMENTI: 14
+DURATA VIDEO: 61 secondi
+CARATTERI CAPTION: 509
+HASHTAG: #risparmiare #chatgpt #codex #vibecoding #intelligenzaartificiale
+
+--- FLAGS ---
+CTA COMMENTO: no
+CTA FOLLOW: no
+LINK IN CAPTION: sì (link presente)
+
+--- CATEGORIA ---
+CATEGORIA: tutorial_ai
+TAG: chatgpt, codex, intelligenza artificiale
+TOPIC: Il video mostra come utilizzare ChatGPT per creare applicazioni gratuite
+
+--- HOOK TESTUALE (dal frame) ---
+Da oggi ChatGPT ti fa creare le tue App COMPLETE per iPhone e Android
+
+--- DESCRIZIONE VISIVA ---
+Un uomo con capelli castani corti e un maglione grigio scuro, sembra parlare direttamente alla telecamera, con una mano alzata. Sullo sfondo si intravedono una parete grigia, un infisso in legno marrone e un vetro
+
+--- CAPTION COMPLETA ---
+Qui trovi il link di ChatGPT Codex anche se si trova dentro al tuo ChatGPT: https://chatgpt.com/it-IT/features/codex/
+
+Si da oggi ChatGPT ci fa creare App completamente gratis e dovevo assolutamente farci un video! 
+
+Se invece vuoi vedere meglio come metterlo dentro a qualsiasi app per creare applicazioni va su questo sito: https://developers.openai.com/codex/ide/
+
+Io sono il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video!
+
+#risparmiare #chatgpt #codex #vibecoding #intelligenzaartificiale
+
+--- TRASCRIZIONE AUDIO ---
+Non so se lo sai ma CiaGPT adesso ti permette di creare applicazioni direttamente con lo stesso abbonamento che stai pagando. Infatti questa qua è la mia applicazione con l'intelligenza artificiale. Ma come fare? Per fortuna c'è il tuo smalettone di fiducia pronto qui a darti una mano. Guarda qua adesso abbiamo Codex che se noi lo clicchiamo possiamo andare in questa pagina. Vedete quale codice dovremmo scrivere adesso? Appunto scrive codice al posto nostro. Ma la cosa più interessante è usare questo programmino qua. Andare sull'estensione scrivere Codex. Comparirà a Codex il programmino di chat GPT e cliccate appunto su install Una volta che l'avete installato ve lo ritroverete appunto qua vedete in basso a sinistra Lo cliccate e ci avete chat GPT però dedicato a creare le vostre applicazioni In questo caso io sto costruendo un'app tipo chat GPT un clone Infatti adesso gli abbiamo detto saluta chi sta guardando questo video ed è qui che ti risponde tranquillamente Questa cosa è compresa nel vostro abbonamento di chat GPT quindi andatela a utilizzare Io sono il tuo smanettone di fiducia Noi ci vediamo ad un prossimo video Ricordati di seguirmi se ancora non l'hai fatto

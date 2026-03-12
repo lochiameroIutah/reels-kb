@@ -1,0 +1,37 @@
+POST ID: 17890113216351275
+IG ID: 3731991719165082016
+SHORTCODE: DPKsrIViLmg
+PERMALINK: https://www.instagram.com/reel/DPKsrIViLmg/
+DATA: 2025-09-29
+ORA: 01:09
+
+--- METRICHE ---
+LIKE: 47
+COMMENTI: 0
+DURATA VIDEO: 12 secondi
+CARATTERI CAPTION: 34
+HASHTAG: #motivation
+
+--- FLAGS ---
+CTA COMMENTO: no
+CTA FOLLOW: no
+LINK IN CAPTION: no
+
+--- CATEGORIA ---
+CATEGORIA: personale
+TAG: motivazione, ispirazione
+TOPIC: Incontro con una leggenda
+
+--- HOOK TESTUALE (dal frame) ---
+bro what you
+
+--- DESCRIZIONE VISIVA ---
+Un primo piano di una persona con una espressione confusa e un po' sfocata, con altri elementi non definiti sullo sfondo
+
+--- CAPTION COMPLETA ---
+Just met this legend 
+
+#motivation
+
+--- TRASCRIZIONE AUDIO ---
+So, come hai detto? B e D, B è nato, D è morto, C è morto, e è C. E questo è il tuo choice.

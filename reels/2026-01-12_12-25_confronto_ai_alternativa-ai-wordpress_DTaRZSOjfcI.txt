@@ -1,0 +1,47 @@
+POST ID: undefined
+IG ID: undefined
+SHORTCODE: DTaRZSOjfcI
+PERMALINK: undefined
+DATA: 2026-01-12
+ORA: 12:25
+
+--- METRICHE ---
+LIKE: 9
+COMMENTI: 0
+DURATA VIDEO: 66 secondi
+CARATTERI CAPTION: 681
+HASHTAG: #intelligenzaartificiale #wordpress #tutorial #vibecoding #sfogo
+
+--- FLAGS ---
+CTA COMMENTO: no
+CTA FOLLOW: sì
+LINK IN CAPTION: no
+
+--- CATEGORIA ---
+CATEGORIA: confronto_ai
+TAG: wordpress, intelligenza artificiale, sviluppo web
+TOPIC: Il motivo per cui non ha senso usare WordPress per creare il tuo sito web nel 2026 e come l'intelligenza artificiale può essere una soluzione migliore
+
+--- HOOK TESTUALE (dal frame) ---
+Ecco per quale motivo devi usare l'intelligenza artificiale per creare il tuo sito web
+
+--- DESCRIZIONE VISIVA ---
+Un uomo con capelli castani e una felpa rosa è visibile in una cucina moderna con frigorifero e fornelli. Indossa una felpa con un cordoncino nero intorno al collo. La sua mano destra è alzata con le dita aperte. Sullo sfondo, un grande lampadario circolare è visibile.
+
+--- CAPTION COMPLETA ---
+Ecco il motivo principale per cui non ha senso usare WordPress per creare il tuo sito web nel 2026, ma ha senso usare l’intelligenza artificiale.
+
+Prima di tutto 👉 clicca segui @themattvision 
+
+Io credevo che WordPress potesse essere la soluzione migliore ancora oggi, ma invece mi sbagliavo.
+
+Con l’intelligenza artificiale fai tutto molto velocemente, raggiungendo livelli inimmaginabili. Per questo motivo in molti sono scenttici, non la usano e non la conoscono.
+
+Se ti sono stato utile 👉 clicca segui @themattvision 
+
+Io sono Matteo Zampieri il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video!
+
+#intelligenzaartificiale #wordpress #tutorial #vibecoding #sfogo
+
+--- TRASCRIZIONE AUDIO ---
+La differenza sostanziale è che se il sito è fatto direttamente a codice, l'intelligenza artificiale guarda le cartelle, guarda i file, vuoi creare una nuova pagina? Perfetto, lui tac tac tac te la crea. Vuoi migliorare l'estetica? Vuoi migliorare l'interfaccia, l'esperienza utente? Glielo dici e lui lo fa. Senza battere ciglio con WordPress devi cliccare, spostare. Problemi con il tema? Ci sono problemi con i plugin che gestiscono le API per la registrazione con FluentCRM? Mille problemi. Siamo nel 2026, se il mio sito fosse stato fatto a codice, avrei potuto andare da un CiaGPT, Gemini, Cloud, Cloud Code, Antigravity, Gemini, Klee. Avrei potuto chiedergli, creami questa paginetta che mette questi contenuti, che chiede l'email, con queste immagini e così via. Invece no, perché ho utilizzato WordPress quella volta. Sapete, no, si dice sempre, la nuova tecnologia sarà sempre meno testata di quella vecchia e quindi anche quella meno stabile, no? Questa è la nostra mentalità da umano. Per l'intelligenza artificiale questo è il contrario perché abbiamo raggiunto dei livelli inimmaginabili. Quindi ricordiamoci l'AI, se ci piace o no, è il futuro e non si scappa.

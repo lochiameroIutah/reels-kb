@@ -8,6 +8,7 @@ ORA: 16:30
 --- METRICHE ---
 LIKE: 35
 COMMENTI: 32
+VISUALIZZAZIONI: 0
 DURATA VIDEO: 98 secondi
 CARATTERI CAPTION: 242
 HASHTAG: #intelligenzaartificiale #risparmiare #ia #ai #trascriviaudio

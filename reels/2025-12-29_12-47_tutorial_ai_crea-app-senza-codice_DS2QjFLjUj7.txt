@@ -1,0 +1,67 @@
+POST ID: 18120715783483791
+IG ID: 3798296115221973243
+SHORTCODE: DS2QjFLjUj7
+PERMALINK: https://www.instagram.com/reel/DS2QjFLjUj7/
+DATA: 2025-12-29
+ORA: 12:47
+
+--- METRICHE ---
+LIKE: 5
+COMMENTI: 0
+DURATA VIDEO: 59 secondi
+CARATTERI CAPTION: 1293
+HASHTAG: #vibecoding #nocode #intelligenzaartificiale #tutorial #risparmiare
+
+--- FLAGS ---
+CTA COMMENTO: no
+CTA FOLLOW: sì
+LINK IN CAPTION: no
+
+--- CATEGORIA ---
+CATEGORIA: tutorial_ai
+TAG: intelligenza artificiale, nocode, vibecoding
+TOPIC: Creare applicazioni con l'intelligenza artificiale senza conoscenze di programmazione
+
+--- HOOK TESTUALE (dal frame) ---
+POV: sono le 5:30 di mattina
+
+--- DESCRIZIONE VISIVA ---
+Una mano scura preme il pulsante di un interfaccia utente su uno schermo, probabilmente un prototipo di un'applicazione, con il nome 'Matteo' in rosso. Lo sfondo sembra essere una foresta o un ambiente naturale.
+
+--- CAPTION COMPLETA ---
+Adesso ti spiego come ho fatto.
+
+Io sono ancora senza parole perché già da oggi è possibile creare applicazioni con l’intelligenza artificiale senza fare nulla se non chiedendo quello che vuoi.
+
+⤵️Mini guida, passo per passo.
+
+1. Parti con ChatGPT per chiarire l’idea e capire cosa vuoi creare a livello strutturale.
+
+2. Claude.ai Per creare un prima bozza estetica e avere una direzione visiva.
+
+Se ti sono stato utile, clicca segui.
+
+3. Solo adesso usa Antigravity per costruire la base: dati, logica e funzionamento minimo dell’app.
+
+4. dirgli React Native + Expo Go su Antigravity per partire subito con un’app Android e iOS.
+
+5. Claude Code usalo quindi per fare il grosso dell’estetica e dell’esperienza utente.
+
+6. Quind usa Codex di ChatGPT per rifinire dettagli, logica e piccoli miglioramenti.
+
+7. A quel punto in loop vai di iterazione continua
+Con Claude Code per le parti grandi, Codex per rifinire.
+
+8. Ah si usa GitHub per caricare il codice e salvare le versioni funzionanti, anche se non sei pratico.
+
+9. Se ha bisogno Scrivimi in privato.
+
+Se funziona vai avanti.
+Se non funziona hai speso poco e hai imparato tantissimo.
+
+Io sono Matteo Zampieri il tuo smanettone di fiducia, ci vediamo al prossimo video.
+
+#vibecoding #nocode #intelligenzaartificiale #tutorial #risparmiare
+
+--- TRASCRIZIONE AUDIO ---
+Cioè tu non hai capito però perché sono anni che volevo creare questa applicazione, l'avevo disegnata e adesso con l'intelligenza artificiale in un attimo l'ho ricreata in un'oretta praticamente. Questa roba la puoi fare anche te. Lui gli ho solamente detto che cosa volevo fare e lui l'ha creata per me. Quanto mi gasa sentirmi libero di poter creare quello che più mi piace. Guarda qua sono le 5 di mattina. Quando 5 anni fa ho ideato quest'idea qua, ho detto boh la disegno intanto, la farò nella mia vita. Poi è arrivata l'intelligenza artificiale che mi ha dato la possibilità di crearla. Una volta se avevi un'idea potevi realizzarla solamente se eri un programmatore o uno con tanti soldi. Oggi con l'intelligenza artificiale puoi crearla da zero senza alcuna competenza e senza soldi. Poi se lavori avrà, ci metterei un pochino di più tempo però. Cioè di cosa stiamo parlando? Qui sopra la dissolvenza Poi ho messo che scorre Siamo letteralmente nel futuro

@@ -8,6 +8,7 @@ ORA: 14:21
 --- METRICHE ---
 LIKE: 3281
 COMMENTI: 898
+VISUALIZZAZIONI: 0
 DURATA VIDEO: 19 secondi
 CARATTERI CAPTION: 965
 HASHTAG: #intelligenzaartificiale #higgsfield #motioncontrol #risparmiare #tutorial

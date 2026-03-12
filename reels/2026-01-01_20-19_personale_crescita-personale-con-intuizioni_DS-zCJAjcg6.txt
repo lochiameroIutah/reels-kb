@@ -8,6 +8,7 @@ ORA: 20:19
 --- METRICHE ---
 LIKE: 1
 COMMENTI: 0
+VISUALIZZAZIONI: 0
 DURATA VIDEO: 80 secondi
 CARATTERI CAPTION: 1023
 HASHTAG: #risparmiare #psicologo #buonipropositi #crescitapersonale #crescitasuinstagram

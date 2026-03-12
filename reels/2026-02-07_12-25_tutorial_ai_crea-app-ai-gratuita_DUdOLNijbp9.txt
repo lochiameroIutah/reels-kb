@@ -1,0 +1,55 @@
+POST ID: undefined
+IG ID: undefined
+SHORTCODE: DUdOLNijbp9
+PERMALINK: undefined
+DATA: 2026-02-07
+ORA: 12:25
+
+--- METRICHE ---
+LIKE: 29
+COMMENTI: 12
+DURATA VIDEO: 49 secondi
+CARATTERI CAPTION: 938
+HASHTAG: #vibecoding #intelligenzaartificiale #iosapp #tutorial #ia
+
+--- FLAGS ---
+CTA COMMENTO: no
+CTA FOLLOW: sì
+LINK IN CAPTION: no
+
+--- CATEGORIA ---
+CATEGORIA: tutorial_ai
+TAG: intelligenza artificiale, ios app, vibe coding
+TOPIC: Creazione di un'app iOS con intelligenza artificiale per rimuovere loghi e watermark dalle foto
+
+--- HOOK TESTUALE (dal frame) ---
+Questa app completamente gratuita rimuove quello che vuoi dalle foto e l'ho creata in 2 giorni usando solo l'intelligenza artificiale
+
+--- DESCRIZIONE VISIVA ---
+Un uomo con una giacca grigia e una felpa bianca è seduto dentro un'auto. Lui parla nella direzione della telecamera e tiene una mano alzata con tre dita tese. Sullo sfondo, si vede il tetto dell'auto e un finestrino laterale aperto.
+
+--- CAPTION COMPLETA ---
+Ho creato un’App iOS in 2 giorni con l’intelligenza artificiale 🤯
+
+Prima di tutto 👉 clicca segui @themattvision
+
+Ero stufo di quel fastidioso logo in basso a destra nelle foto generate con l’AI, quindi cosa ho fatto?
+
+Ho creato un’applicazione iOS che usa l’intelligenza artificiale in locale per rimuovere loghi, watermark, persone indesiderate, qualsiasi elemento dalle foto, tutto in un attimo, semplice e immediato.
+
+La cosa pazzesca? L’ho creata in soli 2 giorni usando SOLO intelligenza artificiale, zero righe di codice scritte a mano. 
+
+Questo è il Vibe Coding 🚀
+
+Prima servivano mesi di studio e migliaia di euro in sviluppatori, oggi descrivi cosa vuoi e l’AI crea tutto per te.
+
+La prossima potrebbe essere la TUA 💡
+
+Se ti sono stato utile 👉 clicca segui @themattvision
+
+Io sono Matteo Zampieri, il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video!
+
+#vibecoding #intelligenzaartificiale #iosapp #tutorial #ia
+
+--- TRASCRIZIONE AUDIO ---
+Allora mi sono appena svegliato ma sono ando subito in palestra perché ieri sera ho fatto le 5 di mattina, sono un pazzo fulminato male. Io mi ero stufato completamente di ogni volta sto cazzo di loghetto in basso a destra, veramente che palle. Allora cosa ho fatto? Sono andato a creare un'applicazione con l'intelligenza artificiale che sfrutta l'intelligenza artificiale in locale per andare a rimuovere facilmente quel logo ma eventualmente puoi rimuovere qualsiasi cosa. In un attimo rimuovi i loghi, eventualmente le persone, semplice e immediata Devo essere sincero, sono super soddisfatto, anzi guardate quando si apre l'applicazione che c'è questa super anteprima carina Fatta con l'intelligenza artificiale, siamo utilizzati Higgspild, quello di cui vi parlavo l'altro giorno Che ha appena pubblicato il Vibe Motion, veramente tantissima roba Adesso vado in palestra, ci vediamo dopo

@@ -1,0 +1,65 @@
+POST ID: 18091226419834759
+IG ID: 3732604781773798554
+SHORTCODE: DPM4EXYjTya
+PERMALINK: https://www.instagram.com/reel/DPM4EXYjTya/
+DATA: 2025-09-29
+ORA: 21:26
+
+--- METRICHE ---
+LIKE: 635
+COMMENTI: 45
+DURATA VIDEO: 54 secondi
+CARATTERI CAPTION: 1240
+HASHTAG: #intelligenzaartificiale #risparmiare #ai #chatgpt #chatgpthacks
+
+--- FLAGS ---
+CTA COMMENTO: sì
+CTA FOLLOW: sì
+LINK IN CAPTION: no
+
+--- CATEGORIA ---
+CATEGORIA: tutorial_ai
+TAG: intelligenzaartificiale, chatgpt, risoluzione_problemi
+TOPIC: Risolvere problemi di anteprime immagini con ChatGPT
+
+--- HOOK TESTUALE (dal frame) ---
+Hai un problema ne computer e vuoi sistemarlo? Fai questo
+
+--- DESCRIZIONE VISIVA ---
+Un giovane uomo con capelli castani e una maglietta beige si riprende in un selfie mentre parla alla telecamera. Sullo sfondo, una parete bianca e un ripiano.
+
+--- CAPTION COMPLETA ---
+E poi fai anche questo:
+
+prima di tutto 👉 clicca segui @themattvision
+
+(In basso c’è un regalino)
+
+1. Fai lo screenshot del problema (ad esempio la schermata senza anteprime)
+
+2. Vai su ChatGPT, incolla lo screenshot e scrivigli questo: “Dammi un unico comando da eseguire nel terminale con privilegi di amministratore per risolvere questo problema”
+
+3. Copia il codice o il comando che ChatGPT ti dà
+
+4. Cerca il Terminale e aprilo (tasto destro ➜ esegui come amministratore)
+
+5. Incolla il codice nel Terminale e premi invio
+
+👀 Se non funziona al primo tentativo fai questo:
+
+Ma intanto se ti sono utile 👉 clicca segui @themattvision 
+
+Fai lo screenshot del terminale ulteriore oppure copia il testo che ti ha dato il terminale se ti da un errore e incollalo su ChatGPT nella stessa conversazione.
+
+Non scrivere niente a ChatGPT: Mandandgli solo lo screen o il testo dell errore l’intelligenza artificiale capirà da sola il problema e ti dirà come risolverlo
+
+In un attimo avrai risolto!
+
+Io sono il tuo smanettone di fiducia, ci vediamo al prossimo video 🚀
+
+Regalino: Ti mando la guida scritta per bene se commenti questo video con SASSO o me lo scrivi per messaggio 
+
+#intelligenzaartificiale #risparmiare #ai #chatgpt #chatgpthacks
+
+--- TRASCRIZIONE AUDIO ---
+Non so se lo sai ma quando è un problema nel computer risolverlo è impossibile. Cioè prova te a risolverti un problema da solo, non ce la fai. Infatti non si vedono le anteprime delle immagini in questo computer e non c'è modo di mostrarle. Per questo motivo c'è il tuo smalitone di fiducia e adesso vediamo come fare. Andiamo su chat GPT, facciamo uno screenshot e adesso abbiamo lo screenshot quindi clicchiamo su copia. E andiamo qui e facciamo incolla. Quindi diciamo gli scusa ma perché non vedo l'anteprime delle immagini? Guarda lo screen, lui ci ha risposto. A quel punto noi gli diciamo aiutami da terminale così faccio copia e incolla Vi darà qualcosa di questo tipo cliccate su copia codice Cliccate in basso e cercate terminale Andate a fare qui tasto destro esegui come amministratore Incollate quello che vi ha dato E in un attimo si vedono tutte perfettamente da dio Ora il problema è sistemato e la prossima volta saprai come fare Io sono Matteo Zampiri il tuo smanettone di fiducia e noi ci vediamo ad un prossimo video

@@ -8,6 +8,7 @@ ORA: 21:06
 --- METRICHE ---
 LIKE: 35
 COMMENTI: 0
+VISUALIZZAZIONI: 0
 DURATA VIDEO: 116 secondi
 CARATTERI CAPTION: 104
 HASHTAG: #pokemoncommunity #pokemon #intelligenzaartificiale

@@ -8,6 +8,7 @@ ORA: 21:02
 --- METRICHE ---
 LIKE: 91
 COMMENTI: 49
+VISUALIZZAZIONI: 0
 DURATA VIDEO: 47 secondi
 CARATTERI CAPTION: 748
 HASHTAG: #apple #macbook #risparmiare #tecnologia #intelligenzaartificiale

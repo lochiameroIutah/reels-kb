@@ -1,0 +1,41 @@
+POST ID: undefined
+IG ID: undefined
+SHORTCODE: DTdkJaFDXuY
+PERMALINK: undefined
+DATA: 2026-01-13
+ORA: 19:06
+
+--- METRICHE ---
+LIKE: 563
+COMMENTI: 7
+DURATA VIDEO: 50 secondi
+CARATTERI CAPTION: 464
+HASHTAG: #applecreatorstudio #intelligenzaartificiale #tutorial #ia
+
+--- FLAGS ---
+CTA COMMENTO: no
+CTA FOLLOW: no
+LINK IN CAPTION: no
+
+--- CATEGORIA ---
+CATEGORIA: news_ai
+TAG: apple, intelligenza artificiale, creator studio
+TOPIC: Apple lancia Creator Studio con intelligenza artificiale integrata
+
+--- HOOK TESTUALE (dal frame) ---
+Apple ha appena lanciato Apple Creator Studio è qui e le nuove App avranno anche l'intelligenza artificiale integrata
+
+--- DESCRIZIONE VISIVA ---
+Una mano destra poggiata su uno schermo di un Macbook, con la tastiera in primo piano e un altro schermo in secondo piano con un gioco sullo sfondo.
+
+--- CAPTION COMPLETA ---
+Finalmente Apple ha appena lanciato Apple Creator Studio dove rinnova tutte le sue applicazioni al Liquid Glass integrando anche l’intelligenza artificiale!
+
+Preferivate le vecchie versioni? Io spero davvero questo sia il più grande cambiamento della storia degli strumenti creativi dopo anni di buio! @apple 
+
+Io sono Matteo Zampieri il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video 🚀 
+
+#applecreatorstudio #intelligenzaartificiale #tutorial #ia
+
+--- TRASCRIZIONE AUDIO ---
+Ok Apple ha droppato Creator Studio, finalmente ha rinnovato tutte le sue applicazioni appunto sfruttando anche l'intelligenza artificiale, ci sarà l'intelligenza artificiale dentro Logic Pro, dentro Final Cut Pro che è figata, poi ci sarà anche Pixelmator che è un'azienda che si è comprata a Apple tanto tempo fa, avete visto diceva PromptIt perché ci sarà anche l'intelligenza artificiale che oggi Apple ha confermato aver fatto la collaborazione con Google con Gemini Che figata con abbonamento ovviamente mensile hai tutte queste applicazioni Praticamente avete l'imbalazzo della scelta Potete disegnare, dipingere, fare musica, fare video Potremmo dire che è un nuovo competitor di Adobe C'è poco da fare, finiremo per pagare anche questo abbonamento Io sono Matteo Zampiri, il tuo smanettone di fiducia Noi ci vediamo in un prossimo video Ricordati di seguirmi se ancora non l'hai fatto

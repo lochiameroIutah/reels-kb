@@ -1,0 +1,49 @@
+POST ID: undefined
+IG ID: undefined
+SHORTCODE: DQeO8w3jQmQ
+PERMALINK: undefined
+DATA: 2025-10-31
+ORA: 11:46
+
+--- METRICHE ---
+LIKE: 11
+COMMENTI: 19
+DURATA VIDEO: 15 secondi
+CARATTERI CAPTION: 589
+HASHTAG: #intelligenzaartificiale #sora2 #risparmiare #chatgpt #ia
+
+--- FLAGS ---
+CTA COMMENTO: no
+CTA FOLLOW: no
+LINK IN CAPTION: no
+
+--- CATEGORIA ---
+CATEGORIA: tutorial_ai
+TAG: intelligenzaartificiale, sora, chatgpt
+TOPIC: Il video spiega come accedere al nuovo social network Sora, creato dalla stessa azienda di ChatGPT, che consente di pubblicare video creati con l'intelligenza artificiale
+
+--- HOOK TESTUALE (dal frame) ---
+Quest'App ti fa creare video con intelligenza artificiale GRATIS Te lo mando se mi scrivi un messaggio con scritto SORA Sto esportando questo video dove vi spiego come avere il nuovo social
+
+--- DESCRIZIONE VISIVA ---
+Uno screenshot di un video editing software su un laptop, con una finestra popup che mostra una persona. Sembra che l'utente stia creando un video con un'app di intelligenza artificiale.
+
+--- CAPTION COMPLETA ---
+Scrivimi SORA per messaggio privato e te lo mando 
+
+Questo è il nuovo social network che ha creato la stessa azienda che ha creato ChatGPT 
+
+si chiama Sora e si possono pubblicare solamente video creati con l’intelligenza artificiale
+
+Per questo motivo, ti danno la possibilità di creare 10 video al giorno gratis
+
+Non è ancora arrivato in Italia, ma c’è un metodo per averla lo stesso
+
+Scrivimi un messaggio con la parola SORA e ti mando la video guida 
+
+io sono il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video!
+
+#intelligenzaartificiale #sora2 #risparmiare #chatgpt #ia
+
+--- TRASCRIZIONE AUDIO ---
+Ragazzi sto esportando questo video dove vi spiego come avere il nuovo social network di ChatGPT che non è ancora disponibile in Italia, che vi permette di generare video con l'intelligenza artificiale completamente gratuito, vi aggiornano appena esce, non vedo l'ora di farvelo vedere.

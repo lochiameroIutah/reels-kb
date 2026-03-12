@@ -1,0 +1,49 @@
+POST ID: undefined
+IG ID: undefined
+SHORTCODE: DU_RA5gDYgL
+PERMALINK: undefined
+DATA: 2026-02-20
+ORA: 17:46
+
+--- METRICHE ---
+LIKE: 78
+COMMENTI: 5
+DURATA VIDEO: 69 secondi
+CARATTERI CAPTION: 535
+HASHTAG: #intelligenzaartificiale #claude #ai #vibecoding #claudeai
+
+--- FLAGS ---
+CTA COMMENTO: no
+CTA FOLLOW: sì
+LINK IN CAPTION: sì (link presente)
+
+--- CATEGORIA ---
+CATEGORIA: news_ai
+TAG: intelligenza artificiale, claude, ai
+TOPIC: Claude 4.6 costruisce un compilatore C da zero in due settimane
+
+--- HOOK TESTUALE (dal frame) ---
+LO SO CHE
+
+--- DESCRIZIONE VISIVA ---
+Un uomo con un cappuccio grigio parla direttamente alla telecamera.
+
+--- CAPTION COMPLETA ---
+Ecco il link:
+
+Prima di tutto 👉 clicca segui @themattvision
+
+Claude 4.6 ha costruito un compilatore C da zero capace di compilare il kernel di Linux, in due settimane con 20.000 dollari.
+
+Un team umano ci avrebbe messo un anno e un milione di euro.
+
+Il link per leggere tutto è questo: https://www.anthropic.com/engineering/building-c-compiler
+
+Se ti sono stato utile 👉 clicca segui @themattvision
+
+Io sono il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video!
+
+#intelligenzaartificiale #claude #ai #vibecoding #claudeai
+
+--- TRASCRIZIONE AUDIO ---
+Lo so che non è interessante come signorini che viene incastrato da corona, però ti ricordi che è uscito Cloud 4.5 che ti fa fare le applicazioni pazzesche? No? Non te lo ricordi? Beh vabbè non importa perché è uscito il 4.6. Vabbè dal 4.5 al 4.6 cosa vuoi che sia successo? Beh qua a destra lo faccio vedere. Per dimostrarne la potenza l'hanno messo a fare un programma che mette in piedi un sistema operativo completo. E lui è andato avanti per due settimane e ce l'ha fatta. Ci hanno messo solamente 20.000 euro e ci hanno messo due settimane Noi umani se avessimo voluto fare la stessa identica cosa ci avremmo messo un anno con un milione di euro Siamo nel futuro, non c'è niente da fare, è palese È solamente che tu indossi come me la stessa felpa di ieri e quindi giustamente dici No io non sono nel futuro, sono nel presente Sì, perché l'intelligenza artificiale è l'attuale presente E bisogna stare attenti perché tutta sta roba ci stanno cacciando un sacco di soldi noi rischiamo di rimanere indietro e non essere pronti per lavorare ma anche per essere al passo con il resto del pianeta se vuoi documentarti ti lascio il link in descrizione io sono Matteo Zampieri, il tuo smanettone di fiducia è tu seguimi perché il 99% dei casi non lo stai facendo e sono certo troverai solo cose utili nel mio profilo

@@ -8,6 +8,7 @@ ORA: 10:33
 --- METRICHE ---
 LIKE: 320
 COMMENTI: 281
+VISUALIZZAZIONI: 0
 DURATA VIDEO: 17 secondi
 CARATTERI CAPTION: 960
 HASHTAG: #intelligenzaartificiale #beeble #aivideo #tutorial #risparmiare

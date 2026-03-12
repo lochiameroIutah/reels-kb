@@ -1,0 +1,41 @@
+POST ID: undefined
+IG ID: undefined
+SHORTCODE: DTTP-w9jVKz
+PERMALINK: undefined
+DATA: 2026-01-09
+ORA: 18:57
+
+--- METRICHE ---
+LIKE: 3
+COMMENTI: 0
+DURATA VIDEO: 31 secondi
+CARATTERI CAPTION: 379
+HASHTAG: #wordpress #sfogo #intelligenzaartificiale #tutorial
+
+--- FLAGS ---
+CTA COMMENTO: no
+CTA FOLLOW: no
+LINK IN CAPTION: no
+
+--- CATEGORIA ---
+CATEGORIA: personale
+TAG: wordpress, intelligenza-artificiale, sfogo
+TOPIC: Il creatore di contenuti esprime la sua frustrazione nei confronti di WordPress
+
+--- HOOK TESTUALE (dal frame) ---
+Scusate lo sfogo ma non ne posso più mi sento estremamente limitato
+
+--- DESCRIZIONE VISIVA ---
+Un uomo con una maglia rosa è in una cucina, con una mano alzata e un'espressione di frustrazione. Sullo sfondo si vede un frigorifero e un forno.
+
+--- CAPTION COMPLETA ---
+Sinceramente non ne posso più. L’intelligenza artificiale dovrebbe essere dentro ad ogni sito web e WordPress non fa niente per adattarsi.
+
+Odio WordPress e sinceramente vorrei sapere se lo odio solo io o c’è qualcun altro come me che non ne può più!
+
+Io sono tuo smanettone di fiducia, noi ci vediamo ad un prossimo video 
+
+#wordpress #sfogo #intelligenzaartificiale #tutorial ￼
+
+--- TRASCRIZIONE AUDIO ---
+Io odio, detesto WordPress. Ditemi, cioè, detesti WordPress? Io ho fatto il sito in WordPress ancora tipo un po' di tempo fa, perché ho detto, no dai, l'intelligenza artificiale non sarà mai comoda come WordPress, che è un ecosistema grande. Ragazzi, Wordpress fa cagare Chi usa Wordpress ad oggi? Semplicemente è come una banca Che non ha ancora i sistemi aggiornati Perché è una banca vecchia Odio Wordpress Con la O enorme

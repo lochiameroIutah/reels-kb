@@ -8,6 +8,7 @@ ORA: 13:56
 --- METRICHE ---
 LIKE: 1017
 COMMENTI: 18
+VISUALIZZAZIONI: 0
 DURATA VIDEO: 49 secondi
 CARATTERI CAPTION: 1043
 HASHTAG: #intelligenzaartificiale #claudeai #motiondesign #animazione #ai

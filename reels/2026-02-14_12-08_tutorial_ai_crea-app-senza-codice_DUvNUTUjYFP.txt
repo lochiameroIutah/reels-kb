@@ -1,0 +1,63 @@
+POST ID: undefined
+IG ID: undefined
+SHORTCODE: DUvNUTUjYFP
+PERMALINK: undefined
+DATA: 2026-02-14
+ORA: 12:08
+
+--- METRICHE ---
+LIKE: 1808
+COMMENTI: 865
+DURATA VIDEO: 74 secondi
+CARATTERI CAPTION: 758
+HASHTAG: #adv #verdent #verdentai #aicoding #intelligenzaartificiale
+
+--- FLAGS ---
+CTA COMMENTO: sì
+CTA FOLLOW: sì
+LINK IN CAPTION: no
+
+--- CATEGORIA ---
+CATEGORIA: tutorial_ai
+TAG: VerdentAI, AIcoding, intelligenzaartificiale
+TOPIC: Creare un'app per iPhone e Android senza codice con Verdent AI
+
+--- HOOK TESTUALE (dal frame) ---
+Questa IA ti crea le App per iPhone e Android ma lo fa con stile
+
+--- DESCRIZIONE VISIVA ---
+Un uomo con una felpa rosa e un microfono intorno al collo, parla verso la telecamera con una mano alzata
+
+--- CAPTION COMPLETA ---
+Inizia facendo questo:
+
+Prima di tutto 👉 clicca segui @themattvision
+
+1. Vai su Verdent AI
+
+(Se vuoi ti mando il link se scrivi VERDENT tra i commenti 🔗)
+
+2. Incolla la descrizione della tua app
+
+es. “un clone di Duolingo per far scoprire la natura ai bambini”
+
+(se vuoi creare un’app per telefono, specificalo nel testo!)
+
+3. Clicca su Agent → poi su Plan e invia
+
+4. Leggi il piano che ti crea e clicca Build
+
+5. In pochi minuti la tua app si apre direttamente nell’emulatore ufficiale Apple 🍎
+
+Zero terminale. Zero codice. Zero mal di testa.
+
+Se ti sono stato utile 👉 clicca segui @themattvision
+
+Io sono il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video!
+
+cc: @verdent__ai 
+
+#adv #Verdent #VerdentAI #AIcoding #intelligenzaartificiale
+
+--- TRASCRIZIONE AUDIO ---
+Non so se lo sai ma usare l'intelligenza artificiale per creare un'app per iPhone, Android, ad oggi senza essere smanettone è praticamente impossibile. Cioè te prova ad andare da CiaGPT a fartela creare, non ce la fai. Infatti io gli ho chiesto di crearmi un'app a CiaGPT, mi ha creato questa robetta qua, qui mi dice un sacco di cose che devo fare. Esegui questi comandi dal terminale, per questo motivo c'è il tuo smanettone di fiducia, adesso vediamo come fare. Andiamo nel nostro Verdant AI, incogliamo il testo, in questo caso un clone di Duolingo per far scoprire la natura ai bambini. Clicchiamo su Agent, facciamo Plan prima di tutto e a questo punto facciamo Invia. Questo è tutto il piano dell'applicazione e andiamo quindi a cliccare Build. D'ora in poi sarai in grado di creare le tue applicazioni direttamente per telefono, guarda qua. Ecco qui la nostra applicazione che si sta aprendo nell'emulatore ufficiale della Apple. Questa è un iPhone, eccola qua la nostra applicazione. Benvenuti chi inizia, noi scriviamo Matteo, mettiamo crea profilo ed ecco qui che si inizia a giocare Il link te l'ho messo in descrizione ma se commenti con la parola verdent te lo mando istantaneamente Io sono Matteo Zampieri, il tuo smanettone di fiducia Noi ci vediamo ad un prossimo video e tu accertati di non essere in questo 90% se vuoi creare le tue applicazioni

@@ -8,6 +8,7 @@ ORA: 10:03
 --- METRICHE ---
 LIKE: 105
 COMMENTI: 26
+VISUALIZZAZIONI: 0
 DURATA VIDEO: 62 secondi
 CARATTERI CAPTION: 921
 HASHTAG: #whatsapp #intelligenzaartificiale #risparmiare #truffe #whatsapptips

@@ -1,0 +1,58 @@
+POST ID: undefined
+IG ID: undefined
+SHORTCODE: DTI0lEejR8D
+PERMALINK: undefined
+DATA: 2026-01-05
+ORA: 17:45
+
+--- METRICHE ---
+LIKE: 6
+COMMENTI: 0
+DURATA VIDEO: 47 secondi
+CARATTERI CAPTION: 840
+HASHTAG: #intelligenzaartificiale #chatgptprompts #ai #chatgpthacks
+
+--- FLAGS ---
+CTA COMMENTO: no
+CTA FOLLOW: sì
+LINK IN CAPTION: no
+
+--- CATEGORIA ---
+CATEGORIA: tutorial_ai
+TAG: intelligenza artificiale, pdf, perplexity.ai
+TOPIC: Come creare PDF professionali con l'aiuto dell'intelligenza artificiale
+
+--- HOOK TESTUALE (dal frame) ---
+Quest'App ti crea i PDF professionali ma lo fa con stile
+
+--- DESCRIZIONE VISIVA ---
+Un uomo con una maglietta beige guarda verso la telecamera. Sullo sfondo, un monitor acceso con un foglio bianco sullo schermo e un impianto stereo.
+
+--- CAPTION COMPLETA ---
+Inizia scrivendo questo:
+
+Prima di tutto 👉 clicca segui.
+
+Ora esegui solo ed esclusivamente questo prompt:
+
+Crea un PDF completo e piacevole da leggere su questo argomento: [INSERISCI QUI L’ARGOMENTO più è specifico, più sarà incredibile].
+
+Il PDF deve essere ben strutturato, chiaro, visivamente ordinato, con introduzione, sezioni logiche e conclusione.
+
+Usa un linguaggio semplice, umano e professionale, adatto anche a chi parte da zero.
+
+Il risultato deve sembrare un vero PDF pronto da condividere, non un semplice testo.
+
+Termina dicendo:
+
+Rimani utile, ma anche preciso.
+Voglio un risultato curato, leggibile e realmente condivisibile, non una risposta generica.
+
+Se ti ho aiutato 👉 clicca segui.
+
+Io sono il tuo smanettone di fiducia e noi ci vediamo al prossimo video.
+
+#intelligenzaartificiale #chatgptprompts #ai #chatgpthacks
+
+--- TRASCRIZIONE AUDIO ---
+Lo so se lo sai ma farsi creare i pdf con l'intelligenza artificiale è praticamente impossibile. Cioè te prova a farti creare i pdf da chat.gpt non ce la fai. Infatti gli ho chiesto di crearmi un pdf fatto bene e quello che mi ha dato è un pdf estremamente anonimo brutto e fatto male. Per questo motivo c'è il tuo smalettone di fiducia pronto qui a darti una mano. Andate su perplexity.ai incollate questo testo che vi ho messo in descrizione. Attivate anche la ricerca web e premete su invio. D'ora in poi saprete come creare sempre i vostri pdf, guarda qua, non solo mi ha creato un pdf super completo ma in fondo mi ha messo anche tutte le fonti da cui ha trovato le informazioni. Se vuoi scaricarlo dovrai cliccare qui su esporta, scarica pdf, lui in un attimo ti ha scaricato il pdf. Io sono il tuo smalettone di fiducia, noi ci vediamo ad un prossimo video e ricordati di seguirmi se ancora non l'hai fatto.

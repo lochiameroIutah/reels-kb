@@ -8,6 +8,7 @@ ORA: 18:44
 --- METRICHE ---
 LIKE: 117
 COMMENTI: 5
+VISUALIZZAZIONI: 0
 DURATA VIDEO: 73 secondi
 CARATTERI CAPTION: 889
 HASHTAG: #intelligenzaartificiale #nanobanana #google #gemini #ai

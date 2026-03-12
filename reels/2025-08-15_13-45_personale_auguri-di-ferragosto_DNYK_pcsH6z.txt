@@ -1,0 +1,37 @@
+POST ID: undefined
+IG ID: undefined
+SHORTCODE: DNYK_pcsH6z
+PERMALINK: undefined
+DATA: 2025-08-15
+ORA: 13:45
+
+--- METRICHE ---
+LIKE: 85
+COMMENTI: 0
+DURATA VIDEO: 4 secondi
+CARATTERI CAPTION: 76
+HASHTAG: #intelligenzaartificiale #chatgpt5 #ferragosto2025
+
+--- FLAGS ---
+CTA COMMENTO: no
+CTA FOLLOW: no
+LINK IN CAPTION: no
+
+--- CATEGORIA ---
+CATEGORIA: personale
+TAG: ferragosto, intelligenzaartificiale, chatgpt5
+TOPIC: Il creatore di contenuti augura buon Ferragosto ai suoi follower
+
+--- HOOK TESTUALE (dal frame) ---
+La risposta inaspettata
+
+--- DESCRIZIONE VISIVA ---
+Uno screenshot di un post su Instagram, con del testo e vari emoji che augura buon Ferragosto agli amici. Nella didascalia è presente un testo con un colore di sfondo grigio chiaro sovrapposto ad uno sfondo bianco. In basso è presente un testo su sfondo nero che recita 'La risposta inaspettata' con un emoji
+
+--- CAPTION COMPLETA ---
+Buon Ferragosto a voi 😂
+
+#intelligenzaartificiale #chatgpt5 #ferragosto2025
+
+--- TRASCRIZIONE AUDIO ---
+[nessuna trascrizione disponibile]

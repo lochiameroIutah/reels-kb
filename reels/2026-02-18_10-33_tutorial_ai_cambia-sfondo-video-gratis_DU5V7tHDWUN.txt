@@ -1,0 +1,68 @@
+POST ID: undefined
+IG ID: undefined
+SHORTCODE: DU5V7tHDWUN
+PERMALINK: undefined
+DATA: 2026-02-18
+ORA: 10:33
+
+--- METRICHE ---
+LIKE: 320
+COMMENTI: 281
+DURATA VIDEO: 17 secondi
+CARATTERI CAPTION: 960
+HASHTAG: #intelligenzaartificiale #beeble #aivideo #tutorial #risparmiare
+
+--- FLAGS ---
+CTA COMMENTO: sì
+CTA FOLLOW: sì
+LINK IN CAPTION: sì (matteozampieri.com/switchx)
+
+--- CATEGORIA ---
+CATEGORIA: tutorial_ai
+TAG: intelligenza artificiale, beeble, aivideo, tutorial
+TOPIC: Un tutorial su come utilizzare SwitchX per cambiare lo sfondo dei video in tempo reale
+
+--- HOOK TESTUALE (dal frame) ---
+GUARDA CHE FIGATA,
+
+--- DESCRIZIONE VISIVA ---
+Un uomo con un cappuccio grigio parla in un ambiente casalingo
+
+--- CAPTION COMPLETA ---
+Puoi farlo gratis (davvero), ti spiego:
+
+(Se scrivi “SWITCHX” ti mando il link direttamente)
+
+Hai presente quando nei video si cambia lo sfondo in tempo reale e sembra tutto vero?
+
+Ecco come si fa, ed è completamente gratis adesso perché è in beta.
+
+Prima di tutto 👉 clicca segui @themattvision
+
+Si chiama SwitchX ed è di Beeble.
+
+Funziona così:
+
+1. Vai su
+matteozampieri.com/switchx
+
+2. Carica il tuo video nel primo riquadro
+
+3. Nel secondo riquadro carica un’immagine di riferimento dello sfondo che vuoi oppure cliccaci sopra e lascia che l’intelligenza artificiale lo generi da sola con il prompt
+
+4. Attiva l’autopilot così lui capisce tutto da solo
+
+5. Clicca Generate ed è gratis finché è in beta
+
+Il risultato è pazzesco.
+
+Provalo e poi scrivimi com’è andata!
+
+Se ti ho aiutato 👉 clicca segui @themattvision
+
+Io sono il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video!
+
+#intelligenzaartificiale #beeble #aivideo #tutorial #risparmiare
+
+--- TRASCRIZIONE AUDIO ---
+Guarda che figata, questa in realtà non è casa mia, infatti con questa intelligenza artificiale posso essere in questa giungla super pericolosa, ma poi tutto a un tratto prendere e ritrovarmi a New York. Guarda, tra i grattacieli, io sono Matteo Zampiri, il tuo smanettone di fiducia e questo si chiama Switch X di Bipol, vi trovi il link in descrizione. Ciao!

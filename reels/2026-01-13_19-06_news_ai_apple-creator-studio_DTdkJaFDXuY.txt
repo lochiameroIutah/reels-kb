@@ -8,6 +8,7 @@ ORA: 19:06
 --- METRICHE ---
 LIKE: 563
 COMMENTI: 7
+VISUALIZZAZIONI: 0
 DURATA VIDEO: 50 secondi
 CARATTERI CAPTION: 464
 HASHTAG: #applecreatorstudio #intelligenzaartificiale #tutorial #ia

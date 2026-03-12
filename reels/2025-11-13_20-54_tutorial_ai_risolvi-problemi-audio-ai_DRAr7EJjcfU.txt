@@ -1,0 +1,43 @@
+POST ID: 18008490164649312
+IG ID: 3765202463386093524
+SHORTCODE: DRAr7EJjcfU
+PERMALINK: https://www.instagram.com/reel/DRAr7EJjcfU/
+DATA: 2025-11-13
+ORA: 20:54
+
+--- METRICHE ---
+LIKE: 72
+COMMENTI: 6
+DURATA VIDEO: 73 secondi
+CARATTERI CAPTION: 311
+HASHTAG: #intelligenzaartificiale #risparmiare #ai #chatgpt #ia #chatgptvsclaude #claudeai
+
+--- FLAGS ---
+CTA COMMENTO: no
+CTA FOLLOW: sì
+LINK IN CAPTION: sì (link presente)
+
+--- CATEGORIA ---
+CATEGORIA: tutorial_ai
+TAG: intelligenzaartificiale, ai, chatgpt, claudeai, automazione
+TOPIC: Risolvere problemi di audio con l'intelligenza artificiale
+
+--- HOOK TESTUALE (dal frame) ---
+Salva questo video per quando avrai dei problemi col computer
+
+--- DESCRIZIONE VISIVA ---
+Uno schermo di un computer con una mano che tocca un pulsante play/pause
+
+--- CAPTION COMPLETA ---
+Ecco il link per usarlo:
+
+Prima di tutto 👉 clicca segui @themattvision 
+
+Vai su https://claude.ai?utm_source= tutorial&utm_medium=referral&utm_campaign
+
+Io sono il Tuo Smanettone di fiducia, noi ci vediamo ad un prossimo video!
+
+#intelligenzaartificiale #risparmiare #ai #chatgpt #ia #chatgptvsclaude #claudeai
+
+--- TRASCRIZIONE AUDIO ---
+Cliccando su questo pulsante per registrare si può vedere tranquillamente che il mio microfono non funziona. E giusto per dimostrarvi che il microfono è settato correttamente, in realtà il microfono è corretto. Per questo motivo sto andando su Cloud, aiutami con osascript a fixare, non si sente più il mio microfono. Gli diamo invio e praticamente lui riuscirà a eseguire dei programmini nel mio computer con l'intelligenza artificiale. Qui adesso cercherà di capire, vedete un po', sta facendo tutto da solo, sta aperto le impostazioni e riavviato il programmino che gestisce l'audio nel computer. In questo modo adesso vediamo un po' in tempo reale, clicco per registrare e continua a non funzionare, ok? Quindi gli dico continua a non funzionare. A questo punto lui di nuovo torna nelle impostazioni, ha digitato microfono e adesso farà delle altre cose, in questo caso rimuoviamo eventuali configurazioni corrotte dell'audio. Dice che ha alzato il volume di input dal 16% al 100%. Andiamo a provare. Clicco qua per registrare e vedi che è tornato a funzionare. Potete risolvere una marea di problemi usando l'intelligenza artificiale. Il sito ve l'ho messo in descrizione. Io sono il Tosmanetone di fiducia. Noi ci vediamo ad un prossimo video. Ricordati di seguirmi se ancora non l'hai fatto.

@@ -1,0 +1,35 @@
+POST ID: 18059879353832953
+IG ID: 3579803749039863461
+SHORTCODE: DGuBIsLIfal
+PERMALINK: https://www.instagram.com/reel/DGuBIsLIfal/
+DATA: 2025-03-03
+ORA: 01:40
+
+--- METRICHE ---
+LIKE: 0
+COMMENTI: 0
+DURATA VIDEO: 148 secondi
+CARATTERI CAPTION: 158
+HASHTAG: #ai
+
+--- FLAGS ---
+CTA COMMENTO: no
+CTA FOLLOW: no
+LINK IN CAPTION: no
+
+--- CATEGORIA ---
+CATEGORIA: tutorial_ai
+TAG: intelligenza artificiale, google calendar, automazione
+TOPIC: Il creadore italiano di AI e tech presenta un tool che utilizza l'intelligenza artificiale per gestire gli impegni
+
+--- HOOK TESTUALE (dal frame) ---
+Pov: Ti avevano detto che non ce l'avresti fatta
+
+--- DESCRIZIONE VISIVA ---
+Sfondo scuro con righe orizzontali di colore dorato
+
+--- CAPTION COMPLETA ---
+Mi ero stufato di perdere tempo con Google Calendar, quindi ho creato qualcosa che usa l’intelligenza artificiale per capire al volo e fare tutto da solo. #ai
+
+--- TRASCRIZIONE AUDIO ---
+Allora, vi faccio vedere lui, tipo io l'ho avviato, vedi che allora quando lo avvio lui fa pulizia di tutti i contesti, memorie eccetera, pulizia di tutto, inizializzazione di un'intelligenza artificiale, avvia il bot di Telegram, avvia il servizio di inizializzazione di un clone per comunicare sempre, caricamento del modello per la trascrizione vocale, ok perfetto. adesso qui mi dice botta avviato cazzi e mazzi ok inizia con start clicco start ovviamente io sono già autenticato e infatti ti dice così ovviamente non è definitivo anzi sono tante cose inutili che ti dice in realtà dovrebbe dirti tipo posso fare questo questo questo ok adesso ne diciamo allora segnami che domani alle 3 e mezza devo andare in palestra circa un'ora praticamente sono un'ora in palestra però poi devo fare la doccia e poi ora che vado e torno insomma in totale mi occupa due ore ok inviamo ok hai ricevuto scaricamento del messaggio in corso 20 per cento analisi dell vero che figata e la versione del testo quasi pronto sta modificando il messaggio in tempo reale il mio computer sta bollendo in questo momento ok ti mostra anche la trascrizione questo serve a me ovviamente perché se no l'utente non lo fai vedere ti dice sto analizzando il contenuto ok? sto analizzando il messaggio vediamo un po' ok ho creato l'evento palestra con gli amici perché con gli amici? vedi non è perfetto purtroppo 403 2025 quindi oggi è il 303 2025 quindi 403 per domani lui doveva capire oggi cioè dovrà chiedermi intendi oggi o domani come fa Siri però se tu vai qui eccolo qua palestra palestra con gli amici poi Duccia rientra a casa non so perché gli amici dove che ha visto gli amici dove cazzo ha visto gli amici vabbè è devastante però

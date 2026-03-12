@@ -1,0 +1,37 @@
+POST ID: undefined
+IG ID: undefined
+SHORTCODE: DTNXqW4DX_O
+PERMALINK: undefined
+DATA: 2026-01-07
+ORA: 12:08
+
+--- METRICHE ---
+LIKE: 5
+COMMENTI: 0
+DURATA VIDEO: 34 secondi
+CARATTERI CAPTION: 86
+HASHTAG: #intelligenzaartificiale #risparmiare #ia #chatgpt #riflessione
+
+--- FLAGS ---
+CTA COMMENTO: no
+CTA FOLLOW: no
+LINK IN CAPTION: no
+
+--- CATEGORIA ---
+CATEGORIA: news_ai
+TAG: intelligenzaartificiale, google, gemini
+TOPIC: Il limite di richieste gratuite a Gemini è stato abbassato
+
+--- HOOK TESTUALE (dal frame) ---
+Attenzione ragazzi Google chiude i rubinetti.
+
+--- DESCRIZIONE VISIVA ---
+Uno screenshot di un Reel Instagram che mostra un uomo con un'espressione seria e un dito alzato, indossa una felpa rosa. Sullo sfondo, un articolo con un titolo in italiano che parla di Google e Gemini.
+
+--- CAPTION COMPLETA ---
+Succederà oppure no?!
+
+#intelligenzaartificiale #risparmiare #ia #chatgpt #riflessione
+
+--- TRASCRIZIONE AUDIO ---
+Attenzione ragazzi, Google chiude i robinetti, ha abbassato da, adesso qui non si vede, da 250 a 20 richieste giornaliere che possiamo fare a Gemini gratuitamente. Vi immaginate quando tipo tra 5 anni ormai tutti, non faremo a meno dell'intelligenza artificiale, dall'oggi al domani cominciano ad alzare i prezzi e solo i ricchi possono permettersela, i poveri continuano a fare le cose a mano. andiamo a correre un rischio molto grande soprattutto perché siamo in una società super capitalizzata, no? Capitalismo estremo dappertutto. Cosa ne pensate di questa cosa?

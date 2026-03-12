@@ -1,0 +1,45 @@
+POST ID: undefined
+IG ID: undefined
+SHORTCODE: DS58yvNjcNP
+PERMALINK: undefined
+DATA: 2025-12-30
+ORA: 23:08
+
+--- METRICHE ---
+LIKE: 2016
+COMMENTI: 27
+DURATA VIDEO: 47 secondi
+CARATTERI CAPTION: 482
+HASHTAG: #trucchisegreti #wetransfer #tutorial #risparmiare #hacksandtips
+
+--- FLAGS ---
+CTA COMMENTO: no
+CTA FOLLOW: sì
+LINK IN CAPTION: no
+
+--- CATEGORIA ---
+CATEGORIA: risparmio_tech
+TAG: wetransfer, macos, trucchi
+TOPIC: Un trucco per evitare di avere file di WeTransfer sparsi nel computer
+
+--- HOOK TESTUALE (dal frame) ---
+Vuoi che il tuo computer non si riempia di zip inutili? Fai questo
+
+--- DESCRIZIONE VISIVA ---
+Una persona seduta, con una mano davanti alla bocca, in una stanza con una decorazione natalizia e un poster.
+
+--- CAPTION COMPLETA ---
+Perché non ne parla nessuno?!
+
+Questo trucco per MacOS mi ha permesso di non avere più file di wetransfer sparsi per il computer che mi occupano un sacco di memoria inutilmente
+
+È molto semplice in realtà però da quando l’ho scoperto 10 anni fa a me ha svoltato e sono certo ti aiuterà molto!
+
+Se ti ho aiutato clicca segui!
+
+Io sono Matteo Zampieri il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video!
+
+#trucchisegreti #wetransfer #tutorial #risparmiare #hacksandtips
+
+--- TRASCRIZIONE AUDIO ---
+Leo adesso ti mostro un trick devastante Hai presente quando scarichi gli zip Si si apre la cartella ma è ancora lo zip vecchio Ecco adesso ti faccio vedere come fare Fai command spazio E digita utility compressione Fai invio Perfetto vedi che ti ha aperto utility compressione Anche se sembra che non sia successo niente qua Premi command più virgola Perfetto ti ha aperto questo menu delle preferenze Lei dice dopo l'espansione Come ti spostano nel cestino Perfetto adesso puoi chiudere Adesso fai doppio clic su quello che ti interessa Ok Vai, guarda cosa succede Tacchi in un attimo Te l'ha scompattato Ti ha creato la cartella Ti ha preso l'archivio Te l'ha buttato nel cestino Adesso hai solamente la tua cartella bella Incredibile Giastante, vero? Non si smette mai di imparare con lo smanettone di fiducia

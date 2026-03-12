@@ -8,6 +8,7 @@ ORA: 11:21
 --- METRICHE ---
 LIKE: 115
 COMMENTI: 8
+VISUALIZZAZIONI: 0
 DURATA VIDEO: 52 secondi
 CARATTERI CAPTION: 1625
 HASHTAG: #risparmiare #tutorial #apple #trucchi #intelligenzaartificiale

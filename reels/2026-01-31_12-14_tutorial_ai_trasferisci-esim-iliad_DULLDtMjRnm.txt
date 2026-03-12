@@ -1,0 +1,73 @@
+POST ID: undefined
+IG ID: undefined
+SHORTCODE: DULLDtMjRnm
+PERMALINK: undefined
+DATA: 2026-01-31
+ORA: 12:14
+
+--- METRICHE ---
+LIKE: 923
+COMMENTI: 17
+DURATA VIDEO: 180 secondi
+CARATTERI CAPTION: 1239
+HASHTAG: #iliad #esim #iphone #tutorial #risparmiare
+
+--- FLAGS ---
+CTA COMMENTO: no
+CTA FOLLOW: sì
+LINK IN CAPTION: no
+
+--- CATEGORIA ---
+CATEGORIA: tutorial_ai
+TAG: eSIM, Iliad, iPhone, trasferimento
+TOPIC: Procedura per trasferire la eSIM di Iliad su un nuovo telefono
+
+--- HOOK TESTUALE (dal frame) ---
+Devi trasferire la tua ESIM di Iliad ad un telefono nuovo e hai dei problemi? Fai questo
+
+--- DESCRIZIONE VISIVA ---
+Una persona con una mano destra è seduta davanti a un tavolo grigio con due telefoni e diversi oggetti, tra cui un laptop, una carta di credito e una carta Amazon
+
+--- CAPTION COMPLETA ---
+Inizia facendo questo:
+
+Prima di tutto 👉 clicca segui @themattvision 
+
+Se hai eliminato per sbaglio la eSIM di Iliad e non sai come fare, magari non riesci nemmeno a parlare con l’assistenza perché non hai più il telefono funzionante, allora leggi qui.
+
+Ci sono DUE procedure:
+
+PROCEDURA 1 - Se hai già fatto la cazzata (come me):
+
+Se hai cliccato su “Elimina SIM” e hai eliminato il numero:
+
+1. Vai sul sito di Iliad nella tua area personale
+
+2. Clicca su “Installa la SIM” e scansiona il QR code
+
+3. Installa la eSIM sul VECCHIO telefono per recuperare il numero
+
+4. Ora passa alla Procedura 2 qui sotto
+
+PROCEDURA 2 - Quella CORRETTA (che avresti dovuto fare da subito):
+
+Purtroppo sul sito di Iliad non è spiegata bene, ma ecco come si fa:
+
+1. Vai su Impostazioni → Generali → Trasferisci o inizializza iPhone → Ripristina 
+
+2. Clicca su “Ripristina” (NON su Inizializza)
+
+3. Seleziona SOLO “Elimina tutte le SIM” 
+
+4. Ora puoi trasferire la eSIM al nuovo iPhone normalmente
+
+Grazie a Fabrizio di @iliaditalia per avermi salvato la serata 🙏
+
+Se ti sono stato utile 👉 clicca segui @themattvision 
+
+Io sono Matteo Zampieri il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video!
+
+#iliad #esim #iphone #tutorial #risparmiare
+
+--- TRASCRIZIONE AUDIO ---
+Sto chiamando due volte il call center di Iliad, perché non mi rispondono, manca mezz'ora e finiscono il turno, ho bisogno di assistenza perché non mi va la sim di questo telefono e li sto chiamando insieme, vediamo. Buonasera, benvenuti in Iliad, sono Fabrizio, codice operatore 770134, come posso essere utile? Mi dica Sto parlando con tutti e due Perché due volte che ho chiamato E cadeva la linea E tra mezz'ora io sono fregato Perché non riesco ad attivare purtroppo La eSIM che ho disattivato Dal mio telefono precedente Mi dice di chiamarvi e l'unico modo, cioè ho dovuto prendere il telefono del vicino perché se no non potevo chiamarmi. Mi dica con chi vuole stare in linea, sai come la cerca la collega, per me è differente. Aspetta, pronto? Sì. Ok, ok, la sua collega è caduta la linea, adesso io sono abbastanza imbarazzato perché quattro chiamate. Sì, no, tra mezz'ora chiude anche il nostro servizio, quindi bisogna farcela prima. Ho seguito la procedura sul sito Però facendo tutto Inserendo anche il codice Tutto il resto Poi mi dice di contattare l'assistenza Il numero di telefono è questo qui Dal quale stiamo parlando giusto No disattivato Io adesso vedo che appunto appunto la sim l eliminata avevo provato a fare tipo sai trasferisci la sim direttamente tipo procedura magari uno su spazio esatto però mi diceva nella non è andata a buon fine perché mi diceva prima di disattiva prima di farla devi disattivarla non vedevo la voce disattiva vedevo solamente la voce elimina e mi sembrava strano allora sono andato nel sito e nel sito c'è scritto di premere proprio elimina. Purtroppo non era il percorso giusto. C'è solo una possibilità adesso. Lei adesso ha il QR code in area personale o sulla mail. Ok se avete disattivato il vostro numero cliccando su elimina sim che è quello che ti dicono di fare nella procedura guidata di Iliad in realtà avete eliminato il vostro numero di telefono ma potete ancora recuperare se andate nel sito di Iliad Andate a fare installa sim Cliccate nel QR code E scansionate il QR code Installando la sim nel vecchio telefono A quel punto fate questo Dovevi andare sotto la voce impostazioni Poi seguivi come percorso Generali Trasferisci inizializza Ripristina Elimina tutte le sim Ah ok solo le sim Se no non funziona c'è qualche bug Che fa sì che si blocca qualcosa Com'è che ti chiami? Fabrizio Fabrizio, grazie mille Fabrizio mi hai svoltato la serata stava finendo male grazie mille Fabrizio, buona serata

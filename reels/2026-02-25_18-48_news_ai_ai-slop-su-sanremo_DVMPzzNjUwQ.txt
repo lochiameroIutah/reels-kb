@@ -1,0 +1,51 @@
+POST ID: undefined
+IG ID: undefined
+SHORTCODE: DVMPzzNjUwQ
+PERMALINK: undefined
+DATA: 2026-02-25
+ORA: 18:48
+
+--- METRICHE ---
+LIKE: 556
+COMMENTI: 66
+DURATA VIDEO: 73 secondi
+CARATTERI CAPTION: 675
+HASHTAG: #intelligenzaartificiale #aislop #sanremo #higgsfield #ai
+
+--- FLAGS ---
+CTA COMMENTO: sì
+CTA FOLLOW: sì
+LINK IN CAPTION: no
+
+--- CATEGORIA ---
+CATEGORIA: news_ai
+TAG: ai_slop, sanremo, higgsfield
+TOPIC: Il fenomeno dell'AI Slop, contenuti generati con l'IA che intrattengono senza raccontare nulla
+
+--- HOOK TESTUALE (dal frame) ---
+STA SUCCEDEDENDO ESATTAMENTE
+
+--- DESCRIZIONE VISIVA ---
+Un uomo con la maglietta nera fa un video con il suo cellulare. Sullo sfondo si vede una porta scura e dei fogli attaccati al muro. Nell'inquadratura in alto, invece, si vede una persona muscolosa con addosso una vestaglia nera e uno sfondo viola con due finestre.
+
+--- CAPTION COMPLETA ---
+Sei pro o contro all’AI SLOP?!
+
+Prima di tutto 👉 clicca segui @themattvision
+
+Da quando è iniziato Sanremo ho visto solo clip di questo tipo. 
+
+Si chiama AI Slop, contenuto generato con l’IA che non racconta niente ma intrattiene moltissimo.
+
+Lo strumento che secondo me hanno usato è Higgsfield, una delle piattaforme più potenti in assoluto per generare video con l’intelligenza artificiale a livello cinematografico.
+
+Di questa roba ne volete di più o di meno? Scrivetemi nei commenti 👇
+
+Se ti ho aiutato 👉 clicca segui @themattvision
+
+Io sono il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video!
+
+#intelligenzaartificiale #aislop #sanremo #higgsfield #ai
+
+--- TRASCRIZIONE AUDIO ---
+Sta succedendo esattamente quello che avevo detto nei giorni passati, ovvero che nel momento in cui sarebbe arrivato Sanremo, l'intelligenza artificiale avrebbe invaso tutti i contenuti di Sanremo. Non a caso, io ho solamente visto clip di questo tipo e niente ancora di Sanremo, nonostante ci sia stata la prima serata. Hanno utilizzato Seedance 2.0, che è l'ultimo modello che deve ancora uscire per tutti? Io non credo, secondo me hanno utilizzato Higgsfield, però l'hanno utilizzato bene, ci hanno lavorato parecchio. Per quanto tutta sta roba sia divertente si può proprio definire AI Slop, contenuto fatto con l'AI che racconta niente ma intrattiene molto. Davanti ad un livello tale, secondo voi ha realmente senso, visto che chiunque lo potrebbe fare, realizzare video di questo tipo? Io non credo, perché nel momento in cui tutti sono in grado di fare qualcosa, allora questa cosa non è più eccezionale. Non a caso per fare scatti cinematografici di questo tipo una volta avevi bisogno di budget milionari per questo era un punto differenziante. Nel momento in cui bastano due prompt scritti bene e pagare magari qualche community online 100 euro al mese per scoprire queste informazioni capite che è abbastanza riduttivo. Di questa roba ne vorreste di più o di meno?

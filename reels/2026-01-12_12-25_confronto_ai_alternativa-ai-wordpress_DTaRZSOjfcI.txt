@@ -8,6 +8,7 @@ ORA: 12:25
 --- METRICHE ---
 LIKE: 9
 COMMENTI: 0
+VISUALIZZAZIONI: 0
 DURATA VIDEO: 66 secondi
 CARATTERI CAPTION: 681
 HASHTAG: #intelligenzaartificiale #wordpress #tutorial #vibecoding #sfogo

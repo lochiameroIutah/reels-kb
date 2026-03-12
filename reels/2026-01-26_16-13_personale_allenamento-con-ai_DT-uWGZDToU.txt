@@ -1,0 +1,37 @@
+POST ID: undefined
+IG ID: undefined
+SHORTCODE: DT-uWGZDToU
+PERMALINK: undefined
+DATA: 2026-01-26
+ORA: 16:13
+
+--- METRICHE ---
+LIKE: 83
+COMMENTI: 10
+DURATA VIDEO: 45 secondi
+CARATTERI CAPTION: 87
+HASHTAG: #vibecoding #intelligenzaartificiale #gemini #google #gymlife
+
+--- FLAGS ---
+CTA COMMENTO: no
+CTA FOLLOW: no
+LINK IN CAPTION: no
+
+--- CATEGORIA ---
+CATEGORIA: personale
+TAG: vibecoding, intelligenzaartificiale, gemini
+TOPIC: Il creator mostra come ha utilizzato la tecnologia per creare un'applicazione personalizzata per il suo allenamento
+
+--- HOOK TESTUALE (dal frame) ---
+Allenamento
+
+--- DESCRIZIONE VISIVA ---
+Uno screenshot da un video Reel su Instagram, con una foto di un uomo sorridente con la mano alzata, sovrapposta con del testo in italiano
+
+--- CAPTION COMPLETA ---
+Ora vado ad allenarmi 🤪
+
+#vibecoding #intelligenzaartificiale #gemini #google #gymlife
+
+--- TRASCRIZIONE AUDIO ---
+Posso dire che siamo nel futuro? Siamo nel futuro? Mi creo le mie app per i cazzi miei senza scrivere una e dico una riga di codice. Adesso ti faccio vedere che cosa ho fatto. Io avevo un problema e mi sono creato un'applicazione per la mia palestra. Qui sotto c'è un timer gigante, qui ci sono tutti gli esercizi che devo fare. C'è il giorno 1, giorno 2, giorno 3 in alto che puoi scegliere. In basso c'è il cronometro, super semplice, senza tante applicazioni e robe. l'ho creata con Gemini e poi con Expo Go e Antigravity l'ho mandata sul coso dell'App Store ci ho messo due orette e sono a posto tra virgolette per sempre devo modificare che questa roba qua è personalizzabile come voglio magari da un personal trainer e sta roba la posso tranquillamente vendere anche alla mia palestra dove vado

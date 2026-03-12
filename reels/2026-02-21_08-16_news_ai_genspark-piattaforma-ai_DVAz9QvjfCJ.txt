@@ -8,6 +8,7 @@ ORA: 08:16
 --- METRICHE ---
 LIKE: 345
 COMMENTI: 112
+VISUALIZZAZIONI: 0
 DURATA VIDEO: 57 secondi
 CARATTERI CAPTION: 828
 HASHTAG: #ad #intelligenzaartificiale #genspark #workwithgenspark #risparmiare

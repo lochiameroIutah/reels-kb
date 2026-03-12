@@ -1,0 +1,63 @@
+POST ID: undefined
+IG ID: undefined
+SHORTCODE: DT2ebpXDbX3
+PERMALINK: undefined
+DATA: 2026-01-23
+ORA: 11:21
+
+--- METRICHE ---
+LIKE: 115
+COMMENTI: 8
+DURATA VIDEO: 52 secondi
+CARATTERI CAPTION: 1625
+HASHTAG: #risparmiare #tutorial #apple #trucchi #intelligenzaartificiale
+
+--- FLAGS ---
+CTA COMMENTO: sì
+CTA FOLLOW: sì
+LINK IN CAPTION: sì (link presente)
+
+--- CATEGORIA ---
+CATEGORIA: tool_gratuiti
+TAG: mac, pulizia, cleanupbuddy
+TOPIC: Un'applicazione gratuita per pulire il Mac senza problemi
+
+--- HOOK TESTUALE (dal frame) ---
+Quest'App ti aiuta a pulire il tuo Mac ma lo fa con stile
+
+--- DESCRIZIONE VISIVA ---
+Un uomo con la barba e un maglione grigio è seduto davanti a un computer portatile aperto su una scrivania. Lui guarda verso il basso con un'espressione seria e ha la mano destra alzata con le dita aperte, come se stesse parlando o facendo un gesto enfatico. Sullo sfondo si vede una parete grigia e una finestra con una cornice in legno.
+
+--- CAPTION COMPLETA ---
+Ecco come installarlo GRATIS:
+
+Prima di tutto 👉 clicca segui @themattvision 
+
+1. Apri il Terminale sul tuo Mac (Cmd + Spazio, poi scrivi “Terminale”)
+
+2. Installa Homebrew (è un “app store” gratuito e legale da terminale che ti permette di scaricare migliaia di programmi gratis). Copia e incolla questo comando:
+/bin/bash -c “$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)”
+
+3. Una volta installato Homebrew, installa CleanupBuddy con questo comando:
+brew install —cask cleanupbuddy
+
+4. Apri l’app, abbassa la luminosità dello schermo
+
+5. Premi “Start Cleanup” e pulisci tranquillamente tastiera e schermo
+
+6. Per sbloccare, tieni premuti entrambi i tasti Command per 3 secondi
+
+💡 In alternativa: Se preferisci evitare il Terminale, puoi scaricarla da https://cleanupbuddy.app/ a 2€. Considerando le ore che gli sviluppatori hanno investito per creare quest’app semplice e veloce, ci sta supportarli!
+
+Finalmente puoi pulire il Mac senza che si aprano mille programmi o si scrivano cose a caso! 😮‍💨
+
+Questo metodo funziona su tutti i Mac: MacBook Air, MacBook Pro, iMac e Mac Mini. Perfetto per pulire tastiera Mac, schermo MacBook e trackpad senza danneggiare nulla. CleanupBuddy è compatibile con macOS Sonoma, Ventura e versioni precedenti. Se hai problemi con la tastiera sporca o lo schermo del Mac pieno di impronte, questa è la soluzione definitiva per la pulizia computer Mac 2025.
+
+Se ti sono stato utile 👉 clicca segui @themattvision 
+
+Io sono il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video!
+
+#risparmiare #tutorial #apple #trucchi #intelligenzaartificiale
+
+--- TRASCRIZIONE AUDIO ---
+So se lo sai ma quando vuoi pulire il tuo Mac ogni volta è un casino. Infatti se lo voglio pulire ogni volta succede di tutto. Quindi la soluzione potrebbe essere spegnerlo, riaccenderlo ma no ti pare. Per questo motivo ho trovato questa applicazione che uso da anni. Una volta che l'abbiamo aperta ci basterà abbassare un po' la luminosità, consiglio non del tutto, e premere sul pulsante start clean up. D'ora in poi non avrai più problemi mentre pulisci il tuo schermo. Guarda qua, qualsiasi pulsante della mia tastiera adesso non funziona più Ed è comparsa questa simpatica animazione carina Per sbloccarlo ti basterà tenere premuti questi due pulsantini per 3 secondi E vedrai che si sbloccherà tutto, vedete adesso è tornato a funzionare In questo modo posso pulire il mio back super facilmente Io sono Matteo Zampieri, il tuo smanetto è in fiducia Di consigli come questi, mi hanno dati tantissimi Quindi tu seguimi e noi ci vediamo ad un prossimo video

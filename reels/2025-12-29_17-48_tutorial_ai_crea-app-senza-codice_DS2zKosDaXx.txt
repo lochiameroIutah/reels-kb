@@ -1,0 +1,64 @@
+POST ID: 17920837992212711
+IG ID: 3798448366989190641
+SHORTCODE: DS2zKosDaXx
+PERMALINK: https://www.instagram.com/reel/DS2zKosDaXx/
+DATA: 2025-12-29
+ORA: 17:48
+
+--- METRICHE ---
+LIKE: 134
+COMMENTI: 3
+DURATA VIDEO: 38 secondi
+CARATTERI CAPTION: 1196
+HASHTAG: #vibecoding #nocode #intelligenzaartificiale #tutorial #risparmiare
+
+--- FLAGS ---
+CTA COMMENTO: no
+CTA FOLLOW: sì
+LINK IN CAPTION: no
+
+--- CATEGORIA ---
+CATEGORIA: tutorial_ai
+TAG: nocode, intelligenza-artificiale, vibecoding
+TOPIC: Creare applicazioni con intelligenza artificiale senza competenze tecniche
+
+--- HOOK TESTUALE (dal frame) ---
+Ti spiego come farlo anche tu passo passo in descrizione
+
+--- DESCRIZIONE VISIVA ---
+Un uomo con una maglietta grigia parla davanti alla camera, con una finestra scura sullo sfondo
+
+--- CAPTION COMPLETA ---
+Ecco come ho fatto:
+
+Mini guida, passo per passo.
+
+1. Parti con ChatGPT per chiarire l’idea e capire cosa vuoi creare a livello strutturale.
+
+2. Claude.ai Per creare un prima bozza estetica e avere una direzione visiva.
+
+Se ti sono stato utile, clicca segui.
+
+3. Solo adesso usa Antigravity per costruire la base: dati, logica e funzionamento minimo dell’app.
+
+4. dirgli React Native + Expo Go su Antigravity per partire subito con un’app Android e iOS.
+
+5. Claude Code usalo quindi per fare il grosso dell’estetica e dell’esperienza utente.
+
+6. Quind usa Codex di ChatGPT per rifinire dettagli, logica e piccoli miglioramenti.
+
+7. A quel punto in loop vai di iterazione continua
+Con Claude Code per le parti grandi, Codex per rifinire.
+
+8. Ah si usa GitHub per caricare il codice e salvare le versioni funzionanti, anche se non sei pratico.
+
+9. Se ha bisogno Scrivimi in privato.
+
+Io sono ancora senza parole perché già da oggi è possibile creare applicazioni con l’intelligenza artificiale senza fare nulla se non chiedendo quello che vuoi.
+
+Io sono Matteo Zampieri il tuo smanettone di fiducia, ci vediamo al prossimo video.
+
+#vibecoding #nocode #intelligenzaartificiale #tutorial #risparmiare
+
+--- TRASCRIZIONE AUDIO ---
+Quando cinque anni fa ho ideato quest'idea qua, ho detto boh la disegno intanto, la farò nella mia vita. Poi è arrivata l'intelligenza artificiale che mi ha dato la possibilità di crearla. Gli ho solamente detto che cosa volevo fare e lui l'ha creata per me. Un attimo l'ho ricreata in un'oretta praticamente. Quanto mi gasa sentirmi libero di poter creare quello che più mi piace. Una volta se avevi un'idea potevi realizzarla solamente se eri un programmatore o uno con tanti soldi. Oggi con l'intelligenza artificiale puoi crearla da zero senza alcuna competenza e senza soldi Cioè di cosa stiamo parlando?

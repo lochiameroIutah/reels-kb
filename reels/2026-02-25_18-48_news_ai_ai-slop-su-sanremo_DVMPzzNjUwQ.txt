@@ -8,6 +8,7 @@ ORA: 18:48
 --- METRICHE ---
 LIKE: 556
 COMMENTI: 66
+VISUALIZZAZIONI: 0
 DURATA VIDEO: 73 secondi
 CARATTERI CAPTION: 675
 HASHTAG: #intelligenzaartificiale #aislop #sanremo #higgsfield #ai

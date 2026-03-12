@@ -8,6 +8,7 @@ ORA: 19:24
 --- METRICHE ---
 LIKE: 1585
 COMMENTI: 76
+VISUALIZZAZIONI: 0
 DURATA VIDEO: 55 secondi
 CARATTERI CAPTION: 897
 HASHTAG: #sub #gmail #risparmiare #emailmarketing #trucchigmail

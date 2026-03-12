@@ -1,0 +1,51 @@
+POST ID: undefined
+IG ID: undefined
+SHORTCODE: DS-ybBTjfqF
+PERMALINK: undefined
+DATA: 2026-01-01
+ORA: 20:14
+
+--- METRICHE ---
+LIKE: 59
+COMMENTI: 4
+DURATA VIDEO: 28 secondi
+CARATTERI CAPTION: 653
+HASHTAG: #vibecoding #vibecode #intelligenzaartificiale #ai #ia
+
+--- FLAGS ---
+CTA COMMENTO: no
+CTA FOLLOW: sì
+LINK IN CAPTION: sì (matteozampieri.com/vibecode)
+
+--- CATEGORIA ---
+CATEGORIA: tool_gratuiti
+TAG: vibecoding, vibecode, intelligenzaartificiale, ai, ia
+TOPIC: Matteo Zampieri mostra come creare un'applicazione per trascrivere audio di Whatsapp con l'intelligenza artificiale
+
+--- HOOK TESTUALE (dal frame) ---
+QUESTA COSA È
+
+--- DESCRIZIONE VISIVA ---
+Un uomo con un cappotto beige guarda verso la camera, probabilmente in un corridoio o un'area di servizio con illuminazione fluorescente e un soffitto grigio. Sembra di essere in un contesto urbano, forse una stazione o un aeroporto.
+
+--- CAPTION COMPLETA ---
+Ecco come si chiama questa App per creare dal telefono la tua app personale
+
+Se non vuoi perdertelo 👉 clicca segui @themattvision 
+
+Siccome 99% non si trova sullo store vai su questo link direttamente che ti rimanda al link dell’app
+
+www.matteozampieri.com/vibecode
+
+Quest’app è pazzesca perche in 10 minuti ti permette di creare qualsiasi tua applicazione usando l’intelligenza artificiale.
+
+È davvero pazzesco perché puoi pubblicarla anche sull’App store!
+
+Se ti sono stato utile seguimi @themattvision 
+
+Io sono Matte Zampieri il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video!
+
+#vibecoding #vibecode #intelligenzaartificiale #ai #ia
+
+--- TRASCRIZIONE AUDIO ---
+Questa cosa è senza senso, sono qui che sto aspettando un mio amico perché devo andare a festeggiare Capodanno, c'è lo zaino E nel frattempo che aspettavo ho costruito con l'intelligenza artificiale questa applicazione completamente funzionante Quest'app principalmente servirà a trascrivere qualsiasi audio di Whatsapp completamente gratis Sono delle tecnologie super comode ma che nessuno conosce Io sono Matteo Zampieri, il tuo smanitore di fiducia qui alla stazione di Bologna Noi ci vediamo in un prossimo video, ricordati di seguirmi se ancora non l'hai fatto

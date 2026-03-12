@@ -1,0 +1,61 @@
+POST ID: 17981288174924346
+IG ID: 3777461765882630588
+SHORTCODE: DRsPXZUDdG8
+PERMALINK: https://www.instagram.com/reel/DRsPXZUDdG8/
+DATA: 2025-11-30
+ORA: 19:10
+
+--- METRICHE ---
+LIKE: 51
+COMMENTI: 12
+DURATA VIDEO: 37 secondi
+CARATTERI CAPTION: 1322
+HASHTAG: #intelligenzaartificiale #risparmiare #tutorial #nanobanana #ai #ia #volantino #chatgptprompts
+
+--- FLAGS ---
+CTA COMMENTO: sì
+CTA FOLLOW: sì
+LINK IN CAPTION: no
+
+--- CATEGORIA ---
+CATEGORIA: tutorial_ai
+TAG: intelligenza artificiale, nano banana, seedream, volantino animato
+TOPIC: Creare un volantino animato con intelligenza artificiale in 15 minuti
+
+--- HOOK TESTUALE (dal frame) ---
+Se mi mandi questo video scrivendo potter ti invio una pagina con la guida fatta bene
+
+--- DESCRIZIONE VISIVA ---
+Un uomo con la maglietta beige e un espressione seria sorride mentre guarda l’obiettivo. Indossa una maglietta beige e sembra trovarsi in un ambiente domestico o professionale con pareti divisorie bianche alle sue spalle, seduto su una sedia nera. Ha una mano alzata con indice e pollice uniti vicino al mento. Sembra un video promozionale o una presentazione.
+
+--- CAPTION COMPLETA ---
+Inizia scrivendo questo:
+
+Prima di tutto 👉 clicca segui @themattvision 
+
+Fammi un prompt per creare il volantino di questo evento aperto (userò “nano banana”)
+
+Assicurati di aver incollato tutti gli elementi che ti servono come location dettagli e speaker.
+
+Poi continua con questo: 
+1. Usa Nano Banana con aistudio.google.com per creare il volantino con il prompt generato da perplexity 
+2. Se vuoi ti ho creato una guida specifica passo passo, te la mando se mi invii questo video e mi scrivi “POTTER” 
+3. Torna su Perplexity, carica l’immagine generata da nano banana e chiedi un prompt ottimizzato per animarla con effetto movimento magico
+
+Termina scrivendo:
+
+Ora genera un prompt per trasformare questa immagine in un video animato. Il prompt deve essere ottimizzato per Seedream e il testo deve rimanere fermo.
+
+1. Vai su Seedream.ai, carica l’immagine, incolla il prompt e genera il video animato in HD 
+2. Attendi qualche minuto, scarica il video e condividilo sui social
+
+Vedrai che in meno di 15 minuti avrai un volantino animato professionale che sembra uscito dal mondo di Harry Potter.
+
+Se ti ho aiutato 👉 clicca segui @themattvision
+
+Io sono il tuo smanettone di fiducia e noi ci vediamo ad un prossimo video!
+
+#intelligenzaartificiale #risparmiare #tutorial #nanobanana #ai #ia #volantino #chatgptprompts
+
+--- TRASCRIZIONE AUDIO ---
+Ve lo ricordate il giornale di Harry Potter? Quello dove c'erano tutte le foto in movimento. Era magico. Beh, tra qualche giorno farò il mio primo talk dal vivo e per annunciarlo ho voluto creare lo stesso effetto con l'intelligenza artificiale. Però, come al solito, mi sono preso in ritardo, finendo per avere solo 15 minuti di tempo. Quindi, ecco come ho fatto. Prima di tutto ho dato il messaggio con tutti i dettagli dell'evento, una mia foto e una foto della location a perplexity. E gli ho chiesto, fammi un prompt per creare il volantino di questo evento. Così ho preso e messo su Nano Banana, scelto le dimensioni e bam, eccolo qua. Ora però dobbiamo animarla, quindi rifaccio la stessa storia ma stavolta con l'obiettivo di realizzare un video. Prendo il prompt generato, lo metto su Seedream e...

@@ -8,6 +8,7 @@ ORA: 13:09
 --- METRICHE ---
 LIKE: 224
 COMMENTI: 241
+VISUALIZZAZIONI: 0
 DURATA VIDEO: 66 secondi
 CARATTERI CAPTION: 840
 HASHTAG: #instagram #instagramupdate #intelligenzaartificiale #ai #crescitasocial

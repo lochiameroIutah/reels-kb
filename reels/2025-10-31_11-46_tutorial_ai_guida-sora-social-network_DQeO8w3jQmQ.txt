@@ -8,6 +8,7 @@ ORA: 11:46
 --- METRICHE ---
 LIKE: 11
 COMMENTI: 19
+VISUALIZZAZIONI: 0
 DURATA VIDEO: 15 secondi
 CARATTERI CAPTION: 589
 HASHTAG: #intelligenzaartificiale #sora2 #risparmiare #chatgpt #ia

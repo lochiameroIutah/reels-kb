@@ -8,6 +8,7 @@ ORA: 16:36
 --- METRICHE ---
 LIKE: 12
 COMMENTI: 0
+VISUALIZZAZIONI: 0
 DURATA VIDEO: 92 secondi
 CARATTERI CAPTION: 825
 HASHTAG: #intelligenzaartificiale #gemini #googleone #ai #risparmiare

@@ -8,6 +8,7 @@ ORA: 12:09
 --- METRICHE ---
 LIKE: 106
 COMMENTI: 12
+VISUALIZZAZIONI: 0
 DURATA VIDEO: 92 secondi
 CARATTERI CAPTION: 85
 HASHTAG: #intelligenzaartificiale #ia #chatgpt #aislop

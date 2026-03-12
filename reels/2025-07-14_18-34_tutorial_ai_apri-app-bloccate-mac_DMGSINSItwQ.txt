@@ -1,0 +1,69 @@
+POST ID: 18305062306300807
+IG ID: 3676705874650520592
+SHORTCODE: DMGSINSItwQ
+PERMALINK: https://www.instagram.com/reel/DMGSINSItwQ/
+DATA: 2025-07-14
+ORA: 18:34
+
+--- METRICHE ---
+LIKE: 9
+COMMENTI: 0
+DURATA VIDEO: 14 secondi
+CARATTERI CAPTION: 857
+HASHTAG: #apple #segreto #risparmiare
+
+--- FLAGS ---
+CTA COMMENTO: no
+CTA FOLLOW: sì
+LINK IN CAPTION: no
+
+--- CATEGORIA ---
+CATEGORIA: tutorial_ai
+TAG: apple, macos, app_danneggiata
+TOPIC: Come aprire un'applicazione bloccata da macOS
+
+--- HOOK TESTUALE (dal frame) ---
+ma tu sapevi che la apple ti sta mentendo
+
+--- DESCRIZIONE VISIVA ---
+Un uomo con una maglietta nera guarda la telecamera con un'espressione seria, sfondo sfocato con cappelli appesi.
+
+--- CAPTION COMPLETA ---
+Inizia facendo questo:
+
+Prima di tutto 👉 clicca segui @themattvision 
+
+Classico scenario: scarichi un programma dal sito ufficiale (tipo un’app di AI, un emulatore, un tool per creativi o sviluppatori), lo apri…
+E PAM 💥:
+
+“Impossibile aprire l’app. L’app è danneggiata. Spostala nel Cestino.”
+
+Spoiler: puoi aprirla lo stesso.
+
+È solo che macOS blocca automaticamente tutto quello che non arriva da Apple.
+
+E soprattutto: non ci sono virus per Mac.
+
+Ora, come fare?! 👇
+
+Ecco come si fa:
+
+– Vai sull’icona dell’app (quella chiusa, non in esecuzione)
+– Tieni premuto CTRL
+– Clic destro
+– Clicca su “Apri”
+
+A questo punto ti compare lo stesso avviso.
+Ma stavolta c’è anche il tasto “Apri comunque”.
+
+E da lì in poi si aprirà sempre.
+
+Ti sono stato utile?
+Clicca Segui 👉 @themattvision
+
+Dal tuo smanettone di fiducia è tutto 😌
+
+#apple #segreto #risparmiare
+
+--- TRASCRIZIONE AUDIO ---
+Ma tu sapevi che la Apple ti sta mentendo? Sì perché tutte le volte che ti dice l'app è danneggiata spostala nel cestino in realtà non è così. Ok sinceramente la Apple non farà mai una collaborazione con me per questo motivo.

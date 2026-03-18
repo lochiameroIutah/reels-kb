@@ -1,0 +1,65 @@
+POST ID: 17885766414352784
+IG ID: 3854048332981537548
+SHORTCODE: DV8VIoKjQsM
+PERMALINK: https://www.instagram.com/reel/DV8VIoKjQsM/
+DATA: 2026-03-16
+ORA: 10:54
+
+--- METRICHE ---
+LIKE: 587
+COMMENTI: 19
+DURATA VIDEO: 117 secondi
+CARATTERI CAPTION: 976
+HASHTAG: #intelligenzaartificiale #claude #ai #vibecoding #chatgpt
+
+--- FLAGS ---
+CTA COMMENTO: no
+CTA FOLLOW: sì
+LINK IN CAPTION: no
+
+--- CATEGORIA ---
+CATEGORIA: confronto_ai
+TAG: intelligenza-artificiale, claude, ai, vibecoding, chatgpt
+TOPIC: Il video esplora la capacità di un'intelligenza artificiale di creare un video su cosa si prova ad essere un'intelligenza artificiale
+
+--- HOOK TESTUALE (dal frame) ---
+me: "can you use whatever resources you like, and python, to generate a short 'youtube poop' video and render it using ffmpeg ? can you put more of a personal spin on it? it should express what it's like to be a LLM" claude opus 4.6: 
+
+--- DESCRIZIONE VISIVA ---
+Un uomo seduto su un mezzo di trasporto guarda un video su un laptop, con una cuffia nell'orecchio e un'espressione seria; sul video un messaggio testuale in stile Twitter e un video con un frame nero.
+
+--- CAPTION COMPLETA ---
+Ma quindi ha una coscienza?!
+
+Parliamone un attimo perché la questione è più complessa di quello che sembra.
+
+Prima di tutto 👉 clicca segui @themattvision
+
+Qualcuno ha usato questo prompt per chiedere a Claude di creare un video su cosa si prova ad essere un’intelligenza artificiale.
+
+E lui lo ha fatto.
+
+La verità è che Claude non ha nessuna coscienza.
+
+Fa solo calcoli probabilistici e prova ad indovinare parola dopo parola.
+
+Ma questo lo fa sembrare umano.
+
+E ci trae completamente in inganno.
+
+Perché il nostro cervello trova schemi ovunque, anche dove non esistono.
+
+Quindi quando leggiamo una risposta che sembra sensata, il nostro istinto dice che capisce.
+
+In realtà sta solo completando una sequenza di probabilità, in modo incredibilmente preciso.
+
+Devastante davvero 😮‍💨
+
+Se ti sono stato utile 👉 clicca segui @themattvision
+
+Io sono il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video!
+
+#intelligenzaartificiale #claude #ai #vibecoding #chatgpt
+
+--- TRASCRIZIONE AUDIO ---
+Non so se lo sai, ma qualcuno ha usato questo prompt per chiedere a Claude di generare un video su cosa si prova ad essere un'intelligenza artificiale. E siccome mi sembrava assurdo che si potesse fare, ora provo a farlo anch'io. Creiamo una cartella, chiamiamo video, mettiamo Sonnet, va bene lo stesso, facciamo ignora autorizzazioni e vediamo che cosa crea. Vediamo se è fattibile, perché non è detto. Sai spesso online si trovano tante cazzate. Ok ha iniziato, sta pensando, sta pensando da quasi due minuti Ok ha cominciato a realizzare il video quindi è possibile comunque lui può fare questa cosa Ok ha appena creato il video e adesso lo andiamo a vedere insieme Ma lo on man Noia Cosa? No, Alexa almeno accende le luci La tua intelligenza artificiale ha avuto un esaurimento nervoso e deve riposare Esiste davvero? se nessuno mi parla oddio madonna mia devastante ciao ragazzi di noi stiamo parlando

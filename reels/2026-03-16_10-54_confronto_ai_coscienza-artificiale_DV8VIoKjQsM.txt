@@ -6,8 +6,8 @@ DATA: 2026-03-16
 ORA: 10:54
 
 --- METRICHE ---
-LIKE: 587
-COMMENTI: 19
+LIKE: 618
+COMMENTI: 21
 DURATA VIDEO: 117 secondi
 CARATTERI CAPTION: 976
 HASHTAG: #intelligenzaartificiale #claude #ai #vibecoding #chatgpt

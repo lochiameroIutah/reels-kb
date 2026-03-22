@@ -6,8 +6,8 @@ DATA: 2026-03-19
 ORA: 17:12
 
 --- METRICHE ---
-LIKE: 259
-COMMENTI: 10
+LIKE: 269
+COMMENTI: 13
 DURATA VIDEO: 46 secondi
 CARATTERI CAPTION: 585
 HASHTAG: #intelligenzaartificiale #claude #anthropic #claudedispatch #ai

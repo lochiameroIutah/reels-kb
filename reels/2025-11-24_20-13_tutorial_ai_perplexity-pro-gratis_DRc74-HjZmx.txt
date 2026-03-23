@@ -7,7 +7,7 @@ ORA: 20:13
 
 --- METRICHE ---
 LIKE: 108
-COMMENTI: 737
+COMMENTI: 739
 DURATA VIDEO: 42 secondi
 CARATTERI CAPTION: 206
 HASHTAG: #intelligenzaartificiale #perplexity #tutorial

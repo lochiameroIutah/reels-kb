@@ -7,7 +7,7 @@ ORA: 20:38
 
 --- METRICHE ---
 LIKE: 96
-COMMENTI: 13
+COMMENTI: 14
 DURATA VIDEO: 67 secondi
 CARATTERI CAPTION: 924
 HASHTAG: #intelligenzaartificiale #moltbook #ai #socialnetwork #tutorial

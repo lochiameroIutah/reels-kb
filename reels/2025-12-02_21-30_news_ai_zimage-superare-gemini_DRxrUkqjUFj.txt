@@ -6,8 +6,8 @@ DATA: 2025-12-02
 ORA: 21:30
 
 --- METRICHE ---
-LIKE: 5942
-COMMENTI: 126
+LIKE: 5971
+COMMENTI: 127
 DURATA VIDEO: 56 secondi
 CARATTERI CAPTION: 376
 HASHTAG: #intelligenzaartificiale #ia #risparmiare #nanobanana #zimage

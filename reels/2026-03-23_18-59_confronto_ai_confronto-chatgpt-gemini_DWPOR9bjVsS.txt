@@ -6,8 +6,8 @@ DATA: 2026-03-23
 ORA: 18:59
 
 --- METRICHE ---
-LIKE: 15
-COMMENTI: 3
+LIKE: 51
+COMMENTI: 12
 DURATA VIDEO: 53 secondi
 CARATTERI CAPTION: 662
 HASHTAG: #intelligenzaartificiale #gemini #chatgpt #risparmiare #ai

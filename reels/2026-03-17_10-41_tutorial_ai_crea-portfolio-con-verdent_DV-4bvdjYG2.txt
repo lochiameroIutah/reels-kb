@@ -6,8 +6,8 @@ DATA: 2026-03-17
 ORA: 10:41
 
 --- METRICHE ---
-LIKE: 268
-COMMENTI: 134
+LIKE: 280
+COMMENTI: 142
 DURATA VIDEO: 89 secondi
 CARATTERI CAPTION: 751
 HASHTAG: #adv #verdent #verdentai #aicoding #vibecoding

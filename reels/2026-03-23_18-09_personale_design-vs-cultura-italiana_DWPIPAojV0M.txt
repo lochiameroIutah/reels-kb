@@ -6,8 +6,8 @@ DATA: 2026-03-23
 ORA: 18:09
 
 --- METRICHE ---
-LIKE: 926
-COMMENTI: 266
+LIKE: 1699
+COMMENTI: 459
 DURATA VIDEO: 51 secondi
 CARATTERI CAPTION: 93
 HASHTAG: #futuro #design #realestate #innovazionetecnologica #ia

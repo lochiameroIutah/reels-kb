@@ -6,8 +6,8 @@ DATA: 2026-03-21
 ORA: 19:20
 
 --- METRICHE ---
-LIKE: 139
-COMMENTI: 2
+LIKE: 182
+COMMENTI: 4
 DURATA VIDEO: 110 secondi
 CARATTERI CAPTION: 964
 HASHTAG: #intelligenzaartificiale #higgsfield #cinemastudio #aivideo #tutorial

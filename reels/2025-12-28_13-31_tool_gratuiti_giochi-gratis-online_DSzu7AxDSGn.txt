@@ -6,8 +6,8 @@ DATA: 2025-12-28
 ORA: 13:31
 
 --- METRICHE ---
-LIKE: 9647
-COMMENTI: 208
+LIKE: 9775
+COMMENTI: 210
 DURATA VIDEO: 43 secondi
 CARATTERI CAPTION: 576
 HASHTAG: #risparmiare #tutorial #gaming #casualgamer

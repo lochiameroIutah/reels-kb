@@ -6,8 +6,8 @@ DATA: 2026-03-13
 ORA: 17:41
 
 --- METRICHE ---
-LIKE: 539
-COMMENTI: 19
+LIKE: 649
+COMMENTI: 20
 DURATA VIDEO: 69 secondi
 CARATTERI CAPTION: 878
 HASHTAG: #intelligenzaartificiale #risparmiare #ai #manusai #shoppingonline

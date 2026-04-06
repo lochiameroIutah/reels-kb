@@ -6,8 +6,8 @@ DATA: 2026-03-29
 ORA: 10:48
 
 --- METRICHE ---
-LIKE: 886
-COMMENTI: 810
+LIKE: 905
+COMMENTI: 825
 DURATA VIDEO: 47 secondi
 CARATTERI CAPTION: 982
 HASHTAG: #intelligenzaartificiale #nanobanana #generazioneimmagini #ai #gratis

@@ -6,8 +6,8 @@ DATA: 2025-12-30
 ORA: 23:08
 
 --- METRICHE ---
-LIKE: 2274
-COMMENTI: 29
+LIKE: 2279
+COMMENTI: 30
 DURATA VIDEO: 47 secondi
 CARATTERI CAPTION: 482
 HASHTAG: #trucchisegreti #wetransfer #tutorial #risparmiare #hacksandtips

@@ -6,8 +6,8 @@ DATA: 2026-04-02
 ORA: 19:29
 
 --- METRICHE ---
-LIKE: 1150
-COMMENTI: 304
+LIKE: 1209
+COMMENTI: 307
 DURATA VIDEO: 73 secondi
 CARATTERI CAPTION: 89
 HASHTAG: #intelligenzaartificiale #vibecoding #ia #claudecode

@@ -1,0 +1,63 @@
+POST ID: 18002483774875917
+IG ID: 3870698231881915929
+SHORTCODE: DW3e4i4Dd4Z
+PERMALINK: https://www.instagram.com/reel/DW3e4i4Dd4Z/
+DATA: 2026-04-08
+ORA: 10:15
+
+--- METRICHE ---
+LIKE: 550
+COMMENTI: 426
+DURATA VIDEO: 88 secondi
+CARATTERI CAPTION: 1028
+HASHTAG: #adv #verdent #verdentai #aicoding #vibecoding
+
+--- FLAGS ---
+CTA COMMENTO: sì
+CTA FOLLOW: sì
+LINK IN CAPTION: no
+
+--- CATEGORIA ---
+CATEGORIA: tutorial_ai
+TAG: verdent-ai, sito-web, intelligenza-artificiale
+TOPIC: Creazione di un sito web da zero utilizzando l'app Verdant AI
+
+--- HOOK TESTUALE (dal frame) ---
+Quest'App crea siti web da 10mila euro in un singolo prompt
+
+--- DESCRIZIONE VISIVA ---
+Un uomo con un'espressione pensierosa guarda un laptop, con una mano alzata e l'altra appoggiata sul tavolo, mentre sullo sfondo si vedono bottiglie d'olio e prodotti alimentari
+
+--- CAPTION COMPLETA ---
+Inizia facendo questo:
+
+Prima di tutto 👉 clicca segui @themattvision
+
+1. Apri Verdent AI e crea una nuova cartella
+(Se vuoi ti mando il link se scrivi VERDENT tra i commenti 🔗)
+
+2. Carica dentro alla cartella il video di presentazione dell’azienda o qualsiasi materiale visivo che vuoi usare
+
+3. Incolla il tuo prompt con tutto quello che deve contenere il sito
+(es. “Rifai questo sito da zero partendo dal video, mantieni i dati già presenti”)
+
+4. Scegli Multimodal Plan, poi clicca Skills, seleziona Prompt and Design e fai Install e Apply
+
+5. Clicca su Agent → poi su Plan e invia
+
+6. Leggi il piano completo che ha creato interrogando Claude, Gemini e ChatGPT insieme, poi clicca Build
+
+7. In pochi minuti il tuo sito sarà pronto da pubblicare, con video di sfondo e tutto 🚀
+
+Zero terminale. Zero codice. Zero mal di testa.
+
+Se ti sono stato utile 👉 clicca segui @themattvision
+
+Io sono il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video!
+
+cc: @verdent__ai 
+
+#adv #Verdent #VerdentAI #AIcoding #vibecoding
+
+--- TRASCRIZIONE AUDIO ---
+Non so se lo sai, ma questa azienda è stata abbandonata da chi gli ha fatto il sito web ancora nel 2003. E oggi, grazie all'intelligenza artificiale, lo rifarò completamente da zero in un singolo prompt. Lo utilizzerò Verdant, che anziché usare una semplice intelligenza artificiale, va a interrogarle tutte. Claude, Gemini, Chagpt, prende tutte le risposte e le impacchette in un unico piano completo per costruire il sito. Quindi creo una nuova cartella e vado a selezionarla. Vado a inserire il video di presentazione all'interno della cartella. vado a dargli questo prompt qua, vado a scegliere multimodal plan, clicco attenzione su skills e scelgo prompt and design, faccio quindi installa e applica e premo su invia. Ecco quindi che ha iniziato e adesso creerà tutto il piano di implementazione per costruire questo sito web. Ecco quindi che sta prendendo tutte le risposte che gli hanno dato l'intelligenza artificiale e sta creando un unico piano completo. Lui ci dice tutto quello che dovrà andare a fare e noi premeremo su build. Ed ecco qui che ha terminato e ci propone la next action Infatti in questa situazione cliccando su questo pulsante mi porta nel sito web completo Guardate che figata con il video di sfondo E qui esattamente tutti i dati che avevano messo nel sito Ovviamente le foto sono da aggiornare Questa app si chiama Verdant e il link te l'ho messo in descrizione Ma se commenti con la parola Verdant te lo mando direttamente per messaggi Io sono Matteo Zampiedi, il tuo smanettone di fiducia E tu ricordati di seguirmi così noi ci vediamo ad un prossimo video

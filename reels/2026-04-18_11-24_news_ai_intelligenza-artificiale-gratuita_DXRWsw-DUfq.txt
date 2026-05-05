@@ -1,0 +1,53 @@
+POST ID: 18122588920624006
+IG ID: 3877980587403593706
+SHORTCODE: DXRWsw-DUfq
+PERMALINK: https://www.instagram.com/reel/DXRWsw-DUfq/
+DATA: 2026-04-18
+ORA: 11:24
+
+--- METRICHE ---
+LIKE: 1236
+COMMENTI: 324
+DURATA VIDEO: 65 secondi
+CARATTERI CAPTION: 654
+HASHTAG: #intelligenzaartificiale #zimage #nanobanana #ai #risparmiare
+
+--- FLAGS ---
+CTA COMMENTO: sì
+CTA FOLLOW: sì
+LINK IN CAPTION: sì (link presente)
+
+--- CATEGORIA ---
+CATEGORIA: news_ai
+TAG: intelligenza artificiale, zimage, nanobanana, ai
+TOPIC: Presentazione di Z-Image Turbo, una intelligenza artificiale gratuita e senza censure per generare immagini
+
+--- HOOK TESTUALE (dal frame) ---
+Questa intelligenza artificiale cinese sta spopolando e ti crea le immagini senza censure
+
+--- DESCRIZIONE VISIVA ---
+Un uomo con un'espressione pensierosa e un po' stupita, indossa una maglietta nera e ha i capelli corti. Sembra che stia parlando o mostrando qualcosa alla telecamera. Nello sfondo, si vede un computer con uno schermo acceso.
+
+--- CAPTION COMPLETA ---
+Ecco il link:
+
+Prima di tutto 👉 clicca segui @themattvision
+
+Il link del sito è questo: http://huggingface.co/spaces/mrfakename/Z-Image-Turbo
+
+(Se non riesci a copiarlo, scrivi ZETA e ti mando il link direttamente)
+
+Per scaricare ComfyUI vai qui: https://www.comfy.org
+
+I cinesi stanno spaccando tutto, pochi mesi fa pagavamo per generare immagini e oggi lo facciamo gratis, offline e senza censure direttamente dal nostro computer.
+
+Pazzesco.
+
+Se ti sono stato utile 👉 clicca segui @themattvision
+
+Io sono Matteo Zampieri il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video!
+
+#intelligenzaartificiale #zimage #nanobanana #ai #risparmiare
+
+--- TRASCRIZIONE AUDIO ---
+Non so se lo sai ma la Cina ha pubblicato Z-Image Turbo che è potente come nano banana ma completamente gratuito. Infatti il suo codice sorgente lo puoi trovare su Hacking Face dove si trovano tutte le intelligenze artificiali completamente gratuite. La cosa più assurda è che questo modello è completamente senza censure quindi puoi generare davvero qualsiasi cosa. E puoi farlo funzionare direttamente offline nel tuo computer utilizzando ConfUI. Ma se non sei così smanettone c'è qui il tuo smanettone di fiducia pronto qui a darti una mano. Ti basterà andare su questo sito qua che ti ho messo in descrizione e andare a incollare il tuo prompt che ti sei fatto creare da qualsiasi intelligenza artificiale e cliccare su generate. D'ora in poi sarai in grado di creare le tue immagini con l'intelligenza artificiale in maniera completamente gratuita, guarda qua. Il mio obiettivo era generare un maratoneta alla maratona di New York con qualcuno che dice segui il tuo smanettone di fiducia su Instagram e direi che il risultato non è niente male. Per i testi comunque il re indiscusso rimane comunque Nano Banana che è anche gratuito, circa 20 immagini ogni giorno puoi fare anche senza abbonamento. Io sono Matteo Zampieri, il tuo smanetto di fiducia e tu seguimi così noi ci vediamo ad un prossimo video.

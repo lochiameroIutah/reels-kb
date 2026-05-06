@@ -6,8 +6,8 @@ DATA: 2026-01-16
 ORA: 12:05
 
 --- METRICHE ---
-LIKE: 6781
-COMMENTI: 223
+LIKE: 7030
+COMMENTI: 233
 DURATA VIDEO: 49 secondi
 CARATTERI CAPTION: 587
 HASHTAG: #intelligenzaartificiale #tutorial #videovirali #aiviralvideo #klingai

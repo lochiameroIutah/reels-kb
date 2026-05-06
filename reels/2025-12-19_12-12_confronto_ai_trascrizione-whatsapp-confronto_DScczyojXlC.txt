@@ -7,7 +7,7 @@ ORA: 12:12
 
 --- METRICHE ---
 LIKE: 59
-COMMENTI: 204
+COMMENTI: 202
 DURATA VIDEO: 27 secondi
 CARATTERI CAPTION: 317
 HASHTAG: #intelligenzaartificiale #risparmiare #whatsapp #ia #instagramtipsitalia

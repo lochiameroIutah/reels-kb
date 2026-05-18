@@ -6,8 +6,8 @@ DATA: 2026-04-10
 ORA: 07:45
 
 --- METRICHE ---
-LIKE: 1693
-COMMENTI: 269
+LIKE: 1812
+COMMENTI: 290
 DURATA VIDEO: 65 secondi
 CARATTERI CAPTION: 952
 HASHTAG: #intelligenzaartificiale #google #gemini #googledisco #ai

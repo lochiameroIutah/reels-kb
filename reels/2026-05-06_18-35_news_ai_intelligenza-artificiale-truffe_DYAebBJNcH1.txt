@@ -6,8 +6,8 @@ DATA: 2026-05-06
 ORA: 18:35
 
 --- METRICHE ---
-LIKE: 19
-COMMENTI: 0
+LIKE: 85
+COMMENTI: 9
 DURATA VIDEO: 72 secondi
 CARATTERI CAPTION: 97
 HASHTAG: #truffa #intelligenzaartificiale #chatgpt

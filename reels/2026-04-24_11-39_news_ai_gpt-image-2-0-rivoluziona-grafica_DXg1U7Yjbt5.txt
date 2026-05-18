@@ -6,8 +6,8 @@ DATA: 2026-04-24
 ORA: 11:39
 
 --- METRICHE ---
-LIKE: 241
-COMMENTI: 87
+LIKE: 245
+COMMENTI: 90
 DURATA VIDEO: 58 secondi
 CARATTERI CAPTION: 940
 HASHTAG: #intelligenzaartificiale #chatgpt #gptimage #grafica #ai

@@ -6,8 +6,8 @@ DATA: 2025-10-27
 ORA: 20:41
 
 --- METRICHE ---
-LIKE: 4362
-COMMENTI: 226
+LIKE: 4360
+COMMENTI: 225
 DURATA VIDEO: 33 secondi
 CARATTERI CAPTION: 654
 HASHTAG: #intelligenzaartificiale #whatsapphack #risparmiare #ai #ia

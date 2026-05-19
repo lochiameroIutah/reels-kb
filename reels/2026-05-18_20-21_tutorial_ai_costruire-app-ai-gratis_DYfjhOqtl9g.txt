@@ -1,0 +1,50 @@
+POST ID: 17917284762369539
+IG ID: 17917284762369539
+SHORTCODE: DYfjhOqtl9g
+PERMALINK: https://www.instagram.com/reel/DYfjhOqtl9g/
+DATA: 2026-05-18
+ORA: 20:21
+
+--- METRICHE ---
+LIKE: 58
+COMMENTI: 45
+DURATA VIDEO: 64 secondi
+CARATTERI CAPTION: 608
+HASHTAG: #vibecoding #intelligenzaartificiale #aiweek #ai #creatorsearchinsights
+
+--- FLAGS ---
+CTA COMMENTO: sì
+CTA FOLLOW: sì
+LINK IN CAPTION: no
+
+--- CATEGORIA ---
+CATEGORIA: tutorial_ai
+TAG: intelligenza artificiale, aiweek, applicazioni
+TOPIC: Costruire app con intelligenza artificiale senza codice
+
+--- HOOK TESTUALE (dal frame) ---
+Ho rifatto l'App di questo evento in 4 ore stanotte usando l'intelligenza artificiale
+
+--- DESCRIZIONE VISIVA ---
+Una mano destra sfiora la tastiera di un laptop acceso con un'applicazione in primo piano, sfocata.
+
+--- CAPTION COMPLETA ---
+Puoi farlo gratis, ti spiego come ho fatto.
+
+Prima di tutto 👉 clicca segui @themattvision
+
+Ho costruito questa app per @aiweekitalia usando l’intelligenza artificiale, senza scrivere una sola riga di codice.
+
+Nel 2026 chiunque può provarci, ma pochi ci riescono davvero perché non hanno il metodo giusto.
+
+Il 27 maggio alle 20:00 faccio un workshop gratuito dove ti spiego esattamente il metodo che uso io, passo passo.
+
+Se vuoi partecipare commenta APP 👇
+
+Io sono il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video!
+
+ #vibecoding #intelligenzaartificiale #aiweek #ai 
+#creatorsearchinsights
+
+--- TRASCRIZIONE AUDIO ---
+costruito la mia versione dell'applicazione per le AI Week. L'app è divisa in la sezione principale, no? Tipo chi c'è in questo momento sul palco poi ti mostra chi c'è in contemporanea sugli altri palchi con anche il countdown di quando finisce, i prossimi talk oppure puoi mostrare anche solo quelli che ti sei salvato e poi in basso c'hai la home del programma. Posso andare a salvarmi quello che mi interessa, aggiungerlo direttamente al calendario, attivare le notifiche, condividere con Chi vuoi, qui puoi scegliere tutti gli stage per andare a filtrare solo quello che vuoi vedere E poi c'è qui il pulsante per cercare E in automatico ti mostra tutte le informazioni Questo 27 maggio alle 8 di sera Terrò proprio una live dove vi spiegherò passo passo come fare Applicazioni sfruttando l'intelligenza artificiale Workshop sarà gratuito Quindi te se vuoi partecipare commenta app e ti mando tutti i dettagli Io sono Matteo Zampieri, il tuo smanettone di fiducia Noi ci vediamo in un prossimo video Tu ricordati di seguirmi se ancora non l'hai fatto così poi scoprirai come fare applicazioni sfruttando l'intelligenza artificiale.

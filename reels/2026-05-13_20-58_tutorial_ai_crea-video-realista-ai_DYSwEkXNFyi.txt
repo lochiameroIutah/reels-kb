@@ -7,7 +7,7 @@ ORA: 20:58
 
 --- METRICHE ---
 LIKE: 71
-COMMENTI: 90
+COMMENTI: 92
 DURATA VIDEO: 36 secondi
 CARATTERI CAPTION: 723
 HASHTAG: #intelligenzaartificiale #ai #ia #prompt #higgsfield

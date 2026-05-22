@@ -6,8 +6,8 @@ DATA: 2026-05-20
 ORA: 07:35
 
 --- METRICHE ---
-LIKE: 398
-COMMENTI: 129
+LIKE: 413
+COMMENTI: 135
 DURATA VIDEO: 68 secondi
 CARATTERI CAPTION: 889
 HASHTAG: #intelligenzaartificiale #google #googleio #ai #occhialismart

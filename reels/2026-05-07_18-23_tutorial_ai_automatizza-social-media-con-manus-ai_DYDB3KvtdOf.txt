@@ -6,8 +6,8 @@ DATA: 2026-05-07
 ORA: 18:23
 
 --- METRICHE ---
-LIKE: 189
-COMMENTI: 94
+LIKE: 195
+COMMENTI: 104
 DURATA VIDEO: 61 secondi
 CARATTERI CAPTION: 817
 HASHTAG: #intelligenzaartificiale #manusai #socialmediamanager #ai #meta

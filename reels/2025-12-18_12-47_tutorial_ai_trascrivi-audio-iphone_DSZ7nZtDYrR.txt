@@ -6,8 +6,8 @@ DATA: 2025-12-18
 ORA: 12:47
 
 --- METRICHE ---
-LIKE: 1234
-COMMENTI: 1360
+LIKE: 1235
+COMMENTI: 1367
 DURATA VIDEO: 34 secondi
 CARATTERI CAPTION: 243
 HASHTAG: #intelligenzaartificiale #risparmiare #ia #ai #trascriviaudio #trascrizione

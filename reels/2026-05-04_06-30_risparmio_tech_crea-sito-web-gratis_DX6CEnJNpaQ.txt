@@ -7,7 +7,7 @@ ORA: 06:30
 
 --- METRICHE ---
 LIKE: 71
-COMMENTI: 66
+COMMENTI: 68
 DURATA VIDEO: 66 secondi
 CARATTERI CAPTION: 908
 HASHTAG: #adv #verdent #verdentai #aicoding #vibecoding

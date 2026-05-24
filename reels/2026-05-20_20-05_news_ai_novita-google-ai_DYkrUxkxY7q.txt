@@ -6,8 +6,8 @@ DATA: 2026-05-20
 ORA: 20:05
 
 --- METRICHE ---
-LIKE: 150
-COMMENTI: 157
+LIKE: 158
+COMMENTI: 171
 DURATA VIDEO: 56 secondi
 CARATTERI CAPTION: 791
 HASHTAG: #intelligenzaartificiale #google #googleio #ai #creatorsearchinsights

@@ -7,7 +7,7 @@ ORA: 07:35
 
 --- METRICHE ---
 LIKE: 420
-COMMENTI: 135
+COMMENTI: 139
 DURATA VIDEO: 68 secondi
 CARATTERI CAPTION: 889
 HASHTAG: #intelligenzaartificiale #google #googleio #ai #occhialismart

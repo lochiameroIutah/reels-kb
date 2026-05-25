@@ -6,8 +6,8 @@ DATA: 2026-05-14
 ORA: 11:54
 
 --- METRICHE ---
-LIKE: 343
-COMMENTI: 22
+LIKE: 354
+COMMENTI: 24
 DURATA VIDEO: 104 secondi
 CARATTERI CAPTION: 1483
 HASHTAG: #chatgpt #intelligenzaartificiale #higgsfield #ai #tutorial

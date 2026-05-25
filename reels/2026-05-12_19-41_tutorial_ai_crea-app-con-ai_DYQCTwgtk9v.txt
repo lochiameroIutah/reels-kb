@@ -7,7 +7,7 @@ ORA: 19:41
 
 --- METRICHE ---
 LIKE: 79
-COMMENTI: 125
+COMMENTI: 127
 DURATA VIDEO: 95 secondi
 CARATTERI CAPTION: 534
 HASHTAG: #intelligenzaartificiale #vibecoding #app #programmare #tutorial

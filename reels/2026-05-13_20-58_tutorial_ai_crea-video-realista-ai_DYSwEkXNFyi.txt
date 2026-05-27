@@ -6,8 +6,8 @@ DATA: 2026-05-13
 ORA: 20:58
 
 --- METRICHE ---
-LIKE: 80
-COMMENTI: 113
+LIKE: 82
+COMMENTI: 121
 DURATA VIDEO: 36 secondi
 CARATTERI CAPTION: 723
 HASHTAG: #intelligenzaartificiale #ai #ia #prompt #higgsfield

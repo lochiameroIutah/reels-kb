@@ -1,0 +1,66 @@
+POST ID: 18592166431000786
+IG ID: 18592166431000786
+SHORTCODE: DY0Encbx9GY
+PERMALINK: https://www.instagram.com/reel/DY0Encbx9GY/
+DATA: 2026-05-26
+ORA: 19:31
+
+--- METRICHE ---
+LIKE: 210
+COMMENTI: 210
+DURATA VIDEO: 77 secondi
+CARATTERI CAPTION: 889
+HASHTAG: #vibecoding #intelligenzaartificiale #ai #workshop #creatorsearchinsights
+
+--- FLAGS ---
+CTA COMMENTO: sì
+CTA FOLLOW: sì
+LINK IN CAPTION: no
+
+--- CATEGORIA ---
+CATEGORIA: tutorial_ai
+TAG: intelligenza artificiale, vibe coding, workshop
+TOPIC: Creare applicazioni senza scrivere codice con l'intelligenza artificiale
+
+--- HOOK TESTUALE (dal frame) ---
+Da oggi l'intelligenza artificiale può creare le App al posto tuo
+
+--- DESCRIZIONE VISIVA ---
+Un uomo con la barba e un maglione nero guarda verso la camera con un'espressione seria. Sullo sfondo si vede una parete bianca e un soffitto grigio.
+
+--- CAPTION COMPLETA ---
+Puoi farlo anche tu, ti spiego:
+
+Commenta APP e ti spiego
+
+Prima di tutto 👉 clicca segui @themattvision
+
+Tutte le applicazioni che hai visto nel video le ho create senza scrivere una sola riga di codice.
+
+Solo descrivendo a parole quello che volevo.
+
+La lista delle cose da fare.
+
+Il portfolio per il mio amico designer.
+
+L’app della palestra.
+
+Quella per organizzare il mio compleanno.
+
+E la mia preferita, quella che ti aiuta a tenere lo slancio sulle abitudini come fa Duolingo.
+
+Domani alle 8 ti mostro dal vivo come si fa, passo passo.
+
+Capirai che la prossima app potrebbe essere la TUA 💡
+
+Se vuoi partecipare al workshop, allora commenta APP qui sotto e ti mando il link.
+
+Se ti sono stato utile 👉 clicca segui @themattvision
+
+Io sono Matteo Zampieri il tuo smanettone di fiducia, noi ci vediamo domani!
+
+#vibecoding #intelligenzaartificiale #ai #workshop 
+#creatorsearchinsights
+
+--- TRASCRIZIONE AUDIO ---
+Sai io non ci posso credere cioè la situazione mi è sfuggita di mano queste qua sono tutte le applicazioni che ho creato quando ho imparato a fare applicazioni con l'intelligenza artificiale quelle di cui vado più fiero tipo questa qua tu gli dici tutte le cose che hai da fare e lui ti fa tutta la lista scritta per bene. Ho fatto ad esempio questo portfoglio per questo mio amico designer, questa è l'app della palestra che mi sono fatto perché non avevo voglia di utilizzare quello che mi hanno dato loro, ma poi aspetta perché ho fatto anche quella che mi permette di gestire tutta l'organizzazione del mio compleanno, tipo questi sono gli invitati, le casse, la gente quanto beve e queste applicazioni le ho create senza toccare una riga di codice. E poi la mia preferita è un'applicazione che ti permette di tenere lo slancio tipo Duolingo, no? Tu imposti una cosa che vuoi fare tipo 25 flessioni ogni giorno e lui te lo ricorda con l'obiettivo di portare avanti una buona abitudine. Tutto questo grazie al vibe coding, ovvero creare applicazioni con l'intelligenza artificiale. Io sono Matteo Zampieri, il tuo smanettone di fiducia e domani ti mostrerò come si può fare una volta per tutte queste applicazioni sfruttando solamente l'intelligenza artificiale. Sarà un workshop dal vivo e tu commenta con la parola app e ti mando il link per partecipare. Noi quindi ci vediamo domani alle ore 8 che ti mostrerò come creare applicazioni da zero sfruttando solo l'intelligenza artificiale.

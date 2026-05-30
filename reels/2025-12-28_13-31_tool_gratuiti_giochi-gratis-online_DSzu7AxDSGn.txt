@@ -19,14 +19,17 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: tool_gratuiti
-TAG: gaming, gratuito, console
-TOPIC: Un sito web gratuito per giocare a qualsiasi gioco senza scaricare nulla
+TAG: gam-onl, playstation, crash-bandicoot, mario, giochi-gratis
+TOPIC: Come utilizzare il sito gam.onl per giocare a qualsiasi gioco PlayStation, Crash Bandicoot e Mario senza dover scaricare nulla
 
 --- HOOK TESTUALE (dal frame) ---
 Questo sito ti fa usare qualsiasi gioco gratis ma lo fa con stile
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con una maglietta bianca parla verso la telecamera con una mano alzata. Si trova in una stanza con una finestra sul lato destro e un impianto stereo alle sue spalle.
+Il video mostra una serie di screenshot e riprese di un uomo che utilizza un laptop per accedere a un sito web che offre giochi gratuiti. Vengono mostrati diversi giochi come PlayStation, Crash Bandicoot e Mario. L'uomo interagisce con il laptop, mostrando come navigare nel sito e selezionare i giochi.
+
+--- PRODOTTI / TOOL VISIBILI ---
+PlayStation, Crash Bandicoot, Mario
 
 --- CAPTION COMPLETA ---
 Io nome del sito è semplice ma fa qualcosa di davvero complesso, infatti ti permette di giocare a qualsiasi gioco completamente gratis.
@@ -44,4 +47,4 @@ Io sono il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video!
 #risparmiare #tutorial #gaming #casualgamer
 
 --- TRASCRIZIONE AUDIO ---
-Non so se lo sai ma ho trovato un sito che ti permette di giocare a qualsiasi console possibile e immaginabile. Abbiamo qui la Playstation con tutti i giochi, qualsiasi gioco arcade, Super Nintendo, Super Mario. La cosa più interessante è che non devi scaricare niente, guarda qua. Io scelgo la Playstation, premo invio, volendo posso anche collegarci il controller, scelgo il gioco che mi interessa. Oppure clicco qui sulla ricerca e mi compare tutta la lista dei giochi disponibili. Una volta cercato il gioco premi sulla sua icona e in un attimo il gioco partirà. Questo è Crash Bandicoot 1 per la Playstation senza dover scaricare niente. Il nome del sito te l'ho messo in descrizione. Io sono Matto Zampieri il tuo smanettone di fiducia. Noi ci vediamo ad un prossimo video ricordati di seguirmi se ancora non l'hai fatto.
+Non so se lo sai, ma ho trovato un sito che ti permette di giocare a qualsiasi console possibile e immaginabile. Abbiamo qui la PlayStation con tutti i giochi, qualsiasi gioco arcade, Super Nintendo, Super Mario. La cosa più interessante è che non devi scaricare niente, guarda qua. Io scelgo la PlayStation, premo invio, volendo posso anche collegarci il controller, scelgo il gioco che mi interessa, oppure clicco qui sulla ricerca e mi compare tutta la lista dei giochi disponibili. Una volta cercato il gioco premi sulla sua icona e in un attimo il gioco partirà. Questo è Crash Bandicoot 1 per la PlayStation senza dover scaricare niente. Il nome del sito te l'ho messo in descrizione, io sono Matteo Zampieri, il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video, ricordati di seguirmi se ancora non l'hai fatto.

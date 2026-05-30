@@ -18,18 +18,21 @@ CTA FOLLOW: no
 LINK IN CAPTION: no
 
 --- CATEGORIA ---
-CATEGORIA: altro
-TAG: 
-TOPIC: 
+CATEGORIA: news_ai
+TAG: claude-code, intelligenza-artificiale, danni-economici, github
+TOPIC: Il caso di un danno da miliardi di dollari causato da un modello AI scaricato tramite Claude Code
 
 --- HOOK TESTUALE (dal frame) ---
 Questa persona ha fatto un danno da un sacco di miliardi di dollari
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con una maglietta nera sta parlando in un microfono, con una finestra alle spalle e delle tende verdi.
+Il video mostra una persona che parla in un microfono, discutendo di un argomento legato all'intelligenza artificiale e alla programmazione. Viene mostrato uno screenshot di un terminale con il nome 'Claude Code' e un link a GitHub. L'uomo sembra discutere di come qualcuno abbia scaricato un modello AI e di come questo abbia causato un danno significativo. Viene menzionato anche il mondo dell'intelligenza e come questo evento abbia avuto un impatto notevole.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Claude Code, GitHub
 
 --- CAPTION COMPLETA ---
 Meglio di una serie di Netflix 😮‍💨 #intelligenzaartificiale #vibecoding #ia #claudecode
 
 --- TRASCRIZIONE AUDIO ---
-Non so se lo sai, ma quello che è successo nelle ultime 24 ore nel mondo dell'intelligenza artificiale è folle. Infatti alle 4 di mattina quelli di Cloud hanno pubblicato un nuovo aggiornamento del loro strumento più in hype del momento, ovvero Cloud Code. Ma per sbaglio dentro a quel file di aggiornamento c'era l'intero codice sorgente del programma. Assurdo. Quindi cosa succede? Ovviamente dopo 20 minuti il ricercatore se ne accorge e lo ripubblica su X. Durante la notte il post fa 3 milioni di views e chiunque lo scarica a sua volta per ripubblicarlo, no? Questo ha generato un totale di 41.000 volte che è stato copiato in giro per il web in qualche ora. Quindi Claude ovviamente appena si sveglia prova a trattare con le aziende per farle eliminare, ma niente. Un programmatore coreano ne ha approfittato per riscriverlo completamente in Python, che è un altro linguaggio di programmazione, e l'ha pure pubblicato su GitHub. GitHub vedilo come un sito dove tutti i programmatori del mondo caricano il loro codice. Comunque il progetto ha fatto le 30.000 stelle diventando così il progetto più cresciuto in fretta nella storia di Github. Ora c'è chi dice che tutto questo è stato fatto apposta solamente per creare ulteriore hype, ma secondo voi perché? Comunque io sono Mattel Zampieri, il tuo smetto è un'infiducia, noi ci vediamo in un prossimo video, tu ricordi di seguirmi se ancora non l'hai fatto così non te lo perdi.
+Grazie a tutti. Grazie a tutti!

@@ -19,14 +19,17 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: tutorial_ai
-TAG: intelligenza artificiale, claude, carosello, instagram
-TOPIC: Guida su come creare caroselli per i social con l'intelligenza artificiale utilizzando Claude
+TAG: claude, intelligenza-artificiale, carosello, instagram, automazione
+TOPIC: Come utilizzare Claude per creare caroselli personalizzati per Instagram con l'intelligenza artificiale
 
 --- HOOK TESTUALE (dal frame) ---
 Da oggi Claude ti crea caroselli per i social con l'intelligenza artificiale
 
 --- DESCRIZIONE VISIVA ---
-Uno screenshot di un computer con un'immagine di sfondo di una montagna verde e una cascata, e un uomo seduto davanti a un laptop con un'espressione di sorpresa o incredulità
+Il video mostra un uomo che utilizza un laptop per creare caroselli per i social media con l'aiuto dell'intelligenza artificiale. Inizia con una schermata di Claude, poi si vedono istruzioni salvate, ricerche online e screenshot di risultati. L'uomo parla e gesticola mentre guarda il laptop, discutendo le funzionalità di Claude. Le schermate mostrano come utilizzare Claude per generare contenuti, salvare istruzioni e creare caroselli.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Claude
 
 --- CAPTION COMPLETA ---
 Inizia facendo questo:
@@ -60,4 +63,4 @@ Io sono Matteo Zampieri il tuo smanettone di fiducia, noi ci vediamo ad un pross
 #intelligenzaartificiale #claude #carosello #instagramgrowth #ai risparmiare
 
 --- TRASCRIZIONE AUDIO ---
-No vabbè mi stai dicendo che se vado su Cloud, creo un nuovo progetto e lo chiamo Carosello, vado nelle istruzioni, incollo questo testo che ti ho messo in descrizione, clicco salva istruzioni e gli chiedo di crearmi un carosello sulle ultime notizie di intelligenza artificiale oggi. Lui dopo avermi fatto delle domande ti crea un carosello su Instagram pronto per essere pubblicato e me lo presenta addirittura in una pagina web in stile Instagram. Questa cosa è pazzesca Io sono Matteo Zampieri Il tuo smanettone di fiducia Tu se vuoi esattamente tutta la guida Scrivi la parola carosello E te la mando direttamente Noi ci vediamo ad un prossimo video E tu ricordati di seguirmi se ancora non l'hai fatto
+No vabbè, mi stai dicendo che se vado su Claude, creo un nuovo progetto e lo chiamo Carosello, vado nelle istruzioni, incollo questo testo che ti ho messo in descrizione, clicco salva istruzioni e gli chiedo di crearmi un carosello sulle ultime notizie di intelligenza artificiale oggi. Lui, dopo avermi fatto delle domande, ti crea un carosello su Instagram pronto per essere pubblicato e me lo presenta addirittura in una pagina web in stile Instagram. Questa cosa è pazzesca e io sono Matteo Zampieri, il tuo smanettone di fiducia. Tu, se vuoi esattamente tutta la guida, scrivi la parola carosello e te la mando direttamente. Noi ci vediamo ad un prossimo video e tu ricordati di seguirmi se ancora non l'hai fatto.

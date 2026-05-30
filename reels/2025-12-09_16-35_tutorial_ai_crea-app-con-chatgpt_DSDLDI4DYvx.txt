@@ -19,14 +19,17 @@ LINK IN CAPTION: sì (link presente)
 
 --- CATEGORIA ---
 CATEGORIA: tutorial_ai
-TAG: chatgpt, codex, intelligenza artificiale
-TOPIC: Il video mostra come utilizzare ChatGPT per creare applicazioni gratuite
+TAG: chatgpt, codex, sviluppo-app, intelligenza-artificiale, tool-gratuiti
+TOPIC: Come utilizzare ChatGPT con Codex per creare applicazioni mobili complete gratuitamente
 
 --- HOOK TESTUALE (dal frame) ---
 Da oggi ChatGPT ti fa creare le tue App COMPLETE per iPhone e Android
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con capelli castani corti e un maglione grigio scuro, sembra parlare direttamente alla telecamera, con una mano alzata. Sullo sfondo si intravedono una parete grigia, un infisso in legno marrone e un vetro
+Il video mostra un uomo che spiega come utilizzare ChatGPT per creare app complete per iPhone e Android. Inizia con il presentatore che parla e gesticola, mostrando il suo entusiasmo. Poi, si passa a schermate di un computer che mostrano come interagire con ChatGPT per la creazione di app, incluso l'utilizzo di strumenti come Codex, la scrittura di codice e la visualizzazione di simulazioni di app su dispositivi mobili. Viene mostrato anche il processo di sviluppo dell'app, con il presentatore che indica specifiche parti dello schermo per evidenziare funzionalità e passaggi.
+
+--- PRODOTTI / TOOL VISIBILI ---
+ChatGPT, Codex
 
 --- CAPTION COMPLETA ---
 Qui trovi il link di ChatGPT Codex anche se si trova dentro al tuo ChatGPT: https://chatgpt.com/it-IT/features/codex/
@@ -40,4 +43,4 @@ Io sono il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video!
 #risparmiare #chatgpt #codex #vibecoding #intelligenzaartificiale
 
 --- TRASCRIZIONE AUDIO ---
-Non so se lo sai ma CiaGPT adesso ti permette di creare applicazioni direttamente con lo stesso abbonamento che stai pagando. Infatti questa qua è la mia applicazione con l'intelligenza artificiale. Ma come fare? Per fortuna c'è il tuo smalettone di fiducia pronto qui a darti una mano. Guarda qua adesso abbiamo Codex che se noi lo clicchiamo possiamo andare in questa pagina. Vedete quale codice dovremmo scrivere adesso? Appunto scrive codice al posto nostro. Ma la cosa più interessante è usare questo programmino qua. Andare sull'estensione scrivere Codex. Comparirà a Codex il programmino di chat GPT e cliccate appunto su install Una volta che l'avete installato ve lo ritroverete appunto qua vedete in basso a sinistra Lo cliccate e ci avete chat GPT però dedicato a creare le vostre applicazioni In questo caso io sto costruendo un'app tipo chat GPT un clone Infatti adesso gli abbiamo detto saluta chi sta guardando questo video ed è qui che ti risponde tranquillamente Questa cosa è compresa nel vostro abbonamento di chat GPT quindi andatela a utilizzare Io sono il tuo smanettone di fiducia Noi ci vediamo ad un prossimo video Ricordati di seguirmi se ancora non l'hai fatto
+Non so se lo sai, ma CiaGPT adesso ti permette di creare applicazioni direttamente con lo stesso abbonamento che stai pagando. Infatti questa qua è la mia applicazione con l'intelligenza artificiale. Ma come fare? Per fortuna c'è il tuo smanettone di fiducia pronto qui a darti una mano. Guarda qua, adesso abbiamo Codex che se noi lo clicchiamo possiamo andare in questa pagina, vedete quale codice dovremmo scrivere adesso? Appunto scrive codice al posto nostro. Ma la cosa più interessante è usare questo programmino qua, andare sull'estensione e scrivere Codex, Comparirà a Codex il programmino di ChatGPT e cliccate appunto su install. Una volta che l'avete installato ve lo ritroverete appunto qua, vedete, in basso a sinistra, lo cliccate e ci avete ChatGPT però dedicato a creare le vostre applicazioni. In questo caso io sto costruendo un'app tipo ChatGPT, un clone. Infatti adesso gli abbiamo detto saluta chi sta guardando questo video ed è qui che ti risponde tranquillamente. Questa cosa è compresa nel vostro abbonamento di chat GPT, quindi andatela a utilizzare, io sono il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video, ricordati di seguirmi se ancora non l'hai fatto.

@@ -19,14 +19,17 @@ LINK IN CAPTION: sì (link presente)
 
 --- CATEGORIA ---
 CATEGORIA: tool_gratuiti
-TAG: notebooklm, google, intelligenza-artificiale
-TOPIC: Scopriamo un tool gratuito di Google che aiuta a leggere e comprendere i PDF
+TAG: google-notebooklm, intelligenza-artificiale, pdf-lettori, strumenti-gratuiti
+TOPIC: Come utilizzare Google NotebookLM per leggere e comprendere documenti PDF con l'aiuto dell'intelligenza artificiale
 
 --- HOOK TESTUALE (dal frame) ---
-DIMMI CHE ANCORA
+CHE CON L' INTELLIGENZA
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con una espressione felice guarda verso l'alto, mentre un gatto bianco gli passa sopra la testa, anch'esso rivolto verso la camera.
+Il video mostra un uomo che parla e una dimostrazione di un prodotto tecnologico. Inizia con l'uomo che sorride e tiene un gatto vicino alla faccia. Poi, appare una schermata del browser con un URL che indica 'notebooklm.google', suggerendo l'uso di Google NotebookLM. L'uomo parla e gesticola mentre spiega qualcosa, probabilmente sul prodotto o tecnologia che sta mostrando. La presenza di un elenco di strumenti o app nella schermata del browser, come 'Tools App', 'music', e 'AI FIGHE', indica che il video potrebbe essere focalizzato su un'applicazione o piattaforma AI.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Google NotebookLM
 
 --- CAPTION COMPLETA ---
 Ok il link è questo:

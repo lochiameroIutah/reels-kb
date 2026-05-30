@@ -19,14 +19,17 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: confronto_ai
-TAG: intelligenza artificiale, google gemini, chatgpt
-TOPIC: Il video presenta un confronto tra ChatGPT e Google Gemini, evidenziando le funzionalità di quest'ultimo
+TAG: google-gemini, chatgpt, intelligenza-artificiale, tool-di-sviluppo, automazione
+TOPIC: Come usare Google Gemini per avere funzionalità avanzate rispetto a ChatGPT
 
 --- HOOK TESTUALE (dal frame) ---
-DIMMI CHE USI
+MI FA FARE
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con una maglietta nera parla direttamente alla telecamera con una mano alzata.
+Il video mostra un uomo che presenta vari aspetti di un'applicazione o tool di intelligenza artificiale. Inizia con una schermata del logo 'Gemini' e successivamente mostra una dashboard con 'timelines'. Viene visualizzato un modello di auto colorato con un'immagine di una medusa, seguito da screenshot di un'interfaccia di chat o ricerca, presumibilmente legata a Gemini. L'uomo utilizza un dispositivo mentre illustra funzionalità come la creazione di immagini, la gestione di progetti cinematografici con 'Flow', e la possibilità di creare applicazioni. Viene mostrata anche un'app mobile con il comando 'Breathe' e codice su un terminale.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Gemini
 
 --- CAPTION COMPLETA ---
 Inizia facendo questo:
@@ -70,4 +73,4 @@ Io sono Matteo Zampieri il tuo smanettone di fiducia, noi ci vediamo ad un pross
 #intelligenzaartificiale #gemini #chatgpt #risparmiare #googlegemini
 
 --- TRASCRIZIONE AUDIO ---
-Dimmi che usi ChatGPT quando io utilizzo Google Gemini che mi fa fare altre mille cose rispetto a ChatGPT allo stesso prezzo. Adesso ti faccio vedere. Permesso che nessuno mi sta pagando per dirti queste cose, rispetto a ChatGPT hai sia il chatbot classico di ChatGPT sempre con te, che poi puoi utilizzare con Gemini e un sacco di altre applicazioni tipo Canvas che ti permette di fare mini programmini utili per la vita di tutti i giorni. Ad esempio io mi sono fatto l'app per la mia palestra perché quella che mi avevano dato loro mi faceva schifo. Ma poi hai Nano Banana per creare le immagini, hai Gemini integrato dentro a Gmail, Google Drive. Per non parlare che se stai studiando qualcosa di nuovo puoi usare Notebook LM che ti genera addirittura dei podcast e un sacco di strumenti utili per studiare. E poi c'hai 2000 GB di spazio su Google Drive. Puoi creare video cinematografici utilizzando Flow, creare delle immagini assurde anche senza creatività utilizzando Whisk. E poi adesso è incluso anche Google Stitch che ti crea le interfacce per creare tutte le tue applicazioni. Per non parlare di Antigravity che ti crea letteralmente le applicazioni pubblicabili sull'App Store. E per finire c'hai Gemini che fa le cose al computer al posto tuo. Questo è proprio il computer del futuro. Io penso di non doverti dare altre spiegazioni per cui sono passato appunto a Gemini da tanti mesi ormai e dovresti farlo anche tu. Io sono Matosampieri, il tuo smanetto di fiducia. Noi ci vediamo in un prossimo video e tu ricordati di seguirmi se ancora non l'hai fatto.
+Dimmi che usi CiaGPT quando io utilizzo Google Gemini che mi fa fare altre mille cose rispetto a CiaGPT allo stesso prezzo. Adesso ti faccio vedere. Permesso che nessuno mi sta pagando per dirti queste cose, rispetto a CiaGPT hai sia il chatbot classico di CiaGPT sempre con te, che poi puoi utilizzare con Gemini e un sacco di altre applicazioni tipo Canvas che ti permette di fare mini programmini utili per la vita di tutti i giorni. Ad esempio io mi sono fatto l'app per la mia palestra perché quella che mi avevano dato loro mi faceva schifo. Ma poi hai Nano Banana per creare le immagini, hai Gemini integrato dentro a Gmail, Google Drive. Per non parlare che se stai studiando qualcosa di nuovo puoi usare Notebook LM che ti genera addirittura dei podcast e un sacco di strumenti utili per studiare. E poi c'hai 2000 GB di spazio su Google Drive. Puoi creare video cinematografici utilizzando Flow. Creare delle immagini assurde anche senza creatività utilizzando Wisk. E poi adesso è incluso anche Google Stitch che ti crea le interfacce per creare tutte le tue applicazioni. Per non parlare di Antigravity che ti crea letteralmente le applicazioni pubblicabili sull'App Store. E per finire c'hai Gemini che fa le cose al computer al posto tuo. Questo è proprio il computer del futuro. Io penso di non doverti dare altre spiegazioni per cui sono passato appunto a Gemini da tanti mesi ormai e dovresti farlo anche tu. Io sono Matteo Zampieri, il tuo smanettone di fiducia, noi ci vediamo in un prossimo video e tu ricordati di seguirmi se ancora non l'hai fatto.

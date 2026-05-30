@@ -19,14 +19,17 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: news_ai
-TAG: raybanmetasmartglasses, intelligenzaartificiale, ai
-TOPIC: Il creatore di contenuti è entusiasta di provare gli occhiali smart Ray-Ban Meta
+TAG: rayban-metasmartglasses, intelligenza-artificiale, ai, iphone
+TOPIC: Anteprima dei RayBan Meta Smart Glasses, un dispositivo di realtà aumentata integrato con l'intelligenza artificiale
 
 --- HOOK TESTUALE (dal frame) ---
 L'iPhone del futuro è dentro agli occhiali e puoi già comprarlo
 
 --- DESCRIZIONE VISIVA ---
-Una persona su un palco con uno schermo dietro di lui parla a un pubblico riunito per un evento, probabilmente una presentazione di un nuovo prodotto, con persone che riprendono con i loro smartphone.
+Il video mostra una presentazione di un prodotto futuristico. Inizia con una schermata di un forno con un'app aperta, seguita da un'altra schermata simile. Poi, si vede una persona che indossa occhiali e interagisce con un ambiente. Viene mostrata una lavatrice e un'altra schermata con del testo. Successivamente, una persona usa una macchina, e poi vengono mostrate immagini di fitness e interazione con dispositivi. Infine, una persona è mostrata con un dispositivo, e il video termina con una schermata di un prodotto su un palcoscenico.
+
+--- PRODOTTI / TOOL VISIBILI ---
+iPhone
 
 --- CAPTION COMPLETA ---
 Non vedo l’ora di averli tra le mani!!
@@ -34,4 +37,4 @@ Non vedo l’ora di averli tra le mani!!
 #raybanmetasmartglasses #intelligenzaartificiale #ai
 
 --- TRASCRIZIONE AUDIO ---
-Grazie a tutti. Grazie a tutti. Grazie a tutti. Grazie a tutti.
+Grazie a tutti. Grazie a tutti. Sous-titrage Société Radio-Canada

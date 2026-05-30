@@ -18,15 +18,18 @@ CTA FOLLOW: sì
 LINK IN CAPTION: no
 
 --- CATEGORIA ---
-CATEGORIA: tool_gratuiti
-TAG: intelligenza artificiale, testsprite, vibecoding, ai
-TOPIC: Utilizzo di TestSprite per testare e sistemare applicazioni create con intelligenza artificiale
+CATEGORIA: tutorial_ai
+TAG: test-sprite, mcp, vibecoding, intelligenza-artificiale, claude-code, automazione
+TOPIC: Come utilizzare TestSprite con MCP per testare e sistemare applicazioni create con intelligenza artificiale
 
 --- HOOK TESTUALE (dal frame) ---
 Pov: l'amico che fa App con ChatGPT
 
 --- DESCRIZIONE VISIVA ---
-mano poggiata su una tastiera di un laptop con un testo colorato su uno schermo
+Il video mostra un uomo che lavora con l'intelligenza artificiale per creare un'applicazione. Inizia mostrando codice su un terminale, poi passa a una schermata dell'applicazione 'AI That Tests, Fixes, and Delivers' e successivamente a un'altra applicazione chiamata '3D Shoes Design Week'. Mostra anche il processo di sviluppo dell'applicazione utilizzando strumenti di intelligenza artificiale.
+
+--- PRODOTTI / TOOL VISIBILI ---
+ChatGPT, AI That Tests, Fixes, and Delivers, 3D Shoes Design Week
 
 --- CAPTION COMPLETA ---
 Ecco come ho risolto:
@@ -50,4 +53,4 @@ Seguimi per restare aggiornato
 #intelligenzaartificiale #risparmiare #testsprite #testspritemcp #vibecoding #ai #claudecode
 
 --- TRASCRIZIONE AUDIO ---
-No vabbè bro, guarda che figata qui, cioè l'ho creata con l'intelligenza artificiale, inserisco la mia mail, clicco qui, però c'è un problema, non funziona, guarda un po', non funziona, io clicco, non funziona. E questo è un problema noto per chi fa applicazioni con l'intelligenza artificiale, cioè spesso ti costruisce tante cose e una certa si perde. Per questo motivo ho utilizzato Test Sprite che è un'intelligenza artificiale che praticamente sistema le cose fatte da un'altra intelligenza artificiale. Pazzesco In particolare ho utilizzato MCP che è gratuito e si integra perfettamente dentro al mio creatore di app con l'intelligenza artificiale E dopo avergli chiesto quindi di fixare la mia app usando proprio questa tecnologia Adesso la mia applicazione è completamente funzionante Guarda qui, chiocciola, metto i dati, clicco accetto inizio, clicco e funziona perfettamente Sembra una follia ma è così ed è completamente gratuito e solamente che le persone non lo conoscono Ora lo conosci, valla a utilizzare e poi fammi sapere come ti trovi.
+No vabbè bro, guarda che figata qui, cioè l'ho creata con l'intelligenza artificiale, inserisco la mia mail, clicco qui, però c'è un problema, non funziona, guarda un po', non funziona, io clicco, non funziona. E questo è un problema noto per chi fa applicazioni con l'intelligenza artificiale, cioè spesso ti costruisce tante cose e una certa si perde. Per questo motivo ho utilizzato Test Sprite che è un'intelligenza artificiale che praticamente sistema le cose fatte da un'altra intelligenza artificiale. Pazzesco. In particolare ho utilizzato MCP che è gratuito e si integra perfettamente dentro al mio creatore di app con l'intelligenza artificiale. E dopo avergli chiesto quindi di fixare la mia app usando proprio questa tecnologia, adesso la mia applicazione è completamente funzionante. Guarda qui, chiocciola, metto i dati, clicco a chat inizio, clicco e funziona perfettamente. Sembra una follia ma è così ed è completamente gratuito e solamente che le persone non lo conoscono. Ora lo conosci, valla a utilizzare e poi fammi sapere come è. Come ti trovi?

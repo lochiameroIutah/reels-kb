@@ -18,15 +18,18 @@ CTA FOLLOW: sì
 LINK IN CAPTION: no
 
 --- CATEGORIA ---
-CATEGORIA: confronto_ai
-TAG: apple, iphone, mac, android, intelligenza-artificiale
-TOPIC: Il creator italiano di AI e tech, @themattvision, confronta i prodotti Apple con quelli Android e spiega perché ritiene che i prodotti Apple siano una scelta migliore.
+CATEGORIA: altro
+TAG: 
+TOPIC: 
 
 --- HOOK TESTUALE (dal frame) ---
 POV: L'amico kagakazzi che vuole il tuo bene ma tu non lo capisci
 
 --- DESCRIZIONE VISIVA ---
-Un uomo seduto a una tavola in una cucina, con armadietti bianchi sullo sfondo. Indossa una maglietta blu scuro con un quadrato grigio al centro. Ha una mano vicino al mento e l'altra mano è sollevata come se stesse per gesticolare.
+Un uomo con una maglietta scura parla e gesticola seduto a un tavolo in cucina. Le sue espressioni facciali e i movimenti delle mani variano mentre parla. Viene menzionato passare da iPhone ad Instagram e Grok.
+
+--- PRODOTTI / TOOL VISIBILI ---
+iPhone, Instagram, Grok
 
 --- CAPTION COMPLETA ---
 Lo penso da troppi anni:
@@ -40,4 +43,4 @@ Io sono il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video!
 #applevssamsung #applevsandroid #applevsgoogle #applevsmicrosoft #appleintelligence
 
 --- TRASCRIZIONE AUDIO ---
-Scusa ma cosa stai aspettando per passare a Mac? Passare ad iPhone, tu pensi che il Mac, l'iPhone che sia più costoso, il Windows, otteni 5 anni, 800 euro, 200 euro l'anno. Invece un Mac per i prossimi 10 anni sono neanche 100 euro l'anno. Tu accendi il Windows e funziona, non pesa una miti da fare, cose che si appena che non ti ricordavi, notifiche che ti arrivano che non sapevi neanche come gestirle. Su Mac, tasto destro, disattiva, se è posto per Sib. comunque considero nessuno mi sta pagando per dirti queste cose è solamente che vedo tantissime persone che non hanno questa funzionalità che non possono fare questo che la fotocamera di Instagram non gli funziona bene finché avete Android, ravi io cosa vi devo dire? Android è bellissimo per tantissime cose ma non per quello che realmente fa la differenza in un teraphone eh ma nell'iPhone non c'è l'intelligenza artificiale ma chi se le fega di intelligenza artificiale quando vuoi utilizzarla? vado su, c'è GPT, Cloud, Grock, Gemini la tecnologia dovrebbe essere comoda e integrata l'e-trigenza artificiale è la tecnologia del futuro adesso non è ancora il momento passa l'iPhone, passa Mac Nessun sta pagando per dire 3.000 raccomandi sono 2.000 anni di fiducia e se rappreserva ti mancherà qualcosa sai che motivo è questo fai un investimento tra qualche anno mi ringrazierò
+Scusa ma cosa stai aspettando per passare a Mac? Passare ad iPhone? Cioè pensi che il Mac, l'iPhone che sia più costoso, il Windows, otteni 5 anni, 800€, 200€ l'anno. Invece un Mac per i prossimi 10 anni sono neanche 100€ l'anno, tu accendi il Windows e funziona, non pesa una mente da fare, cose che si appena che non ti ricordavi, notifiche che ti arrivano che non sapevi neanche come gestirle. Questo destro disattiva se è posto per se non considera nessuno mi sta pagando per dirti queste cose. È solamente che vedo tantissime persone che non hanno questa funzionalità, che non possono fare questo, che la fotocamera di Instagram non gli funziona bene. Finché avete Android, ravi, io cosa vi devo dire? Android è bellissimo per tantissime cose, ma non per quello che realmente fa la differenza in un tuo iPhone. Eh, ma nell'iPhone non c'è l'intelligenza artificiale, ma chi se ne fega l'intelligenza artificiale quando vuoi utilizzarla? Vado su C-A-GPT, C-L-O-D, GROG, Gemini, la tecnologia dovrebbe essere comoda e integrata. Li-Trigence artificiale, Airy, la tecnologia del futuro, adesso non è ancora il momento. Passa iPhone, passa Mac, Nish, non mi sta pagando per dire tu mi raccomandi, sono 2.000 anni di fiducia. E se la passava ti mancherà qualcosa, sai che motivo è questo? Fai un investimento. Da qualche anno mi ringrazierò.

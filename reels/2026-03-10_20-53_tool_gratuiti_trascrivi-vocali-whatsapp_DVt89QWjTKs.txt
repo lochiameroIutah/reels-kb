@@ -20,14 +20,17 @@ LINK IN CAPTION: sì (matteozampieri.com/trascrivi)
 
 --- CATEGORIA ---
 CATEGORIA: tool_gratuiti
-TAG: intelligenza artificiale, vibecoding, trascrizione audio
-TOPIC: Una app gratuita per trascrivere velocemente i messaggi vocali di WhatsApp con l'intelligenza artificiale
+TAG: vibe-coding, trascrizione-audio, whatsapp, intelligenza-artificiale
+TOPIC: Come utilizzare l'app creata con Vibe Coding per trascrivere automaticamente i messaggi vocali di WhatsApp
 
 --- HOOK TESTUALE (dal frame) ---
 Quest'App trascrive i messaggi di whatsapp ma lo fa con stile
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con un maglioncino grigio parla davanti ad una porta in legno scuro con vetro, in una stanza con pareti bianche. Sembra un ambiente domestico.
+Il video mostra una serie di screenshot di un'app di trascrizione di messaggi vocali di WhatsApp, insieme a un presentatore che illustra la funzionalità dell'app. L'app sembra trascrivere i messaggi vocali in testo, con un'anteprima della trascrizione e la possibilità di salvarla o condividerla. Il presentatore, un uomo con un'espressione seria, gesticola mentre parla e mostra i diversi aspetti dell'app.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Claude
 
 --- CAPTION COMPLETA ---
 Per scaricarla fai questo:
@@ -61,4 +64,4 @@ Io sono il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video!
 #intelligenzaartificiale #vibecoding #trascriviaudio #ia #whatsapp
 
 --- TRASCRIZIONE AUDIO ---
-L'intelligenza artificiale dovrebbe essere prima di tutto utile e siccome, non so se vedete, ma qui ci sono 65 minuti di vocale, mi ero stufato di ascoltarli, allora ho fatto questa cosa. Se io li seleziono tutti, faccio condividi, compare questo, clicco trascrivi audio, in un attimo lui mi trascrive con l'intelligenza artificiale e in un attimo ti dice in breve che cosa sta dicendo questa persona. Poi comunque se vuoi c'hai anche la tua trascrizione completa. Quest'app l'ho creata tutta in Vibe Coding senza toccare una riga di codice. E se vuoi salvartela puoi cliccare apri nell'app in automatico ti arriva una notifica ecco qua in automatico che c'hai la tua trascrizione completa. Questa cosa è gratuita completamente gratuita io sono Mattazza Piri il tuo smanitone di fiducia e tu devi commentare con questa parola così te lo mando direttamente il link per scaricarla. Noi ci vediamo in un prossimo video tu ricorda di seguirmi se ancora non l'hai fatto.
+L'intelligenza artificiale dovrebbe essere prima di tutto utile e siccome, non so se vedete, ma qui ci sono 65 minuti di vocale e mi ero stufato di ascoltarli, allora ho fatto questa cosa. Se io li seleziono tutti, faccio condividi, mi compare questo, clicco trascrivi audio, in un attimo lui mi trascrive con l'intelligenza artificiale e in un attimo ti dice in breve che cosa sta dicendo questa persona. Poi comunque se vuoi c'hai anche la tua trascrizione completa. Questa app l'ho creata tutta in vibe coding senza toccare una riga di codice. E se vuoi salvartela puoi cliccare, apri nell'app, in automatico ti arriva una notifica, ecco qua in automatico che hai la tua trascrizione completa. Questa cosa è gratuita, completamente gratuita, io sono Matteo Zampieri, il tuo smanettone di fiducia, tu devi commentare con questa parola così te lo mando direttamente il link per scaricarla. Noi ci vediamo in un prossimo video, tu ricorda di seguirmi se ancora non l'hai fatto.

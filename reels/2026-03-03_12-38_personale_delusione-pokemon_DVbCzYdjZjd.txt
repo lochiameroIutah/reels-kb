@@ -19,17 +19,20 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: personale
-TAG: pokémon, nintendo, gaming
-TOPIC: Il creatore di contenuti esprime la sua delusione per la qualità di un gioco Pokémon
+TAG: nintendo-switch, pokemon, retroarc, grafica-videogiochi
+TOPIC: Il problema della grafica del gioco Pokémon sulla Nintendo Switch
 
 --- HOOK TESTUALE (dal frame) ---
 Nintendo e Pokémon ci stanno prendendo in giro a livelli estremi
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con una maglietta grigia tiene un Nintendo Switch in mano, con armadio beige sullo sfondo
+Un uomo con una maglietta grigia tiene in mano un Nintendo Switch con un gioco Pokémon. Mostra il dispositivo da diverse angolazioni, commentando e gesticolando. Sembra stia discutendo di problemi con il gioco o il dispositivo.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Nintendo Switch
 
 --- CAPTION COMPLETA ---
 Io sono senza parole… #pokèmon
 
 --- TRASCRIZIONE AUDIO ---
-Allora, ci sono mille problemi, guerre, cose, io però ho questo problema. Com'è possibile che... Allora, siccome la Switch m'ho data, ok, che l'ho dovuta aggiornare per far funzionare sto gioco, questo gioco costa 20 euro, l'hanno pubblicato 20 euro? Sai cosa, ci gioco lo stesso perché ha la grafica up scalata, cioè, guarda che roba. Raga, io vi dico che con RetroArc, con il computer o con qualsiasi altra strumentazione, Non è che con il mio telefono avevo una grafica più potente di questa. Cioè chi ha pagato 20 euro per questa roba qua, aveva solo voglia di pagare 20 euro nuovi per la parola Pokémon, per avere qualcosa nuovo. Perché non esce un cazzo, fa tutto cagare. Giochi fanno cagare, è tutto basato sul collezionismo, proprio sofferenza totale, digital, paga questo, quello, quell'altro, ti riempi di gadget, poi alla fine che cazzo c'è? Non c'è storia. In realtà basterebbe fare così? ascolti qui va al cervello e il tuo cervello sta da dio perché questa è la nostalgia la musica le sensazioni
+Allora, ci sono mille problemi, guerre, cose, io però ho questo problema. Com'è possibile che... Allora, siccome ho la Switch moddata, ok, che l'ho dovuta aggiornare per far funzionare sto gioco, questo gioco costa 20€, l'hanno pubblicato 20€? Io vi dico che con RetroArc, con il computer o con qualsiasi altra strumentazione, anche con il mio telefono avevo una grafica più potente di questa. Cioè chi ha pagato 20 euro per questa roba qua, aveva solo voglia di pagare 20 euro nuovi per la parola Pokémon, per avere qualcosa nuovo. Perché non esce un cazzo, fa tutto cagare, i giochi fanno cagare, è tutto basato sul collezionismo, proprio sofferenza totale, digital, paga questo, quello, quell'altro, ti riempi di gadget, poi alla fine che cazzo c'è? Non c'è storia. In realtà basterebbe fare così? Ascolti, qui va il cervello e il tuo cervello sta da Dio perché questa è la nostalgia, la musica, le sensazioni.

@@ -19,14 +19,17 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: risparmio_tech
-TAG: chatgpt5, intelligenza artificiale, ai
-TOPIC: Come risparmiare utilizzando ChatGPT-5 senza pagare
+TAG: chatgpt-5, intelligenza-artificiale, risparmio-mensile, abbonamento
+TOPIC: Come risparmiare 23€ al mese utilizzando ChatGPT-5 senza abbonamento
 
 --- HOOK TESTUALE (dal frame) ---
 Come risparmiare 23€ al mese
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con capelli castani e maglione nero guarda verso la telecamera. Sullo sfondo, un monitor con una immagine sfocata, un mouse ed un mousepad.
+Il video mostra un uomo che parla davanti a uno schermo di un computer. Viene mostrata una schermata di un sito web o applicazione che sembra richiedere una prova gratuita o un abbonamento dopo alcune domande. L'uomo sembra illustrare come risparmiare 23€ al mese utilizzando un certo servizio o strategia. Si vedono anche alcune schermate di un computer con un'interfaccia utente che potrebbe essere relativa a un'applicazione o un sito web per il risparmio o un servizio di abbonamento.
+
+--- PRODOTTI / TOOL VISIBILI ---
+[nessuno]
 
 --- CAPTION COMPLETA ---
 Come risparmiare ChatGPT-5:
@@ -42,4 +45,4 @@ Ci vediamo nei prossimi giorni 😎
 #chatgpt5 #risparmiare  #intelligenzaartificiale #ai #chatgpt
 
 --- TRASCRIZIONE AUDIO ---
-Attenzione perché CiaGPT5 dicono che è gratis ma in realtà non è così infatti guarda dopo tre domande mi dice paga paga quindi vuoi risparmiare? Ecco un modo per risparmiare CiaGPT ovvero seguire il mio profilo perché nei prossimi giorni andremo a vedere insieme tutti i casi di utilizzo quindi seguimi e noi ci vediamo nei prossimi giorni.
+Attenzione perché CiaGPT 5 dicono che è gratis ma in realtà non è così infatti guarda dopo tre domande mi dice paga paga quindi vuoi risparmiare ecco un modo per risparmiare CiaGPT ovvero seguire il mio profilo perché nei prossimi giorni andremo a vedere insieme tutti i casi di utilizzo quindi seguimi e noi ci vediamo nei prossimi giorni

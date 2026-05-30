@@ -19,14 +19,17 @@ LINK IN CAPTION: sì (link presente)
 
 --- CATEGORIA ---
 CATEGORIA: risparmio_tech
-TAG: adhd, youtubehacks, googlechrome
-TOPIC: Unhook, un'estensione per Google Chrome che aiuta a risparmiare tempo su YouTube
+TAG: unhook, youtube, gestione-tempo, estensioni-browser, produttivita
+TOPIC: Come usare Unhook per gestire il tempo su YouTube e ridurre le distrazioni
 
 --- HOOK TESTUALE (dal frame) ---
 Se nonhai l'ADHD quest'App ti fa risparmiare troppe ore del tuo tempo
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con una maglietta nera guarda verso la telecamera con una finestra luminosa sullo sfondo.
+Il video mostra un uomo che presenta un'app che aiuta a risparmiare tempo su YouTube. Inizia con selfie dell'uomo e poi passa a mostrare schermate di un computer, tra cui una pagina web di YouTube e una schermata dell'App 'Unhook' che sembra essere un'estensione del browser per gestire meglio il tempo su YouTube. L'uomo illustra come l'app può aiutare a gestire il tempo passato su YouTube, mostrando passaggi come l'installazione dell'estensione e la sua funzionalità.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Unhook, YouTube
 
 --- CAPTION COMPLETA ---
 Scrivimi HOOK e te lo mando
@@ -44,4 +47,4 @@ Io sono il tuo setto di fiducia, noi ci vediamo ad un prossimo video!
 #adhd #risparmiare #youtubehacks #googlechrome
 
 --- TRASCRIZIONE AUDIO ---
-Ora non so se lo sai però YouTube sembra progettato per farti sempre perdere tempo. Cioè te prova ad andare su YouTube per cercare qualcosa senza perderti in qualche video che ti propone lui che non c'entra niente. Non ce la fai. Ma proprio non ce la fai. Infatti guarda qua stavo cercando news sull'intelligenza artificiale ma ho visto tutti questi video e senza rendermene conto li ho già aperti tutti qua sopra. Per questo motivo c'è il tuo smanettone di fiducia pronto qui a darti una mano. Andate su questo sito qua ma non vi preoccupate ve l'ho messo in descrizione. e cliccate aggiunge e poi aggiunge estensione. Cliccate su estensioni, cercate unhook e cliccate su questo pulsantino qua. Quindi premete su questo pulsantino e poi accendetelo. Allora in poi non avrete più problemi con YouTube. Guarda qua adesso ricarico la pagina e guarda un po'. Quando vado all'interno di YouTube non mi compare niente. Se io invece voglio vedere le cose disattivo questo pulsantino e mi mostra tutto. Io sono il tuo smanettore di fiducia e noi ci vediamo ad un prossimo video. ricordati di seguirmi se ancora non l'hai fatto
+Ora, non so se lo sai, però, YouTube sembra progettato per farti sempre perdere tempo. Cioè, te prova ad andare su YouTube per cercare qualcosa senza perderti in qualche video che ti propone lui, che non c'entra niente, non ce la fai. Ma, Bobo, non ce la fai. Infatti, guarda qua, stavo cercando news sull'intelligenza artificiale, ma ho visto tutti questi video e senza rendermene conto li ho già aperti tutti qua sopra. Per questo motivo c'è il tuo smanettone di fiducia pronto qui a darti una mano. Andate su questo sito qua, ma non vi preoccupate, ve l'ho messo in descrizione, cliccate Aggiunge e poi Aggiunge Estensione. Cliccate su Estensioni, cercate Unhook e cliccate su questo pulsantino qua. Quindi premete su questo pulsantino e poi accendetelo. Allora in poi non avrete più problemi con YouTube. Guarda qua, adesso ricarico la pagina e guarda un po', quando vado all'interno di YouTube non mi compare niente. Se io invece voglio vedere le cose, disattivo questo pulsantino e mi mostra tutto. Io sono il tuo smanettone di fiducia e noi ci vediamo ad un prossimo video, ricordati di seguirmi se ancora non l'hai fatto.

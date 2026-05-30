@@ -19,14 +19,17 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: tutorial_ai
-TAG: intelligenza artificiale, nano banana, seedream, volantino animato
-TOPIC: Creare un volantino animato con intelligenza artificiale in 15 minuti
+TAG: nano-banana, seedream, perplexity, intelligenza-artificiale
+TOPIC: Come utilizzare Nano Banana e Seedream per creare un volantino animato professionale in pochi minuti
 
 --- HOOK TESTUALE (dal frame) ---
 Se mi mandi questo video scrivendo potter ti invio una pagina con la guida fatta bene
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con la maglietta beige e un espressione seria sorride mentre guarda l’obiettivo. Indossa una maglietta beige e sembra trovarsi in un ambiente domestico o professionale con pareti divisorie bianche alle sue spalle, seduto su una sedia nera. Ha una mano alzata con indice e pollice uniti vicino al mento. Sembra un video promozionale o una presentazione.
+Il video mostra un uomo che parla di un evento e di come utilizzare strumenti AI per creare contenuti. Inizia con l'uomo che parla direttamente alla telecamera, poi si vedono screenshot di un evento con dettagli su un meetup, seguito da screenshot di una pagina di Google e di un tool chiamato 'Nano Banana' utilizzato per creare volantini e contenuti digitali. Il video sembra essere una promozione per un evento e una dimostrazione di come utilizzare strumenti AI per creare materiali visivi.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Google, Nano Banana
 
 --- CAPTION COMPLETA ---
 Inizia scrivendo questo:
@@ -58,4 +61,4 @@ Io sono il tuo smanettone di fiducia e noi ci vediamo ad un prossimo video!
 #intelligenzaartificiale #risparmiare #tutorial #nanobanana #ai #ia #volantino #chatgptprompts
 
 --- TRASCRIZIONE AUDIO ---
-Ve lo ricordate il giornale di Harry Potter? Quello dove c'erano tutte le foto in movimento. Era magico. Beh, tra qualche giorno farò il mio primo talk dal vivo e per annunciarlo ho voluto creare lo stesso effetto con l'intelligenza artificiale. Però, come al solito, mi sono preso in ritardo, finendo per avere solo 15 minuti di tempo. Quindi, ecco come ho fatto. Prima di tutto ho dato il messaggio con tutti i dettagli dell'evento, una mia foto e una foto della location a perplexity. E gli ho chiesto, fammi un prompt per creare il volantino di questo evento. Così ho preso e messo su Nano Banana, scelto le dimensioni e bam, eccolo qua. Ora però dobbiamo animarla, quindi rifaccio la stessa storia ma stavolta con l'obiettivo di realizzare un video. Prendo il prompt generato, lo metto su Seedream e...
+Ve lo ricordate il giornale di Harry Potter? Quello dove c'erano tutte le foto in movimento. Era magico. Beh, tra qualche giorno farò il mio primo talk dal vivo e per annunciarlo ho voluto creare lo stesso effetto con l'intelligenza artificiale. Però, come al solito, mi sono preso in ritardo, finendo per avere solo 15 minuti di tempo. Quindi, ecco come ho fatto. Prima di tutto ho dato il messaggio con tutti i dettagli dell'evento, una mia foto e una foto della location a perplexity, e gli ho chiesto fammi un prompt per creare il volantino di questo evento. Così ho preso e messo su Nano Banana, scelto le dimensioni e bam, eccolo qua. Ora però dobbiamo animarla, quindi rifaccio la stessa storia ma stavolta con l'obiettivo di realizzare un video. Prendo il prompt generato, lo metto su Seedream e...

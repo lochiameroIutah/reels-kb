@@ -19,14 +19,17 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: news_ai
-TAG: chatgpt, intelligenzaartificiale, ai
-TOPIC: ChatGPT modifica foto in meno di 1 minuto meglio di Photoshop
+TAG: chatgpt, photoshop, intelligenza-artificiale, modifica-foto, tool-di-ai
+TOPIC: Come utilizzare ChatGPT per modificare foto meglio di Photoshop in meno di 1 minuto
 
 --- HOOK TESTUALE (dal frame) ---
 Da oggi ChatGPT ti modifica le foto meglio di Photoshop in meno di 1 minuto
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con un'espressione entusiasta e un sorriso, seduto davanti a una scrivania con un monitor e un'altra apparecchiatura, con una mano alzata vicino al viso. Sullo sfondo si vede una finestra con la luce del sole che illumina la scena.
+Il video mostra un uomo che presenta una funzionalità di ChatGPT che consente di modificare foto meglio di Photoshop in meno di 1 minuto. Vengono mostrati screenshot di un computer con la schermata di ChatGPT, immagini di astronauti e una ragazza, e il processo di modifica delle foto. L'uomo nel video illustra come utilizzare questa funzione, evidenziando la rapidità e la qualità delle modifiche.
+
+--- PRODOTTI / TOOL VISIBILI ---
+ChatGPT, Photoshop
 
 --- CAPTION COMPLETA ---
 Da oggi ChatGPT ti modifica le foto in meno di 1 minuto meglio di Photoshop
@@ -42,4 +45,4 @@ Io sono Matteo Zampieri il tuo smanettone di fiducia, noi ci vediamo al prossimo
 #chatgpt #intelligenzaartificiale #ainews #risparmiare #ia
 
 --- TRASCRIZIONE AUDIO ---
-Ok, ciao GPT, l'ha fatta grossa di nuovo, guarda qua, infatti ha pubblicato la nuova versione di generazione di immagini Se prima ci metteva 4 minuti per generare un'immagine, adesso ci mette meno di un minuto La cosa più assurda è che adesso, come vedi, non modifica più il personaggio della foto, cioè rimane tale e quale Ho provato un attimo e gli ho chiesto di metterci agli Universal Studios, guarda qua, in un attimo Siamo qui agli Universal Studios, ma la cosa figa è che, vedi, io gli ho dato un semplice prompt anche scritto male Ma se sei amante di tutti i prompt dettagliati guarda qua Questa è una foto modificata e la foto originale è questa qua Come vedi però gli ho dato un bel prompt scritto bene Nano banana però adesso non è l'unico a fare cose super fighe e super velocemente Nei prossimi giorni andiamo a vedere tutte queste cose molto più nel dettaglio Quindi seguimi io sono Matteo Zampiri il tuo smanettone di fiducia E noi ci vediamo ad un prossimo video
+Ok, ciao GPT l'ha fatta grossa di nuovo, guarda qua, infatti ha pubblicato la nuova versione di generazione di immagini. Se prima ci metteva 4 minuti per generare un'immagine, adesso ci mette meno di un minuto. La cosa più assurda è che adesso, come vedi, non modifica più il personaggio della foto, cioè rimane tale e quale. Ho provato un attimo e gli ho chiesto di metterci agli Universal Studios, guarda qua, in un attimo. Siamo qui agli Universal Studios, ma la cosa figa è che, vedi, io gli ho dato un semplice prompt anche scritto male. Ma se sei amante di tutti i prompt dettagliati, guarda qua. Questa è una foto modificata e la foto originale è questa qua. Come vedi però gli ho dato un bel prompt scritto bene. Nano Banana Pro adesso non è l'unico a fare cose super fighe e super velocemente. Nei prossimi giorni andiamo a vedere tutte queste cose molto più nel dettaglio, quindi seguimi, io sono Matteo Zampieri, il tuo smanettone di fiducia e noi ci vediamo ad un prossimo video.

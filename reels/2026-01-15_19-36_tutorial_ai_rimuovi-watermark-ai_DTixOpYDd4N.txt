@@ -20,14 +20,17 @@ LINK IN CAPTION: sì (matteozampieri.com/gemini-reale)
 
 --- CATEGORIA ---
 CATEGORIA: tutorial_ai
-TAG: intelligenza artificiale, gemini, nano banana, rimozione watermark
-TOPIC: Rimuovere il watermark dalle immagini create con l'intelligenza artificiale
+TAG: gemini, nano-banana, rimozione-watermark, intelligenza-artificiale, tool-gratuiti, elaborazione-immagini
+TOPIC: Come rimuovere il watermark di Gemini e NanoBanana dalle immagini create con l'intelligenza artificiale utilizzando un sito web specifico
 
 --- HOOK TESTUALE (dal frame) ---
 Questo sito rende reale le tue immagini fatte con Gemini e NanoBanana
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con un cappuccio rosa è seduto davanti ad un computer, con una mano alzata, mentre guarda qualcosa con un'espressione perplessa.
+Il video mostra un uomo che presenta un sito web che utilizza l'intelligenza artificiale per rendere reali immagini create con Gemini e NanoBanana. Inizia mostrando il risultato finale, ovvero un'immagine realistica di due persone che mangiano pasta, con didascalie che indicano 'ESTATE '82 - NONNO E PASTA' e 'È FATTA CON L'INTELLIGENZA ARTIFICIALE'. Successivamente, vengono mostrati screenshot del processo, come l'utilizzo del sito 'Remover Online', il caricamento di un'immagine creata con Gemini e il trascinamento di un file. Viene mostrato anche il browser con il sito aperto e il risultato dell'elaborazione dell'immagine.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Gemini, NanoBanana
 
 --- CAPTION COMPLETA ---
 Finalmente ho trovato un modo per liberarci e rimuovere per fastidioso watermark o logo di nano banana delle foto che creiamo con l’intelligenza artificiale.
@@ -47,4 +50,4 @@ io sono Matteo Zampieri, il tuo smanettone di fiducia, noi ci vediamo ad un pros
 #intelligenzaartificiale #nanobanana #watermarksremoved #gemini #tutorial
 
 --- TRASCRIZIONE AUDIO ---
-Non so se lo sai ma quando crea immagini con l'intelligenza artificiale come nano banana, gemmi e così via si vede, guarda questa foto, si vede palesemente che è fatta con l'intelligenza artificiale. Questo principalmente perché c'è un singolo elemento in questa foto che ti fa capire che è fatta con l'intelligenza artificiale. Eccolo qua. E se non sai come rimuoverlo c'è qui il tuo smanettone di fiducia pronto qui a datti una mano. Andate dove c'è la vostra immagine fatta con l'intelligenza artificiale e cliccate sul pulsante per scaricarla. Una volta scaricata andate su questo sito qua che vi metto in descrizione, prendete la vostra immagine e trascinatela qua sopra. D'ora in poi non avrai più quel fastidioso loghetti in basso a destra, guarda qua. Prendo l'immagine, la carico qui sopra e in due secondi, guarda qua, mi ha tolto il logo di Gemini. Di questi consigli nel mio profilo ne trovi tantissimi, infatti io sono Matosampieri, il tuo smanetto è di fiducia. Noi ci vediamo ad un prossimo video, ricordati di seguirmi se ancora non l'hai fatto.
+Non so se lo sai ma quando crea immagini con l'intelligenza artificiale come nano banana, gemmi e così via si vede, guarda questa foto, si vede palesemente che è fatta con l'intelligenza artificiale. Questo principalmente perché c'è un singolo elemento in questa foto che ti fa capire che è fatta con l'intelligenza artificiale. Eccolo qua. E se non sai come rimuoverlo c'è qui il tuo smanettone di fiducia pronto qui a datti una mano. Andate dove c'è la vostra immagine fatta con l'intelligenza artificiale e cliccate sul pulsante per scaricarla. Una volta scaricata andate su questo sito qua che vi metto in descrizione, prendete la vostra immagine e trascinatela qua sopra. D'ora in poi non avrai più quel fastidioso loghetti in basso a destra, guarda qua. Prendo l'immagine la carico qui sopra e in due secondi, guarda qua, mi ha tolto il logo di Gemini. Di questi consigli nel mio profilo ne trovi tantissimi, infatti io sono Mato Zampieri, il tuo smanetto è di fiducia, noi ci vediamo ad un prossimo video, ricordati di seguirmi se ancora non l'hai fatto.

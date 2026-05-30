@@ -19,14 +19,17 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: tutorial_ai
-TAG: apple, macos, app_danneggiata
-TOPIC: Come aprire un'applicazione bloccata da macOS
+TAG: macos, apple, app-danneggiata, trucco-tecnico
+TOPIC: Come aprire un'applicazione danneggiata su macOS nonostante il blocco di Apple
 
 --- HOOK TESTUALE (dal frame) ---
 ma tu sapevi che la apple ti sta mentendo
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con una maglietta nera guarda la telecamera con un'espressione seria, sfondo sfocato con cappelli appesi.
+Il video mostra una persona che parla di un presunto problema con Apple. Inizia con lui che sembra discutere di come Apple potrebbe mentire agli utenti riguardo alla funzionalità delle app. Mostra anche alcuni screenshot di un computer e di un'applicazione, suggerendo che Apple potrebbe non essere trasparente riguardo al funzionamento interno delle sue applicazioni. Verso la fine, cita la collaborazione con Apple e sembra suggerire che Apple non collaborerebbe con lui a causa delle sue scoperte o affermazioni.
+
+--- PRODOTTI / TOOL VISIBILI ---
+The North Face
 
 --- CAPTION COMPLETA ---
 Inizia facendo questo:
@@ -66,4 +69,4 @@ Dal tuo smanettone di fiducia è tutto 😌
 #apple #segreto #risparmiare
 
 --- TRASCRIZIONE AUDIO ---
-Ma tu sapevi che la Apple ti sta mentendo? Sì perché tutte le volte che ti dice l'app è danneggiata spostala nel cestino in realtà non è così. Ok sinceramente la Apple non farà mai una collaborazione con me per questo motivo.
+Ma tu sapevi che la Apple ti sta mentendo? Sì, perché tutte le volte che ti dice l'app è danneggiata, spostala nel cestino, in realtà non è così. Ok, sinceramente la Apple non farà mai una collaborazione con me per questo motivo.

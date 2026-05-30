@@ -19,14 +19,17 @@ LINK IN CAPTION: sì (matteozampieri.com/google-stitch)
 
 --- CATEGORIA ---
 CATEGORIA: news_ai
-TAG: google-stitch, design, intelligenza-artificiale
-TOPIC: Presentazione di Google Stitch, uno strumento di design basato sull'intelligenza artificiale
+TAG: google-stitch, intelligenza-artificiale, design-automatico, vibe-coding
+TOPIC: Come utilizzare Google Stitch per creare design di interfaccia utente con l'intelligenza artificiale
 
 --- HOOK TESTUALE (dal frame) ---
-STA SUCCEDEDENDO ESATTAMENTE
+Generating new ideas
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con una maglietta nera parla mentre guarda la telecamera e fa un gesto con la mano, sullo sfondo una parete beige e uno specchio
+Il video mostra un uomo che presenta un prodotto di Google chiamato 'Gemini'. Inizia con una schermata che dice 'Generating new ideas' e 'Reticulating Splines', per poi mostrare l'interfaccia di un telefono con l'app Gemini. L'uomo sottolinea come Gemini possa aiutare a generare idee, creare, iterare e collaborare. Viene mostrata una schermata di un computer con la presentazione del prodotto Stitch by Google, che sembra essere un tool per la creazione di prototype e design. L'uomo illustra come Gemini possa essere utilizzato per organizzare le idee, creare un piano e prendere appunti vocali. Le schermate mostrano anche come Gemini si integri con altre funzionalità di Google.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Gemini, Google, Stitch by Google
 
 --- CAPTION COMPLETA ---
 Inizia facendo questo:
@@ -54,4 +57,4 @@ Io sono il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video!
 #intelligenzaartificiale #ai #design #googlestitch #vibecoding
 
 --- TRASCRIZIONE AUDIO ---
-Sta succedendo esattamente quello che avevo detto che sarebbe successo qualche settimana fa, ovvero che dopo il vibe coding, ovvero creare applicazioni con l'intelligenza artificiale spesso brutte, allora bisognava concentrarsi sul design e quindi è arrivato il vibe design e l'ha lanciato proprio Google. Si chiama Google Stitch ed è uscito questa settimana, praticamente tu gli descrivi l'idea che vuoi che abbia l'interfaccia, il sito web, quello che ti interessa e lui te la crea in un attimo con un'estetica fenomenale. La cosa interessante è che adesso non avrai più bisogno di Figma, a meno che non devi fare delle cose estremamente precise. Ti basterà collaborare appunto usando la tua voce, come dice Google, per descrivere ciò che vuoi realizzare. Chiaramente più ne sai di design, di interfaccia grafica, di esperienza utente, e più sarai in grado di descrivere meglio l'intelligenza artificiale, quello che è la tua visione. Comunque per il resto il link te l'ho lasciato qua sotto, ma se commenti Stitch te lo mando direttamente. Io sono Matteo Zampieri, il tuo smanettore di fiducia Noi ci vediamo ad un prossimo video, quindi seguimi così non te lo perdi
+Sta succedendo esattamente quello che avevo detto che sarebbe successo qualche settimana fa, ovvero che dopo il vibe coding, ovvero creare applicazioni con l'intelligenza artificiale spesso brutte, allora bisognava concentrarsi sul design e quindi è arrivato il vibe design e l'ha lanciato proprio Google. Si chiama Google Stitch ed è uscito questa settimana. Praticamente tu gli descrivi l'idea che vuoi che abbia l'interfaccia, il sito web, quello che ti interessa e lui te la crea in un attimo con un'estetica fenomenale. La cosa interessante è che adesso non avrai più bisogno di Figma, a meno che non devi fare delle cose estremamente precise. Ti basterà collaborare, appunto, usando la tua voce, come dice Google, per descrivere ciò che vuoi realizzare. Chiaramente più ne sai di design, di interfaccia grafica, di esperienza utente, e più sarai in grado di descrivere meglio all'intelligenza artificiale quello che è la tua visione. Comunque per il resto il link te l'ho lasciato qua sotto, ma se commenti Stitch te lo mando direttamente. Io sono Matteo Zampieri, il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video, quindi seguimi così non te lo perdi.

@@ -19,14 +19,17 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: tutorial_ai
-TAG: grok3, chatgpt, intelligenzaartificiale
-TOPIC: Guida all'utilizzo di Grok3 in Italia
+TAG: grok3, chatgpt, intelligenza-artificiale, accesso-italia, guida-utente
+TOPIC: Come usare Grok3 in Italia nonostante le restrizioni
 
 --- HOOK TESTUALE (dal frame) ---
-Non lo trovo
+1. Vai sul sito → 2. entra nel tuo profilo → 3. Se non vedi nulla vai di nuovo sul sito
 
 --- DESCRIZIONE VISIVA ---
-Un selfie dal basso verso l'alto con un uomo che guarda verso l'alto. Sullo sfondo, rami di un albero e un cielo azzurro con qualche nuvola.
+Il video mostra un uomo che gesticola davanti a una strada sterrata circondata da campi verdi. Indossa una maglietta nera con un logo bianco a forma di croce o fiore stilizzato. L'uomo sembra fornire istruzioni su come accedere a un profilo, con testo sovrapposto che indica passaggi da seguire. Non sono presenti schermate di app, terminali o codice.
+
+--- PRODOTTI / TOOL VISIBILI ---
+[nessuno]
 
 --- CAPTION COMPLETA ---
 Ecco la guida su come usare Grok3 in italia anche se vi dicono che non è disponibile 🚀
@@ -34,4 +37,4 @@ Ecco la guida su come usare Grok3 in italia anche se vi dicono che non è dispon
 #grok #grok3 #chatgpt #grok3ai #intelligenzaartificiale
 
 --- TRASCRIZIONE AUDIO ---
-Ok, allora praticamente per entrarci, visto che dite tutti che è bannati in Italia, che non è così, dovete andare su x.com.i.grok Vi farà accedere sul sito di X, voi dovete accedere al vostro account X che sarebbe Twitter, l'ex Twitter. A quel punto se ancora non vi manda dentro a quel sito, voi vi siete loggati, perfetto, quindi entrate con Google o quello che è, quindi riandate su x.com.i.grok e poi avete fatto...
+Ok, allora, praticamente, per entrarci, visto che dite tutti che è bannati in Italia, che non è così, dovete andare su x.com.e.grog, vi farà accedere sul sito di X, voi dovete accedere al vostro account X, che sarebbe Twitter, l'ex Twitter, a quel punto, se ancora non vi manda dentro a quel sito, voi vi siete loggati, perfetto, quindi, entrate con Google o quello che è, quindi riandate su x.com.e.grog e poi avete fatto.

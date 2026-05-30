@@ -19,14 +19,17 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: confronto_ai
-TAG: intelligenza artificiale, chatgpt, claude
-TOPIC: Il creator italiano di AI e tech discute i vantaggi di utilizzare Claude rispetto a ChatGPT
+TAG: claude-ai, chatgpt, intelligenza-artificiale, automazione
+TOPIC: Il creatore di tecnologia italiano @themattvision analizza il valore di Claude rispetto a ChatGPT
 
 --- HOOK TESTUALE (dal frame) ---
 Claude ha i server DOWN
 
 --- DESCRIZIONE VISIVA ---
-Un uomo in una maglietta bianca sorride e tiene una bottiglietta d'acqua in mano, su uno sfondo di una mappa del mondo con una heatmap colorata.
+Una griglia di 9 screenshot da un Reel Instagram che mostrano un uomo che parla e una mappa del mondo con un heatmap. La mappa evidenzia le aree con segnalazioni di down dei server di Claude, un modello AI. L'heatmap cambia colore e intensità nei vari frame, indicando il numero e la distribuzione geografica delle segnalazioni. L'uomo nel video sembra commentare le informazioni sulla mappa, discutendo della situazione dei server di Claude.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Claude
 
 --- CAPTION COMPLETA ---
 Questa cosa fa ridere ma fa anche riflettere 🤯
@@ -62,4 +65,4 @@ Io sono il Tuo Smanettone di fiducia, noi ci vediamo al prossimo video!
 #intelligenzaartificiale #risparmiare #ai #futuro #claude
 
 --- TRASCRIZIONE AUDIO ---
-Guardate qua questa è la mappa delle segnalazioni di Cloud che è down, i server sono down. Tutto America, andiamo a vedere adesso l'Italia. Nessuna segnalazione perché nessuno lo usa. E' successo in questo momento, io lo stavo utilizzando, è andato down e niente. Sapete bene che tutto quello che prima è in America poi arriva da noi. Seguire i consigli dello smanettone di fiducia vi tiene talmente sul pezzo che siete già proiettati in quello che arriverà dall'America. Siamo estremamente sul pezzo.
+Guardate qua, questa è la mappa delle segnalazioni di Claude che è down, i server sono down, tutto America, andiamo a vedere adesso l'Italia. Nessuna segnalazione perché nessuno lo usa. È successo in questo momento, io lo stavo utilizzando, è andato down e niente, sapete bene, no, che tutto quello che prima in America poi arriva da noi. Seguire i consigli dello smanettone di fiducia vi tiene talmente sul pezzo che siete già proiettati in quello che arriverà dall'America. Siamo estremamente sul pezzo.

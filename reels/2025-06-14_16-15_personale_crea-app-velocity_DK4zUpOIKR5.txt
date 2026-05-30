@@ -19,14 +19,17 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: personale
-TAG: sviluppo app, orabo, sistema di pagamento
-TOPIC: Creare app con facilità
+TAG: lovable, orabo, sviluppo-app, mini-campus, vibe-coding
+TOPIC: Come usare Lovable e Orabo per creare app in pochi minuti
 
 --- HOOK TESTUALE (dal frame) ---
 POV: Sogni di creare la tua app da sempre ma scopri il vibe coding
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con una maglietta beige guarda verso la camera. Sullo sfondo si vede una plafoniera e un corridoio interno. In basso a sinistra, un'inquadratura di due uomini seduti a un tavolo con due laptop.
+Il video mostra un uomo che parla direttamente alla telecamera, alternando riprese ravvicinate del suo viso e del suo profilo. Nelle riprese B-roll, si vedono due uomini seduti uno accanto all'altro, entrambi chini su un portatile aperto. Sembra che stiano lavorando a un progetto di coding insieme. Si intravede anche la scrivania con altri PC e monitor. In sottofondo, sono presenti scritte come 'Vengo da un', 'Mini Campus DOVE', 'Con Lovable', 'Venderla' e 'Ne abbiamo fatte', 'Mezz'oretta per ognuna', ma non sono molto focalizzate.
+
+--- PRODOTTI / TOOL VISIBILI ---
+[nessuno]
 
 --- CAPTION COMPLETA ---
 Avevo sempre sognato di creare la mia app e adesso una ogni mezz’ora 😵
@@ -37,4 +40,4 @@ Cosa abbiamo usato? Lovable
 È stato veramente interessante aiutare i miei amici a creare le loro app.
 
 --- TRASCRIZIONE AUDIO ---
-è incredibile quando abbiamo fatto un weekend con gli amici è stato tipo un mini campus dove io gli ho insegnato come fare applicazioni con l'Orabo cioè con anche un sistema di pagamento, cioè come da 0 a 100 pure volendo potrebbero venderla, è incredibile è stato veramente fantastico, ne abbiamo fatte una marea, una strage mezz'oretta per ognuna e si droppava, bamba, siamo nel futuro, veramente, incredibile
+È incredibile quando abbiamo fatto un weekend con gli amici. Questo è un mini campus dove io gli ho insegnato come fare applicazioni con l'Orabo. Cioè con anche un sistema di pagamento, cioè come da 0 a 100, pure volendo potrebbero venderla, è incredibile. È stato veramente fantastico, ne abbiamo fatte una marea, una strage. Mezz'oretta per ognuna e si droppava, bam bam. Siamo nel futuro, veramente, incredibile.

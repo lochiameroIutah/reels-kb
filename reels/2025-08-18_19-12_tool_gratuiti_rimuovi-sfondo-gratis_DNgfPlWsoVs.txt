@@ -19,14 +19,17 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: tool_gratuiti
-TAG: intelligenza artificiale, rimuovere sfondo, strumenti gratuiti
-TOPIC: Un sito web gratuito per rimuovere lo sfondo dalle immagini con intelligenza artificiale
+TAG: dverso, rimozione-sfondo, intelligenza-artificiale, tool-gratuito, rimozione-sfondo-gratuita
+TOPIC: Il sito dverso permette di rimuovere lo sfondo dalle immagini in modo gratuito e semplice
 
 --- HOOK TESTUALE (dal frame) ---
 Questo sito rimuove lo sfondo gratis ma lo fa con stile
 
 --- DESCRIZIONE VISIVA ---
-Uno screenshot di uno schermo di un computer con un wallpaper di un paesaggio naturale con un cielo azzurro e delle conifere verdi. Sullo schermo sono visibili anche alcune icone di app e informazioni sullo spazio di archiviazione.
+Il video mostra una serie di screenshot di un computer che naviga su un sito web chiamato 'dverso', che sembra essere uno strumento per la rimozione gratuita degli sfondi dalle immagini. Inizialmente, si vede una schermata di ricerca e poi la homepage del sito, seguito da immagini prima e dopo della rimozione dello sfondo, incluso un logo Nike e una lavatrice.
+
+--- PRODOTTI / TOOL VISIBILI ---
+dverso, Nike
 
 --- CAPTION COMPLETA ---
 Ecco il link:

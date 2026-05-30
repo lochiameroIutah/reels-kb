@@ -19,14 +19,14 @@ LINK IN CAPTION: sì (link presente)
 
 --- CATEGORIA ---
 CATEGORIA: news_ai
-TAG: claude-4-6, anthropic, compilatore-c, linux-kernel, intelligenza-artificiale
-TOPIC: Il modello Claude 4.6 di Anthropic costruisce un compilatore C da zero per compilare il kernel di Linux in due settimane con 20.000 dollari.
+TAG: claude-4-6, anthropic, compilatore-c, linux, automazione
+TOPIC: Il modello Claude 4.6 di Anthropic costruisce un compilatore C da zero in due settimane
 
 --- HOOK TESTUALE (dal frame) ---
-PER 2 SETTIMANE
+[nessun testo rilevato]
 
 --- DESCRIZIONE VISIVA ---
-Il video mostra un uomo che parla e gesticola davanti alla telecamera. In alcuni frame, viene mostrato anche uno screenshot di un computer con una presentazione o un sito web aperto. L'uomo indossa sempre la stessa felpa grigia e si trova nella stessa stanza con pareti beige e porte in legno. Non ci sono diagrammi o codice mostrato, solo schermate di un computer e il presentatore.
+Un giovane uomo in una sweatshirt grigia parla e gesticola in varie angolazioni. In alcuni frame, si vedono anche screenshot di un computer e di un'altra persona in un ambiente televisivo. L'uomo sembra discutere un argomento tecnico, probabilmente legato alla programmazione o allo sviluppo web, mostrando il suo entusiasmo e le sue mani mentre gesticola. In uno dei frame, si vede una mano che indica qualcosa sullo schermo di un computer, suggerendo che l'uomo stia illustrando un concetto specifico.
 
 --- PRODOTTI / TOOL VISIBILI ---
 GitHub

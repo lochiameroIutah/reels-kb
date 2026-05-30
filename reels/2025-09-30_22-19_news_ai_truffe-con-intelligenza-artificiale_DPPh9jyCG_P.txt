@@ -19,14 +19,17 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: news_ai
-TAG: intelligenza artificiale, chatgpt, sora2
-TOPIC: Il nuovo motore Sora 2 dell'azienda dietro ChatGPT può creare video estremamente realistici
+TAG: sora-2, chatgpt, intelligenza-artificiale, video-generati, deep-fake
+TOPIC: Il trailer di Sora 2, il nuovo motore di intelligenza artificiale che crea video realistici, è stato presentato e mostra la capacità di generare video estremamente realistici
 
 --- HOOK TESTUALE (dal frame) ---
-Le truffe sono dietro l'angolo con questa nuova App
+a vederci il trailer di presentazione
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con un'espressione seria e un maglione nero, con un poster rosso e bianco sfocato sullo sfondo
+Il video sembra essere una reazione o un commento a un trailer di presentazione di un prodotto o tecnologia. Mostra varie scene, tra cui una persona che parla, un ambiente con luci colorate, una scena con un drago, un'atmosfera onirica con una ballerina e un paesaggio con una pista da corsa. Il presentatore appare in diversi frame, reagendo o commentando quanto mostrato.
+
+--- PRODOTTI / TOOL VISIBILI ---
+[nessuno]
 
 --- CAPTION COMPLETA ---
 Questo è totalmente fal…
@@ -54,4 +57,4 @@ Io sono Matteo Zampieri il tuo smanettone di fiducia e noi ci vediamo ad un pros
 #intelligenzaartificiale #chatgpt #ai #ia #sora #sora2
 
 --- TRASCRIZIONE AUDIO ---
-Non so se lo sai, ma quelli di ChagPT hanno pubblicato un generatore di video incredibile per vederci il trailer di presentazione. Mi era fatto con le I. E' fatto con le I. E' tutto girato con le I. Vabbè questo ho un senso Niente di nuovo Madonna che dettaglio Cioè Incredibile Vabbè questo sembra fatto con le AI Comunque è assurdo Cioè Ok ma allora come gira e non perde il contesto pazzesco Ma non ci posso credere veramente assurdo Cioè quindi è sul drago E' sul drago, vai raga, non vedo l'ora di fare video sul drago Fenomenale Madonna, sembra vero, sembra vero Sembra vero Cioè, raga, tra, non so, cinque anni esageriamo Ciao, cioè, già adesso Non sembra finta sta roba Non sembra finta Te la fanno vedere che è finta Però questa roba qua sembra estremamente vera se uno ti dice vieni in questo posto a quest'ora sono qui, sono sotto casa, tu qua ti vuoi dare dei soldi, scendi, sono tuo figlio
+Non so se lo sai, ma quelli di CiaGPT hanno pubblicato un generatore di video incredibile. Vado a vederci il trailer di presentazione. Era fatto con le I.I. È fatto con le I.I. È tutto girato con le I.I. Vabbè questo ho un senso niente di nuovo. Madonna che dettagli. Cioè incredibile. Vabbè questo sembra fatto con le AI, comunque è assurdo. e le meccaniche di corpo, marcando un grande passo in realismo. Ok Allora come gira e non perde il contesto pazzesco Ma non ci posso credere veramente assurdo Cioè quindi è sul drago, è sul drago, vai raga, non vedo l'ora di fare video sul drago. Fenomenale. Ma non è male. Madonna, sembra vero, sembra vero. Sembra vero. Cioè, raga, tra, non so, cinque anni esageriamo. Ciao, cioè già adesso non sembra finta sta roba, non sembra finta. Te la fanno vedere che è finta, però questa roba qua sembra estremamente vera. Se uno ti dice vieni in questo posto a quest'ora, sono qui, sono sotto casa, tu qua ti vuoi dare dei soldi, scendi, sono tuo figlio.

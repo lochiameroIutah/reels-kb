@@ -19,14 +19,17 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: news_ai
-TAG: intelligenzaartificiale, google, gemini
-TOPIC: Il limite di richieste gratuite a Gemini è stato abbassato
+TAG: google, gemini, gpt-5-2, intelligenza-artificiale, capitalismo, risparmio
+TOPIC: La chiusura dell'accesso gratuito alle API di Gemini da parte di Google potrebbe avere un impatto significativo sull'utilizzo dell'intelligenza artificiale
 
 --- HOOK TESTUALE (dal frame) ---
-Attenzione ragazzi Google chiude i rubinetti.
+Google chiude i rubinetti di Gemini: finisce l'era della cortesia mentre GPT-5.2 buss alla porta
 
 --- DESCRIZIONE VISIVA ---
-Uno screenshot di un Reel Instagram che mostra un uomo con un'espressione seria e un dito alzato, indossa una felpa rosa. Sullo sfondo, un articolo con un titolo in italiano che parla di Google e Gemini.
+Una serie di screenshot da un video che mostrano un uomo che parla davanti a una schermata con un articolo su Google che chiude l'accesso gratuito alle API di Gemini. L'uomo gesticola e sembra discutere le implicazioni di questa mossa, mentre sullo sfondo compare una notizia su GPT-5.2. Non ci sono screenshot di terminali, schermate di app/siti, diagrammi, UI di prodotti o codice mostrato oltre alla schermata dell'articolo.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Gemini, GPT-5.2, Google
 
 --- CAPTION COMPLETA ---
 Succederà oppure no?!
@@ -34,4 +37,4 @@ Succederà oppure no?!
 #intelligenzaartificiale #risparmiare #ia #chatgpt #riflessione
 
 --- TRASCRIZIONE AUDIO ---
-Attenzione ragazzi, Google chiude i robinetti, ha abbassato da, adesso qui non si vede, da 250 a 20 richieste giornaliere che possiamo fare a Gemini gratuitamente. Vi immaginate quando tipo tra 5 anni ormai tutti, non faremo a meno dell'intelligenza artificiale, dall'oggi al domani cominciano ad alzare i prezzi e solo i ricchi possono permettersela, i poveri continuano a fare le cose a mano. andiamo a correre un rischio molto grande soprattutto perché siamo in una società super capitalizzata, no? Capitalismo estremo dappertutto. Cosa ne pensate di questa cosa?
+Attenzione ragazzi, Google chiude i robinetti. Ha abbassato da, adesso qui non si vede, da 250 a 20 richieste giornaliere che possiamo fare a Gemini gratuitamente. Vi immaginate quando tipo tra 5 anni ormai tutti non faremo a meno dell'intelligenza artificiale, dall'oggi al domani cominciano ad alzare i prezzi e solo i ricchi possono permettersela, i poveri continuano a fare le cose a mano. Andiamo a correre un rischio molto grande soprattutto perché siamo in una società super capitalizzata, no? Capitalismo estremo dappertutto. Cosa ne pensate di questa cosa?

@@ -19,16 +19,17 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: news_ai
-TAG: intelligenza-artificiale, claude, anthropic, claudedispatch, ai
-TOPIC: Claude lancia Claude Dispatch, un'intelligenza artificiale che controlla il computer al posto tuo
+TAG: claude-dispatch, anthropic, automazione, intelligenza-artificiale
+TOPIC: L'azienda Anthropic presenta Claude Dispatch, una versione di intelligenza artificiale che utilizza il computer al posto dell'utente
 
 --- HOOK TESTUALE (dal frame) ---
 Claude ha pubblicato l'intelligenza artificiale che comanda il tuo computer dal tuo telefono iPhone o Android
 
-Now available as a research preview
-
 --- DESCRIZIONE VISIVA ---
-Un uomo è seduto davanti a un computer portatile, con una mano alzata come se stesse parlando o spiegando qualcosa. Indossa una maglietta con un logo. La stanza ha pareti beige, una finestra con una tenda marrone e si vede un edificio rosso fuori dalla finestra.
+Il video mostra una serie di screenshot e interfacce utente di un'applicazione o servizio chiamato Claude, insieme a un presentatore che sembra discutere le funzionalità del prodotto. Gli screenshot mostrano varie schermate dell'applicazione, tra cui una schermata di terminale, una schermata di autorizzazione e una schermata di informazioni. Il presentatore appare in diverse pose mentre parla e gesticola davanti a un laptop.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Claude Cowork, Claude Dispatch
 
 --- CAPTION COMPLETA ---
 Finalmente anche Claude ha il suo Jarvis 😮‍💨
@@ -48,4 +49,4 @@ Io sono il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video!
 #intelligenzaartificiale #claude #anthropic #claudedispatch #ai
 
 --- TRASCRIZIONE AUDIO ---
-Yantropik ha droppato Claude Dispatch Finalmente anche loro hanno la loro versione di questa intelligenza artificiale Che usa il computer al posto tuo Cioè in pratica adesso abbiamo Claude che legge le email Ci sposta i file, te li organizza nel calendario E la cosa figa è che tu lo puoi fare comodamente Mentre sei in giro al parco O sei in spiaggia a berti un mojito Lo chiamano Jarvis che è l'intelligenza artificiale che aveva Iron Man E un po' il paragone ci sta tutto Anche perché questa roba qua già esisteva da qualche mese Ma l'aveva fatto uno sviluppatore indipendente Che aveva lasciato un sacco di falle di sicurezza Qui invece è Claude direttamente Quindi è tutta un'altra storia C'è poco da fare Questi di Claude stanno realmente facendo la storia E tu cosa scegli? Claude, Gemini, CiaGPT A prescindere da tutto io sono Mattoso Ampieri Il tuo smanetto è di fiducia Noi ci vediamo in un prossimo video E tu ricordi di seguirmi se ancora non l'hai fatto
+C'è, Iantropic ha droppato Claude Dispatch. Finalmente anche loro hanno la loro versione di questa intelligenza artificiale che usa il computer al posto tuo. Cioè, in pratica, adesso abbiamo Claude che legge le email, ci sposta i file, te li organizza nel calendario. E la cosa figa è che tu lo puoi fare comodamente mentre sei in giro al parco o sei in spiaggia a berti un mojito. Lo chiamano Jarvis, che è l'intelligenza artificiale che aveva Iron Man. E un po' il paragone ci sta tutto. Anche perché questa roba qua già esisteva da qualche mese, ma l'aveva fatto uno sviluppatore indipendente, che aveva lasciato il mio lavoro. E' un sacco di falle di sicurezza. Qui invece è Claude direttamente quindi è tutta un'altra storia. C'è poco da fare questi di Claude stanno realmente facendo la storia e tu cosa scegli? Claude, Gemini, CiaGPT, a prescindere da tutto io sono Matteo Zampieri il tuo smanetto è di fiducia noi ci vediamo ad un prossimo video e tu ricordi di seguirmi se ancora non l'hai fatto.

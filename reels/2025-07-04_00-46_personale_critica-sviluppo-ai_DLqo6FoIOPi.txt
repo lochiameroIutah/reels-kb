@@ -18,15 +18,18 @@ CTA FOLLOW: sì
 LINK IN CAPTION: no
 
 --- CATEGORIA ---
-CATEGORIA: personale
-TAG: intelligenza-artificiale, chatgpt, critica-costruttiva
-TOPIC: Il creatore di contenuti @themattvision chiede ai suoi follower di mettere in discussione le sue idee per migliorare la qualità del pensiero e della discussione
+CATEGORIA: tutorial_ai
+TAG: chatgpt, intelligenza-artificiale, pensiero-critico, ai-feedback
+TOPIC: Come utilizzare ChatGPT per ricevere反馾edi costruttivi e migliorare il pensiero critico
 
 --- HOOK TESTUALE (dal frame) ---
 Vuoi che ChatGPT smetta di essere sempre d'accordo con te? Fai questo
 
 --- DESCRIZIONE VISIVA ---
-Una persona in una cucina sta posizionando un tablet su un tavolo. Sullo sfondo, un frigorifero con molti magneti e una parete con armadi bianchi.
+Un uomo con una maglietta bianca lavora su un laptop in una cucina. Inizia aprendo una scatola con un laptop, poi digita sul dispositivo. L'attenzione è focalizzata sul suo lavoro al computer, con la fridge magneti sulla porta del frigorifero sullo sfondo.
+
+--- PRODOTTI / TOOL VISIBILI ---
+ChatGPT
 
 --- CAPTION COMPLETA ---
 Inizia scrivendo questo:
@@ -57,4 +60,4 @@ Rimani utile, ma anche onesto. Sei qui per aiutarmi a pensare con chiarezza e a 
 #intelligenzaartificiale #chatgptprompts #ai #risparmiare #chatgpthacks
 
 --- TRASCRIZIONE AUDIO ---
-Grazie a tutti.
+We're burning up blue, now coming up for air, whenever I'm with you, fire, fire.

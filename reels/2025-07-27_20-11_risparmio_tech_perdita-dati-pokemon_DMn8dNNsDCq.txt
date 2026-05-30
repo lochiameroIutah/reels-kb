@@ -19,14 +19,17 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: risparmio_tech
-TAG: pokemon-packet, risparmiare, server-chiusi
-TOPIC: Il rischio di perdere le carte digitali se i server di Pokémon Pocket vengono chiusi
+TAG: pokemon-pocket, the-pokemon-company, giocchi-digitali, proprietà-digitale
+TOPIC: Il rischio di perdita di proprietà digitale in Pokémon Pocket se i server vengono chiusi
 
 --- HOOK TESTUALE (dal frame) ---
-OH MA TU
+[nessun testo rilevato]
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con una maglietta nera guarda verso la telecamera con un'espressione stupita e un lieve sorriso.
+Un uomo in una maglietta nera con un logo giallo parla direttamente alla telecamera, gesticolando con le mani. Le frasi di testo sovrapposte descrivono un gioco d'azzardo con carte e soldi.
+
+--- PRODOTTI / TOOL VISIBILI ---
+[nessuno]
 
 --- CAPTION COMPLETA ---
 Ecco cosa devi fare:
@@ -61,4 +64,4 @@ Mi raccomando, all’occhio! Ci vediamo al prossimo video 🚀
 #risparmiare #storytelling #pokemonpocket #tcgpokemon
 
 --- TRASCRIZIONE AUDIO ---
-oh ma tu che giochi hai giochi tipo per esempio pokemon pocket no quello delle carte collezionabili no e magari ci spendi pure soldi lo sapevi che se tipo tra cinque anni anche mettiamo conto the pokemon pokemon company si sveglia e dice ma sai cosa non stiamo facendo più abbastanza soldi chiudiamo i server tu perdi tutto quello che hai e tu che magari ci hai investito pure soldi ci perdi tutto cioè attenzione non facci caso
+Oh, ma tu che giochi ai giochi tipo, per esempio, Pokémon Pocket, quello delle carte collezionabili, no? E magari ci spendi pure soldi. Lo sapevi che se, tipo, tra cinque anni anche, mettiamo conto, The Pokémon Company si sveglia e dice, ma sai cosa? Non stiamo facendo più abbastanza soldi. Chiudiamo i server, tu perdi tutto quello che hai. E tu che magari ci hai investito pure soldi, ci perdi tutto. Cioè, attenzione, facci caso.

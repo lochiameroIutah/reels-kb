@@ -19,14 +19,17 @@ LINK IN CAPTION: sì (matteozampieri.com/prezzo)
 
 --- CATEGORIA ---
 CATEGORIA: risparmio_tech
-TAG: intelligenza artificiale, manus ai, shopping online
-TOPIC: Un metodo per trovare i prezzi più bassi online utilizzando l'intelligenza artificiale Manus AI
+TAG: manus-ai, intelligenza-artificiale, risparmio-online, shopping-sconto
+TOPIC: Come utilizzare Manus AI per trovare i prodotti online al prezzo più basso
 
 --- HOOK TESTUALE (dal frame) ---
 Questa funzione di questa intelligenza artificiale ti fa risparmiare troppe ore del tuo tempo
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con la pelle olivastra e una maglietta grigia parla direttamente alla telecamera, con una mano alzata. Sullo sfondo si vede una finestra con la luce del sole che illumina l'ambiente.
+Il video mostra un uomo che presenta una funzione di intelligenza artificiale che aiuta a risparmiare tempo. Viene mostrata una schermata di un sito web con prodotti, un motore di ricerca per trovare prodotti al prezzo più basso, e un'altra schermata con opzioni di acquisto. L'uomo parla e gesticola mentre presenta la funzione. Viene mostrato anche un terminale con del codice e una schermata con prezzi di prodotti.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Chrome
 
 --- CAPTION COMPLETA ---
 Ecco il link:
@@ -61,4 +64,4 @@ Io sono il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video!
 #intelligenzaartificiale #risparmiare #ai #manusai #shoppingonline
 
 --- TRASCRIZIONE AUDIO ---
-Non so se lo sai ma se vuoi comprare qualcosa su internet al prezzo più basso che si trova in giro è praticamente impossibile. Cioè te prova a cercare manualmente non ce la fai. Infatti se io ad esempio voglio comprare questo prodotto qua tutti i siti mi mostrano sempre lo stesso prezzo altissimo. Per questo motivo c'è il tuo smanettone di fiducia pronto qui a darti una mano. Andiamo su questo sito qua che vi ho messo in descrizione. Incogliamo quello che vogliamo cercare e il nostro budget massimo. Clicchiamo genera prompt. Lui ci genererà il prompt. Clicchiamo su copia prompt Facciamo apri Manu6i Che è un sito super affidabile della stessa azienda dietro Instagram, Facebook, Whatsapp Inseriamo quindi il testo che abbiamo copiato e clicchiamo invia D'ora in poi non dovrai più cercare su internet per il prezzo più basso Guarda qua In un attimo lui mi ha trovato tutto quello che c'è su internet In particolare questa versione ha 50 euro anziché 90 Io sono Matteo Zampieri, il tuo smanettone di fiducia Il link te l'ho messo in descrizione e tu ricordati in questi casi di pagare sempre con Paypal che così sei protetto e se anche non conosci il negoziante e si tratta di una truffa beh ti fai dare i soldi indietro noi ci vediamo in un prossimo video e tu ricordati di seguirmi se ancora non l'hai fatto
+Non so se lo sai ma se vuoi comprare qualcosa su internet al prezzo più basso che si trova in giro è praticamente impossibile. Cioè a te prova a cercare manualmente non ce la fai. Infatti se io ad esempio voglio comprare questo prodotto qua tutti i siti mi mostrano sempre lo stesso prezzo altissimo. Per questo motivo c'è il tuo smanettone di fiducia pronto qui a darti una mano. Andiamo su questo sito qua che vi ho messo in descrizione, incolliamo quello che vogliamo cercare e il nostro budget massimo. Clicchiamo genera prompt, lui ci genererà il prompt, clicchiamo su copia prompt, facciamo apri Manus AI, che è un sito super affidabile della stessa azienda dietro Instagram, Facebook, Whatsapp. Inseriamo quindi il testo che abbiamo copiato e clicchiamo invia. D'ora in poi non dovrai più cercare su internet per il prezzo più basso, guarda qua. In un attimo lui mi ha trovato tutto quello che c'è su internet, in particolare questa versione ha 50 euro anziché 90. Io sono Matteo Zampieri, il tuo smanettone di fiducia, il link te l'ho messo in descrizione e tu ricordati in questi casi di pagare sempre con PayPal che così sei protetto e se anche non conosci il negoziante e si tratta di una truffa, beh, ti fai dare i soldi indietro. Noi ci vediamo in un prossimo video e tu ricordati di seguirmi se ancora non l'hai fatto.

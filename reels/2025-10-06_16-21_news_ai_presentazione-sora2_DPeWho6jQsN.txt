@@ -19,14 +19,17 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: news_ai
-TAG: sora2, chatgpt, intelligenza-artificiale
-TOPIC: Il nuovo social network Sora2 basato sull'intelligenza artificiale
+TAG: sora2, intelligenza-artificiale, chatgpt, social-network, registrazione-utente
+TOPIC: Il nuovo social network Sora2 utilizza l'intelligenza artificiale per generare contenuti personalizzati
 
 --- HOOK TESTUALE (dal frame) ---
-Prossimamente al cinema: Tutti hanno un amico che sa smanettare con ogni cosa.
+Prossimamente al cinema:
 
 --- DESCRIZIONE VISIVA ---
-Un'immagine sfocata di una mano che tocca i tasti rossi di una tastiera meccanica, con un'atmosfera buia e toni di colore bluastri
+La griglia mostra una sequenza di fotogrammi che sembrano anticipare un film o un progetto cinematografico. I frame iniziali mostrano mani che lavorano su dispositivi elettronici, come computer e cellulari. Successivamente, appaiono primi piani di volti, mani che lavorano su circuiti elettronici e una persona che cammina in un ambiente urbano notturno. Verso la fine, si vedono due persone che si salutano sullo sfondo di una città durante il tramonto. L'ultimo frame mostra il titolo 'LO SMANETTONE DIFIDUCIA' e il nome del regista.
+
+--- PRODOTTI / TOOL VISIBILI ---
+[nessuno]
 
 --- CAPTION COMPLETA ---
 Ecco la data di uscita:
@@ -54,4 +57,4 @@ Io sono il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video!
 #intelligenzaartificiale #chatgpt #ia #ai #sora2
 
 --- TRASCRIZIONE AUDIO ---
-Io sono quello di fiducia Questa volta non è solo un cellulare So cosa sto facendo Se sbagli ti bruciano Allora non sbaglierò Mi hai salvata È il mio lavoro
+Termini hanno un amico che sa smanettare con ogni cosa, io sono quello di fiducia. Questa volta non è solo un cellulare. So cosa sto facendo. Se sbagli ti bruciano. Allora non sbaglierò. Mi hai salvata. È il mio lavoro.

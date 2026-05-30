@@ -19,14 +19,17 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: tutorial_ai
-TAG: vibecoding, intelligenzaartificiale, ia
-TOPIC: Il metodo Vibe Coding per creare app senza scrivere codice
+TAG: vibe-coding, intelligenza-artificiale, creazione-app, much-much-bass
+TOPIC: Come creare un'app per etichetta discografica con il Vibe Coding e l'intelligenza artificiale
 
 --- HOOK TESTUALE (dal frame) ---
-HO CREATO L'APP
+ETICHETTA DISCOGRAFICA
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con la barba sta guardando verso la camera con una mano che tiene uno smartphone con una schermata Notion aperta. Indossa una maglietta bianca. Sullo sfondo si vede un palazzo beige e un lampione.
+Il video mostra una serie di screenshot di un'applicazione musicale, probabilmente una piattaforma di streaming o una discografia digitale. Gli screenshot includono elenchi di canzoni, copertine di album e informazioni su eventi e notizie. Il presentatore, un uomo con una maglietta bianca, appare in vari frame, parlando e gesticolando mentre guarda gli screenshot sullo schermo di un telefono.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Much Much Bass
 
 --- CAPTION COMPLETA ---
 Conosci il Vibe Coding? 🚀
@@ -52,4 +55,4 @@ Scrivimi, Clicca segui 👉 e ti svelo tutto nei prossimi video!
 #intelligenzaartificiale #vibecoding #tutorial #ia #ai
 
 --- TRASCRIZIONE AUDIO ---
-Ho creato l'app per questa etichetta discografica utilizzando solamente l'intelligenza artificiale e ci ho messo un miliardesimo del tempo che ci metterebbe un programmatore e questa cosa è pazzesca. Come vedete c'è la sezione eventi, notizie, tutte le tracce, è una piattaforma di streaming letteralmente, non è perfetta, c'è un database, c'è la dashboard, c'è tutto quello che serve per un'etichetta discografica. questa cosa è pazzesca e io sono orgoglioso di poter aiutare questa etichetta discografica perché sta portando avanti la bass music in Italia una cosa che, dio mio, dovremo tutti ascoltare di più quindi questa cosa è pazzesca io sono Matteo Zamperi, il tuo smetto è in fiducia qui alle Canarie siamo nel futuro, ma è tutto come prima se non si è cambiato un cazzo, invece è cambiato tutto, pazzesco
+Ho creato l'app per questa etichetta discografica utilizzando solamente l'intelligenza artificiale e ci ho messo un miliardesimo del tempo che ci metterebbe un programmatore e questa cosa è pazzesca. Come vedete c'è la sezione eventi, notizie, tutte le tracce, è una piattaforma di streaming letteralmente, non è perfetta, c'è un database, c'è la dashboard, c'è tutto quello che serve per un'etichetta discografica. Questa cosa è pazzesca e io sono orgoglioso di poter aiutare questa etichetta discografica perché sta portando avanti la bass music in Italia, una cosa che, Dio mio, dovremo tutti ascoltare di più. Quindi questa cosa è pazzesca. Io sono Matteo Zampieri, il tuo smetto è in fiducia qui alle Canarie. Siamo nel futuro, ma è tutto come prima. Se non si è cambiato un cazzo, invece è cambiato tutto. Pazzesco.

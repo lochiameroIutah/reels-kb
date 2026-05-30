@@ -19,14 +19,17 @@ LINK IN CAPTION: sì (link presente)
 
 --- CATEGORIA ---
 CATEGORIA: risparmio_tech
-TAG: google-nano-banana, intelligenza-artificiale, risparmio
-TOPIC: Informazioni su come utilizzare Google Nano Banana gratuitamente
+TAG: google-nano-banana, intelligenza-artificiale, photoshop-alternativo, gratuito
+TOPIC: Come utilizzare Google Nano Banana gratuitamente per editare fotografie con intelligenza artificiale
 
 --- HOOK TESTUALE (dal frame) ---
 POV: ci vogliono fregare ma noi siamo informati
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con una maglietta nera parla verso la telecamera. Sullo sfondo, si vede un marciapiede con un paio di macchine parcheggiate.
+Un video che mostra un uomo che parla di come Google voglia fregarci, ma lui è informato. Mostra varie scene di lui che parla, intersecate con screenshot di prezzi di servizi Google e di una schermata di accesso a Google.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Google
 
 --- CAPTION COMPLETA ---
 Ecco il link giusto…

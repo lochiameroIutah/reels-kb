@@ -19,14 +19,17 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: tutorial_ai
-TAG: promptengineering, chatgpt, intelligenzaartificiale
-TOPIC: Ottimizzazione dei prompt per ChatGPT
+TAG: chatgpt, prompt-engineering, intelligenza-artificiale, ottimizzazione-prompt, themattvision
+TOPIC: Come ottimizzare i prompt per ChatGPT con le tecniche di prompt engineering di Themattvision
 
 --- HOOK TESTUALE (dal frame) ---
 Vuoi che ChatGPT ti dia risposte più utili? Fai questo
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con polo bianca guarda incuriosito uno smartphone con schermo nero poggiato su un tavolo in legno; sullo sfondo un frigorifero con vari magneti.
+Un uomo in una cucina con un laptop, digita su di esso. L'hook testuale 'Vuoi che ChatGPT ti dia risposte più utili? Fai questo' è presente in tutti i frame. Non ci sono screenshot di terminali, schermate di app/siti, diagrammi, UI di prodotti, codice mostrato o altro B-roll informativo. L'attenzione è focalizzata sul presentatore.
+
+--- PRODOTTI / TOOL VISIBILI ---
+ChatGPT
 
 --- CAPTION COMPLETA ---
 Inizia scrivendo questo:

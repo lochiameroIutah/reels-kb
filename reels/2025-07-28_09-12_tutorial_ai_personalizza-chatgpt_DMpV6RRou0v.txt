@@ -19,14 +19,17 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: tutorial_ai
-TAG: chatgpt, intelligenza-artificiale, prompt-engineering
-TOPIC: Come personalizzare le risposte di ChatGPT con prompt specifici
+TAG: chatgpt, intelligenza-artificiale, prompts, automazione-risposte, configurazione-chatgpt
+TOPIC: Come configurare ChatGPT per rispondere in modo personalizzato utilizzando specifici prompts
 
 --- HOOK TESTUALE (dal frame) ---
-Vuoi che ChatGPT ti risponda come vuoi tu? Fai questo 
+Vuoi che ChatGPT ti risponda come vuoi tu? Fai questo
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con una maglietta beige guarda incuriosito il suo tablet. Sullo sfondo si vede un frigorifero pieno di magneti.
+Un uomo in una cucina con un laptop, inizialmente l'uomo posa il laptop sul tavolo e lo apre, poi inizia a lavorare sul laptop con espressioni facciali diverse, come frustrazione e stupore.
+
+--- PRODOTTI / TOOL VISIBILI ---
+ChatGPT
 
 --- CAPTION COMPLETA ---
 Inizia scrivendo questo:

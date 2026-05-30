@@ -19,14 +19,17 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: risparmio_tech
-TAG: blackfriday, amazon, offerte
-TOPIC: Il video rivela come Amazon potrebbe ingannare i clienti con le offerte del Black Friday
+TAG: amazon, black-friday, offerte-tecnologia, risparmio-online, keepa
+TOPIC: Come ottenere i veri sconti su Amazon durante il Black Friday grazie a Keepa
 
 --- HOOK TESTUALE (dal frame) ---
-AMAZON DEVE METTERTI
+GRAZIE AL BLACK FRIDAY
 
 --- DESCRIZIONE VISIVA ---
-Una freccia nera su uno schermo di laptop che punta a un prodotto Amazon con un prezzo e dettagli in italiano, mentre una mano destra indica verso il basso sullo schermo.
+La griglia mostra una sequenza di eventi che inizia con screenshot di un prodotto su un sito web, seguito da una mano che punta il prezzo del prodotto. Viene mostrata una schermata con informazioni sul prodotto e varie offerte. Successivamente, si vedono persone che sembrano commentare o utilizzare dispositivi. Il B-roll informativo include screenshot dei siti web e delle offerte, mentre il presentatore sembra discutere del prezzo e delle offerte del prodotto.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Amazon
 
 --- CAPTION COMPLETA ---
 Ecco come Amazon ti sta fregando con le offerte del black Friday!

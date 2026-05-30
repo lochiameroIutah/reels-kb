@@ -19,14 +19,17 @@ LINK IN CAPTION: sì (link presente)
 
 --- CATEGORIA ---
 CATEGORIA: tutorial_ai
-TAG: perplexity, trascrizione, risparmio
-TOPIC: Una guida su come utilizzare Perplexity per trascrivere audios e risparmiare tempo
+TAG: perplexity-ai, trascrizione-automatica, risparmio-tempo, intelligenza-artificiale
+TOPIC: Come usare Perplexity per convertire un file audio in testo e risparmiare tempo
 
 --- HOOK TESTUALE (dal frame) ---
 Questa funzione di Perplexity ti fa risparmiare troppe ore del tuo tempo
 
 --- DESCRIZIONE VISIVA ---
-Un uomo anziano con occhiali neri siede a un tavolo con un'espressione pensierosa. Indossa una maglietta nera e si trova davanti a una porta in legno marrone con una tenda bianca.
+Il video mostra un uomo che utilizza l'app Perplexity per convertire un file audio in testo. Inizia mostrando l'uomo seduto mentre parla, poi si vedono screenshot dell'app e della funzione di conversione. L'uomo illustra come utilizzare la funzione, mostrando la registrazione audio e la trascrizione del testo. Il video termina con l'uomo e un'altra persona che appaiono insieme.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Perplexity
 
 --- CAPTION COMPLETA ---
 Inizia facendo questo:
@@ -48,4 +51,4 @@ Prima di tutto 👉 clicca segui @themattvision
 #intelligenzaartificiale #risparmiare #ai #chatgpthacks #perplexity
 
 --- TRASCRIZIONE AUDIO ---
-Cos'è che hai appena fatto? Ho usato Perplexity per convertire un audio in un file di testo. Basta prendere la tua registrazione, andare qui sui tre puntini, condividi, dopodiché attivate Perplexity e poi gli dici cosa vuoi fare. La trascrizione integrale trascrivi. Stiacci il bottoncino verde. Scorri, vediamo ma quanto è lunga. Madonna mia, ma è enorme. Devastante. Seguite lo smanettone per altri consigli interessanti. Grazie.
+Cos'è che hai appena fatto? Ho usato perplexity per convertire un audio in un file di testo. Basta prendere la tua registrazione, andare qui sui tre puntini, condividi, dopodiché attivate perplexity e poi gli dici cosa vuoi fare. La trascrizione integrale trascrivi, schiacci il bottoncino verde, scorri vediamo ma quanto è lunga, madonna mia ma è enorme, devastante. Seguite lo smanettone per altri consigli interessanti.

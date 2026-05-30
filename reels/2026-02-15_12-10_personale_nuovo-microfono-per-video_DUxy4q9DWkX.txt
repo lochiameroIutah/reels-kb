@@ -19,14 +19,17 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: personale
-TAG: microfono, recensione, acquisto
-TOPIC: Il content creator @themattvision acquista un nuovo microfono per migliorare la qualità audio dei suoi video
+TAG: microfono-dji, recensione-attrezzatura, mirtilla-malcontent, qualita-audio
+TOPIC: L'utente acquista e testa i microfoni DJI per migliorare la qualità audio dei suoi video
 
 --- HOOK TESTUALE (dal frame) ---
 Ho finalmente fatto il primo acquisto che qualsiasi content creator dovrebbe fare
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con una maglia blu, sfocato, contro uno sfondo chiaro, probabilmente una parete.
+Il video mostra un uomo che apre una scatola contenente due microfoni. L'uomo estrae i microfoni dalla scatola, li esamina e ne parla. Il video sembra essere incentrato sull'unboxing e sulla presentazione dei microfoni.
+
+--- PRODOTTI / TOOL VISIBILI ---
+microfoni
 
 --- CAPTION COMPLETA ---
 Ha seguito il consiglio della @mirtilla.malcontent e ho comprato qualcosa che dovrebbe aiutarvi a capirmi meglio 🔥
@@ -34,4 +37,4 @@ Ha seguito il consiglio della @mirtilla.malcontent e ho comprato qualcosa che do
 Mini vlog domenicale ❤️‍🔥 #vlog
 
 --- TRASCRIZIONE AUDIO ---
-microfono dj art vediamo un po' la sua scatoletta carino questo cavetti non so neanche se ci sono due microfoni ho comprato molto al volo ci sono tante cosine guarda robette che ti arrivano due microfoni la madonna devastanti no no speso 50 euro comunque 50 euro per un microfono non è un cazzo qualcosa anti vento non so quanto anti vento sia questa cosa grazie per i consigli della mirtilla my content che mi ha consigliato di prenderli perché li ho provati nel video con la collaborazione con lei solidi beh lo testiamo metto questo qua facciamo così provo ad attaccarlo vediamo eh vediamo se già funziona bene ce l'ho fatta ce l'ho fatta oggi sono Matteo Zampieri il vostro smanettone di fiducia con il microfono che ha migliorato praticamente la qualità dei suoi video. Vedo proprio un grande e netto miglioramento all'audio. Porca troia. Riesco a parlarvi così da lontano. Che figata. È stato un po' complicato, però alla fine ce l'ho fatta. Adesso possiamo fare i video ASMR. Veramente fantastico, veramente pazzesco. Un domani mi divertirò a fare un video che dice dove dico io sono il tuo smanettone di fiducia. Ecco, non so se lo sai, ma questo, quello o quell'altro. Troppo divertente.
+Il microfono DJIAR, vediamo un po'. Vediamo qua il microfono e la sua scatoletta. Carino questo. Cavetti. Microfono 1, no, Clipper, boh. Non so neanche se ci sono due microfoni o è uno. Ho comprato molto al volo. Ci sono tante cosine. Guarda robette che ti arrivano. Due microfoni, la madonna, devastanti. Non vengono proprio niente? No, no, ho speso 50 euro, eh. Comunque 50 euro per un microfono non è un cazzo. Qualcosa anti-vento, non so quanto anti-vento sia questa cosa. Grazie per i consigli della Mirtilla MyContent che mi ha consigliato di prenderli perché li ho provati nel video con la collaborazione con lei. Solidi. Beh, lo testiamo. Metto questo qua, facciamo così. Proviamo ad attaccarlo. Vediamo, eh. Vediamo se già funziona. Bene, ce l'ho fatta, ce l'ho fatta! Oggi sono Matteo Zampieri, il vostro smanettone di fiducia con il microfono che ha migliorato praticamente la qualità dei suoi video. Vedo proprio un grande, netto miglioramento all'audio. Porca troia! Riesco a parlarvi così da lontano. Che figata! È stato un po' complicato, però alla fine ce l'ho fatta. Adesso possiamo fare i video ASMR. Veramente fantastico, veramente pazzesco. Un domani mi divertirò a fare un video che dice, dove dico, io sono il tuo smanettone. di fiducia, ecco, non so se lo sai, ma questo, quello, quell'altro, troppo divertente.

@@ -19,14 +19,17 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: confronto_ai
-TAG: chatgpt5, intelligenzaartificiale, vibecoding
-TOPIC: Il creatore italiano di AI e tech critica la scarsa performance di ChatGPT-5
+TAG: chatgpt-5, claude, intelligenza-artificiale, tool-di-codifica, problemi-tecnici
+TOPIC: Il video mostra come ChatGPT-5 non funzioni correttamente e venga superato da Claude nella creazione di un'app
 
 --- HOOK TESTUALE (dal frame) ---
 Non usare ChatGPT-5! sono in imbarazzo
 
 --- DESCRIZIONE VISIVA ---
-Uno schermo di un computer che mostra del codice, presumibilmente di una App in fase di sviluppo
+Il video mostra una serie di screenshot di terminali e schermate di coding, con il protagonista che sembra utilizzare ChatGPT-5 per creare un'app. Inizialmente, viene mostrato come l'utente cerca di utilizzare ChatGPT-5 per codificare, ma successivamente si passa a Claude, un altro tool di AI. Viene mostrato il processo di sviluppo dell'app, con varie schermate di codice e terminali aperti. Il protagonista sembra avere problemi con ChatGPT-5 e decide di passare a Claude.
+
+--- PRODOTTI / TOOL VISIBILI ---
+ChatGPT, Claude
 
 --- CAPTION COMPLETA ---
 Più lo uso e più mi sento preso in giro
@@ -40,4 +43,4 @@ attualmente infatti, è inutilizzabile…
 #chatgpt5 #intelligenzaartificiale #vibecoding #chatgpt #traeai
 
 --- TRASCRIZIONE AUDIO ---
-No vabbè, senza senso, guarda qua, sto usando CiaGPT5 per creare la mia app e fa cagare Cioè, se vedi qui, qui come vedi sta facendo un sacco di cose, io gli chiedo le cose, mi risponde Questo è Cloud, Cloud si chiama, ok? Il competitor di CiaGPT Vado su CiaGPT5, tipo, boh non parla più, guarda ora Qui praticamente sta leggendo i file, sta leggendo i testi, le cose, ma non fa niente invece tre cazzate adesso qui sta andando avanti così tutto fake ma c'ha GPT-5 è una truffa enorme
+No vabbè, senza senso, guarda qua, sto usando CiaGPT5 per creare la mia app e fa cagare! Cioè, se vedi qui, qui come vedi sta facendo un sacco di cose, io gli chiedo le cose, mi risponde, questo è Claude, Claude si chiama, ok? Il competitor di CiaGPT. Vado su CiaGPT5, tipo, boh non parla più, guarda ora, qui praticamente sta leggendo i file, sta leggendo i testi, le cose, ma non fa niente. Vi c'è tre cazzate. Adesso qui sta andando avanti così. Tutto fake. Ma ChatGPT5 è una truffa enorme.

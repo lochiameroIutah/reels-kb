@@ -19,14 +19,17 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: tutorial_ai
-TAG: perplexity, video, gratuito
-TOPIC: Il creator mostra come utilizzare Perplexity per generare video da immagini in modo gratuito
+TAG: perplexity, chatgpt, generazione-video, tool-gratuiti
+TOPIC: Come utilizzare Perplexity per creare video gratuiti a partire da immagini
 
 --- HOOK TESTUALE (dal frame) ---
 Da oggi Perplexity ti crea anche i video completamente gratis
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con una maglietta grigia e un'espressione amichevole punta il dito verso la telecamera, con una sovrapposizione di testo in italiano.
+Il video mostra un uomo che spiega come utilizzare Perplexity per creare video gratuitamente. Inizia mostrando la sua faccia e parlando, poi mostra schermate di un computer con codice e prompt di esempio, successivamente mostra come si può dare un'immagine a Perplexity per generare un video. Infine, mostra il risultato finale del video generato.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Perplexity, ChatGPT
 
 --- CAPTION COMPLETA ---
 Ecco cosa devi scrivere:
@@ -48,4 +51,4 @@ Se ti sono stato utile 👉 clicca segui @themattvision
 Io sono il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video!
 
 --- TRASCRIZIONE AUDIO ---
-Sapevate che si possono generare video con perplexity, l'abbonamento che avete gratis? Adesso vi faccio vedere. L'altro giorno sono stato a Gardaland e praticamente ho dato a Chagipiti e gli ho detto come potrei animare questa foto, mi ha dato qualche idea. Gli ho detto quindi ok, fagli fare qualcosa di tipo assurdo, che fanno questo, quello e quell'altro, lui l'ha descritto. E poi gli ho detto creami il prompt in inglese. Mi ha creato il prompt in inglese e gli ho detto di iniziare con generate a video from this photo. Ho copiato questa cosa, ho preso queste immagini, le ho dato tutto a Hyperplexity e lui mi ha generato questo video qua incredibile. Cioè, che what? Ce l'abbiamo incluso nel nostro abbonamento. Se non hai Hyperplexity gratis puoi ottenerlo fino al 31 dicembre gratuitamente, trovi la guida sul mio profilo. Io sono Matteo Zampiedi, il tuo smanettone di fiducia e noi ci vediamo ad un prossimo video.
+Sapevate che si possono generare video con perplexity? L'abbonamento che avete gratis? Adesso vi faccio vedere. L'altro giorno sono stato a Gardaland e praticamente ho dato a CiaGPT e gli ho detto come potrei animare questa foto, mi ha dato qualche idea. Gli ho detto quindi ok, fagli fare qualcosa di tipo assurdo, che fanno questo, quello e quell'altro, lui l'ha descritto. E poi gli ho detto creami il prompt in inglese. Mi ha creato il prompt in inglese e gli ho detto di iniziare con generate a video from this photo. Ho copiato questa cosa, ho preso queste immagini, le ho dato tutto a Hyperplexity e lui mi ha generato questo video qua incredibile. Cioè, che... ce l'abbiamo incluso nel nostro abbonamento. Se non hai Hyperplexity gratis puoi ottenerlo fino al 31 dicembre gratuitamente, trovi la guida sul mio profilo. Io sono Matteo Zampieri, il tuo smanettone di fiducia e noi ci vediamo ad un prossimo video.

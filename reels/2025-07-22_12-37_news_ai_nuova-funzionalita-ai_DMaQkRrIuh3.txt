@@ -19,14 +19,17 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: news_ai
-TAG: intelligenza artificiale, amazon, trae
-TOPIC: Presentazione della nuova funzionalità di creazione di applicazioni con intelligenza artificiale di Trae
+TAG: trae, intelligenza-artificiale, amazon, sviluppo-app
+TOPIC: Il lancio della nuova funzionalità di Trae che consente di creare applicazioni con l'intelligenza artificiale senza scrivere codice
 
 --- HOOK TESTUALE (dal frame) ---
-ATTENZIONE TRAE è
+The Ideal AI Engineer
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con una maglietta nera fa un gesto con la mano destra, come se stesse salutando o facendo un cenno. Sullo sfondo, si vede una finestra con la persiana abbassata e una parete bianca.
+Il video mostra un uomo che si alterna tra il parlare direttamente alla camera e il mostrare schermate di un computer. Le schermate includono un terminale con comandi, una schermata di benvenuto di un tool o applicazione che menziona 'Collaborate with Intelligence' e un'altra schermata con un interfaccia utente che sembra essere quella di un tool di sviluppo o di una piattaforma di intelligenza artificiale. L'uomo gesticola mentre parla e sembra stia spiegando come utilizzare o configurare questi strumenti.
+
+--- PRODOTTI / TOOL VISIBILI ---
+GitHub
 
 --- CAPTION COMPLETA ---
 Io mondo cambia davvero velocemente

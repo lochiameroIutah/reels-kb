@@ -19,14 +19,17 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: tutorial_ai
-TAG: intelligenzaartificiale, chatgpt, privacy
-TOPIC: Impostazioni per disattivare la raccolta di dati su ChatGPT
+TAG: chatgpt, privacy, dati-utente, impostazioni
+TOPIC: Come disabilitare la raccolta dei dati utente in ChatGPT
 
 --- HOOK TESTUALE (dal frame) ---
 Vuoi che ChatGPT non vada a salvare i tuoi dati? Fai questo
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con una maglietta grigia è seduto davanti a un computer, con la mano destra estesa verso lo schermo. Sembra che stia parlando o discutendo qualcosa. L'ambiente intorno a lui è sfocato, ma sembra essere una stanza con pareti bianche e un telaio di legno.
+Il video mostra un uomo che spiega come impedire a ChatGPT di salvare i dati degli utenti. Inizia con una conversazione su ChatGPT e la raccolta dei dati, poi passa a mostrare le impostazioni dell'app o del sito, dove seleziona opzioni per disabilitare la raccolta dei dati. Viene mostrata una schermata con varie impostazioni, tra cui 'Controlli e dati' e 'Miglioramento del modello'. L'uomo illustra come accedere a queste impostazioni e modificarle per evitare la raccolta dei dati.
+
+--- PRODOTTI / TOOL VISIBILI ---
+ChatGPT
 
 --- CAPTION COMPLETA ---
 Inizia facendo questo: :
@@ -52,4 +55,4 @@ Se ti sono stato utile 👉 clicca segui @themattvision
 #intelligenzaartificiale #risparmiare #ai #chatgpthacks #privacy
 
 --- TRASCRIZIONE AUDIO ---
-Non so se lo sai ma CiaGPT ti sta prendendo tutti i dati, cioè te prova a non farti prendere i dati da CiaGPT non ce la fai. Infatti se io gli chiedo proprio stai salvando i miei dati, lui mi risponde proprio sì, per migliorare CiaGPT usiamo i tuoi dati col tuo permesso. Per questo motivo c'è il tuo smanitone di fiducia, adesso vediamo come fare. Andate in basso e selezionate impostazioni, da qui andate su controlli e dati, cliccate su migliora il modello per tutti, cliccate attiva e spegnete queste tre spunte. Ora in poi, ciao GPT, non salverà nessuna tua informazione. Guarda qua, stai salvando i miei dati? No, tranquillo, non salvo nessun dato personale delle tue chat. Io sono il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video e ricordati di seguirmi se ancora non l'hai fatto.
+Non so se lo sai, ma CiaGPT ti sta prendendo tutti i dati. Cioè te prova a non farti prendere i dati da CiaGPT, non ce la fai. Infatti se io gli chiedo proprio stai salvando i miei dati, lui mi risponde proprio sì, per migliorare CiaGPT usiamo i tuoi dati col tuo permesso. Per questo motivo c'è il tuo smanettone di fiducia, adesso vediamo come fare. Andate in basso e selezionate Impostazioni. Da qui andate su Controlli e dati, cliccate su Migliora il modello per tutti, cliccate Attiva e spegnete queste tre spunte. Ora in poi, CiaGPT non salverà nessuna tua informazione, guarda qua, stai salvando i miei dati? No, tranquillo, non salvo nessun dato personale delle tue chat. Io sono il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video e ricordati di seguirmi se ancora non l'hai fatto.

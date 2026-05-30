@@ -19,15 +19,18 @@ CTA FOLLOW: sì
 LINK IN CAPTION: sì (matteozampieri.com/gemini)
 
 --- CATEGORIA ---
-CATEGORIA: news_ai
-TAG: chatgpt, claude, gemini, intelligenza-artificiale
-TOPIC: Il governo americano vuole utilizzare Claude per la guerra e il controllo di massa, ma Anthropic rifiuta
+CATEGORIA: confronto_ai
+TAG: claude, chatgpt, anthropic, gemini
+TOPIC: Il governo americano vuole utilizzare Claude per la guerra e il controllo di massa, mentre Anthropic si rifiuta e OpenAI accetta, presentando Gemini come alternativa
 
 --- HOOK TESTUALE (dal frame) ---
 Ecco il motivo per cui non dovresti più usare ChatGPT e passare a Claude o Gemini
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con una maglietta nera sorride e gesticola con la mano destra, sullo sfondo una cucina
+Il video mostra un uomo che parla e gesticola in diverse pose, indossando una maglietta nera con il logo 'The Starters'. Non sono presenti screenshot di terminali, schermate di app/siti, diagrammi, UI di prodotti, codice o altro B-roll informativo. L'uomo sembra discutere i motivi per cui non utilizzare più ChatGPT e passare a Claude o Gemini.
+
+--- PRODOTTI / TOOL VISIBILI ---
+ChatGPT, Claude, Gemini
 
 --- CAPTION COMPLETA ---
 Ecco cosa sta succedendo davvero:
@@ -49,4 +52,4 @@ Io sono il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video!
 #intelligenzaartificiale #claude #chatgpt #gemini #ai
 
 --- TRASCRIZIONE AUDIO ---
-Non so se lo sai ma ChatGPT ha una voglia matta di contribuire alla guerra. Infatti c'è questa azienda che si chiama Antropic che ha creato Cloud che è l'intelligenza artificiale antagonista di ChatGPT. Questa azienda nasce proprio dalla mancanza di etica di ChatGPT perché queste persone lavoravano dentro ChatGPT e hanno scelto di licenziarsi e creare la loro azienda. E' diventata nel frattempo la più potente e precisa intelligenza artificiale. Cos'è successo? L'intelligence americana vuole utilizzare Cloud per la guerra e controllo di massa. Ovviamente il capo di Claude ha scelto proprio di schierarsi contro la guerra e contro i controlli di massa fatti con l'intelligenza artificiale, non solo perché eticamente è molto pericoloso, ma è anche molto pericoloso per la sicurezza, perché queste intelligenze artificiali non sono ancora affidabili. O meglio, non fino a questo punto. Il governo americano sta dando dei problemi a Claude, infatti sta andando down spesso e volentieri in questi giorni e guarda un po' si è schierata subito OpenAI quindi l'azienda dietro CiaGPT dicendo ehi Claude non vuole darvi la loro intelligenza artificiale? beh ci siamo noi, noi siamo i numeri uno, noi siamo alla fame, questa è la verità. Le alternative ci sono oltre a Claude c'è Gemini che consiglio sempre e allo stesso prezzo ti dà una miriade di strumenti ma anche Gemini dentro le email, per le presentazioni, per i documenti, per gli Excel. Quindi beh, ora lo sai e puoi fare una scelta più consapevole Io sono Matteo Zampieri, il tuo smanettone di fiducia Noi ci vediamo in un prossimo video Ricordati di seguirmi se ancora non l'hai fatto
+Non so se lo sai ma ChatGPT ha una voglia matta di contribuire alla guerra. Infatti c'è questa azienda che si chiama Antropic che ha creato Claude, che è l'intelligenza artificiale antagonista di ChatGPT. Questa azienda nasce proprio dalla mancanza di etica di ChatGPT perché queste persone lavoravano dentro ChatGPT e hanno scelto di licenziarsi e creare la loro azienda. È diventata nel frattempo la più potente e precisa intelligenza artificiale. Cos'è successo? L'intelligence americana vuole utilizzare Claude per la guerra. Il controllo di massa. Ovviamente il capo di Claude ha scelto proprio di schierarsi contro la guerra e contro i controlli di massa fatti con l'intelligenza artificiale. Non solo perché eticamente è molto pericoloso, ma è anche molto pericoloso per la sicurezza, perché queste intelligenze artificiali non sono ancora affidabili. O meglio, non fino a questo punto. Il governo americano sta dando dei problemi a Claude, infatti sta andando down spesso e volentieri in questi giorni. E guarda un po', si è schierata subito OpenAI, quindi l'azienda dietro CiaGPT, dicendo, Ehi, Claude non vuole darvi l'innollore intelligenza artificiale? Beh, ci siamo noi, noi siamo i numeri uno, noi siamo alla fame, questa è la verità. Le alternative ci sono, oltre a Claude c'è Gemini, che consiglio sempre, e allo stesso prezzo ti dà una miriade di strumenti, ma anche Gemini dentro le email, per le presentazioni, per i documenti, per gli Excel. Quindi beh, ora lo sai e puoi fare una scelta più consapevole. Io sono Matteo Zampieri, il tuo smanettone di fiducia, noi ci vediamo in un prossimo video e ricordati di seguirmi se ancora non l'hai fatto.

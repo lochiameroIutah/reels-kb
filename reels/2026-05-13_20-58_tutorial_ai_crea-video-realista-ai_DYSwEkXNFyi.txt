@@ -19,14 +19,17 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: tutorial_ai
-TAG: intelligenza artificiale, ai, higgsfield, seedance 2.0
-TOPIC: Creare un video realistico con l'intelligenza artificiale in 5 minuti
+TAG: higgsfield, seedance-2-0, intelligenza-artificiale, prompt
+TOPIC: Come creare video personalizzati con Higgsfield e Seedance 2.0 utilizzando l'intelligenza artificiale
 
 --- HOOK TESTUALE (dal frame) ---
-IN TANTI MI
+MAKE VIDEOS IN ONE CLICK
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con un cappuccio grigio parla direttamente alla telecamera mentre sullo sfondo una foto di un gruppo di uomini vestiti di nero
+Il video mostra un uomo che presenta un tool per creare video in un solo clic. Viene mostrata una schermata di un sito web con opzioni per creare video, un'altra schermata con un prompt per descrivere un'immagine e una schermata con una foto. L'uomo parla di un'intelligenza artificiale che crea video in 5 minuti. Viene mostrata anche un'auto gialla e un gruppo di persone.
+
+--- PRODOTTI / TOOL VISIBILI ---
+InVideo
 
 --- CAPTION COMPLETA ---
 Inizia facendo questo:
@@ -53,4 +56,4 @@ PROMPT: te l’ho messo tra i commenti perché è troppo lungo
 #intelligenzaartificiale #ai #ia #prompt #higgsfield
 
 --- TRASCRIZIONE AUDIO ---
-Tanti mi state facendo i complimenti per la mia nuova macchina ma in realtà non sono io perché questo video l'ho creato in 5 minuti con l'intelligenza artificiale. Adesso ti faccio vedere come si fa. Vai su Xfield, registrati e poi scegli la generazione video col modello Seedance 2.0. Poi carica la tua foto e quella della macchina che preferisci, una Ferrari, una Tesla, una Lamborghini. Incolla questo prompt che ti ho messo in descrizione ma comunque se commenti con la parola prompt te lo mando direttamente, clicchi il pulsante generate e ti aspetti 5 minuti e hai fatto. La roba assurda è che c'è gente che si fa pagare 6.000 euro, dice, per fare questi video qua. Io sono Matteo Zampieri, il tuo smanettone di fiducia. Noi ci vediamo in un prossimo video e tu ricordati di seguirmi se ancora non l'hai fatto.
+Tanti mi state facendo i complimenti per la mia nuova macchina ma in realtà non sono io perché questo video l'ho creato in 5 minuti con l'intelligenza artificiale. Adesso ti faccio vedere come si fa. Vai su Xfield, registrati e poi scegli la generazione video col modello Seedance 2.0. Poi carica la tua foto e quella della macchina che preferisci, una Ferrari, una Tesla, una Lamborghini. Incolla questo prompt che ti ho messo in descrizione ma comunque se commenti con la parola prompt te lo mando direttamente, clicchi il pulsante generate e ti aspetti 5 minuti e hai fatto. La roba assurda è che c'è gente che si fa pagare 6.000€, dice, per fare questi video qua, io sono Matteo Zampieri, il tuo smanettone di fiducia, noi ci vediamo in un prossimo video, tu ricordati di seguirmi se ancora non l'hai fatto.

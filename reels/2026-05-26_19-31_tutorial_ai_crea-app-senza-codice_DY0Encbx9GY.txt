@@ -19,14 +19,17 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: tutorial_ai
-TAG: intelligenza artificiale, vibe coding, workshop
-TOPIC: Creare applicazioni senza scrivere codice con l'intelligenza artificiale
+TAG: vibe-coding, intelligenza-artificiale, sviluppo-app, matteo-zampieri
+TOPIC: Come creare app con l'intelligenza artificiale utilizzando il vibe coding di Matteo Zampieri
 
 --- HOOK TESTUALE (dal frame) ---
 Da oggi l'intelligenza artificiale può creare le App al posto tuo
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con la barba e un maglione nero guarda verso la camera con un'espressione seria. Sullo sfondo si vede una parete bianca e un soffitto grigio.
+Il video mostra una serie di screenshot di un computer con codice, schermate di app e siti web, presumibilmente per illustrare come l'intelligenza artificiale possa essere utilizzata per creare applicazioni. Vengono mostrate interfacce di sviluppo, finestre di terminale e schermate di app pronte all'uso. Il presentatore, Matteo Zampieri, appare in alcuni frame, parlando e gesticolando. Le immagini suggeriscono che l'intelligenza artificiale può automatizzare il processo di creazione di app.
+
+--- PRODOTTI / TOOL VISIBILI ---
+[nessuno]
 
 --- CAPTION COMPLETA ---
 Puoi farlo anche tu, ti spiego:
@@ -63,4 +66,4 @@ Io sono Matteo Zampieri il tuo smanettone di fiducia, noi ci vediamo domani!
 #creatorsearchinsights
 
 --- TRASCRIZIONE AUDIO ---
-Sai io non ci posso credere cioè la situazione mi è sfuggita di mano queste qua sono tutte le applicazioni che ho creato quando ho imparato a fare applicazioni con l'intelligenza artificiale quelle di cui vado più fiero tipo questa qua tu gli dici tutte le cose che hai da fare e lui ti fa tutta la lista scritta per bene. Ho fatto ad esempio questo portfoglio per questo mio amico designer, questa è l'app della palestra che mi sono fatto perché non avevo voglia di utilizzare quello che mi hanno dato loro, ma poi aspetta perché ho fatto anche quella che mi permette di gestire tutta l'organizzazione del mio compleanno, tipo questi sono gli invitati, le casse, la gente quanto beve e queste applicazioni le ho create senza toccare una riga di codice. E poi la mia preferita è un'applicazione che ti permette di tenere lo slancio tipo Duolingo, no? Tu imposti una cosa che vuoi fare tipo 25 flessioni ogni giorno e lui te lo ricorda con l'obiettivo di portare avanti una buona abitudine. Tutto questo grazie al vibe coding, ovvero creare applicazioni con l'intelligenza artificiale. Io sono Matteo Zampieri, il tuo smanettone di fiducia e domani ti mostrerò come si può fare una volta per tutte queste applicazioni sfruttando solamente l'intelligenza artificiale. Sarà un workshop dal vivo e tu commenta con la parola app e ti mando il link per partecipare. Noi quindi ci vediamo domani alle ore 8 che ti mostrerò come creare applicazioni da zero sfruttando solo l'intelligenza artificiale.
+Sai, io non ci posso credere, cioè, la situazione mi è sfuggita di mano. Queste qua sono tutte le applicazioni che ho creato quando ho imparato a fare applicazioni con l'intelligenza artificiale. Quelle di cui vado più fiero, tipo questa qua, tu gli dici tutte le cose che hai da fare e lui ti fa tutta la lista scritta per bene. Ho fatto ad esempio questo portfoglio per questo mio amico designer. Questa è l'app della palestra che mi sono fatto perché non avevo voglia di utilizzare quello che mi avevano dato loro. Ma poi aspetta perché ho fatto anche quella che mi permette di gestire tutta l'organizzazione del mio compleanno. che hanno tipo questi sono gli invitati, le casse, la gente quanto beve. E queste applicazioni le ho create senza toccare una riga di codice. E poi la mia preferita è un'applicazione che ti permette di tenere lo slancio tipo Duolingo, no? Tu imposti una cosa che vuoi fare tipo 25 flessioni ogni giorno e lui te lo ricorda con l'obiettivo di portare avanti una buona abitudine. Tutto questo grazie al vibe coding, ovvero creare applicazioni con l'intelligenza artificiale. Io sono Matteo Zampieri, il tuo smanettone di fiducia e domani ti mostrerò come si può fare una volta per tutte queste applicazioni sfruttando solamente l'intelligenza artificiale. Sarà un workshop dal vivo e tu commenta con la parola APP e ti mando il link per partecipare. Noi quindi ci vediamo domani alle ore 8 che ti mostrerò come creare applicazioni da zero sfruttando solo l'intelligenza artificiale.

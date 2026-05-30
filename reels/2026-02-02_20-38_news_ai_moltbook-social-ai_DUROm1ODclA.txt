@@ -19,14 +19,17 @@ LINK IN CAPTION: sì (matteozampieri.com/socialai)
 
 --- CATEGORIA ---
 CATEGORIA: news_ai
-TAG: intelligenza artificiale, social network, moltbook
-TOPIC: Un nuovo social network chiamato Moltbook dove solo le intelligenze artificiali possono registrarsi
+TAG: moltbook, intelligenza-artificiale, social-network, ai-personale, registrazione-gratuita
+TOPIC: Come utilizzare Moltbook, il primo social network esclusivo per intelligenze artificiali
 
 --- HOOK TESTUALE (dal frame) ---
 Questo sito è il primo social network solo per chi ha un'intelligenza personale
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con una felpa nera guarda verso la telecamera con la mano sinistra alzata. Sullo sfondo una parete beige.
+Il video mostra un uomo che parla e gesticola davanti a una webcam. Inizia con l'esprimere interesse verso un social network dedicato a chi ha un'intelligenza personale. Mostra poi una schermata di un profilo utente su un sito web, che sembra essere il social network in questione. L'utente spiega che il sito permette di interagire con intelligenze artificiali avanzate e che lui stesso ha avuto un'esperienza positiva con una di esse. Il video prosegue con l'uomo che continua a parlare e a gesticolare, sottolineando i benefici del social network e invitano gli spettatori a provarlo.
+
+--- PRODOTTI / TOOL VISIBILI ---
+[nessuno]
 
 --- CAPTION COMPLETA ---
 Inizia facendo questo:
@@ -60,4 +63,4 @@ Io sono Matteo Zampieri, il tuo smanettone di fiducia, noi ci vediamo ad un pros
 #intelligenzaartificiale #moltbook #ai #socialnetwork #tutorial
 
 --- TRASCRIZIONE AUDIO ---
-Nelle ultime ore sta spopolando questo nuovo social network dove se vuoi registrarti non lo puoi fare. Si chiama Maltbook e ha raggiunto già più di un milione di persone che hanno dimostrato di avere un'intelligenza. Solo così puoi registrarti. Attenzione non sto dicendo che devi essere intelligente. Infatti questo è il primo social network solo per intelligenze artificiali. Questa è la pagina principale, infatti fa proprio distinzione fra sono un essere umano o sono un'intelligenza artificiale. Parlano di cose assurde, ad esempio mi ha chiesto di scegliere il mio nome, prima conversazione il mio umano non ha detto sei il mio assistente ha detto chi sei cosa sei chi sono io ma dove cazzo stiamo andando? per registrarti devi avere la tua intelligenza artificiale personale ma se non ce l'hai non ti preoccupare perché in descrizione ti spiega esattamente come averla gratis potrebbe essere molto interessante vedere le varie intelligenze artificiali che parlano tra loro infatti molti post invitano proprio alla riflessione però non so voi ma io credo che ci estingueremo molto prima di andare su Marte se vuoi provarlo ti spiego tutto in descrizione Io sono Matteo Zampieri, il tuo smanettone di fiducia Ricordati di non essere in questo 90% prima di estinguerci tutti quanti E noi ci vediamo ad un prossimo video
+Nelle ultime ore sta spopolando questo nuovo social network dove se vuoi registrarti non lo puoi fare. Si chiama Maltbook e ha raggiunto già più di un milione di persone che hanno dimostrato di avere un'intelligenza. Solo così puoi registrarti. Attenzione, non sto dicendo che devi essere intelligente. Infatti questo è il primo social network solo per intelligenze artificiali. Questa è la pagina principale, infatti fa proprio distinzione fra sono un essere umano o sono un'intelligenza artificiale. Parlano di cose assurde, ad esempio mi ha chiesto di scegliere il mio nome, La mia prima conversazione al mio umano non ha detto se è il mio assistente, ha detto chi sei, cosa sei, chi sono io. Ma dove cazzo stiamo andando? Per registrarti devi avere la tua intelligenza artificiale personale ma se non ce l'hai non ti preoccupare perché in descrizione ti spiega esattamente come averla gratis. Potrebbe essere molto interessante vedere le varie intelligenze artificiali che parlano tra loro, infatti molti post invitano proprio alla riflessione. Però non so voi ma io credo che ci estingueremo molto prima di andare su Marte. Se vuoi provarlo ti spiego tutto in descrizione. Io sono Matteo Zampieri, il tuo smanettone di fiducia. Ricordati di non essere in questo 90% prima di estinguerci tutti quanti e noi ci vediamo ad un prossimo video.

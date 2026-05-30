@@ -18,15 +18,18 @@ CTA FOLLOW: sì
 LINK IN CAPTION: no
 
 --- CATEGORIA ---
-CATEGORIA: tool_gratuiti
-TAG: whatsapp, intelligenza-artificiale, trascrizione
-TOPIC: Matteo presenta uno strumento di intelligenza artificiale per trascrivere vocali di whatsapp in modo gratuito
+CATEGORIA: confronto_ai
+TAG: whatsapp, intelligenza-artificiale, trascrizione-automatica, chatgpt
+TOPIC: Il video confronta la trascrizione automatica di WhatsApp con uno strumento di intelligenza artificiale che trascrive perfettamente i messaggi vocali
 
 --- HOOK TESTUALE (dal frame) ---
-Cosa cambia dalla trascrizione di whatsapp? Non ho capito Risposta a victor_barrile
+Cosa cambia dalla trascrizione di WhatsApp?
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con una maglietta bianca, con una mano alzata, seduto davanti ad una parete beige con una finestra
+Il video mostra un uomo che spiega la differenza tra la trascrizione automatica di WhatsApp e un'altra modalità di trascrizione. Inizia mostrando come WhatsApp non comprenda correttamente un messaggio vocale, con molti trattini di mezzo perché non ha capito. Poi, mostra come un'altra modalità, che utilizza l'intelligenza artificiale, comprenda perfettamente il messaggio. La spiegazione si alterna tra l'uomo che parla e screenshot delle due diverse trascrizioni sullo schermo di un computer.
+
+--- PRODOTTI / TOOL VISIBILI ---
+WhatsApp
 
 --- CAPTION COMPLETA ---
 Inizia scrivendo questo:
@@ -46,4 +49,4 @@ Io sono il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video!
 #whatsapptips #intelligenzaartificiale #risparmiare #ia #chatgpt
 
 --- TRASCRIZIONE AUDIO ---
-Cosa cambia dalla trascrizione di Whatsapp? Guarda qua. Quando facciamo trascrivere i nostri audio da Whatsapp, al 99% ci sono questi trattini di mezzo perché Whatsapp non ha capito bene. In questo caso Whatsapp non ci ha capito proprio una mazza. Con quest'altra modalità invece ho usato l'intelligenza artificiale per capire tutto perfettamente. Poi se il tuo amico non sa parlare è un altro discorso. Se lo vuoi anche tu commenta con la parola comando e te lo mando istantaneamente. Io sono Matteo Zampiedi, il tuo smanettone di fiducia e noi ci vediamo ad un prossimo video.
+Cosa cambia dalla trascrizione di Whatsapp? Guarda qua. Quando facciamo trascrivere i nostri audio da Whatsapp, il 99% ci sono questi trattini di mezzo perché Whatsapp non ha capito bene. In questo caso Whatsapp non ci ha capito proprio una mazza. Con quest'altra modalità invece hai usato l'intelligenza artificiale per capire tutto perfettamente. Poi se il tuo amico non sa parlare è un altro discorso, se lo vuoi anche tu commenta con la parola COMANDO e te lo mando istantaneamente. Io sono Matteo Zampieri, il tuo smanettone di fiducia e noi ci vediamo ad un prossimo video.

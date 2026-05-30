@@ -20,14 +20,17 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: tutorial_ai
-TAG: intelligenzaartificiale, vibecoding, ia, ai
-TOPIC: Creare app senza scrivere codice con l'intelligenza artificiale
+TAG: vibe-coding, intelligenza-artificiale, sviluppo-app, automazione
+TOPIC: Come utilizzare il Vibe Coding per creare app senza scrivere codice
 
 --- HOOK TESTUALE (dal frame) ---
 Da oggi puoi creare app complete in due ore con l'intelligenza artificiale
 
 --- DESCRIZIONE VISIVA ---
-mano poggiata su un MacBook che mostra del codice
+Il video mostra una persona che utilizza un laptop per creare un'applicazione utilizzando strumenti di intelligenza artificiale. Inizia con la mano che interagisce con l'interfaccia di un'applicazione di sviluppo, mostrando codice e interfacce utente. Poi, si vedono varie schermate dell'applicazione in sviluppo, tra cui una schermata di configurazione del tempo di lavoro, una schermata di selezione di elementi dell'interfaccia e una schermata con un messaggio 'Hai fatto abbastanza per oggi'. La persona compila il codice e configura l'applicazione, mostrando come l'intelligenza artificiale possa velocizzare il processo di sviluppo.
+
+--- PRODOTTI / TOOL VISIBILI ---
+[nessuno]
 
 --- CAPTION COMPLETA ---
 Conosci il Vibe Coding? 🚀
@@ -53,4 +56,4 @@ Scrivimi, Clicca segui 👉 e ti svelo tutto nei prossimi video!
 #intelligenzaartificiale #vibecoding #tutorial #ia #ai
 
 --- TRASCRIZIONE AUDIO ---
-Ma tu ti rendi conto, l'ho fatta completamente con l'intelligenza artificiale, l'ho cominciata un'ora e mezza fa, questa applicazione che serve per bloccare il mio computer da un orario ad un altro. Te lo faccio vedere perché è veramente pazzesco. Io la apro, imposto l'orario, adesso è mezzanotte e 16, voglio che lui mi vada a bloccare da mezzanotte e 18 fino a mezzanotte e 19. Qui scegli la frase che vuoi dire a te stesso. A mezzanotte e 18, quindi tra 30 secondi, agirà. Ok, 4, 3, 2, 1. Attenzione. Madonna mia, ma che cazzo di figata è? Hai fatto abbastanza per oggi. Questa è una frase che hai detto te a te stesso. Il blocco terminerà automaticamente a mezzanotte e 19, in questo caso l'orario che scegliamo noi. Più in basso clicca per scoprire. Dormire è l'unica attività che migliora tutto. Umore, salute, lavoro, relazioni. Devastante. adesso ti faccio vedere nel momento in cui finisce ci siamo, il momento è arrivato riprendi a lavorare clicco riprendi a lavorare tac è pazzesco, l'ho fatto in un'ora e mezza
+Ma tu ti rendi conto? L'ho fatta completamente con l'intelligenza artificiale. L'ho cominciata un'ora e mezza fa, questa applicazione che serve per bloccare il mio computer da un orario ad un altro. Te lo faccio vedere perché è veramente pazzesco. Io la apro, imposto l'orario. Adesso è mezzanotte e 16. Voglio che lui mi vada a bloccare da mezzanotte e 18 fino a mezzanotte e 19. Qui scegli la frase che vuoi dire a te stesso. A mezzanotte e 18, quindi tra 30 secondi, agirà. Ok, 4, 3, 2, 1, attenzione. Madonna mia, ma che cazzo di figata è? Hai fatto abbastanza per oggi. Questa è una frase che hai detto te a te stesso. Il blocco terminerà automaticamente a mezzanotte e 19, in questo caso l'orario che scegliamo noi. Più in basso clicca per scoprire. Dormire è l'unica attività che migliora tutto. Umore, salute, lavoro, relazioni. Devastante. Adesso ti faccio vedere nel momento in cui finisce, ci siamo, il momento è arrivato, riprendi a lavorare, clicco riprendi a lavorare, tac, è pazzesco, l'ho fatta in un'ora e mezza.

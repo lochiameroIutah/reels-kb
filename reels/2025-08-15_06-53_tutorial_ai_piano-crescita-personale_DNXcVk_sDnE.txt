@@ -19,14 +19,17 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: tutorial_ai
-TAG: chatgpt, produttività, crescita
-TOPIC: Utilizzare ChatGPT per creare un piano di 30 giorni per raggiungere un obiettivo personale
+TAG: chatgpt, produttività, piano-di-30-giorni, crescita-personale, strumenti-di-coaching
+TOPIC: Come utilizzare ChatGPT-5 per creare un piano di 30 giorni per raggiungere i propri obiettivi personali
 
 --- HOOK TESTUALE (dal frame) ---
 Vuoi che ChatGPT-5 ti faccia un piano di 30 giorni per ottenere quello che vuoi? Fai questo
 
 --- DESCRIZIONE VISIVA ---
-Una persona in una cucina sta poggiando un laptop su un tavolo. Sullo sfondo, un frigorifero con diversi magneti.
+Un uomo con una maglietta bianca usa un laptop su un tavolo di legno. L'ambiente è una cucina con frigorifero e forno. L'uomo guarda il laptop, digita e si concentra sullo schermo. Non ci sono screenshot di terminali, diagrammi o codice mostrato. L'attenzione è sull'uomo e sull'uso del laptop.
+
+--- PRODOTTI / TOOL VISIBILI ---
+ChatGPT-5
 
 --- CAPTION COMPLETA ---
 Inizia scrivendo questo:

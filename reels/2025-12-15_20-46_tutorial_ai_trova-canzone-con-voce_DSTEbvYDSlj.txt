@@ -19,14 +19,17 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: tutorial_ai
-TAG: intelligenza artificiale, google, musica
-TOPIC: Utilizzare l'intelligenza artificiale di Google per trovare canzoni sconosciute
+TAG: google, intelligenza-artificiale, ricerca-musicale, risparmio-tempo
+TOPIC: Come utilizzare la funzionalità di Google per riconoscere canzoni sfruttando l'intelligenza artificiale
 
 --- HOOK TESTUALE (dal frame) ---
 Questa funzione di Google ti fa risparmiare troppe ore del tuo tempo
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con un'espressione stupita o curiosa, seduto davanti a uno schermo di un computer. L'angolo di una porta in legno è visibile sulla destra.
+Il video mostra una serie di screenshot e interazioni con un telefono cellulare, focalizzandosi su una funzione di Google che aiuta a risparmiare tempo. Inizia con il presentatore che parla e poi mostra la schermata di un telefono con un'app aperta. Viene mostrata la schermata di ricerca di Google, l'attivazione dell'AI Mode, la selezione di un brano musicale ('Beat It' di Michael Jackson) e la visualizzazione dei risultati della ricerca. La funzione sembra essere legata alla ricerca musicale e all'identificazione di canzoni.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Google
 
 --- CAPTION COMPLETA ---
 Lo sapevi?
@@ -40,4 +43,4 @@ Io sono il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video!
 #intelligenzaartificiale #risparmiare #musica #googlehacks
 
 --- TRASCRIZIONE AUDIO ---
-Non so se lo sai però quando non ti ricordi il titolo di una canzone trovarla è praticamente impossibile. Cioè te prova a cercarla in tutti i modi non ce la fai. Infatti uno dice uso riconosci brano no? E invece ogni volta nessun brano trovato. Per questo motivo c'è il tuo smanettone di fiducia pronto qui a darti una mano. Andiamo nell'App Store o Play Store e apriamo l'App di Google. A questo punto premiamo sull'iconcina del microfono e poi premiamo cerca un brano. A questo punto cantichiamo quello che vogliamo. Eccolo qua Trovato B di Michael Jackson Tra l'altro ti trovo subito Tutti i vari link Facciamone una più recente Guardate qua Eccola qua Delia Di Fred again D'ora in poi Saprai sempre Trovare la canzone Che cerchi Io sono Matteo Zanfili Il tuo smanetto E' un'eterno di fiducia Noi ci vediamo In un prossimo video Ricordati di seguirmi Se ancora non l'hai fatta
+Non so se lo sai però quando non ti ricordi il titolo di una canzone trovarla è praticamente impossibile. Cioè te prova a cercarla in tutti i modi non ce la fai. Infatti uno dice uso riconosci brano no? E invece ogni volta nessun brano trovato. Per questo motivo c'è il tuo smanettone di fiducia pronto qui a darti una mano. Andiamo nell'App Store o Play Store e apriamo l'App di Google. A questo punto premiamo sull'iconcina del microfono e poi premiamo cerca un brano. A questo punto cantichiamo quello che vogliamo. Eccolo qua, trovato, B di Michael Jackson. Tra l'altro ti trova subito tutti i vari link, facciamone una più recente, guardate qua. Eccola qua, Delia, di Fred again. D'ora in poi saprai sempre trovare la canzone che cerchi, io sono Matteo Zampieri il tuo smanettone di fiducia, noi ci vediamo in un prossimo video, ricordati di seguirmi se ancora non l'hai fatto.

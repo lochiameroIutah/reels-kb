@@ -19,14 +19,17 @@ LINK IN CAPTION: sì (matteozampieri.com/google-disco)
 
 --- CATEGORIA ---
 CATEGORIA: news_ai
-TAG: intelligenza artificiale, google, gemini, googledisco
-TOPIC: Google ha pubblicato Google Disco, uno strumento che aiuta a pianificare viaggi e organizzare attività
+TAG: google-disco, gemini-3, intelligenza-artificiale, organizzazione-tempo, google-chrome
+TOPIC: Come utilizzare Google Disco per organizzare il tempo e le attività con l'intelligenza artificiale di Google
 
 --- HOOK TESTUALE (dal frame) ---
 Google ha pubblicato Google Disco che ti fa risparmiare troppe ore del tuo tempo
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con la pelle olivastra e capelli castani, indossa una maglietta nera. Lui è seduto davanti ad una scrivania con un computer portatile, la sua mano destra è alzata vicino al suo corpo. Sullo sfondo si vede una finestra aperta con una cornice in legno marrone, si intravede una parete bianca.
+Un uomo presenta una funzionalità di Google che aiuta a risparmiare tempo. Mostra varie schermate di Google, tra cui la creazione di un'app, un calendario, e varie attività su Google Maps. L'uomo interagisce con le schermate, evidenziando come Google possa aiutare a organizzare il tempo e le attività.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Google
 
 --- CAPTION COMPLETA ---
 Ecco il link:
@@ -56,4 +59,4 @@ Io sono Matteo Zampieri, il tuo smanettone di fiducia, noi ci vediamo ad un pros
 #intelligenzaartificiale #google #gemini #googledisco #ai ia
 
 --- TRASCRIZIONE AUDIO ---
-Non so se lo sai ma Google ha appena pubblicato un aggiornamento di Google Chrome pazzesco. Si chiama Google Disco e praticamente tu gli chiedi quello che vuoi e lui in un attimo non solo ti apre tutti i siti ma poi ti crea un'app interattiva che ti aiuta a organizzarti meglio. Se stai organizzando un viaggio e hai 20 siti aperti differenti lui legge tutti i siti che hai aperto e ti crea un'interfaccia interattiva dedicata a organizzarti meglio. In questo caso c'hai le date, i selettori di quello che vuoi fare nelle varie attività e poi addirittura puoi aggiornarla come più ti interessa. Ad esempio qua gli dice di aggiungere le temperature della giornata, gliele aggiunge in un attimo e poi non solo ti mostra tutte le varie attività ma puoi aggiungerle qua nella lista delle attività che vuoi fare. La cosa interessante è che usa Gemini 3 che è il modello più potente che Google ha in questo momento e in qualsiasi momento puoi vedere tutte le fonti da cui prendere informazioni. Io sono Matteo Zampieri, il tuo smile tone di fiducia, il link te l'ho messo in descrizione perché in Italia sta arrivando, c'è ancora la lista d'attesa, quindi se vuoi entrarci ti ho messo il link in descrizione, tu comunque ricordati di seguirmi se ancora non l'hai fatto così noi ci vediamo ad un prossimo video che ti tengo aggiornato.
+Non so se lo sai ma Google ha appena pubblicato un aggiornamento di Google Chrome pazzesco. Si chiama Google Disco e praticamente tu gli chiedi quello che vuoi e lui in un attimo non solo ti apre tutti i siti ma poi ti crea un'app interattiva che ti aiuta a organizzarti meglio. Se stai organizzando un viaggio e hai 20 siti aperti differenti lui legge tutti i siti che hai aperto e ti crea un'interfaccia interattiva dedicata a organizzarti meglio. In questo caso c'hai le date, i selettori di quello che vuoi fare nelle varie attività e poi addirittura puoi aggiornarla come più ti interessa. Ad esempio qua gli dice di aggiungere le temperature della giornata, gliele aggiunge in un attimo e poi non solo ti mostra tutte le varie attività ma puoi aggiungerle qua nella lista delle attività che vuoi fare. La cosa interessante è che usa Gemini 3 che è il modello più potente che Google ha in questo momento e in qualsiasi momento puoi vedere tutte le fonti da cui prende le informazioni. Io sono Matteo Zampieri, il tuo smanettone di fiducia, il link te l'ho messo in descrizione perché in Italia sta arrivando, c'è ancora la lista d'attesa, quindi se vuoi entrarci ti ho messo il link in descrizione, tu comunque ricordati di seguirmi se ancora non l'hai fatto così noi ci vediamo ad un prossimo video che ti tengo aggiornato.

@@ -19,14 +19,17 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: risparmio_tech
-TAG: chatgpt, paypal, intelligenza-artificiale
-TOPIC: Come ottenere un anno di ChatGPT5 gratuito con PayPal
+TAG: perplexity, chatgpt5, claude, gemini, paypal, abbonamento-gratis
+TOPIC: Come ottenere un anno gratuito di ChatGPT5 tramite un abbonamento PayPal su Perplexity
 
 --- HOOK TESTUALE (dal frame) ---
 POV: Da oggi ChatGPT5 è gratis per un anno
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con una maglietta bianca e nera sta parlando davanti ad una parete con un quadro. Sembra che stia registrando un video per i social.
+Il video mostra una serie di screenshot e interazioni con l'app Perplexity, incluso l'accesso a ChatGPT5 e altri modelli AI come Claude e Gemini. L'autore del video illustra come ottenere un anno gratuito di ChatGPT5 tramite un abbonamento PayPal e naviga attraverso varie schermate dell'applicazione, evidenziando le funzionalità e i modelli disponibili.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Perplexity, ChatGPT5, Claude, Gemini
 
 --- CAPTION COMPLETA ---
 Ecco come entrare nella pagina segreta:
@@ -46,4 +49,4 @@ Seguimi per rimanere al passo nel mondo della tecnologia!
 #intelligenzaartificiale #risparmiare #ai #chatgpt #claude #chatgpthacks
 
 --- TRASCRIZIONE AUDIO ---
-Non so se lo sai ma PayPal ci sta regalando un anno di intelligenza artificiale gratis. Infatti guarda qua, questo qua è il mio abbonamento con PayPal gratis, 12 mesi di pro. Posso usare CiaGPT5, Cloud, Gemini. È gratuito, adesso vediamo come fare. Allora prima di tutto andate su questo link ma non vi preoccupate perché ve l'ho messo anche in descrizione. Vi faccio vedere quello che ho fatto, che ho registrato lo schermo. accedete al vostro account perplexity cliccate nel pulsante paypal entrate nel vostro account appunto paypal fate accetta e paga la tua registrazione è stata completata con successo appena avete fatto disdite il vostro abbonamento così non si rinnova cliccando su questo pulsante che si chiamerà disdice abbonamento si lo so sembra veramente una follia ma è così ed è completamente gratuito io sono il tuo smanettone di fiducia noi ci vediamo ad un prossimo video e mi raccomando fammi sapere se funziona anche per te
+Non so se lo sai ma PayPal ci sta regalando un anno di intelligenza artificiale gratis. Infatti, guarda qua, questo qua è il mio abbonamento con PayPal gratis, 12 mesi di pro, posso usare CiaGPT5, Claude, Gemini. È gratuito, adesso vediamo come fare. Allora prima di tutto andate su questo link, ma non vi preoccupate perché ve l'ho messo anche in descrizione. Vi faccio vedere quello che ho fatto, che ho registrato lo schermo. Accedete al vostro account perplexity, cliccate nel pulsante PayPal, entrate nel vostro account appunto PayPal, fate accetta e paga. La tua registrazione è stata completata con successo. Appena avete fatto, disdite il vostro abbonamento, così non si rinnova cliccando su questo pulsante che si chiamerà disdice abbonamento. Ti lo so, sembra veramente una follia, ma è così ed è completamente gratuito. Io sono il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video e mi raccomando fammi sapere se funziona anche per te.

@@ -19,14 +19,17 @@ LINK IN CAPTION: sì (matteozampieri.com/gptimage2)
 
 --- CATEGORIA ---
 CATEGORIA: news_ai
-TAG: intelligenza artificiale, chatgpt, gptimage2
-TOPIC: ChatGPT introduce GPT Image 2.0, una funzionalità che rivoluziona la grafica e la progettazione
+TAG: chatgpt, gpt-image-2-0, grafica, intelligenza-artificiale, automazione, design
+TOPIC: Come utilizzare GPT Image 2.0 di ChatGPT per creare materiale di marketing come volantini e pubblicità
 
 --- HOOK TESTUALE (dal frame) ---
 Questa Intelligenza artificiale ruberà il lavoro a tutti i graphic designer
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con la barba e un taglio di capelli corto, indossa una maglietta nera, sembra stia parlando e ha una mano alzata. Nello sfondo, si vede un muro con una striscia rossa e verde, un tubo e un condizionatore.
+Il video mostra un uomo che parla di un'intelligenza artificiale capace di sostituire i graphic designer. Vengono mostrati screenshot di un computer con un'applicazione aperta, un cellulare con un'app di design grafico e un'altra applicazione che sembra generare automaticamente un volantino. L'uomo spiega come l'AI possa creare rapidamente materiale di marketing come volantini e pubblicità.
+
+--- PRODOTTI / TOOL VISIBILI ---
+ChatGPT
 
 --- CAPTION COMPLETA ---
 Inizia facendo questo:
@@ -58,4 +61,4 @@ Link: matteozampieri.com/gptimage2
 #intelligenzaartificiale #chatgpt #gptimage #grafica #ai
 
 --- TRASCRIZIONE AUDIO ---
-Siamo di fronte a un problema enorme perché Chagpt l'ha fatto di nuovo. Si chiama GPT Image 2.0 e adesso è dentro al vostro Chagpt, ma se prima si andava su Canva per creare un volantino di questo tipo, dovevi mettere il tuo logo, le scritte, le cose, con un template magari si può fare, però in realtà qua si vede che c'è una struttura, c'è un'idea, c'è qualcosa che va oltre. In realtà è stato fatto con l'intelligenza artificiale. Adesso l'ho rifatto dicendogli, crea un volantino accattivante per questa azienda che dice tipo mid-season sei il 30% sugli articoli selezionati. Eccolo qua, eccolo qua. Dai, ma è pazzesco. Un graphic designer oggi serve semplicemente per scegliere i colori, lo stile e andare un attimo oltre. Però tu se vuoi provarlo, commenta con la parola assurdo e te lo mando direttamente, ma comunque trovi il link anche in descrizione. Io sono Matto Zamperi, il tuo smanettone di fiducia e tu se vuoi rimanere al passo e non perderti le prossime novità, seguimi e noi ci vediamo ad un prossimo video.
+Siamo di fronte a un problema enorme perché CiaGPT l'ha fatto di nuovo. Si chiama GPT Image 2.0 e adesso è dentro al vostro CiaGPT, ma se prima si andava su Canva per creare un volantino di questo tipo dovevi mettere il tuo logo, le scritte, le cose, con un template magari si può fare, però in realtà qua si vede che c'è una struttura, c'è un'idea, c'è qualcosa che va oltre. In realtà è stato fatto con l'intelligenza artificiale. Adesso l'ho rifatto dicendogli, crea un volantino, Accattivante. Per questa azienda che dice tipo mid-season sei il 30% sugli articoli selezionati. Eccolo qua, eccolo qua. Dai, ma è pazzesco. Un graphic designer oggi serve semplicemente per scegliere i colori, lo stile e andare un attimo oltre. Però tu se vuoi provarlo, commenta con la parola assurdo e te lo mando direttamente, ma comunque trovi il link anche in descrizione. Io sono Matosampieri, il tuo smanettone di fiducia e tu se vuoi rimanere al passo e non perderti le prossime novità, seguimi e noi ci vediamo ad un prossimo video.

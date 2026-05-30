@@ -19,14 +19,17 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: tool_gratuiti
-TAG: intelligenza-artificiale, risparmio-tempo, trovarelavoro
-TOPIC: L'app Comet utilizza l'intelligenza artificiale per aiutare a trovare lavoro inviando automaticamente il curriculum a migliaia di offerte
+TAG: comet, perplexity, intelligenza-artificiale, trovare-lavoro, automatizzazione
+TOPIC: Come utilizzare Comet con Perplexity per trovare lavoro inviando automaticamente il curriculum
 
 --- HOOK TESTUALE (dal frame) ---
 Quest'App ti aiuta a trovare lavoro usando l'intelligenza artificiale
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con un microfono da collo è seduto davanti a una scrivania e indica con la mano destra uno schermo di un portatile acceso. Sullo sfondo ci sono un monitor, una stampante e un paio di casse.
+Il video mostra un uomo che utilizza un'app per trovare lavoro con l'aiuto dell'intelligenza artificiale. Inizia mostrando l'uomo davanti a un computer, poi passa a una serie di screenshot dell'app in uso. Mostra il processo di candidatura a un lavoro tramite l'app, compresa la compilazione dei campi e l'invio del curriculum. L'app sembra avere una interfaccia utente intuitiva e offre varie opzioni per la ricerca di lavoro.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Temu, Perplexity
 
 --- CAPTION COMPLETA ---
 Il nome dell’App è questo qua e Io sono senza parole questa intelligenza artificiale ti aiuta a trovare lavoro inviando al posto tuo il curriculum.
@@ -40,4 +43,4 @@ Io sono Matteo Zampieri il Tuo smanettone di fiducia, noi ci vediamo ad un pross
 #intelligenzaartificiale #risparmiare #trovarelavoro #lavorodacasa #ia
 
 --- TRASCRIZIONE AUDIO ---
-inteligente artificiale sta inviando il mio curriculum al posto mio sia in italiano che in inglese infatti vedete un po' adesso sta filtrando tutti i vari lavori lui ho detto candidami per 30 offerte di lavoro gli ho dato il mio curriculum sia in italiano che in inglese e lui adesso mi andrà a candidare ad ogni offerta che troverà interessante questa cosa è pazzesca e già da oggi si può fare ma guardate qua adesso sta caricando il mio curriculum a Temu sta compilando tutti i vari campi e adesso premerà sul pulsante candidati Adesso l'ha fatto, ha inviato la candidatura per te Sto usando Comet che è il browser tipo Google Chrome di Perplexity Nei prossimi giorni farò un video molto più approfondito quindi seguimi Io sono Matteo Zampieri, il tuo svanetone di fiducia, noi ci vediamo ad un prossimo video
+Questo interigenza artificiale sta inviando il mio curriculum al posto mio sia in italiano che in inglese. Infatti, vedete un po', adesso sta filtrando tutti i vari lavori. Gli ho detto candidami per 30 offerte di lavoro, gli ho dato il mio curriculum sia in italiano che in inglese e lui adesso mi andrà a candidare ad ogni offerta che troverà interessante. Questa cosa è pazzesca e già da oggi si può fare. Ma guardate qua, adesso sta caricando il mio curriculum a Temu. Sta compilando tutti i vari campi e adesso premerà sul pulsante candidati. Adesso l'ha fatto, ha inviato la candidatura per te. Sto usando Comet, che è il browser tipo Google Chrome di perplexity. Nei prossimi giorni farò un video molto più approfondito, quindi seguimi. Io sono Matteo Zampieri, il tuo smanettone di fiducia. Noi ci vediamo ad un prossimo video.

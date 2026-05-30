@@ -20,14 +20,17 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: tutorial_ai
-TAG: VerdentAI, AIcoding, intelligenzaartificiale
-TOPIC: Creare un'app per iPhone e Android senza codice con Verdent AI
+TAG: verdent-ai, app-creazione, intelligenza-artificiale, sviluppo-app, apple-emulatore
+TOPIC: Come usare Verdant AI per creare un'app per iPhone senza codice
 
 --- HOOK TESTUALE (dal frame) ---
 Questa IA ti crea le App per iPhone e Android ma lo fa con stile
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con una felpa rosa e un microfono intorno al collo, parla verso la telecamera con una mano alzata
+Il video mostra un uomo che presenta un'intelligenza artificiale capace di creare app per iPhone e Android. Inizia indicando qualcosa, poi mostra il suo sorriso. Successivamente, appare un frame con il testo 'ESEGUI QUESTI COMANDI' su una schermata di un computer, seguita da una schermata del computer con del codice. L'uomo appare di nuovo, facendo un gesto con la mano. Viene mostrata una schermata con il testo 'QUESTO È TUTTO', un frame dell'uomo che indica qualcosa, e un altro frame dell'uomo che sorride e indica il telefono. In seguito, appaiono screenshot di un'applicazione in sviluppo su un computer e del telefono che la esegue. L'uomo parla e gesticola, poi termina con un frame che include il testo 'VIDEO E TU'.
+
+--- PRODOTTI / TOOL VISIBILI ---
+[nessuno]
 
 --- CAPTION COMPLETA ---
 Inizia facendo questo:
@@ -61,4 +64,4 @@ cc: @verdent__ai
 #adv #Verdent #VerdentAI #AIcoding #intelligenzaartificiale
 
 --- TRASCRIZIONE AUDIO ---
-Non so se lo sai ma usare l'intelligenza artificiale per creare un'app per iPhone, Android, ad oggi senza essere smanettone è praticamente impossibile. Cioè te prova ad andare da CiaGPT a fartela creare, non ce la fai. Infatti io gli ho chiesto di crearmi un'app a CiaGPT, mi ha creato questa robetta qua, qui mi dice un sacco di cose che devo fare. Esegui questi comandi dal terminale, per questo motivo c'è il tuo smanettone di fiducia, adesso vediamo come fare. Andiamo nel nostro Verdant AI, incogliamo il testo, in questo caso un clone di Duolingo per far scoprire la natura ai bambini. Clicchiamo su Agent, facciamo Plan prima di tutto e a questo punto facciamo Invia. Questo è tutto il piano dell'applicazione e andiamo quindi a cliccare Build. D'ora in poi sarai in grado di creare le tue applicazioni direttamente per telefono, guarda qua. Ecco qui la nostra applicazione che si sta aprendo nell'emulatore ufficiale della Apple. Questa è un iPhone, eccola qua la nostra applicazione. Benvenuti chi inizia, noi scriviamo Matteo, mettiamo crea profilo ed ecco qui che si inizia a giocare Il link te l'ho messo in descrizione ma se commenti con la parola verdent te lo mando istantaneamente Io sono Matteo Zampieri, il tuo smanettone di fiducia Noi ci vediamo ad un prossimo video e tu accertati di non essere in questo 90% se vuoi creare le tue applicazioni
+Non so se lo sai ma usare l'intelligenza artificiale per creare un'app per iPhone, Android, ad oggi senza essere smanettone è praticamente impossibile. Cioè te prova ad andare da CiaGPT a fartela creare, non ce la fai. Infatti io gli ho chiesto di crearmi un'app a CiaGPT, mi ha creato questa robetta qua, in cui mi dice un sacco di cose che devo fare, esegui questi comandi dal terminale. Per questo motivo c'è il tuo smanettone di fiducia, adesso vediamo come fare. Andiamo nel nostro Verdant AI, incogliamo il testo, in questo caso un clone di Duolingo per far scoprire la natura ai bambini. Clicchiamo su Agent, facciamo Plan prima di tutto e a questo punto facciamo Invia. Questo è tutto il piano dell'applicazione e andiamo quindi a cliccare Build. D'ora in poi sarai in grado di creare le tue applicazioni direttamente per telefono, guarda qua. Ecco qui la nostra applicazione che si sta aprendo nell'emulatore ufficiale della Apple. Questo è un iPhone, eccola qua la nostra applicazione. Benvenuti in chi inizia. Noi scriviamo Matteo, mettiamo crea profilo ed ecco qui che si inizia a giocare. Il link te l'ho messo in descrizione ma se commenti con la parola Verdant te lo mando istantaneamente. Io sono Matteo Zampieri, il tuo smanettone di fiducia. Noi ci vediamo ad un prossimo video e tu accertati di non essere in questo 90% se vuoi creare le tue applicazioni.

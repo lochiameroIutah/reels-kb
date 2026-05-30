@@ -19,14 +19,17 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: tutorial_ai
-TAG: chatgpt, higgsfield, intelligenza artificiale
-TOPIC: Utilizzo di ChatGPT per creare immagini e video cinematici
+TAG: chatgpt, higgsfield, intelligenza-artificiale, creazione-immagini, generazione-video
+TOPIC: Come utilizzare ChatGPT per creare immagini e video personalizzati
 
 --- HOOK TESTUALE (dal frame) ---
 ChatGPT è tornato più in forma che mai e adesso è incredibilmente utile
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con un cappuccio verde saluta con la mano destra, con un frigorifero e uno specchio in secondo piano.
+Il video mostra una serie di screenshot e riprese di un uomo che parla di ChatGPT, mostrando come può essere utilizzato per creare immagini e video. Inizia con screenshot di un computer che mostrano immagini create da ChatGPT, tra cui un logo verde con un segno di spunta e un cuore che utilizza una lente d'ingrandimento. L'uomo appare in diversi frame, parlando e gesticolando. Viene mostrato anche un video generato da ChatGPT con personaggi animati. Il video sembra dimostrare le capacità creative di ChatGPT.
+
+--- PRODOTTI / TOOL VISIBILI ---
+ChatGPT
 
 --- CAPTION COMPLETA ---
 Ti spiego qui passo passo:
@@ -72,4 +75,4 @@ Io sono Matteo Zampieri, il tuo smanettone di fiducia, noi ci vediamo ad un pros
 #chatgpt #intelligenzaartificiale #higgsfield #ai #tutorial
 
 --- TRASCRIZIONE AUDIO ---
-Sai che dicevo che chat GPT è andato da evitare? Ecco, è cambiato tutto di nuovo. Avevamo creato questo logo, ma poi abbiamo detto mettiamo una mascotte. Ci ha fatto la mascotte. E adesso creiamo tutte le versioni. Il risultato è impressionante, ma guarda qua. Gli ho detto ok, ora voglio adesso che tutte queste mascotte separate. Lui mi ha creato tutte le varie immagini in una singola risposta. Cioè capite che siamo di fronte a uno strumento alla portata di tutti i chat GPT Che ti dà multiple immagini in base a quello che tu gli chiedi Ovviamente alla fine sono nato dentro Xfield che ha pubblicato Supercomputer Siamo andati qua, gli abbiamo detto prendi tutte queste immagini, crea una bella storiella Ed ecco qui che ci ha creato il video Guarda che bellezza Io godo Ma non è finita perché gli ho fatto generare anche una mini storiella Le avventure di validi che sarebbe la mascotte di questa intelligenza artificiale Tutto questo grazie a CiaGPT più Xfield Potevo utilizzare solo Xfield? Assolutamente sì Ma ho voluto farvi vedere CiaGPT perché è diventato estremamente valido E infatti c'è una rivoluzione in atto perché chat gpt probabilmente anche te che magari non sei un super esperto ai lo stai pagando e hai a disposizione questo strumento fenomenale comunque io sono Matteo Zampieri il tuo smanettone di fiducia nei prossimi giorni ti parlerò anche di codex un altro strumento di chat gpt compreso con il tuo abbonamento plus di chat gpt quindi noi ci vediamo in un prossimo video tu ricordati di seguirmi se ancora non l'hai fatto perché poi ti perdi questi super video
+Sai che dicevo che CiaGPT è andato da evitare? Ecco, è cambiato tutto di nuovo. Avevamo creato questo logo, ma poi abbiamo detto mettiamo una mascotte, ci ha fatto la mascotte, e adesso creami tutte le versioni. Il risultato è impressionante, ma guarda qua. Gli ho detto ok, ora voglio adesso che tutte queste mascotte separate. Lui mi ha creato tutte le varie immagini in una singola risposta. Cioè capite che siamo di fronte a uno strumento alla portata di tutti i chat GPT che ti dà multiple immagini in base a quello che tu gli chiedi. Ovviamente alla fine sono nato dentro Xfield che ha pubblicato Supercomputer, siamo andati qua, gli abbiamo detto prendi tutte queste immagini, crea una bella storiella ed ecco qui che ci ha creato il video. Guarda che bellezza! Io godo. Ma non è finita perché gli ho fatto generare anche una mini storiella. Le avventure di Validi che sarebbe la mascotte di questo intelligenza artificiale. artificiale. Tutto questo grazie a CiaGPT più Xfield. Potevo utilizzare solo Xfield? Assolutamente sì, ma ho voluto farvi vedere CiaGPT perché è diventato estremamente valido e infatti c'è una rivoluzione in atto perché CiaGPT, probabilmente anche te, che magari non sei un super esperto AI, lo stai pagando e hai, a disposizione questo strumento fenomenale. Comunque io sono Matteo Zampieri, il tuo smanettone di fiducia, nei prossimi giorni ti parlerò anche di Codex, un altro strumento di CattGPT, compreso con il tuo abbonamento plus di CattGPT. Quindi noi ci vediamo in un prossimo video, tu ricordati di seguirmi se ancora non l'hai fatto, perché poi ti perdi questi super video.

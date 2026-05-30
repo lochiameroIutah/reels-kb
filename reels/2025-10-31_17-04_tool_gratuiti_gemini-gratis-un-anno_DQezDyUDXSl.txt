@@ -19,15 +19,18 @@ CTA FOLLOW: sì
 LINK IN CAPTION: sì (link presente)
 
 --- CATEGORIA ---
-CATEGORIA: tool_gratuiti
-TAG: intelligenza artificiale, risparmio, studenti universitari, google
-TOPIC: Google offre un anno di intelligenza artificiale gratuita agli studenti universitari
+CATEGORIA: risparmio_tech
+TAG: google-one, gemini-ai, veo3, studenti-universitari, intelligenza-artificiale
+TOPIC: Come gli studenti universitari possono ottenere Gemini e Veo3 gratis per un anno con Google One AI
 
 --- HOOK TESTUALE (dal frame) ---
 Da oggi Gemini e Veo3 è gratis per un anno se studi all'università
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con un look casual e un taglio di capelli corto, indossa una maglietta marrone e sembra essere in movimento mentre parla, con una mano alzata. Le luci della stanza si riflettono sul suo viso. Sullo sfondo, si vede un divisorio in vetro con una cornice in legno marrone.
+Il video mostra una serie di screenshot e interazioni con il prodotto Google One AI, focalizzandosi su come gli studenti universitari possano ottenere Gemini e Veo3 gratis per un anno. Viene mostrato il processo di verifica dello stato di studente, i vantaggi dell'offerta, e come accedere al servizio.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Google One, Gemini, Veo3
 
 --- CAPTION COMPLETA ---
 Il link è questo:
@@ -51,4 +54,4 @@ Io sono il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video!
 #intelligenzaartificiale #risparmiare #gratis #gemini #univerità
 
 --- TRASCRIZIONE AUDIO ---
-Non so se lo sai ma Google ci sta regalando un anno di intelligenza artificiale gratis, guarda un po', Gemini AI Pro, un anno gratis senza costi solo se sei un studente universitario. Infatti ti basterà cliccare verifica idoneità, entrare con tutti i tuoi dati per verificare che sei uno studente, inserire quindi tutti i dati relativi alla tua scuola, nome e cognome tuo, logo dell'istituto, qualcosa che dimostra che stai realmente studiando e poi inviarli. Nel giro di qualche giorno, forse addirittura qualche ora, puoi sbloccare tutto quello che Google ti dà pagando di solito 20-22 euro al mese, tra cui notebook LM, la generazione di video con Veo 3, 2 tera di spazio di archiviazione per un totale di circa 250 euro risparmiati in un anno. Insomma, veramente di tutto, il link è questo qua, ma non vi preoccupate, ve l'ho messo in descrizione, io sono il tuo smanettone di fiducia, fammi sapere se per te ha funzionato e noi ci vediamo ad un prossimo video e mi raccomando seguimi se ancora non l'hai fatto.
+Non so se lo sai ma Google ci sta regalando un anno di intelligenza artificiale gratis, guarda un po', Gemini AI Pro, un anno gratis senza costi solo se sei un studente universitario. Infatti ti basterà cliccare verifica idoneità, entrare con tutti i tuoi dati per verificare che sei uno studente, inserire quindi tutti i dati relativi alla tua scuola, nome e cognome tuo, logo dell'istituto, qualcosa che dimostra che stai realmente studiando e poi inviarli. Nel giro di qualche giorno, forse addirittura qualche ora, puoi sbloccare tutto quello che Google ti dà pagando di solito 20-22€ al mese, tra cui notebook LM, la generazione di video con Veo 3, 2TB di spazio di archiviazione, per un totale di circa 250€ risparmiati in un anno. Insomma, veramente di tutto, il link è questo qua, ma non vi preoccupate, ve l'ho messo in descrizione, io sono il tuo smanettone di fiducia, fammi sapere se per te ha funzionato e noi ci vediamo ad un prossimo video e mi raccomando seguimi se ancora non l'hai fatto.

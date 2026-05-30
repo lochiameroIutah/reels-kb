@@ -19,14 +19,14 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: tutorial_ai
-TAG: gemini, expo-go, antigravity, sviluppo-no-code, allenamento-fisico
-TOPIC: Come creare un'applicazione di allenamento fisico personalizzabile con Gemini e Expo Go senza scrivere codice
+TAG: gemini, expo-go, antigravity, intelligenza-artificiale, sviluppo-app, allenamento-personalizzato
+TOPIC: Come utilizzare Gemini e Antigravity per creare un'app di allenamento personalizzato senza scrivere codice
 
 --- HOOK TESTUALE (dal frame) ---
 Allenamento
 
 --- DESCRIZIONE VISIVA ---
-Il video mostra un uomo che spiega come ha creato un'applicazione per allenamento fisico. Inizia mostrando la sua app su uno smartphone, con schermate che indicano varie esercizi e timer. L'uomo, indossando una felpa grigia, parla e gesticola mentre illustra le funzionalità dell'app. Mostra come si possono personalizzare gli allenamenti e come l'app sia stata creata senza necessità di scrivere codice, utilizzando probabilmente strumenti di sviluppo no-code o low-code.
+Un video che mostra come l'autore abbia creato un'app per il monitoraggio degli allenamenti personalizzati senza dover scrivere una sola riga di codice. Mostra come l'app possa essere personalizzata con esercizi, timer e schede di allenamento. L'autore spiega come ha utilizzato strumenti come Congemini e Antigravity Low per creare l'app.
 
 --- PRODOTTI / TOOL VISIBILI ---
 Instagram, Spotify, WhatsApp

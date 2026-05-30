@@ -20,14 +20,17 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: tutorial_ai
-TAG: vibecoding, intelligenzaartificiale, sviluppoapp
-TOPIC: Il metodo Vibe Coding per creare app senza scrivere codice
+TAG: vibe-coding, intelligenza-artificiale, sviluppo-app, creazione-app-senza-codice
+TOPIC: Come utilizzare il Vibe Coding per creare un'app dei viaggi senza scrivere codice
 
 --- HOOK TESTUALE (dal frame) ---
 POV: Uso l'intelligenza artificiale per creare a mia mamma la sua App dei sogni
 
 --- DESCRIZIONE VISIVA ---
-Una persona seduta su un divano, tiene in mano uno smartphone, indossa una felpa rossa e pantaloni blu scuro. Nello sfondo si vede un televisore acceso.
+Il video mostra la creazione di un'app tramite l'intelligenza artificiale. Inizia con una TV accesa, poi si passa a una schermata di un'app in sviluppo. Viene mostrato un telefono con una schermata di un'app, seguita da una persona che guarda il telefono. Poi, si vede una mano che disegna su uno schermo, e successivamente una schermata con un disegno. Infine, si passa a una TV che mostra la schermata dell'app in funzione.
+
+--- PRODOTTI / TOOL VISIBILI ---
+[nessuno]
 
 --- CAPTION COMPLETA ---
 Conosci il Vibe Coding? 🚀
@@ -53,4 +56,4 @@ Scrivimi, Clicca segui 👉 e ti svelo tutto nei prossimi video!
 #intelligenzaartificiale #vibecoding #tutorial #ia #ai
 
 --- TRASCRIZIONE AUDIO ---
-Quindi adesso mamma facciamo un'app in vibe coding Giusto? Creiamo l'app dei viaggi di mia mamma in vibe coding Quindi adesso sta creando l'applicazione Creando l'applicazione E la stiamo vedendo sul televisore di casa Per ora come ti sembra la situazione mamma? Abbastanza interessante Ok ha finito Faccio apri Open I miei viaggi Nuovo viaggio Ogni blocco deve avere la possibilità di aggiungere le foto Dopo se io le voglio aggiungere o no è un altro discorso quindi te e mamma cos'è che volevi? volevo che con un più un più attorno con un cerchietto intorno e mi apparisse una finestrella lunga e verticale ok con i vari simbolini che possono essere che ne so il ristorante oppure possono essere la visita io posso selezionarlo e spostarlo fuori posizionarlo dove lo voglio ok vai gli abbiamo dato l'immagine gli abbiamo dato tutto adesso lo fa bene dai vediamo se lo fa Allora ha fatto Nuovo viaggio Vediamo Vediamo l'ha fatto Clicca sul più Oh ci siamo Oh che figo Ah e penso puoi scorrere in basso verso l'alto Poteva farla più lunga no?
+Quindi adesso, mamma, facciamo un'app in vibe coding, giusto? Sì. Creiamo l'app dei viaggi di mia mamma in vibe coding. Quindi adesso sta creando l'applicazione. Sta creando l'applicazione e la stiamo vedendo sul televisore di casa. Per ora come ti sembra la situazione, mamma? Abbastanza interessante. Ok, ha finito. Faccio apri. Open i miei viaggi, nuovo viaggio. Ogni blocco deve avere la possibilità di aggiungere le foto. Dopo, se io le voglio aggiungere o no, è un altro distante. Quindi te, mamma, cos'è che volevi? Volevo che con un più, un più attorno, con un cerchietto intorno, mi apparisse una finestrella lunga e verticale, ok? Con i vari simbolini che possono essere, che ne so, il ristorante, oppure possono essere la visita. Io posso selezionarlo e spostarlo fuori, posizionarlo dove lo voglio. Ok, vai, gli abbiamo dato l'immagine, gli abbiamo dato tutto, adesso lo fa bene, dai, vediamo se lo fa. Allora, ha fatto? Nuovo viaggio. Vediamo. Vediamo, l'ha fatto. Clicca sul più. Oh, ci siamo, su una buona strada. Ah, e penso puoi scorrere in basso verso l'alto. Poteva farla più lunga, no?

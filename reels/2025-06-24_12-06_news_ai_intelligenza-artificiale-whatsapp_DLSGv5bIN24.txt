@@ -18,15 +18,18 @@ CTA FOLLOW: sì
 LINK IN CAPTION: no
 
 --- CATEGORIA ---
-CATEGORIA: news_ai
-TAG: whatsapp, intelligenza-artificiale, calendario
-TOPIC: Il creator mostra un'esclusiva funzionalità di intelligenza artificiale su WhatsApp per creare eventi e reminder
+CATEGORIA: tutorial_ai
+TAG: memorae, whatsapp-ai, calendario-con-ai, intelligenza-artificiale, automazione
+TOPIC: Come utilizzare Memorae per creare eventi e promemoria automatici su WhatsApp
 
 --- HOOK TESTUALE (dal frame) ---
-GUARDATE CHE FIGATA
+Perfetto! Ti ricorderò oggi alle 13:40 che hai una call con tua sorella.
 
 --- DESCRIZIONE VISIVA ---
-Un telefono cellulare mostra una schermata di Instagram con una chat aperta e una foto di un uomo che parla, sullo sfondo un messaggio di testo che sembra un promemoria per una chiamata con una sorella
+Una serie di screenshot di una conversazione su un'app di messaggistica, presumibilmente WhatsApp, con un assistente virtuale di nome Memorae. L'assistente crea eventi e promemoria per il giorno successivo e l'utente conferma e discute i dettagli. Viene mostrato anche il calendario dell'utente e la creazione di nuovi eventi.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Memorae
 
 --- CAPTION COMPLETA ---
 Ok siamo nel futuro 😵
@@ -36,4 +39,4 @@ Rimani sul pezzo 👉 clicca segui @themattvision
 #whatsappai #calendarioconai #calendar #intelligenzaartificiale #whatsapp
 
 --- TRASCRIZIONE AUDIO ---
-Guardate che figata, su WhatsApp c'ho un'intelligenza artificiale che se io gli dico domani ho un evento alle 7 di pomeriggio, attenzione, gli mando il messaggio, lui adesso sta trascrivendo e praticamente va a crearti l'evento nel calendario. Aspetta, ha giunto l'evento domani alle 19, di che titolo lo vuoi chiamare? Ci sta. Meeting con Guglielmo. Guglielmo, se sei all'ascolto abbiamo un meeting, forza. quindi ovviamente lui di nuovo sta trascrivendo con l'intelligenza artificiale prende il testo lo manda ai loro sistemi e ha creato l'evento andiamo a vedere clicco qua meeting con Guglielmo addirittura mi ha messo il link del Google Meet fantastico ma non è tutto ragazzi perché guardate un po' ricordami tra 5 minuti che devo andare a fare la spesa lui è andato a creare un reminder che tra 5 minuti mi dirà devi andare a fare la spesa gliel'avevo già fatto questo test vedi perfetto ti ricorderò oggi alle 13.06 che devi andare a comprare il pane alle 13.06 mi ha scritto ricordati di andare a comprare il pane dopo un minuto mi ha scritto ciao Matte, Matte tra l'altro ti ricordi di andare a fare la spesa oggi? perché non avevo visualizzato il messaggio probabilmente lui lo sapeva sinceramente incredibile e ve ne parlerò durante i prossimi 12 mesi anche perché mi hanno dato un anno gratis perché hanno visto gli è piaciuto come ho lavorato negli altri video che ho fatto sono una start up nuova secondo me è estremamente innovativa sinceramente io già volevo costruire questa applicazione Ciò provato è estremamente difficile perché devi gestire proprio le date che sono tra i dati più complicati da gestire e quindi sono veramente orgoglioso di questa mia prima collaborazione come lo smanettone di fiducia e sinceramente non vedo l'ora di parlarvene nei prossimi giorni e nelle prossime settimane e nel prossimo anno quindi restate con me e seguitemi che così rimaniamo in contatto e ci sentiamo.
+Guardate che figata su WhatsApp c'ho un'intelligenza artificiale che se io gli dico domani ho un evento alle 7 di pomeriggio, attenzione, gli mando il messaggio, lui adesso sta trascrivendo e praticamente va a crearti l'evento nel calendario. Aspetta, ha giunto l'evento domani alle 19, di che titolo lo vuoi chiamare? Ci sta. Meeting con Guglielmo. Guglielmo, se sei all'ascolto abbiamo un meeting, forza! Quindi ovviamente lui di nuovo sta trascrivendo con l'intelligenza artificiale, prende il testo, lo manda ai loro sistemi e ha creato l'evento. Andiamo a vedere. Clicco qua, Meeting con Guglielmo. Addirittura mi ha messo il link del Google Meet. Fantastico, ma non è tutto ragazzi, perché guardate un po'. Ricordami tra 5 minuti che devo andare a fare la spesa. Lui è andato a creare un reminder che tra 5 minuti mi dirà, devi andare a fare la spesa. Gliel'avevo già fatto questo test, vedi perfetto, ti ricorderò oggi alle 13.06 che devi andare a comprare il pane. alle 13.06 mi ha scritto ricordati di andare a comprare il pane dopo un minuto mi ha scritto ciao Matte, Matte tra l'altro, ti ricordi di andare a fare la spesa oggi? Perché non avevo visualizzato il messaggio, probabilmente lui lo sapeva. Sinceramente incredibile. Ve ne parlerò durante i prossimi 12 mesi anche perché mi hanno dato un anno gratis perché hanno visto gli è piaciuto come ho lavorato negli altri video che ho fatto. Sono una startup nuova, secondo me è estremamente innovativa. Sinceramente io già volevo costruire questa applicazione, ci ho provato, è estremamente difficile perché devi gestire proprio le date che sono tra i dati più complicati da gestire e quindi sono veramente orgoglioso di questa mia prima collaborazione come lo smanettone di fiducia e sinceramente non vedo l'ora di parlarvene nei prossimi giorni e nelle prossime settimane e nel prossimo anno, quindi restate con me e seguitemi che così rimaniamo in contatto e ci sentiamo.

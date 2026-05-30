@@ -20,14 +20,17 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: tutorial_ai
-TAG: instagram, intelligenza artificiale, guida
-TOPIC: Una guida passo passo sull'utilizzo dell'intelligenza artificiale su Instagram
+TAG: instagram-ai, meta-ai, intelligenza-artificiale, ai-gratuito, instagram-update
+TOPIC: Come utilizzare l'intelligenza artificiale di Instagram per riscrivere le caption e creare chat personalizzate con Meta AI
 
 --- HOOK TESTUALE (dal frame) ---
-NON SO SE LO SAI
+GRATUITO E ILLIMITATO FATTO
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con un'espressione curiosa e un braccio alzato, si trova in una stanza con mobili moderni e piante.
+Il video mostra una coppia in un soggiorno che presenta una nuova funzionalità di un'intelligenza artificiale. Mostrano come utilizzare l'AI per creare testi con effetti grafici. Viene mostrato uno screenshot di una finestra di dialogo dell'AI con opzioni come 'Sondaggio', 'Tono', 'Rispondi'. Viene anche mostrata la schermata di un telefono con un'app aperta e un laptop acceso.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Meta AI
 
 --- CAPTION COMPLETA ---
 Inizia facendo questo:
@@ -56,4 +59,4 @@ Noi siamo @mirtilla.malcontent e @themattvision , ci vediamo al prossimo video!
 #instagram #instagramupdate #intelligenzaartificiale #ai #crescitasocial
 
 --- TRASCRIZIONE AUDIO ---
-Non so se lo sai ma Instagram ha finalmente pubblicato il nuovo aggiornamento con l'intelligenza artificiale, guarda qua! No vabbè, assurdo! Per esempio, se non hai sbatti di scrivere la caption in modo elaborato o complesso, puoi cliccare semplicemente su riscrivi e avere una formula più completa ed elaborata. Sì vabbè, però funziona solamente in inglese. È vero, il prompt per ora funziona meglio in inglese, ma tra pochissimo arriverà anche in italiano. Ma poi, nei DM, puoi utilizzare una sorta di chat GPT gratuito e illimitato fatto direttamente da Instagram. Oppure creare la tua chat IA personalizzata per il tuo pubblico È un po' complesso da impostare, facci sapere però con un commento se vuoi sapere come si fa Ma infine la vera novità è stata aggiunta all'editor delle storie Ora puoi generare sfondi scritte con effetti grafici assurdi Ma soprattutto modificare, eliminare o rimuovere elementi dalle tue immagini Direttamente dall'app di Instagram grazie all'intelligenza artificiale Per farlo basta che apri l'editor delle storie e clicchi su restyle Siccome le cose sono tante abbiamo fatto una guida dove ti spieghiamo tutto passo passo e te la mandiamo se commenti con alpaca qui sotto tra i commenti. Io sono Matteo Zampieri, il tuo smonetto è di fiducia con Mirtila Malcontent. Noi ci vediamo ad un prossimo video e ricordati di seguirci se ancora non l'hai fatto.
+Non so se lo sai ma Instagram ha finalmente pubblicato il nuovo aggiornamento con l'intelligenza artificiale, guarda qua. No vabbè, assurdo. Per esempio, se non hai sbatti di scrivere la caption in modo elaborato o complesso, puoi cliccare semplicemente su riscrivi e avere una formula più completa ed elaborata. Sì vabbè, però funziona solamente in inglese. È vero, il prompt per ora funziona meglio in inglese, ma tra pochissimo arriverà anche in italiano. Ma poi, nei DM, puoi utilizzare una sorta di chat GPT gratuito e illimitato fatto direttamente da Instagram. oppure creare la tua chat IA personalizzata per il tuo pubblico. È un po' complesso da impostare, facci sapere però con un commento se vuoi sapere come si fa. Ma infine la vera novità è stata aggiunta all'editor delle storie. Ora puoi generare sfondi scritte con effetti grafici assurdi, ma soprattutto modificare, eliminare o rimuovere elementi dalle tue immagini direttamente dall'app di Instagram grazie all'intelligenza artificiale. Per farlo basta che apri l'editor delle storie e clicchi su restyle. Siccome le cose sono tante, abbiamo fatto una guida dove ti spieghiamo tutto passo passo e te la mandiamo se commenti con alpaca qui sotto tra i commenti. Io sono Matteo Zampieri, il tuo smanetto è un di fiducia con Mirtila Malcontent, noi ci vediamo in un prossimo video e ricordati di seguirci se ancora non l'hai fatto.

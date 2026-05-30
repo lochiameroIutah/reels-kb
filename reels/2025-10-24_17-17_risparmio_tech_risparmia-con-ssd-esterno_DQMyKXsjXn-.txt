@@ -19,14 +19,17 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: risparmio_tech
-TAG: apple, foto, ssd, risparmio
-TOPIC: Utilizzare l'app Foto di Apple senza pagare l'abbonamento iCloud
+TAG: apple-photos, icloud, ssd-esterno, risparmio-mensile
+TOPIC: Come utilizzare Apple Photos senza pagare l'abbonamento iCloud utilizzando un SSD esterno
 
 --- HOOK TESTUALE (dal frame) ---
 Questo metodo mi fa risparmiare centinaia di euro ogni mese
 
 --- DESCRIZIONE VISIVA ---
-Un uomo in un ambiente di lavoro con un computer e un paio di monitor, seduto davanti ad una scrivania con un paio di cuffie e altri dispositivi, con un'espressione seria e un testo sovrapposto in italiano
+Il video mostra un uomo che spiega come risparmiare denaro su un servizio di archiviazione cloud, probabilmente iCloud Foto di Apple. Viene mostrata una libreria di foto non archiviata nel cloud di Apple, seguita dalla creazione di una nuova libreria. L'uomo illustra come le foto e i video verranno caricati su un nuovo dispositivo, probabilmente un iPhone o un Mac, con una possibile opzione di archiviazione esterna. Viene anche mostrata un'interazione con ChatGPT e una schermata con un gioco.
+
+--- PRODOTTI / TOOL VISIBILI ---
+ChatGPT, Apple Photos, iCloud
 
 --- CAPTION COMPLETA ---
 Inizia facendo questo:
@@ -56,4 +59,4 @@ Io sono Il Tuo Smanettone di Fiducia, noi ci vediamo ad un prossimo video!
 #risparmiare #cloud #apple #fotoiphone #ai
 
 --- TRASCRIZIONE AUDIO ---
-Non so se lo sai ma ho trovato il modo di non pagare il cloud della Apple ma comunque utilizzare tutte le funzionalità incredibili che ti offre la Apple se utilizzi il loro cloud. Infatti tutte queste foto qua non sono all'interno del cloud della Apple anche se sto usando l'app foto della Apple bensì si trovano in questo SSD esterno e infatti pesa un tera e mezzo. Praticamente mi costerebbe uno sfracello ogni mese invece rimangono accessibili in qualsiasi momento da me offline. Se noi teniamo premuto il tasto option quando facciamo doppio clic sopra, attenzione che lui mi dice scegli la libreria, possiamo creare una nuova libreria, io l'ho già creata ed è qua dentro, foto Matteo fino a luglio 2024. Quindi ti basterà semplicemente creare la nuova libreria all'interno del tuo SSD esterno, caricarci tutte le fotografie e i video che ti interessano, tutte le foto e i video che caricherai al suo interno sfrutteranno tutte le funzionalità incredibili del cloud della Apple ma saranno comodamente qui nel tuo SSD reperibile in qualsiasi momento senza dover pagare niente altro. Io sono il tuo smanettone di fiducia e di cose utili fatte in questo modo, ne ho veramente tante altre quindi tu seguimi e noi ci vediamo ad un prossimo video.
+Non so se lo sai ma ho trovato il modo di non pagare il cloud della Apple ma comunque utilizzare tutte le funzionalità incredibili che ti offre la Apple se utilizzi il loro cloud. Infatti tutte queste foto qua non sono all'interno del cloud della Apple anche se sto usando l'app foto della Apple bensì si trovano in questo SSD esterno e infatti pesa un tera e mezzo. Praticamente mi costerebbe uno sfracello ogni mese invece rimangono accessibili in qualsiasi momento da me offline. Se noi teniamo premuto il tasto option quando facciamo doppio clic sopra, attenzione che lui mi dice scegli la libreria. Possiamo creare una nuova libreria. Io l'ho già creata ed è qua dentro. Foto Matteo fino a luglio 2024. Quindi ti basterà semplicemente creare la nuova libreria all'interno del tuo SSD esterno, caricarci tutte le fotografie e i video che ti interessano, tutte le foto e i video che caricherai al suo interno Sfrutteranno tutte le funzionalità incredibili del cloud della Apple ma saranno comodamente qui nel tuo SSD reperibile in qualsiasi momento senza dover pagare niente altro. Io sono il tuo smanettone di fiducia e di cose utili fatte in questo modo, ne ho veramente tante altre quindi tu seguimi e noi ci vediamo ad un prossimo video.

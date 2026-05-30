@@ -20,14 +20,17 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: risparmio_tech
-TAG: gmail, email, iscrizioni
-TOPIC: Un tutorial per gestire facilmente le iscrizioni alle email promozionali su Gmail
+TAG: gmail, gmail-trucchi, email-marketing, automatizzazione-email
+TOPIC: Come utilizzare la funzione di annullamento iscrizione di Gmail per gestire le email promozionali in pochi secondi
 
 --- HOOK TESTUALE (dal frame) ---
 Ecco come liberarsi da tutte le email promozionali in due click
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con un maglioncino grigio chiaro parla davanti a una scrivania con un computer acceso. Sullo sfondo, una parete grigia e una finestra con cornice in legno.
+Il video mostra un uomo che spiega come eliminare le email promozionali in due clic. Inizia con una introduzione, poi mostra come utilizzare un'applicazione o un servizio per cancellarsi dalle liste di email promozionali. Viene mostrata una schermata di un computer con un'applicazione aperta, una lista di email e un pulsante per annullare l'iscrizione. L'uomo illustra i passaggi con le mani e termina con un invito a seguire il suo profilo.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Chrome, Asana
 
 --- CAPTION COMPLETA ---
 Inizia facendo questo:
@@ -59,4 +62,4 @@ Io sono il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video!
 #gmail #risparmiare #emailmarketing #trucchigmail
 
 --- TRASCRIZIONE AUDIO ---
-Non so se lo sai ma Gmail sembra progettato per essere ingestibile. Cioè te prova a disiscriverti da tutte quelle fastidiose email facilmente non ce la fai. Infatti se io voglio disiscrivermi da qualcosa della sezione promozioni devo cliccare, andare in basso, cercare. Per questo motivo c'è il tuo smanetto di fiducia, adesso vediamo come fare. Andate sul vostro computer e andate su questo sito qua. Una volta che si è caricata la pagina troverete qui l'elenco di tutte le aziende su cui siete registrati e il pulsante annulla iscrizione. Ora in poi non avrete più problemi nel gestire le vostre iscrizioni alle email, guarda qua, clicco annulla iscrizione, mi compare l'annulla iscrizione, clicco semplicemente blocca e ho fatto. Indirizzo email bloccato. Il link te l'ho messo in descrizione, io sono Matto Zampieri, il tuo smanettone di fiducia e di consigli come questi ne ho già pubblicati tantissimi, quindi vatteli a vedere sul mio profilo e ricordati di seguirmi se non vuoi perderti i prossimi.
+Non so se lo sai ma Gmail sembra progettato per essere ingestibile. Cioè te prova a disiscriverti da tutte quelle fastidiose email facilmente, non ce la fai. Infatti se io voglio disiscrivermi da qualcosa della sezione promozioni devo, non so, cliccare, andare in basso, cercare. Per questo motivo c'è il tuo smanettone di fiducia, adesso vediamo come fare. Andate sul vostro computer e andate su questo sito qua. Una volta che si è caricata la pagina troverete qui l'elenco di tutte le aziende su cui siete registrati e il pulsante annulla iscrizione. Ora in poi non avrete più problemi nel gestire le vostre iscrizioni alle email, guarda qua, clicco annulla iscrizione, mi compare l'annulla iscrizione, clicco semplicemente blocca e ho fatto. Indirizzo email bloccato. Il link te l'ho messo in descrizione, io sono Matto Zampieri, il tuo smanettone di fiducia e di consigli come questi ne ho già pubblicati tantissimi, quindi vatteli a vedere sul mio profilo e ricordati di seguirmi se non vuoi perderti i prossimi.

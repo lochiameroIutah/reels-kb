@@ -19,14 +19,17 @@ LINK IN CAPTION: sì (link presente)
 
 --- CATEGORIA ---
 CATEGORIA: news_ai
-TAG: claude, ai, compilatore c
-TOPIC: Un modello di intelligenza artificiale chiamato Claude 4.6 costruisce un compilatore C da zero in due settimane
+TAG: claude-4-6, anthropic, compilatore-c, linux-kernel, intelligenza-artificiale
+TOPIC: Il modello Claude 4.6 di Anthropic costruisce un compilatore C da zero per compilare il kernel di Linux in due settimane con 20.000 dollari.
 
 --- HOOK TESTUALE (dal frame) ---
-LO SO CHE
+PER 2 SETTIMANE
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con un maglione grigio parla davanti alla camera
+Il video mostra un uomo che parla e gesticola davanti alla telecamera. In alcuni frame, viene mostrato anche uno screenshot di un computer con una presentazione o un sito web aperto. L'uomo indossa sempre la stessa felpa grigia e si trova nella stessa stanza con pareti beige e porte in legno. Non ci sono diagrammi o codice mostrato, solo schermate di un computer e il presentatore.
+
+--- PRODOTTI / TOOL VISIBILI ---
+GitHub
 
 --- CAPTION COMPLETA ---
 Ecco il link:
@@ -46,4 +49,4 @@ Io sono il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video!
 #intelligenzaartificiale #claude #ai #vibecoding #claudeai
 
 --- TRASCRIZIONE AUDIO ---
-Lo so che non è interessante come signorini che viene incastrato da corona, però ti ricordi che è uscito Cloud 4.5 che ti fa fare le applicazioni pazzesche? No? Non te lo ricordi? Beh vabbè non importa perché è uscito il 4.6. Vabbè dal 4.5 al 4.6 cosa vuoi che sia successo? Beh qua a destra lo faccio vedere. Per dimostrarne la potenza l'hanno messo a fare un programma che mette in piedi un sistema operativo completo. E lui è andato avanti per due settimane e ce l'ha fatta. Ci hanno messo solamente 20.000 euro e ci hanno messo due settimane Noi umani se avessimo voluto fare la stessa identica cosa ci avremmo messo un anno con un milione di euro Siamo nel futuro, non c'è niente da fare, è palese È solamente che tu indossi come me la stessa felpa di ieri e quindi giustamente dici No io non sono nel futuro, sono nel presente Sì, perché l'intelligenza artificiale è l'attuale presente E bisogna stare attenti perché tutta sta roba ci stanno cacciando un sacco di soldi noi rischiamo di rimanere indietro e non essere pronti per lavorare ma anche per essere al passo con il resto del pianeta se vuoi documentarti ti lascio il link in descrizione io sono Matteo Zampieri, il tuo smanettone di fiducia è tu seguimi perché il 99% dei casi non lo stai facendo e sono certo troverai solo cose utili nel mio profilo
+Lo so che non è interessante come signorini che viene incastrato da Corona, però ti ricordi che è uscito Claude 4.5 che ti fa fare le applicazioni pazzesche? No? Non te lo ricordi? Vabbè, vabbè, non importa perché è uscito il 4.6! Vabbè, dal 4.5 al 4.6 cosa vuoi che sia successo? Beh, qua a destra lo faccio vedere. Per dimostrarne la potenza l'hanno messo a fare un programma che mette in piedi un sistema operativo completo. E lui è andato avanti per due settimane e ce l'ha fatta. Ci hanno messo solamente 20.000 euro e ci hanno messo due settimane. Noi umani, se avessimo voluto fare la stessa identica cosa, ci avremmo messo un anno con un milione di euro. Siamo nel futuro, non c'è niente da fare, è palese. È solamente che tu indossi, come me, la stessa felpa di ieri e quindi giustamente dici no, io non sono nel futuro, sono nel presente. Sì, perché l'intelligenza artificiale è l'attuale presente e bisogna stare attenti perché tutta sta roba ci stanno cacciando un sacco di soldi. Noi rischiamo di rimanere indietro e non essere pronti per lavorare ma anche per essere al passo con il resto del pianeta. Se vuoi documentarti ti lascio il link in descrizione. Io sono Matteo Zampieri, il tuo smanettone di fiducia è tu. Seguimi perché il 99% dei casi non lo stai facendo e sono certo troverai solo cose utili nel mio profilo.

@@ -19,14 +19,17 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: personale
-TAG: intelligenza artificiale, motivation, storytelling
-TOPIC: La storia personale di come l'intelligenza artificiale ha cambiato la vita del creatore
+TAG: chat-gpt, intelligenza-artificiale, automazione, motivazione
+TOPIC: Come la mia vita è cambiata grazie all'utilizzo di Chat GPT
 
 --- HOOK TESTUALE (dal frame) ---
-Tu
+[nessun testo rilevato]
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con una maglietta nera sorride guardando verso la macchina fotografica. È seduto all'interno di un veicolo, presumibilmente al buio, con una luce soffusa sul suo viso proveniente dall'illuminazione interna dell'auto.
+Una griglia di 9 fotogrammi che mostrano un uomo seduto in un'auto, principalmente concentrati su di lui mentre parla. L'illuminazione interna dell'auto è accesa. L'uomo indossa una maglietta nera e sembra che stia discutendo qualcosa con enfasi, gesticolando con le mani. Non sono presenti screenshot di terminali, schermate di app/siti, diagrammi, UI di prodotti o codice.
+
+--- PRODOTTI / TOOL VISIBILI ---
+GPT
 
 --- CAPTION COMPLETA ---
 Questa è la maxi-storia di come la mia vita cambiata, capovolta, sottosopra sia finita grazie all’Ai 
@@ -38,4 +41,4 @@ Io sono il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video!
 #intelligenzaartificiale #risparmiare #ia #chatgpt #storytelling #storytime #motivation
 
 --- TRASCRIZIONE AUDIO ---
-Pensa che io nel 2022 come te non ci credevo all'intelligenza artificiale. Ricordo che avevo sentito parlare di chat GPT, l'avevo aperto ma non ero rimasto soddisfatto. Un giorno però vedo un video che mostra che scriveva il codice chat GPT al posto tuo. A quel punto mi sono acceso. E tu, quando è stato il giorno in cui ti sei acceso con l'intelligenza artificiale? Deve ancora succedere? In caso, seguimi e vedrai come ti accendo io.
+Pensa che io nel 2022, come te, non ci credevo all'intelligenza artificiale. Ricordo che avevo sentito parlare di chat GPT, l'avevo aperto ma non ero rimasto soddisfatto. Un giorno però vedo un video che mostra che scriveva il codice chat GPT al posto tuo. A quel punto mi sono acceso. E tu, quando è stato il giorno in cui ti sei acceso con l'intelligenza artificiale? Deve ancora succedere? In caso, seguimi e vedrai come ti accendo io.

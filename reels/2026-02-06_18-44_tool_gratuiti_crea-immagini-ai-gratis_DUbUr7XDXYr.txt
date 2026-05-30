@@ -20,14 +20,17 @@ LINK IN CAPTION: sì (matteozampieri.com/opal)
 
 --- CATEGORIA ---
 CATEGORIA: tool_gratuiti
-TAG: intelligenza artificiale, nano banana, google, ai
-TOPIC: Matteo Zampieri presenta uno strumento di Google per creare immagini AI senza limiti
+TAG: google, intelligenza-artificiale, nano-banana, gemini
+TOPIC: Come utilizzare lo strumento di Google per creare immagini con l'intelligenza artificiale senza limiti
 
 --- HOOK TESTUALE (dal frame) ---
 Google ha pubblicato questo strumento che ti fa risparmiare una marea di tempo
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con una maglietta bianca parla verso la camera. Sullo sfondo si intravede una finestra che dà su un edificio rosso.
+Il video mostra una serie di screenshot e riprese di un uomo che presenta uno strumento di Google. Inizia con una schermata di un computer che mostra una pagina web, seguita da una mano che indica lo schermo. Poi, ci sono varie riprese dell'uomo che parla e gesticola mentre sullo sfondo si vedono altre schermate di computer con del testo e dei codici. L'uomo sembra spiegare come utilizzare questo strumento di Google per risparmiare tempo.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Google
 
 --- CAPTION COMPLETA ---
 Inizia facendo questo:
@@ -60,4 +63,4 @@ Io sono Matteo Zampieri, il tuo smanettone di fiducia, noi ci vediamo ad un pros
 #intelligenzaartificiale #nanobanana #google #gemini #ai
 
 --- TRASCRIZIONE AUDIO ---
-Guardate che figata questa roba qua non è ancora disponibile in Italia. Io ho creato tutte queste copertine con l'intelligenza artificiale. Ho usato Nano Banana però molte volte mi dà problemi. Tipo ad esempio qui io gli do il classico prompt che ho dato per tutte queste altre conversazioni e lui mi dice che non può crearla. Alle volte lo fa, alle volte non lo fa. Per questo motivo ho ritirato fuori dal cappello questo strumento qua completamente gratuito e creato da Google. È molto figo perché vedi che tu gli puoi dare tutte le immagini, i testi, tutto quello che vedi viene mandato appunto qua dentro che è il generatore dell'immagine. Queste qua in particolare sono quattro domande che mi deve fare ogni volta e qua dentro c'è semplicemente il prompt con tutti i vari riferimenti. Quando clicco infatti mi chiede, descrivi l'outfit? Quindi allora io clicco qui e gli dico felpa grigia, eccolo qua. Poi mi chiede il testo da visualizzare, possiamo scrivere addio email promozionali, ecco qui che me l'ha scritto. Facciamo invio E lui adesso creerà la nostra immagine Ecco quindi che mi ha creata la mia immagine in un attimo Guarda qua Un attimo me l'ha creata E posso cliccare su questo pulsante per scaricarla Il link te l'ho messo in descrizione Ma attenzione perché non è ancora disponibile in Italia Io sono Matteo Zampieri Il tuo smanettono di fiducia Attenzione puoi usare una VPN eh Mi raccomando Noi ci vediamo in un prossimo video Ma tu accertati di non essere in questo 90%
+Guardate che figata questa roba qua non è ancora disponibile in Italia. Io ho creato tutte queste copertine con l'intelligenza artificiale. Ho usato Nano Banana, però molte volte mi dà problemi. Tipo ad esempio qui io gli do il classico prompt che ho dato per tutte queste altre conversazioni e lui mi dice che non può crearla. Alle volte lo fa, alle volte non lo fa. Per questo motivo ho ritirato fuori dal cappello questo strumento qua, completamente gratuito e creato da Google. È molto figo perché vedi che tu gli puoi dare tutte le immagini, i testi, tutto quello che vedi viene mandato appunto qua dentro, che è il generatore dell'immagine. Queste qua in particolare sono quattro domande che mi deve fare ogni volta e qua dentro c'è semplicemente il prompt con tutti i vari riferimenti. Quando clicco infatti mi chiede, descrivi l'outfit? Quindi allora io clicco qui e gli dico felpa grigia, eccolo qua. Poi mi chiede il testo da visualizzare, possiamo scrivere addio email promozionali, ecco qui che me l'ha scritto. Facciamo invio e lui adesso creerà la nostra immagine. Ecco quindi che mi ha creata la mia immagine in un attimo, guarda qua. Un attimo me l'ha creata e posso cliccare su questo pulsante per scaricarla. Il link te l'ho messo in descrizione ma attenzione perché non è ancora disponibile in Italia. Io sono Matteo Zampieri, il tuo smanettone di fiducia. Attenzione puoi usare una VPN eh, mi raccomando. Noi ci vediamo in un prossimo video ma tu accertati di non essere in questo 90%.

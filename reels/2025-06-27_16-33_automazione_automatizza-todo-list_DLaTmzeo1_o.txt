@@ -19,14 +19,17 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: automazione
-TAG: intelligenzaartificiale, ai, risparmiare, chatgpt, claude, todolist
-TOPIC: L'intelligenza artificiale semplifica la creazione di to-do list
+TAG: ai-todo-list, intelligenza-artificiale, automazione-task, chatgpt-alternative
+TOPIC: Come utilizzare l'AI Todo List per automatizzare la gestione delle liste di attività
 
 --- HOOK TESTUALE (dal frame) ---
-Rispondi al commento di tentabox Un tempo si andava sulla luna con pochi kb di ram, ora serve un datacenter per generare una todo list
+Un tempo si andava sulla luna con pochi kb di ram, ora serve un datacenter per generare una todo list
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con una maglietta bianca e un'espressione seria, con una mano alzata come per parlare o enfatizzare un punto. Sembra che stia registrando un video per un Reel Instagram.
+Il video mostra un uomo che presenta un'applicazione per la gestione delle liste di attività. Inizia con un selfie, poi mostra screenshot dell'applicazione 'AI Todo List', sottolineando come l'evoluzione tecnologica abbia cambiato il modo di gestire le liste di attività. Mostra come si possono aggiungere attività e importare liste. L'accento è posto sul progresso tecnologico e sulla facilità d'uso dell'applicazione.
+
+--- PRODOTTI / TOOL VISIBILI ---
+AI Todo List
 
 --- CAPTION COMPLETA ---
 Ora devi solo preoccuparti di vivere (che è comunque difficile 🥲)
@@ -36,4 +39,4 @@ Rimani sul pezzo 👉 clicca segui @themattvision
 #intelligenzaartificiale #ai #risparmiare #chatgpt #claude #todolist #storytelling #chatgptalternative
 
 --- TRASCRIZIONE AUDIO ---
-No, guarda, allora mi sa che non hai capito proprio niente, perché prima tu potevi comunque fare questa cosa. Prima tu potevi creare con l'intelligenza artificiale una to-do list, però tu dovevi a mano farti tutte le cose, tipo dare da mangiare ai gatti, scegli te la priorità, questo, quello con l'altro, clicchi e aggiungi ed è fatto. Sinceramente io non ho tempo da perdere né scrivere una a una tutte le cose che devo fare. Con quest'altra versione invece sì l'ha creata l'intelligenza artificiale ma io ci posso interagire con l'intelligenza artificiale guarda qua devo andare dal medito io scrivo dal medito lui adesso genera ho scritto far elasp praticamente lui adesso mi crea con l'intelligenza artificiale tutte le tasche guarda un po' prenotare appuntamento dal medico cioè è come se io non dovessi né creare questa bottiglia né riempirla perché fa tutto l'intelligenza artificiale
+No, guarda, allora, mi sa che non hai capito proprio niente, perché prima tu potevi comunque fare questa cosa. Prima tu potevi creare con l'intelligenza artificiale una to-do list, però tu dovevi a mano farti tutte le cose, tipo dare da mangiare ai gatti, scegli te la priorità, questo, quello con l'altro, clicchi, aggiungi ed è fatto. Sinceramente io non ho tempo da perderne, scrivere una a una tutte le cose che devo fare. Con quest'altra versione invece, sì, l'ha creata l'intelligenza artificiale, ma io ci posso interagire con l'intelligenza artificiale. Guarda qua, devo andare dal medito. Io scrivo dal medito, lui adesso genera, ho scritto FARELASP, praticamente lui adesso mi crea con l'intelligenza artificiale tutte le tasche, guarda un po', prenotare appuntamento dal medico. Cioè è come se io non dovessi né creare questa bottiglia né riempirla perché fa tutto l'intelligenza artificiale.

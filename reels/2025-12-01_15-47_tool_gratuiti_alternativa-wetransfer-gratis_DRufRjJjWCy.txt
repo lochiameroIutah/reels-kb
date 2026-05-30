@@ -19,14 +19,17 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: tool_gratuiti
-TAG: wetransfer, swisstransfer, inviare-allegati, gratis
-TOPIC: Un tool gratuito per inviare file grandi senza dover pagare
+TAG: swisstransfer, wetransfer, trasferimento-file, risparmio
+TOPIC: Come utilizzare SwissTransfer per inviare file fino a 50 giga gratis al posto di WeTransfer
 
 --- HOOK TESTUALE (dal frame) ---
 POV: Addio Wetransfer
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con una maglietta gialla guarda verso la telecamera con una mano alzata, mentre sullo sfondo si vede una finestra con una tenda bianca e un altoparlante.
+Il video mostra un uomo che si congeda da Wetransfer, un servizio di trasferimento file. Inizia con l'uomo che guarda un computer, seguito da screenshot della homepage di Wetransfer e della sua app mobile. Poi, l'uomo appare in vari frame, gesticolando e parlando. Vengono mostrate schermate di un'altra app o servizio, con un'indicazione di limiti di tempo per il trasferimento ("MASSIMO 3 GIORNI") e una nuova piattaforma che offre invio file fino a 50 GB. Il video termina con l'uomo che si rivolge direttamente al pubblico.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Wetransfer
 
 --- CAPTION COMPLETA ---
 Ecco come usare WeTransfer gratis nel 2025 🚀  con questo strumento magico, può inviare fino a 50 giga, si chiama Swisstransfer e lo adoro 
@@ -36,4 +39,4 @@ SWISSTRANSFER *NON* MI HA PAGATO PER FARE QUESTO VIDEO
 #risparmiare #wetransfer #inviareallegati #gratis
 
 --- TRASCRIZIONE AUDIO ---
-Non so se lo sai ma usare WeTransfer ormai è diventato un'impresa Infatti se io vado qui su questa schermata Metto la mia email Massimo tre giorni Se no devo pagare scade subito E si possono inviare massimo due giga Per questo motivo c'è il vostro smanettone di fiducia Pronto qui ad aiutarvi Andate su questo sito magico Si chiama Swiss Transfer E potete caricare il vostro file fino a 50 giga Però lo conosci Valla a utilizzare Poi fammi sapere se ti trovi bene Io mi trovo benissimo E noi ci vediamo ad un prossimo video con un prossimo strumento
+Non so se lo sai ma usare WeTransfer ormai è diventato un'impresa. Infatti se io vado qui su questa schermata, metto la mia email, massimo tre giorni, sennò devo pagare, scade subito e si possono inviare massimo due giga. Per questo motivo c'è il vostro smanettone di fiducia pronto qui ad aiutarvi. Andate su questo sito magico, si chiama SwissTransfer e potete caricare il vostro file fino a 50 giga. Lo conosci, valla a utilizzare, poi fammi sapere se ti trovi bene. Io mi trovo benissimo e noi ci vediamo ad un prossimo video con un prossimo strumento.

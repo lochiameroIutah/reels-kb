@@ -19,14 +19,17 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: tutorial_ai
-TAG: chatgpt, ai, risparmio
-TOPIC: Guida passo passo per ottenere ChatGPT Pro gratuito per un anno
+TAG: chatgpt-pro, paypal, registrazione-gratuita, abbonamento-annuale, intelligenza-artificiale
+TOPIC: Come ottenere ChatGPT Pro gratuito per un anno tramite registrazione e configurazione del pagamento con PayPal
 
 --- HOOK TESTUALE (dal frame) ---
-Vuoi sapere come avere ChatGPT Pro Gratis per un anno? Fai questo 
+Vuoi sapere come avere ChatGPT Pro Gratis per un anno? Fai questo
 
 --- DESCRIZIONE VISIVA ---
-Una persona in una cucina sta aprendo un tablet, sullo sfondo un frigorifero con molti magneti.
+Un uomo in una cucina con frigorifero e fornelli a sfondo. Lui indossa una maglietta bianca e usa un computer portatile grigio su un tavolo di legno. Mostra il portatile, poi inizia a lavorare al portatile con una espressione seria. Non ci sono screenshot, diagrammi o codice visibili.
+
+--- PRODOTTI / TOOL VISIBILI ---
+ChatGPT
 
 --- CAPTION COMPLETA ---
 Inizia facendo questo:
@@ -74,4 +77,4 @@ Ecco la guida:
 #intelligenzaartificiale #risparmiare #ai #chatgpt #claude #chatgpthacks
 
 --- TRASCRIZIONE AUDIO ---
-Grazie a tutti.
+Grazie a tutti!

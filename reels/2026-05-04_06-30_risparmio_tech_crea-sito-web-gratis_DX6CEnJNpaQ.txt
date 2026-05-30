@@ -19,14 +19,17 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: risparmio_tech
-TAG: verdent-ai, agenzie-web-marketing, risparmio
-TOPIC: Un tool di intelligenza artificiale che aiuta a risparmiare denaro nel creare siti web e applicazioni
+TAG: verdent-ai, agenzie-web-marketing, sviluppo-web, intelligenza-artificiale, automazione, risparmio
+TOPIC: Come utilizzare Verdent AI per creare siti web e applicazioni senza spendere 5.000 euro
 
 --- HOOK TESTUALE (dal frame) ---
-Questa intelligenza artificiale è perfetta per non farsifregare dalleagenzie di web marketing
+Questa intelligenza artificiale è perfetta per non farti fregare dalle agenzie di web marketing
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con una maglietta bianca, di fronte ad una scrivania e una finestra con la tenda tirata. Lui sembra stia parlando e ha la mano sinistra alzata
+Un uomo in una serie di riprese in un ambiente domestico, parla direttamente alla telecamera. Mostra varie volte un documento con un elenco puntato, un laptop acceso con una schermata nera e un foglio di carta. Le riprese sono alternate con screenshot di un computer, mostrando pagine web e strumenti di sviluppo.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Verdent
 
 --- CAPTION COMPLETA ---
 Inizia facendo questo:
@@ -59,4 +62,4 @@ cc: @verdent__ai
 #adv #Verdent #VerdentAI #AIcoding #vibecoding
 
 --- TRASCRIZIONE AUDIO ---
-Non so se lo sai ma farsi fare un sito da un'agenzia di web marketing ad oggi nel 2026 è una follia. Cioè te prova a farti fare un preventivo senza spaventarti non ce la fai. Infatti questa agenzia di marketing mi ha risposto per farmi un preventivo di una landing page, una pagina di presentazione e mi ha sparato 5.000 euro. Per questo motivo c'è qui il tuo smanitone di fiducia pronto qui a darti una mano. Ho trovato questo programma che si chiama Verdent e oggi l'hanno aggiornato e puoi descrivergli effettivamente quello che vuoi creare, un sito, un'app, un gestionale, qualsiasi cosa tu voglia, gli dai anche le tue foto e video e lui è pronto a costruire. Si chiama Verdent AI ed è un po' come avere il tuo programmatore personale disponibile in qualsiasi momento. In questo caso io gli ho dato tutte le varie informazioni, quindi il contesto. Lui adesso mi sta costruendo tutto il mio sito web, completo con tutte le immagini e video pronto per essere pubblicato. pubblicato. Quindi meglio 5.000 euro oppure un'ora del tuo tempo. Io penso alla seconda, infatti il link te l'ho messo in descrizioni ma se commenti con la parola verdent te lo mando direttamente. Io sono Mattaro Zampieri, il tuo smanettone di fiducia. Noi ci vediamo in un prossimo video e tu ricordati di seguirmi così non te lo perdi.
+Non so se lo sai ma farsi fare un sito da un'agenzia di web marketing ad oggi nel 2026 è una follia. Cioè te prova a farti fare un preventivo senza spaventarti non ce la fai. Infatti questa agenzia di marketing mi ha risposto per farmi un preventivo di una landing page, una pagina di presentazione e mi ha sparato 5.000 euro. Per questo motivo c'è qui il tuo smanettone di fiducia pronto qui a darti una mano. Ho trovato questo programma che si chiama Verdent e oggi l'hanno aggiornato e puoi descrivergli effettivamente quello che vuoi creare. un sito, un'app, un gestionale, qualsiasi cosa tu voglia, gli dai anche le tue foto e video e lui è pronto a costruire. Si chiama Verdant.ai ed è un po' come avere il tuo programmatore personale disponibile in qualsiasi momento. In questo caso io gli ho dato tutte le varie informazioni, quindi il contesto. Lui adesso mi sta costruendo tutto il mio sito web, completo con tutte le immagini e video pronto per essere pubblicato. Quindi meglio 5.000 euro oppure un'ora del tuo tempo. Io penso alla seconda, infatti il link te l'ho messo in descrizioni, ma se commenti con la parola Verdant te lo mando direttamente io sono Mattolo Zampieri il tuo smanettone di fiducia noi ci vediamo in un prossimo video e tu ricordati di seguirmi così non te lo perdi

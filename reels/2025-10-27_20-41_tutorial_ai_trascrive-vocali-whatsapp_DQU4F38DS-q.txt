@@ -19,14 +19,17 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: tutorial_ai
-TAG: whatsapp, trascrizione, risparmio tempo
-TOPIC: Utilizzare la trascrizione dei messaggi vocali su WhatsApp per risparmiare tempo
+TAG: whatsapp, trascrizione-vocale, automazione, risparmio-tempo, tool-gratuito
+TOPIC: Come utilizzare la funzione di trascrizione vocale di WhatsApp per risparmiare tempo
 
 --- HOOK TESTUALE (dal frame) ---
 Questa funzione di Whatsapp ti fa risparmiare troppe ore del tuo tempo
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con occhiali e maglione rosso usa un telefono cellulare mentre è seduto a un tavolo con una tazza di caffè, probabilmente in un locale.
+La griglia di fotogrammi mostra un uomo che parla e gesticola, poi si alternano screenshot di un telefono cellulare con WhatsApp aperto e alcune impostazioni dell'app. Viene mostrata la schermata di un telefono con un messaggio vocale, poi una schermata delle impostazioni di Whatsapp, e infine una schermata con un messaggio scritto. L'uomo indossa una maglietta rossa e si trova in un ambiente informale, come un caffè.
+
+--- PRODOTTI / TOOL VISIBILI ---
+WhatsApp
 
 --- CAPTION COMPLETA ---
 Ecco la guida:
@@ -58,4 +61,4 @@ Io sono il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video!
 #intelligenzaartificiale #whatsapphack #risparmiare #ai #ia
 
 --- TRASCRIZIONE AUDIO ---
-No, non è vero Cosa? Un minuto di vocale Un minuto di vocale e non hai tempo di ascoltarlo Ma no, siamo qua insieme Infatti, infatti, ma scusa ma non c'era la trascrizione attiva di Whatsapp? Aspetta, ti faccio vedere Allora, vai qui, impostazioni Chat, trascrizione dei messaggi vocali e clicchi manualmente Adesso torni nella chat Adesso premi il pulsantino trascrivi e Whatsapp in automatico ti trascrive il vocale così non devi più ascoltarlo Guarda qua, tutta la trascrizione Che spettacolo
+No, non è vero. Cosa? Un minuto di vocale. Un minuto di vocale e non hai tempo di ascoltarlo. Ma no, siamo qua insieme. Infatti, infatti. Ma scusa, ma non c'era la trascrizione attiva di Whatsapp? Aspetta, ti faccio vedere. Allora, vai qui, impostazioni, chat, trascrizione dei messaggi vocali e clicchi manualmente. Adesso torni nella chat. Adesso premi il pulsantino trascrivi e Whatsapp in automatico ti trascrive il vocale così non devi più ascoltarlo. Guarda qua. Tutta la trascrizione. C'è spettacolo. Eh o no?

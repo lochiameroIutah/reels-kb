@@ -19,14 +19,17 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: personale
-TAG: smanettone di fiducia, storia personale, gratitudine
-TOPIC: Il creatore di contenuti @themattvision condivide la sua storia personale e la nascita del suo progetto
+TAG: perplexity, smanettone-di-fiducia, matt-vision, sviluppo-applicazioni
+TOPIC: Il creator Matt Vision racconta la storia di come è nato il suo progetto personale con l'aiuto di Perplexity
 
 --- HOOK TESTUALE (dal frame) ---
-Il tuo smanettone di Fiducia • Matteo Zampieri
+Il tuo smanettone di Fiducia
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con la pelle olivastra e i capelli castani, vestito con una giacca nera e una maglietta bianca, guarda verso la camera. Sullo sfondo si vede un soffitto bianco con delle luci a LED.
+Il video mostra un uomo che presenta un'applicazione o un tool informatico. Inizia con screenshot del suo profilo Instagram e commenti da altri utenti. Poi, si vedono schermate di terminale, interfaccia di un'applicazione chiamata 'Perplexity', e altri elementi digitali. L'uomo parla e gesticola mentre usa un computer. Viene mostrata una schermata con un errore 'SOMETHING WENT WRONG' e poi varie chat e screenshot dell'applicazione presentata.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Instagram, Perplexity
 
 --- CAPTION COMPLETA ---
 È arrivato il momento di rivelarvi tutto.
@@ -46,4 +49,4 @@ Grazie per essere qui fin dall’inizio, e se ha letto fino a qui, grazie ancora
 Io sono il tuo smanettone di fiducia, e ora direzione 100mila! 🚀
 
 --- TRASCRIZIONE AUDIO ---
-Let him cook. Let him cook now. Let him cook. I said let him cook.
+Let him cook! Let him cook now! Let him cook! I said let him cook!

@@ -19,14 +19,17 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: tutorial_ai
-TAG: intelligenzaartificiale, chatgptprompts, ai
-TOPIC: Una guida per migliorare la critica costruttiva con ChatGPT
+TAG: chatgpt, intelligenza-artificiale, strumenti-di-discussione, pensiero-critico, ai-trainining
+TOPIC: Come utilizzare ChatGPT per migliorare il pensiero critico e la discussione
 
 --- HOOK TESTUALE (dal frame) ---
-Vuoi che ChatGPT smetta di essere sempre d'accordo con te? Fai questo 
+Vuoi che ChatGPT smetta di essere sempre d'accordo con te? Fai questo
 
 --- DESCRIZIONE VISIVA ---
-Una persona in una cucina sta posizionando un laptop su un tavolo.
+Un uomo utilizza un laptop in una cucina, con un frigorifero e un forno sullo sfondo. Inizia toccando lo schermo di un tablet, poi passa a lavorare sul laptop. L'uomo è visto digitare, guardare lo schermo e reagire con espressioni facciali diverse, indicando una discussione o una rivelazione. Non ci sono screenshot di terminali, diagrammi o codice mostrato. L'attenzione è focalizzata sull'interazione dell'uomo con il laptop e la sua reazione.
+
+--- PRODOTTI / TOOL VISIBILI ---
+ChatGPT
 
 --- CAPTION COMPLETA ---
 Inizia scrivendo questo:
@@ -57,4 +60,4 @@ Rimani utile, ma anche onesto. Sei qui per aiutarmi a pensare con chiarezza e a 
 #intelligenzaartificiale #chatgptprompts #ai #risparmiare #chatgpthacks
 
 --- TRASCRIZIONE AUDIO ---
-We're burning up the room Stop coming up for air We live around with you Fire, fire, fire
+We're burning up the room, I'm coming up for air, We live around with you, fire, fire, fire.

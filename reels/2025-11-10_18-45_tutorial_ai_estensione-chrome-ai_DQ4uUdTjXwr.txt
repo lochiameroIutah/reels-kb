@@ -19,14 +19,17 @@ LINK IN CAPTION: sì (link presente)
 
 --- CATEGORIA ---
 CATEGORIA: tutorial_ai
-TAG: intelligenza artificiale, risparmio tempo, estensione chrome
-TOPIC: Una funzione di Chrome che aiuta a risparmiare tempo trascrivendo video e analizzandoli con ChatGPT
+TAG: gleeb-web-highlight, chatgpt, chrome, intelligenza-artificiale
+TOPIC: Come utilizzare Gleeb Web Highlighter per velocizzare la lettura e la comprensione dei contenuti con ChatGPT
 
 --- HOOK TESTUALE (dal frame) ---
 Questa funzione di Chrome ti fa risparmiare troppe ore del tuo tempo
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con pochi capelli seduto davanti ad un computer con una mano alzata, come se stesse parlando o spiegando qualcosa. Sullo sfondo, un monitor, un altoparlante e parte di una porta in legno.
+Il video mostra un uomo che parla di una funzione di Chrome che aiuta a risparmiare tempo. Inizia con lui che discute l'importanza di stare al passo con le notizie sull'intelligenza artificiale e guarda video su YouTube. Poi, passa a mostrare come utilizzare una funzione di Chrome per velocizzare il lavoro. Mostra la sua mano che naviga su una schermata di Chrome con una estensione chiamata 'Gleeb Web Highlight', un tool che aiuta a prendere appunti da PDF e siti web. Successivamente, illustra come questa funzione può essere utilizzata per velocizzare la lettura e la comprensione dei contenuti, ad esempio, trasformando il testo di un video in informazioni facilmente accessibili tramite ChatGPT.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Chrome, Gleeb Web Highlight, ChatGPT
 
 --- CAPTION COMPLETA ---
 Inizia facendo questo:
@@ -58,4 +61,4 @@ Io sono il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video!
 #intelligenzaartificiale #risparmiare #newsai #ia #chatgptprompts
 
 --- TRASCRIZIONE AUDIO ---
-Non so se lo sai ma stare al passo con tutte le notizie dell'intelligenza artificiale è un casino. Cioè te prova a stare al passo guardando tutti i video di YouTube che escono ogni giorno non ce la fai. Infatti guarda qua Gemini 3.0 huge news 17 minuti più altri 10 minuti. Ma cioè chi è che mi dice che non saranno una perdita di tempo? Per questo motivo c'è il tuo smanettone di fiducia adesso vediamo come fare. Andate su questo link qua ma non vi preoccupate ve l'ho messo in descrizione. Oppure cercate questa cosa cliccate aggiungi e poi aggiunge estensione. D'ora in poi avrai sbloccato un pulsantino segreto, guarda qua si chiama Sommarize Video, io lo premo, in automatico viene presa la trascrizione del video data a CiaGPT e lui mi risponderà con tutte le notizie del video facendomi così risparmiare una marea di tempo. Io sono il tuo smanettone di fiducia, trovi i link in descrizione, noi ci vediamo ad un prossimo video, ricordati di seguirmi se ancora non l'hai fatto.
+Non so se lo sai, ma stare al passo con tutte le notizie dell'intelligenza artificiale è un casino, cioè te prova a stare al passo, ma guardando tutti i video di YouTube che escono ogni giorno non ce la fai. Infatti, guarda qua, Gemini 3.0, huge news, 17 minuti più altri 10 minuti, ma, cioè, chi è che mi dice che non saranno una perdita di tempo? Per questo motivo c'è il tuo smanettone di fiducia, adesso vediamo come fare. Andate su questo link qua, ma non vi preoccupate ve l'ho messo in descrizione, oppure cercate questa cosa, cliccate aggiungi e poi aggiungi estensione. D'ora in poi avrai sbloccato un pulsantino segreto, guarda qua, si chiama Sommarize Video, io lo premo, in automatico viene presa la trascrizione del video data a CiaGPT e lui mi risponderà con tutte le notizie del video facendomi così risparmiare una marea di tempo. Io sono il tuo smanettone di fiducia, trovi i link in descrizione, noi ci vediamo ad un prossimo video, ricordati di seguirmi se ancora non l'hai fatto.

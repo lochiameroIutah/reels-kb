@@ -20,14 +20,17 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: tutorial_ai
-TAG: intelligenza artificiale, pdf, perplexity.ai
-TOPIC: Come creare PDF professionali con l'aiuto dell'intelligenza artificiale
+TAG: perplexity-pro, creazione-pdf, intelligenza-artificiale, automazione
+TOPIC: Come utilizzare Perplexity Pro per creare PDF professionali con intelligenza artificiale
 
 --- HOOK TESTUALE (dal frame) ---
 Quest'App ti crea i PDF professionali ma lo fa con stile
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con una maglietta beige guarda verso la telecamera. Sullo sfondo, un monitor acceso con un foglio bianco sullo schermo e un impianto stereo.
+Il video mostra un uomo che presenta un'applicazione che crea PDF professionali. Vengono mostrati screenshot dell'app, che sembra essere una piattaforma di creazione di PDF con un'interfaccia utente intuitiva. L'uomo indossa una maglietta beige e appare in diversi frame, mentre in altri frame vengono mostrate le schermate dell'app e del browser con la documentazione. Viene mostrata anche una schermata con il logo 'Perplexity Pro' e opzioni come 'Web', 'GitHub', 'Finance', 'Gmail with Calendar', 'Google Drive'.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Perplexity Pro, GitHub, Gmail, Google Drive
 
 --- CAPTION COMPLETA ---
 Inizia scrivendo questo:
@@ -56,4 +59,4 @@ Io sono il tuo smanettone di fiducia e noi ci vediamo al prossimo video.
 #intelligenzaartificiale #chatgptprompts #ai #chatgpthacks
 
 --- TRASCRIZIONE AUDIO ---
-Lo so se lo sai ma farsi creare i pdf con l'intelligenza artificiale è praticamente impossibile. Cioè te prova a farti creare i pdf da chat.gpt non ce la fai. Infatti gli ho chiesto di crearmi un pdf fatto bene e quello che mi ha dato è un pdf estremamente anonimo brutto e fatto male. Per questo motivo c'è il tuo smalettone di fiducia pronto qui a darti una mano. Andate su perplexity.ai incollate questo testo che vi ho messo in descrizione. Attivate anche la ricerca web e premete su invio. D'ora in poi saprete come creare sempre i vostri pdf, guarda qua, non solo mi ha creato un pdf super completo ma in fondo mi ha messo anche tutte le fonti da cui ha trovato le informazioni. Se vuoi scaricarlo dovrai cliccare qui su esporta, scarica pdf, lui in un attimo ti ha scaricato il pdf. Io sono il tuo smalettone di fiducia, noi ci vediamo ad un prossimo video e ricordati di seguirmi se ancora non l'hai fatto.
+Lo so se lo sai ma farsi creare i pdf con l'intelligenza artificiale è praticamente impossibile. C'è te prova a farti creare i pdf da CiaGPT non ce la fai. Infatti gli ho chiesto di crearmi un pdf fatto bene e quello che mi ha dato è un pdf estremamente anonimo brutto e fatto male. Per questo motivo c'è il tuo smalettone di fiducia pronto qui a darti una mano. Andate su Perplexity.ai, incollate questo testo che vi ho messo in descrizione, attivate anche la ricerca web e premete su invio. D'ora in poi saprete come creare sempre i vostri pdf, guarda qua, non solo mi ha creato un pdf super completo, ma in fondo mi ha messo anche tutte le fonti da cui ha trovato le informazioni. Se vuoi scaricarlo dovrai cliccare qui su esporta, scarica pdf, lui in un attimo ti ha scaricato il pdf. Io sono il tuo smalettone di fiducia, noi ci vediamo ad un prossimo video e ricordati di seguirmi se ancora non l'hai fatto.

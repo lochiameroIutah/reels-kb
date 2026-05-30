@@ -19,14 +19,17 @@ LINK IN CAPTION: sì (matteozampieri.com/osu)
 
 --- CATEGORIA ---
 CATEGORIA: news_ai
-TAG: intelligenza artificiale, metaverso, minecraft, osuai, ai
-TOPIC: La tecnologia OSU AI crea strutture su Minecraft utilizzando intelligenza artificiale
+TAG: osu-ai, minecraft, ready-player-one, intelligenza-artificiale
+TOPIC: La tecnologia OSU AI costruisce strutture su Minecraft attraverso l'intelligenza artificiale
 
 --- HOOK TESTUALE (dal frame) ---
 Quello che hai visto in Ready Player One sta diventando realtà per colpa di questa IA
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con un cappuccio grigio parla in direzione della camera. Sullo sfondo, si vede un televisore acceso con una schermata blu.
+Il video mostra un uomo che parla di come l'intelligenza artificiale stia rendendo realtà ciò che è stato visto nel film Ready Player One. Viene mostrato l'uso di un computer con diverse schermate, tra cui una con un modello 3D di un albero e una città virtuale. L'uomo gesticola mentre parla e ci sono vari screenshot di applicazioni e interfacce utente.
+
+--- PRODOTTI / TOOL VISIBILI ---
+OSU
 
 --- CAPTION COMPLETA ---
 Ecco il link:

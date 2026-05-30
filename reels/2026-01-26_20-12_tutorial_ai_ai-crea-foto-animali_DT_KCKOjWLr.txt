@@ -20,14 +20,17 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: tutorial_ai
-TAG: intelligenza artificiale, gemini, animali, canili, adozioni
-TOPIC: Utilizzare l'intelligenza artificiale per creare immagini di animali in cerca di adozione
+TAG: gemini, intelligenza-artificiale, animali, canili, adozioni
+TOPIC: Come utilizzare Gemini per creare immagini realistiche di animali nei canili
 
 --- HOOK TESTUALE (dal frame) ---
 Ecco come salvare la vita ai nostri amici animali grazie all'intelligenza artificiale
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con un'espressione felice e un braccio alzato, sullo sfondo una cucina con un fornello e una finestra con cornice in legno.
+Il video mostra un uomo che illustra come utilizzare l'intelligenza artificiale per aiutare gli animali. Inizia con una presentazione personale, poi mostra come utilizzare uno strumento di intelligenza artificiale chiamato 'Gemini' per creare foto realistiche di animali, probabilmente per aiutare quelli nei rifugi a essere adottati. Viene mostrata una schermata del sito web di Gemini e una foto di un gattino. L'uomo parla con entusiasmo e gesticola mentre spiega il processo.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Gemini
 
 --- CAPTION COMPLETA ---
 Ecco come puoi farlo GRATIS:
@@ -67,4 +70,4 @@ Io sono il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video!
 #intelligenzaartificiale #gemini #animali #canili #adozioni
 
 --- TRASCRIZIONE AUDIO ---
-Non so se lo sai ma Google sta salvando migliaia di animali grazie all'intelligenza artificiale. Infatti il problema più grande che hanno i canigli è proprio la visibilità. Ci sono un sacco di animaletti che però hanno foto sfocate, brutte, fatte male. Che non attirano la tua attenzione. Così hanno usato Gemini per creare delle immagini con l'intelligenza artificiale. Guarda che carini questi gattini, queste foto realizzate con l'intelligenza artificiale. Ma dobbiamo parlare di questo gattino? Se però non sai come fare non ti preoccupare perché c'è qui il tuo smanettone di fiducia pronto qui a darti una mano. Andate su questo sito qua Quindi vai a prendere tutte le immagini del tuo animaletto Clicca strumenti, crea immagini Clicca su veloce, pro Incolla il testo che ti interessa creare E poi clicca su invia D'ora in poi potrai salvare la vita a un sacco di animaletti Guarda qua, ecco l'immagine che mi ha creato Questo è il mio gatto Leo, invenzione Indiana Jones Io sono Matteo Zampieri, il tuo smanettone di fiducia Con i peli del mio gatto addosso E di consigli come questi ne ho pubblicati tantissimi sul mio profilo E noi ci vediamo ad un prossimo video Ricordati di seguirmi se non vuoi perderti prossimi
+Non so se lo sai ma Google sta salvando migliaia di animali grazie all'intelligenza artificiale. Infatti il problema più grande che hanno i canigli è proprio la visibilità. Ci sono un sacco di animaletti che però hanno foto sfocate, brutte, fatte male, che non attirano la tua attenzione. Così hanno usato Gemini per creare delle immagini con l'intelligenza artificiale. Guarda che carini questi gattini, queste foto realizzate con l'intelligenza artificiale. Ma dobbiamo parlare di questo gattino? Se però non sai come fare non ti preoccupare perché c'è qui il tuo smanettone di fiducia pronto qui a darti una mano. Andate su questo sito qua, quindi vai a prendere tutte le immagini del tuo animaletto, clicca strumenti, crea immagini, clicca su veloce, pro, incolla il testo che ti interessa creare e poi clicca su invia. D'ora in poi potrai salvare la vita a un sacco di animaletti, guarda qua, ecco l'immagine che mi ha creato, questo è il mio gatto Leo, invenzione Indiana Jones. Io sono Matteo Zampieri, il tuo smanettone di fiducia con i peli del mio gatto addosso e di consigli come questi, ne ho pubblicati tantissimi sul mio profilo. Noi ci vediamo ad un prossimo video, ricordati di seguirmi se non vuoi perderti prossimi.

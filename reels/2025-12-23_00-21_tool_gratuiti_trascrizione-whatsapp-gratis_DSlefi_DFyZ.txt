@@ -19,14 +19,17 @@ LINK IN CAPTION: sì (link presente)
 
 --- CATEGORIA ---
 CATEGORIA: tool_gratuiti
-TAG: trascrizione, whatsapp, intelligenza-artificiale
-TOPIC: Un tool di intelligenza artificiale per trascrivere audio su WhatsApp gratuitamente
+TAG: iphone, trascrizione-automatizzata, comandi-rapidi, whatsapp
+TOPIC: Come utilizzare i comandi rapidi dell'iPhone per trascrivere automaticamente i messaggi audio di Whatsapp
 
 --- HOOK TESTUALE (dal frame) ---
 Con questo comando rapido dell'iPhone puoi trascrivere qualsiasi audio gratis
 
 --- DESCRIZIONE VISIVA ---
-Una spiaggia con una città sullo sfondo, persone distese sulla sabbia e un mare calmo
+Il video mostra una donna e un uomo su una spiaggia che utilizzano un iPhone per dimostrare come trascrivere gratuitamente qualsiasi file audio. Inizia con la donna che parla al telefono, seguita da una serie di screenshot che mostrano come impostare un comando rapido sull'iPhone per eseguire la trascrizione. Viene mostrata la schermata dell'app 'Comandi' con varie opzioni, tra cui l'invio di un messaggio e la selezione di un'azione specifica. La donna esegue il processo, mostrando come l'iPhone trascriva automaticamente un messaggio audio in testo. La scena termina con la coppia seduta sulla spiaggia, sorridendo mentre guarda il telefono.
+
+--- PRODOTTI / TOOL VISIBILI ---
+iPhone
 
 --- CAPTION COMPLETA ---
 Inizia scrivendo questo:
@@ -49,4 +52,4 @@ Io sono il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video!
 #trascrizione #whatsapptips #intelligenzaartificiale #risparmiare #ia
 
 --- TRASCRIZIONE AUDIO ---
-no cosa? è vero cosa c'è? un minuto di locale eh non puoi ascoltarlo no ma siamo qui insieme eh ma scusa ma non ce l'hai la trascrizione quella là che ti avevo mandato? come che si faceva? aspetta ti faccio vedere allora tieni premuto nel messaggio fai inoltre ok poi fai condividi in basso a destra esatto e poi fai esatto quella roba trascrivi adesso lui in automatico te lo trascrive e guarda qua no vabbè è scritto perfetto hai visto? Il link te l'ho messo in descrizione, io sono il tuo smanettone di fiducia, noi ci vediamo in un prossimo video, ricordati di seguirmi se ancora non l'hai fatto.
+Nooo, non è vero. Cosa? Un minuto di locale. Eh, non puoi ascoltarlo. No, ma siamo qui insieme. Eh, ma scusa, ma non ce l'hai la trascrizione quella là che ti avevo mandato? Come che si faceva? Aspetta, ti faccio vedere. Allora, tieni premuto nel messaggio, fai inoltre, poi fai condividi in basso a destra, esatto, e poi fai, esatto, quella roba, trascrivi. Adesso lui in automatico te lo trascrive e guarda qua. No, vabbè, è scritto perfetto. Hai visto? Il link te l'ho messo in descrizione. Io sono il tuo smanettone di fiducia, noi ci vediamo in un prossimo video, ricordati di seguirmi se ancora non l'hai fatto.

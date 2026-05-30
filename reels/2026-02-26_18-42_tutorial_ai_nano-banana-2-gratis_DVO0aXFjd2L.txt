@@ -19,15 +19,18 @@ CTA FOLLOW: sì
 LINK IN CAPTION: no
 
 --- CATEGORIA ---
-CATEGORIA: tutorial_ai
-TAG: intelligenza artificiale, nano banana, gemini, risparmiare, ai
-TOPIC: Tutorial su come utilizzare Nano Banana 2 di Google gratuitamente
+CATEGORIA: tool_gratuiti
+TAG: google, nano-banana-2, gemini, intelligenza-artificiale
+TOPIC: Come utilizzare Nano Banana 2 di Google per creare immagini gratuite di alta qualità
 
 --- HOOK TESTUALE (dal frame) ---
 Nano banana PRO da oggi è completamente gratis grazie a Google
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con una maglietta nera guarda qualcosa fuori campo con la mano destra alzata vicino alla testa. Sembra che stia parlando o sia sorpreso.
+Il video mostra una serie di screenshot e riprese di un uomo che presenta un'offerta su un prodotto chiamato 'Nano Banana PRO', che è diventato gratuito grazie a Google. Vengono mostrate varie schermate di un computer, inclusa una pagina web di Gemini, un'app o servizio di Google, e il prodotto 'Nano Banana 2'. L'uomo nel video gesticola e parla, probabilmente spiegando le caratteristiche e i benefici del prodotto.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Google, Gemini, Nano Banana 2
 
 --- CAPTION COMPLETA ---
 Ecco come usarla gratis:
@@ -53,4 +56,4 @@ Io sono Matteo Zampieri, il tuo smanettone di fiducia, noi ci vediamo ad un pros
 #intelligenzaartificiale #nanobanana #gemini #risparmiare #ai
 
 --- TRASCRIZIONE AUDIO ---
-Non ci posso credere, vi ricordate Google Nano Banana che completamente gratis era quell'intelligenza artificiale che ti faceva creare le immagini? Ecco, e ricordate che poi hanno pubblicato la versione Pro però è a pagamento? Ecco. Google ha pubblicato Nano Banana 2 che è potente come il Pro ma costa come il base. Ma come usarla gratis? Beh c'è qui il tuo smanettone di fiducia pronto qui a darti una mano. Vi basterà andare su gemini.google.com slash app oppure scaricarvi la loro app, incollare il testo, cliccare su crea un'immagine, lasciare veloce e fare invia. D'ora in poi potrete creare le vostre immagini gratis della stessa qualità della versione a pagamento, guarda qua, ti dirà caricamento di nano banana 2 e in qualche secondo eccolo qua che ti crea appunto la tua immagine. Io sono Matteo Zampieri, il tuo smanettone di fiducia, noi ci vediamo in un prossimo video e tu ricordati di seguirmi se ancora non l'hai fatto.
+Non ci posso credere, vi ricordate Google Nano Banana che completamente gratis era quell'intelligenza artificiale che ti faceva creare le immagini? Ecco. E ricordate che poi hanno pubblicato la versione Pro però è a pagamento? Ecco. Google ha pubblicato Nano Banana 2 che è potente come il Pro ma costa come il base. Ma come usarla gratis? Beh c'è qui il tuo smanettone di fiducia pronto qui a darti una mano. Vi basterà andare su gemini.google.com slash app oppure scaricarvi la loro app, incollare il testo, cliccare su crea un'immagine, lasciare veloce e fare invia. D'ora in poi potrete creare le vostre immagini gratis della stessa qualità della versione a pagamento. Guarda qua, ti dirà caricamento di nano banana 2 e in qualche secondo eccolo qua che ti crea appunto la tua immagine. Io sono Matteo Zampieri, il tuo smanettone di fiducia, noi ci vediamo in un prossimo video e tu ricordati di seguirmi se ancora non l'hai fatto.

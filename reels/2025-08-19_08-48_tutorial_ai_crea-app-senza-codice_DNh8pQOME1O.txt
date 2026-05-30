@@ -18,15 +18,18 @@ CTA FOLLOW: sì
 LINK IN CAPTION: no
 
 --- CATEGORIA ---
-CATEGORIA: tutorial_ai
-TAG: vibecoding, intelligenzaartificiale, ai
-TOPIC: Il metodo Vibe Coding consente di creare app senza scrivere codice utilizzando l'intelligenza artificiale
+CATEGORIA: news_ai
+TAG: chatgpt, vibe-coding, intelligenza-artificiale, sviluppo-software
+TOPIC: Come utilizzare ChatGPT per creare app senza scrivere codice con il metodo Vibe Coding
 
 --- HOOK TESTUALE (dal frame) ---
 POV: Ora ChatGPT-5 lavora gratis al posto tuo sul tuo computer
 
 --- DESCRIZIONE VISIVA ---
-Uno screenshot di un computer che mostra del codice su uno schermo, presumibilmente durante una sessione di programmazione o sviluppo, con una tastiera nera sotto lo schermo e testo in italiano che si riferisce all'integrazione di ChatGPT-5.
+Il video mostra una serie di screenshot e riprese di un uomo che parla, discutendo apparentemente dell'integrazione di ChatGPT-5 nel suo lavoro. Inizia con uno screenshot di una schermata di programmazione, mostrando come ChatGPT-5 possa lavorare al posto suo. L'uomo, presente in più frame, gesticola mentre parla. Viene mostrato anche un terminale con del codice, suggerendo applicazioni pratiche di ChatGPT-5 nello sviluppo software.
+
+--- PRODOTTI / TOOL VISIBILI ---
+ChatGPT
 
 --- CAPTION COMPLETA ---
 Non conosci il Vibe Coding?🤯
@@ -50,4 +53,4 @@ Clicca segui 👉 e ti svelo tutto nei prossimi video!
 #vibecoding #intelligenzaartificiale #risparmiare #ai #chatgpt
 
 --- TRASCRIZIONE AUDIO ---
-Guarda qua, l'intelligenza artificiale sta facendo tutto per me, guarda la roba che ha fatto, task che ha completato. Gli ho solamente fatto una richiesta che avevo precedentemente creato con chat GPT, però sta facendo tutto. Questo qua si chiama tra e solo ed è veramente incredibile. Perché poi praticamente ci sono tutti i programmatori che danno contro a questa intelligenza artificiale. Dicono no ma in realtà fa le cose fatte male, vi dà una cosa che non funziona realmente. ma scusa ma nello stesso tempo che l'intelligenza artificiale mi crea un'app intera tipo mettiamo conto anche 10 minuti se voi riusciste anche a farcela riuscireste a fare meno errori di quelli che fa l'intelligenza artificiale? l'unica cosa che non potrà rubare sarà la creatività non è niente vero perché ci sono delle strumentazioni che ti creano delle canzoni che io da produttore musicale non sono riuscito a distinguere siamo fritti l'intelligenza artificiale sarà in grado di fare quindi svegliamoci, cominciamo a usarla e qual è il modo migliore per rimanere aggiornato sul pezzo con tutti gli ultimi aggiornamenti e novità? beh sicuramente seguire lo smanettone di fiducia Matteo Zampieri eccomi qua, piacere di conoscerti, ci vediamo al prossimo video
+Guarda qua, l'intelligenza artificiale sta facendo tutto per me, guarda la roba che ha fatto, task che ha completato. Gli ho solamente fatto una richiesta che avevo precedentemente creato con ChatGPT, però sta facendo tutto. Questo qua si chiama Trae Solo ed è veramente incredibile. Perché poi praticamente ci sono tutti i programmatori che danno contro a questa intelligenza artificiale. Dicono, no ma in realtà fa le cose fatte male, vi da una cosa che non funziona realmente. Scusa, ma nello stesso tempo che l'intelligenza artificiale mi crea un'app intera, tipo mettiamo conto anche 10 minuti, se voi riusciste anche a farcela, riuscireste a fare meno errori di quelli che fa l'intelligenza artificiale? L'unica cosa che non potrà rubare sarà la creatività, non è niente vero, perché ci sono delle strumentazioni che ti creano delle canzoni che io da produttore musicale non sono riuscito a distinguere, siamo fritti. L'intelligenza artificiale sarà in grado di fare? Svegliamoci, cominciamo a usarla. E qual è il modo migliore per rimanere aggiornato sul pezzo con tutti gli ultimi aggiornamenti e novità? Beh, sicuramente seguire lo smanettone di fiducia Matteo Zampieri. Eccomi qua, piacere di conoscerti, ci vediamo al prossimo video.

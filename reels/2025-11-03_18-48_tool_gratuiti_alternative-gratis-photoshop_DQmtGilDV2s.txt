@@ -19,14 +19,17 @@ LINK IN CAPTION: sì (link presente)
 
 --- CATEGORIA ---
 CATEGORIA: tool_gratuiti
-TAG: affinity, canva, photoshop, gratis
-TOPIC: Scopri come utilizzare il programma Affinity di Canva come alternativa gratuita a Photoshop
+TAG: canva, affinity, photoshop, intelligenza-artificiale, software-gratuito, grafica
+TOPIC: Come utilizzare Affinity by Canva come alternativa gratuita a Photoshop
 
 --- HOOK TESTUALE (dal frame) ---
-Da oggi PHOTOSHOP è GRATIS per sempre grazie a Canva non so se lo Sai, ma usare Photoshop è praticamente
+Da oggi PHOTOSHOP è GRATIS per sempre grazie a Canva
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con la maglietta nera si trova davanti ad una scrivania, seduto su una sedia, con una mano alzata e uno sguardo accigliato. Sul suo viso è presente un'espressione di sconcerto o di sorpresa. Sullo sfondo si intravede una finestra aperta con una tenda tirata, attraverso la quale filtra una luce intensa.
+Il video mostra una serie di screenshot e scene che illustrano come utilizzare gratuitamente Photoshop grazie a Canva. Si parte con il presentatore che parla dei costi di Photoshop, mostrando un prezzo di €26 al mese. Poi, viene mostrato come accedere a una versione gratuita tramite un sito chiamato Affinity by Canva. Il video procede con il presentatore che illustra le funzionalità del software, incluso il supporto per vari formati come AI, SVG, EPS, DWG/DXF e Freehand. Viene anche mostrata l'interfaccia utente del software, che sembra simile a Photoshop.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Photoshop, Canva, Affinity
 
 --- CAPTION COMPLETA ---
 Ecco come averlo:
@@ -56,4 +59,4 @@ io sono il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video!
 #intelligenzaartificiale #photoshop #gratis #risparmiare
 
 --- TRASCRIZIONE AUDIO ---
-Non so se lo sai ma usare Photoshop è praticamente impossibile, cioè te prova a utilizzare Photoshop non ce la fai. Infatti se io volessi anche solamente creare un semplice fotomontaggio facile devo pagare 26 euro al mese. Per questo motivo c'è il tuo smalitorni di fiducia pronto qui a darti una mano. Andate su questo sito qua ma non vi preoccupate ve l'ho messo in descrizione e scoprirete un programma di Canva segreto che si chiama Affinity che è come Photoshop ma gratis per tutti per sempre. Quindi cliccate su ottieni affiniti e lo scaricate per quello che vi interessa D'ora in poi non dovrai più pagare Photoshop infatti guarda qua tutti i livelli, tutti i colori Puoi modificare tutto ciò che ti interessa Io sono il tuo smanettone di fiducia Noi ci vediamo ad un prossimo video ricordati di seguirmi se ancora non l'hai fatto
+Non so se lo sai ma usare Photoshop è praticamente impossibile, cioè te prova a utilizzare Photoshop non ce la fai. Infatti se io volessi anche solamente creare un semplice fotomontaggio facile devo pagare 26 euro al mese. Per questo motivo c'è il tuo smalettone di fiducia pronto qui a darti una mano. Andate su questo sito qua ma non vi preoccupate ve l'ho messo in descrizione e scoprirete un programma di Canva segreto che si chiama Affinity che è come Photoshop ma gratis per tutti per sempre. Quindi cliccate su ottieni affiniti e lo scaricate per quello che vi interessa. D'ora in poi non dovrai più pagare Photoshop, infatti guarda qua tutti i livelli, tutti i colori, puoi modificare tutto ciò che ti interessa. Io sono il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video, ricordati di seguirmi se ancora non l'hai fatto.

@@ -19,14 +19,17 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: news_ai
-TAG: instagram, aggiornamento, feed
-TOPIC: L'aggiornamento di Instagram consente di spostare i post nella griglia
+TAG: instagram, modifica-griglia, nuova-funzionalita, social-media, gestione-contenuti
+TOPIC: Come utilizzare la funzionalità di Modifica griglia di Instagram per personalizzare la disposizione dei post
 
 --- HOOK TESTUALE (dal frame) ---
 Incredibile aggiornamento di Instagram
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con un'espressione neutra, indossa una maglietta beige con un logo viola. Lui tiene la mano sinistra alzata con l'indice puntante verso l'alto. Nell'angolo in alto a destra del frame si intravede lo schermo di uno smartphone che mostra un profilo Instagram.
+Un uomo in una maglietta gialla mostra come utilizzare una nuova funzionalità di Instagram chiamata 'Modifica griglia'. Mostra la sua schermata di Instagram con una griglia di post e spiega come riorganizzare i post trascinandoli. La schermata cambia per mostrare come vengono salvate le modifiche.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Instagram
 
 --- CAPTION COMPLETA ---
 L’aggiornamento definitivo di Instagram 🔥

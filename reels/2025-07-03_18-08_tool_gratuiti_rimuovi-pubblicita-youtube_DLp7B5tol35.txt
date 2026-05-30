@@ -19,14 +19,17 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: tool_gratuiti
-TAG: YouTube, Ultimate Ad Blocker, pubblicità
-TOPIC: Rimuovere le pubblicità da YouTube tramite Ultimate Ad Blocker
+TAG: adblocker-ultimate, google-chrome, blocco-pubblicita, youtube
+TOPIC: Come utilizzare AdBlocker Ultimate per rimuovere le pubblicità da YouTube
 
 --- HOOK TESTUALE (dal frame) ---
-Rispondi al commento di arduinobramubilia per non parlare delle pubblicità quale applicazione ci vuole x non vedere + le pubblicità?
+per non parlare delle pubblicità quale applicazione ci vuole x non vedere + le pubblicità?
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con una maglietta nera e un paio di auricolari bianchi visibili nell'orecchio sinistro, fa un gesto con la mano destra alzando l'indice. Sullo schermo è presente un testo in italiano che sembra essere una domanda da un commento. Sotto il dito indice dell'uomo è presente la frase 'OK NON VUOI' con 'NON' in giallo e il resto in bianco.
+Il video mostra una persona che spiega come utilizzare un'applicazione per bloccare le pubblicità su un dispositivo. Inizia con una schermata di Google Chrome mostrando l'estensione AdBlocker Ultimate, per poi passare a una serie di istruzioni su come installare l'applicazione. La persona illustra i passaggi per installare l'estensione, mostrando il processo di installazione e le funzionalità dell'applicazione. La persona parla con il pubblico e fornisce indicazioni su come utilizzare l'applicazione.
+
+--- PRODOTTI / TOOL VISIBILI ---
+AdBlocker Ultimate, Google Chrome
 
 --- CAPTION COMPLETA ---
 Addio pubblicità su YouTube 😎
@@ -36,4 +39,4 @@ Per rimuoverle dal telelfono ➜ Clicca segui @themattvision
 Ecco come rimuovere le pubblicità da YouTube!
 
 --- TRASCRIZIONE AUDIO ---
-Ok, non vuoi vedere le pubblicità su YouTube? Fai questo. Qui basta andare dentro Google e scrivere Ultimate Ad Blocker e premere sul primo risultato. L'immagine è quella con un riccio, cliccando su questo pulsante lo installi o lo rimuovi. Una volta installato lo troverai qui premendo su questo pulsantino oppure su questo qua col pezzo di puzzle e a quel punto clicchi Ultimate Ad Blocker. Come vedi qui è perfettamente funzionante. Attenzione, se ti dicono di scaricare questo non lo scaricare. Poi per capire se ha funzionato è molto semplice. Ti basta andare in un video di YouTube, per esempio questo, aprirlo e vedrai che parte senza le pubblicità. Se invece vuoi togliere la pubblicità dai video di YouTube nel tuo telefono, seguimi perché prossimamente ci farò un video.
+Ok, non vuoi vedere le pubblicità su YouTube? Fai questo. Qui basta andare dentro Google e scrivere Ultimate Ad Blocker e premere sul primo risultato. L'immagine è quella con un riccio, cliccando su questo pulsante lo installi e lo rimuovi. Una volta installato lo troverai qui premendo su questo pulsantino oppure su questo qua col puzzle, col pezzo di puzzle, e a quel punto clicchi Ultimate Ad Blocker. Come vedi qui è perfettamente funzionante. Attenzione, se ti dicono di scaricare questo, non lo scaricare. Poi per capire se ha funzionato è molto semplice. Ti basta andare in un video di YouTube, per esempio questo, aprirlo e vedrai che parte senza le pubblicità. Se invece vuoi togliere la pubblicità dai video di YouTube nel tuo telefono, seguimi perché prossimamente ci farò un video.

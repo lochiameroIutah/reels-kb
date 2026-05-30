@@ -19,14 +19,17 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: confronto_ai
-TAG: intelligenza artificiale, shopify, wordpress, hostinger
-TOPIC: Il creatore di contenuti presenta Hostinger come alternativa a Shopify e WordPress per la creazione di siti web con l'aiuto dell'intelligenza artificiale
+TAG: hostinger, shopify, wordpress, intelligenza-artificiale, siti-web, creazione-siti
+TOPIC: Come utilizzare Hostinger con intelligenza artificiale per creare siti web in pochi click come alternativa a Shopify e WordPress
 
 --- HOOK TESTUALE (dal frame) ---
-DIMMI ANCORA CHE
+[nessun testo rilevato]
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con i capelli castani e una mano alzata con le dita a formare una V, mentre un gatto bianco lo guarda dall'alto, con il muso sovrapposto al cielo.
+Il video mostra un uomo che parla e gesticola in varie pose. In un frame, viene mostrata una schermata di un sito web o applicazione con un interfaccia utente in italiano. L'uomo indossa una maglietta con il logo 'DSQUARED' e si trova in una stanza con libri e un gatto bianco appare in un frame.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Hostinger
 
 --- CAPTION COMPLETA ---
 Ciao, ciao Shopify e WordPress, non ho tempo da perde 😮‍💨

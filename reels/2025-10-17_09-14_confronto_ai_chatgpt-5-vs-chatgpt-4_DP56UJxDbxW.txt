@@ -19,14 +19,17 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: confronto_ai
-TAG: chatgpt, intelligenza-artificiale, risparmio
-TOPIC: Il video spiega come utilizzare correttamente ChatGPT-5 e come evitare errori a causa dei modelli di default
+TAG: chatgpt-5, chatgpt-4, openai, intelligenza-artificiale, modelli-di-ai, chatgpt
+TOPIC: Come migliorare la qualità delle risposte di ChatGPT-5 scegliendo il modello corretto
 
 --- HOOK TESTUALE (dal frame) ---
-Ecco perchè ChatGPT-5 ti sembra peggio di ChatGPT-4
+Ecco perché ChatGPT-5 ti sembra peggio di ChatGPT-4
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con una maglietta bianca si trova davanti a una postazione di lavoro con un monitor acceso che mostra del codice. Sembra che stia parlando direttamente alla telecamera.
+Il video mostra un uomo che parla e spiega perché ChatGPT-5 potrebbe sembrare peggiore di ChatGPT-4. In alcuni frame, vengono mostrate schermate di un computer con codice e apparentemente interazioni con ChatGPT, incluso del testo che sembra essere una conversazione o un prompt specifico. L'uomo sembra discutere delle differenze tra le due versioni di ChatGPT e forse di come i cambiamenti nelle modalità di funzionamento o nelle istruzioni fornite possano influenzare la percezione della loro qualità.
+
+--- PRODOTTI / TOOL VISIBILI ---
+ChatGPT
 
 --- CAPTION COMPLETA ---
 Ecco come aggiustarlo:
@@ -50,4 +53,4 @@ Io sono il tuo smanettone di fiducia, noi ci vediamo al prossimo video!
 #intelligenzaartificiale #risparmiare #ai #chatgpt #ia #chatgpt5
 
 --- TRASCRIZIONE AUDIO ---
-C'è chi dice che c'ha GPT-5 non è più stupido del 4, ma guardate qua. Allora, io gli ho detto di scrivere tra parentesi una cosa. Aperta parentesi, aperta parentesi, chiusa parentesi, aperta parentesi, chiusa parentesi, chiusa parentesi. Gli stavo anche chiedendo prima, ma non ti sembra stupido da parte tua, no? Fare una cosa del genere? E lui mi ha detto, hai ragione, hai perfettamente ragione, non dovevo scriverlo letteralmente. Era ovvio che intendessi, ma allora, perché cazzo fa ste cose? semplicemente lui utilizza dei modelli più del cazzo che gli costa meno a OpenAI che l'azienda dietro a CiaGPT per risparmiare anche se pago 20 euro al mese
+C'è chi dice che c'ha GPT-5 non è più stupido del 4, ma guardate qua. Allora io gli ho detto di scrivere tra parentesi una cosa, aperta parentesi, aperta parentesi, chiusa parentesi, aperta parentesi, chiusa parentesi, chiusa parentesi. Gli stavo anche chiedendo prima, ma non ti sembra stupido da parte tua, no? Fare una cosa del genere? E lui mi ha detto, hai ragione, hai perfettamente ragione, non dovevo scriverlo letteralmente, era ovvio che intendessi, ma allora, perché cazzo fa ste cose? Semplicemente lui utilizza dei modelli più del cazzo che gli costa meno a OpenAI che l'azienda dietro a CiaGPT per risparmiare. Anche se pago 20 euro al mese.

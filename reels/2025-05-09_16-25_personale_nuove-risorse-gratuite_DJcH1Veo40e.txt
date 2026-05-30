@@ -18,15 +18,18 @@ CTA FOLLOW: no
 LINK IN CAPTION: no
 
 --- CATEGORIA ---
-CATEGORIA: personale
-TAG: ai, intelligenza artificiale, risparmiare, motivation, chatgpt, ia, digital
-TOPIC: Il creatore condivide le sue ultime attività e fornisce una guida su come accedere alle sue risorse
+CATEGORIA: tutorial_ai
+TAG: grok, ai, intelligenza-artificiale, chatgpt, utilizzo-in-europa
+TOPIC: Come utilizzare Grok tramite YouTube e email in Europa
 
 --- HOOK TESTUALE (dal frame) ---
-Dice che non è utilizzabile in Europa..? Mi aiuti? Grazie
+Come posso usare Grok in Europa?
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con la barba e capelli corti, indossa una maglietta blu. Tiene in mano uno smartphone, sullo sfondo si vede del verde
+Il video mostra un uomo che cerca di utilizzare Grok, un modello AI, tramite il suo smartphone. Inizia mostrare una conversazione su Instagram, poi naviga attraverso diverse schermate del suo telefono, inclusa una schermata di login per un account email, la home page di un'app chiamata 'Video Guide', e altre pagine web. Le schermate mostrano vari tentativi di accedere a Grok, incluso cercare guide su come utilizzarlo e problemi relativi alla sua compatibilità in Europa.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Grok, Instagram, ChatGPT
 
 --- CAPTION COMPLETA ---
 Sono sparito per un po’ ma volevo aiutarvi per davvero. Per questo ho fatto tutto questo. Spero vi possa essere utile 🙏
@@ -34,4 +37,4 @@ Sono sparito per un po’ ma volevo aiutarvi per davvero. Per questo ho fatto tu
 #ai #intelligenzaartificiale #risparmiare #motivation #chatgpt #ia #digital
 
 --- TRASCRIZIONE AUDIO ---
-Ciao amici, sono qui per mostrarvi che cosa ho fatto in questi ultimi giorni, oltre a feste, cose, aver fatto 30 anni anche sì, ma vi faccio vedere qui, praticamente avete presente tutti i miei link, ecco ora li troverete qui, premendo sul mio link invio e praticamente andando qui sotto, ok, sblocca le video guide, qui praticamente se cliccate qua inserite la vostra email, che in questo caso è quella di mia madre, cliccate invia, continua, ti ha inviato, ok, via email appunto ti invio tutto. e qui potete trovare oltre a tutti i link anche le mie video guide per esempio questa qua di Perplexity, quella di Grok, di Jitsimit cliccate semplicemente nel link e vi apre Youtube direttamente con il video che è estremamente privato ho pubblicato tutto adesso spero vi sia utile questa cosa noi ci vediamo molto presto per qualsiasi domanda scrivetemi
+Ciao amici sono qui per mostrarvi che cosa ho fatto in questi ultimi giorni oltre a feste, cose, aver fatto 30 anni anche sì, ma vi faccio vedere qui praticamente avete presente tutti i miei link, ecco ora li troverete qui premendo sul mio link invio e praticamente andando qui sotto ok sblocca le video guide, qui praticamente se cliccate qua inserite la vostra email, che in questo caso è quella di mia madre, cliccate invia, continua, ti ha inviato, ok via email appunto ti invio tutto. Qui potete trovare, oltre a tutti i link, anche le mie video guide. Per esempio questa qua di Perplexity, quella di Grok, di Jitsimit. Cliccate semplicemente nel link e vi apre YouTube direttamente con il video che è estremamente privato. Ho pubblicato tutto adesso. Spero vi sia utile questa cosa. Noi ci vediamo molto presto. Per qualsiasi domanda scrivetemi.

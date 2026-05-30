@@ -19,14 +19,17 @@ LINK IN CAPTION: sì (link presente)
 
 --- CATEGORIA ---
 CATEGORIA: news_ai
-TAG: intelligenza artificiale, zimage, risparmio
-TOPIC: Il modello Z-Image rivoluziona la generazione di immagini con costi irrisori
+TAG: z-image, huggingface, comfyui, intelligenza-artificiale
+TOPIC: Il modello Z-Image di Tongyi-MAI offre una generazione di immagini più economica e veloce rispetto a Gemini 3
 
 --- HOOK TESTUALE (dal frame) ---
 Nano banana 2 è già stata superata da un'intelligenza artificiale cinese
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con una maglietta beige guarda verso la camera. Sullo sfondo, un monitor con un'immagine di un bosco, un computer portatile acceso con del codice sullo schermo e un paio di speaker.
+Il video mostra un uomo che discute di come 'Nano banana 2' sia stata superata da un'intelligenza artificiale cinese. Lui gesticola e parla davanti a uno schermo del computer. Vengono mostrate varie schermate del computer, incluso un sito web con informazioni su 'Nano banana 2', un terminale con del codice e una schermata con una descrizione del modello. L'uomo sembra discutere le capacità e le limitazioni di 'Nano banana 2' rispetto alla nuova intelligenza artificiale cinese.
+
+--- PRODOTTI / TOOL VISIBILI ---
+GitHub
 
 --- CAPTION COMPLETA ---
 Quanto corre questa intelligenza artificiale non finirò mai di sbalordirmi!
@@ -40,4 +43,4 @@ Zimage rende mille volte più economica la generazione di immagini. Sta andando 
 #intelligenzaartificiale #ia #risparmiare #nanobanana #zimage
 
 --- TRASCRIZIONE AUDIO ---
-Senza parole, cioè una settimana e mezza fa vi ricordate che era uscito Gemini 3, incredibile, immagini pazzesche, un costo irrisorio. Ecco, adesso è uscito Z Image da un tizio cinese che non è la prima volta che droppa perché aveva già droppato delle robe. 86.000 persone già l'hanno scaricato nel giro di 4-5 giorni. Gemini ti costava 5 centesimi a immagine. Adesso questo qua ti costa 0,005 centesimi Ho fatto dei test e le genera tranquillamente col test in italiano Per utilizzare ConfUI che è fenomenale Con questo ConfUI praticamente ti costa 0 Perché usi la potenza del tuo computer ed è tutto in locale, privato Come magari piaccia a te Io sono Matteo Zampieri, il tuo smanetto di fiducia Ti ho messo il link in descrizione del modello Noi ci vediamo ad un prossimo video E ricordati di seguirmi se ancora non l'hai fatto
+Senza parole, cioè una settimana e mezza fa vi ricordate che era uscito Gemini 3 incredibile immagini pazzesche, un costo irrisorio? Ecco, adesso è uscito Z-Image da un tizio cinese che non è la prima volta che droppa perché aveva già droppato delle robe. 86.000 persone già l'hanno scaricato nel giro di 4-5 giorni. Gemini ti costava 5 centesimi a immagine, adesso questo qua ti costa 0,005 centesimi a immagine. Ho fatto dei test e leggenda tranquillamente col test in italiano. Puoi utilizzare ConfUI che è fenomenale. Con questo ConfUI praticamente ti costa zero, perché usi la potenza del tuo computer ed è tutto in locale, privato, come magari piaccia a te. Io sono Matteo Zampieri, il tuo smanettone di fiducia, ti ho messo il link in descrizione del modello, noi ci vediamo ad un prossimo video e ricordati di seguirmi se ancora non l'hai fatto.

@@ -19,14 +19,17 @@ LINK IN CAPTION: sì (link presente)
 
 --- CATEGORIA ---
 CATEGORIA: tutorial_ai
-TAG: bonus-500-euro, intelligenza-artificiale, partita-iva
-TOPIC: Il video spiega come richiedere il bonus di 500 euro al mese per giovani imprenditori utilizzando l'intelligenza artificiale
+TAG: perplexity, bonus-500-euro, intelligenza-artificiale, partita-iva
+TOPIC: Come utilizzare Perplexity per richiedere il bonus di 500€ al mese per giovani imprenditori
 
 --- HOOK TESTUALE (dal frame) ---
 Questo Bonus ti fa avere 500€ al mese GRATIS per 3 anni
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con un'espressione seria, indossa una maglietta bianca e nera. Sullo sfondo, un computer acceso e un monitor spento.
+Il video mostra un uomo che illustra come ottenere un bonus di 500€ al mese gratis per 3 anni. Lui utilizza un computer, mostrando varie schermate di un sito web e di un'applicazione chiamata 'Perplexity', oltre a del codice su un terminale. L'uomo sembra utilizzare l'intelligenza artificiale per richiedere il bonus, menzionando la possibilità di ottenerlo aprendo una partita IVA. Le schermate mostrano il processo di richiesta del bonus e l'utilizzo di strumenti digitali per la procedura.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Perplexity
 
 --- CAPTION COMPLETA ---
 Il link iniziale è questo qua: https://www.inps.it/it/it/inps-comunica/atti/circolari-messaggi-e-normativa/dettaglio.circolari-e-messaggi.2025.11.circolare-numero-148-del-28-11-2025_15092.html 
@@ -42,4 +45,4 @@ Spero davvero che riusciate anche voi a presentare la domanda!
 #risparmiare #bonus500euro  #intelligenzaartificiale #tutorial
 
 --- TRASCRIZIONE AUDIO ---
-Non so se lo sai ma ho richiesto i 500 euro di bonus che puoi richiedere se hai aperto la partita IVA. E adesso ti faccio vedere cosa ho fatto per farlo utilizzando l'intelligenza artificiale. Ho dato superplexity o qualsiasi intelligenza artificiale. Gli ho dato questo link qua che è questa pagina web. Se andate in basso ci sono tre file. Se voi li scaricate, quindi li prendete, li allegate e gli chiedete dimmi se posso richiederlo. Il mio codice a teco è. Ovviamente io adesso gli vado a dare il mio codice a teco. Lui adesso controllerà tutti i dati e poi in un attimo eccolo qua, lui ha capito che il mio codice a te che è disponibile. Andate a vedervi questo video bonus 500 euro giovani imprenditori di Gian Pietro Teresi che è un video step by step dove vi spiega esattamente passo passo come fare. Io l'ho seguito e ce l'ho fatto. Io sono il tuo smaletto ogni fiducia e questa era una delle mie guide perché di solito qui si parla di tecnologia e intelligenza artificiale. Noi ci vediamo ad un prossimo video, ricordati di seguirmi se ancora non l'hai fatto.
+Non so se lo sai ma ho richiesto i 500€ di bonus che puoi richiedere se hai aperto la partita IVA e adesso ti faccio vedere cosa ho fatto per farlo utilizzando l'intelligenza artificiale. Ho dato su Perplexity o qualsiasi intelligenza artificiale, gli ho dato questo link qua che è questa pagina web. Se andate in basso ci sono tre file, se voi li scaricate, quindi li prendete, li allegate e gli chiedete, dimmi se posso richiederlo, il mio codice ATECO è. Ovviamente io adesso gli vado a dare il mio codice ATECO. Lui adesso controllerà tutti i dati e poi in un attimo, eccolo qua, lui ha capito che il mio codice ATEC è disponibile. Andate a vedervi questo video bonus 500€ giovani imprenditori di Giampietro Teresi che è un video step by step dove vi spiega esattamente passo passo come fare. Io l'ho seguito e ce l'ho fatto. Io sono il tuo smaletto ogni fiducia e questa era una delle mie guide perché di solito qui si parla di tecnologia e intelligenza artificiale. Noi ci vediamo ad un prossimo video, ricordati di seguirmi se ancora non l'hai fatto.

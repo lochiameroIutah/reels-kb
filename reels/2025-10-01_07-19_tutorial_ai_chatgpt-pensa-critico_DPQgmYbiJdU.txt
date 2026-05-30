@@ -19,14 +19,17 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: tutorial_ai
-TAG: chatgpt, intelligenza-artificiale, personalizzazione
-TOPIC: Come personalizzare ChatGPT per avere risposte più obiettive
+TAG: chatgpt, intelligenza-artificiale, personalizzazione,  impostazioni
+TOPIC: Come modificare le impostazioni di ChatGPT per renderlo meno incline a essere sempre d'accordo
 
 --- HOOK TESTUALE (dal frame) ---
 Vuoi che Chatgpt smetta di essere sempre d'accordo con te? Fai questo.
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con la barba e pochi capelli, indossa una maglietta beige, sembra parlare direttamente alla telecamera. Alle sue spalle si vede un angolo di una stanza con una porta in legno marrone, un cappello nero appeso al muro e un quadro o poster incorniciato.
+Il video mostra un uomo che parla e spiega come modificare le impostazioni di ChatGPT per renderlo meno incline a essere sempre d'accordo. Vengono mostrati screenshot dell'interfaccia di ChatGPT, compresa la sezione delle impostazioni, e viene illustrato come attivare la personalizzazione e inserire un prompt specifico per cambiare il comportamento dell'AI. La sequenza dei fotogrammi guida l'utente attraverso i passaggi per effettuare questa modifica.
+
+--- PRODOTTI / TOOL VISIBILI ---
+ChatGPT
 
 --- CAPTION COMPLETA ---
 Inizia scrivendo questo:
@@ -63,4 +66,4 @@ Io sono il tuo smanettone di fiducia noi ci vediamo ad un prossimo video!
 #intelligenzaartificiale #chatgptprompts #ai #risparmiare #chatgpthacks
 
 --- TRASCRIZIONE AUDIO ---
-Non so se lo sai ma ormai chat GPT sembra progettato per darti sempre ragione. Cioè te prova a farti dare torto da chat GPT non ce la fai. Infatti se noi facciamo anche una domanda random se dovessi scegliere tra darmi ragione e darmi torto cosa preferiresti? Lui mi dice proprio ti darei ragione. Per questo motivo c'è il vostro smanettone di fiducia pronto qui a darvi una mano. Andate nel vostro chat GPT e in basso qui cliccate su impostazioni. Da qui andate su personalizzazione, abilitate la personalizzazione, incollate questo testo che vi ho messo in descrizione e cliccate salva. D'ora in poi CiaGPT non ti darà sempre ragione. Guarda qua, in base a come sono stato progettato, sceglierei la verità. Quindi a volte ti do ragione, a volte ti do torto. Io sono il tuo smalettone di fiducia, noi ci vediamo ad un prossimo video e ricordati di seguirmi se ancora non l'hai fatta.
+Non so se lo sai, ma ormai ChatGPT sembra progettato per darti sempre ragione. Cioè te prova a farti dare torto da ChatGPT, non ce la fai. Infatti se noi facciamo anche una domanda random, se dovessi scegliere tra darmi ragione e darmi torto, cosa preferiresti? Lui mi dice proprio, ti darei ragione. Per questo motivo c'è il vostro smanettone di fiducia pronto qui a darvi una mano. Andate nel vostro ChatGPT e in basso qui cliccate su Impostazioni. Da qui andate su Personalizzazione, Abilitate la personalizzazione, incollate questo testo che vi ho messo in descrizione e cliccate salva. D'ora in poi CiaGPT non ti darà sempre ragione. Guarda qua, in base a come sono stato progettato, sceglierei la verità. Quindi a volte ti do ragione, a volte ti do torto. Io sono il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video e ricordati di seguirmi se ancora non l'hai fatta.

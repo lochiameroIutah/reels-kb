@@ -19,14 +19,17 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: tutorial_ai
-TAG: nocode, intelligenza-artificiale, vibecoding
-TOPIC: Creare applicazioni con intelligenza artificiale senza competenze tecniche
+TAG: chatgpt, claude-ai, antigravity, react-native, codex, github
+TOPIC: Come creare un'applicazione con l'intelligenza artificiale utilizzando ChatGPT, Claude AI e Antigravity
 
 --- HOOK TESTUALE (dal frame) ---
 Ti spiego come farlo anche tu passo passo in descrizione
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con una maglietta grigia parla davanti alla camera, con una finestra scura sullo sfondo
+Il video mostra un uomo che parla e spiega come creare un'intelligenza artificiale. Viene mostrata una schermata di un telefono con un'interfaccia di un'applicazione, probabilmente un esempio di come si può utilizzare l'AI. L'uomo gesticola e parla davanti alla telecamera, mentre sullo sfondo si vedono anche degli screenshot di altri dispositivi e forse di un computer. Il presentatore sembra mostrare il processo di creazione passo dopo passo.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Google
 
 --- CAPTION COMPLETA ---
 Ecco come ho fatto:
@@ -61,4 +64,4 @@ Io sono Matteo Zampieri il tuo smanettone di fiducia, ci vediamo al prossimo vid
 #vibecoding #nocode #intelligenzaartificiale #tutorial #risparmiare
 
 --- TRASCRIZIONE AUDIO ---
-Quando cinque anni fa ho ideato quest'idea qua, ho detto boh la disegno intanto, la farò nella mia vita. Poi è arrivata l'intelligenza artificiale che mi ha dato la possibilità di crearla. Gli ho solamente detto che cosa volevo fare e lui l'ha creata per me. Un attimo l'ho ricreata in un'oretta praticamente. Quanto mi gasa sentirmi libero di poter creare quello che più mi piace. Una volta se avevi un'idea potevi realizzarla solamente se eri un programmatore o uno con tanti soldi. Oggi con l'intelligenza artificiale puoi crearla da zero senza alcuna competenza e senza soldi Cioè di cosa stiamo parlando?
+Quando, 5 anni fa, ho ideato quest'idea qua, ho detto, boh, la disegno intanto, la farò nella mia vita. Poi è arrivata l'intelligenza artificiale che mi ha dato la possibilità di crearla. Gli ho solamente detto che cosa volevo fare e lui l'ha creata per me. Un attimo l'ho ricreata in un'oretta praticamente. Quanto mi gasa sentirmi libero di poter creare quello che più mi piace. Una volta, se avevi un'idea, potevi realizzarla solamente se eri un programmatore o uno con tanti soldi. Oggi con l'intelligenza artificiale puoi crearla da zero senza alcuna competenza e senza soldi. Cioè di cosa stiamo parlando?

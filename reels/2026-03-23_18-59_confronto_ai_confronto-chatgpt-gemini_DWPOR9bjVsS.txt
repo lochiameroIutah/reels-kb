@@ -18,15 +18,18 @@ CTA FOLLOW: sì
 LINK IN CAPTION: sì (matteozampieri.com/gemini)
 
 --- CATEGORIA ---
-CATEGORIA: confronto_ai
-TAG: intelligenza artificiale, gemini, chatgpt
-TOPIC: Un confronto tra ChatGPT e Gemini di Google per l'analisi di PDF
+CATEGORIA: tutorial_ai
+TAG: chatgpt, gemini, google, intelligenza-artificiale
+TOPIC: Come utilizzare Gemini di Google per analizzare più di tre pdf alla volta, superando il limite di ChatGPT
 
 --- HOOK TESTUALE (dal frame) ---
-Vuoi che ChatGPT analizzzi i tuoi PDF? Fai questo
+Vuoi che ChatGPT analizzi i tuoi PDF? Fai questo
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con un'espressione seria, a torso nudo con una felpa o maglione scuro. L'illuminazione è bassa con presenza di ombre.
+Il video mostra una serie di istruzioni su come utilizzare ChatGPT per analizzare PDF. Inizia con il presentatore che parla e gesticola, poi mostra una schermata di un computer con un browser aperto su un sito web, probabilmente Google, seguito da una schermata di un'applicazione di gestione dei file. Successivamente, viene mostrata una schermata con un elenco di file e un campo di ricerca. Il presentatore continua a parlare e a mostrare varie schermate, tra cui una con un codice o un testo, e termina con una chiamata all'azione per seguire il suo profilo.
+
+--- PRODOTTI / TOOL VISIBILI ---
+ChatGPT, Google
 
 --- CAPTION COMPLETA ---
 Ecco il link:
@@ -52,4 +55,4 @@ Io sono il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video!
 #intelligenzaartificiale #gemini #chatgpt #risparmiare #ai
 
 --- TRASCRIZIONE AUDIO ---
-Non so se lo sai ma c'ha GPT sembra progettato per essere intile quando realmente serve. Cioè te prova a dargli più di tre PDF per analizzarli, lavorarci su, non ce la fai. Infatti se io voglio caricare tutti questi dieci PDF e li carico qui sopra mi dice che posso caricarne solo tre alla volta. Per questo motivo c'è qui il tuo smalettone di fiducia pronto qui a darti una mano. Andate su questo sito qua che è Gemini che è l'intelligenza artificiale di Google e premete invio. Quindi andate a prendere i vostri pdf, trascinateli sopra, mandate la vostra richiesta, quindi la domanda e premete su invia. D'ora in poi non avrete più problemi nel lavorare con i pdf, guarda qua. In un attimo mi ha analizzato tutti i miei pdf e ha capito ognuno di cosa parla. Il link te l'ho messo in descrizione ma se commenti con la parola Gemini te lo mando direttamente. Io sono Matto Zampieri, il tuo smanettone di fiducia. Tu ricordati di seguirmi se ancora non l'hai fatto così noi poi ci vediamo ad un prossimo video.
+Non so se lo sai, ma CiaGPT sembra progettato per essere intile quando realmente serve. C'è te prova a dargli più di tre pdf per analizzarli, lavorarci su, non ce la fai. Infatti se io voglio caricare tutti questi 10 pdf e li carico qui sopra, mi dice che posso caricarne solo tre alla volta. Per questo motivo c'è qui il tuo smanettone di fiducia pronto qui a darti una mano. Andate su questo sito qua che è Gemini, che è l'intelligenza artificiale di Google e premete invio. Quindi andate a prendere i vostri PDF, trascinateli sopra, mandate la vostra richiesta, quindi la domanda e premete su invia. D'ora in poi non avrete più problemi nel lavorare con i PDF, guarda qua, in un attimo mi ha analizzato tutti i miei PDF e ha capito ognuno di cosa parla. Il link te l'ho messo in descrizione, ma se commenti con la parola GEMINI te lo mando direttamente. Io sono Matteo Zampieri, il tuo smanettone di fiducia, tu ricordati di seguirmi se ancora non l'hai fatto, così noi poi ci vediamo ad un prossimo video.

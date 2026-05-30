@@ -19,14 +19,17 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: risparmio_tech
-TAG: intelligenza artificiale, gratis, risparmiare, chatgpt, perplexity, ai, ia
-TOPIC: Il video spiega come ottenere il Pro di un'azienda di AI gratuitamente per un anno
+TAG: paypal, gemini, claude, abbonamento-gratis
+TOPIC: Come ottenere un anno di abbonamento gratuito a Gemini e Claude grazie alla collaborazione con PayPal
 
 --- HOOK TESTUALE (dal frame) ---
-Neanche da PC riesco a trovare tutte quelle AI che dici nel Video 😭😭
+Neanche da PC riesco a trovare tutte quelle AI che dico nel Video 😂
 
 --- DESCRIZIONE VISIVA ---
-Un mano destra che si avvicina verso il basso dello schermo. Sullo sfondo un computer acceso.
+Il video mostra un uomo che parla davanti alla camera, mentre mostra schermate di un computer con varie applicazioni e siti web aperti. Inizia con una schermata di un computer con un testo che indica come trovare AI, poi passa a mostrare il suo volto mentre parla. Successivamente, mostra una schermata con un laptop e una mano che indica qualcosa sullo schermo. Infine, continua a parlare e a gesticolare con le mani.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Gemini, Claude
 
 --- CAPTION COMPLETA ---
 Come avere il Pro gratis:
@@ -52,4 +55,4 @@ Io sono Matteo Zampieri il Tuo Smanettone di Fiducia, noi ci vediamo al prossimo
 #intelligenzaartificiale #gratis #risparmiare #chatgpt #perplexity #ai #ia
 
 --- TRASCRIZIONE AUDIO ---
-Guarda che è facilissimo, eh, cioè clicchi su questo pulsantino e guarda qua, c'ha GPT5, Gemini, Cloud. Anche se sembra strano, questa azienda sta facendo una follia regalando il suo abbonamento di un anno gratis, completamente gratis. Scrivimi la parola trottola e ti mando questo video qua dove ti spiego passo passo come ottenerlo. L'importante è che disattivi il rinnovo ma non ti preoccupare, nel video ti faccio vedere esattamente come fare. So che sembra assurdo però devi crederci, se no non ci credi e non te lo prendi.
+Guarda che è facilissimo, eh, cioè, clicchi su questo pulsantino e guarda qua, CiaGPT5, Gemini, Claude. Anche se sembra strano, questa azienda sta facendo una follia regalando il suo abbonamento di un anno, gratis, completamente gratis. Scrivimi la parola TROTTOLA e ti mando questo video qua, dove ti spiego passo passo come ottenerlo. L'importante è che disattivi il rinnovo, ma non ti preoccupare, nel video ti faccio vedere esattamente come fare. So che sembra assurdo, però devi crederci, se no non ci credi e non te lo prendi.

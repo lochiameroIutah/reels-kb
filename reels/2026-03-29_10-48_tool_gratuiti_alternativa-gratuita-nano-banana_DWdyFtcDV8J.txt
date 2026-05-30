@@ -19,14 +19,17 @@ LINK IN CAPTION: sì (matteozampieri.com/zeta-image)
 
 --- CATEGORIA ---
 CATEGORIA: tool_gratuiti
-TAG: intelligenza artificiale, zeta image turbo, nano banana
-TOPIC: Zeta Image Turbo è un modello cinese open source per generare immagini con l'intelligenza artificiale senza censure
+TAG: zeta-image-turbo, nano-banana-pro, gemini, intelligenza-artificiale
+TOPIC: L'uso di Zeta Image Turbo come alternativa gratuita a Nano Banana Pro per la generazione di immagini con l'intelligenza artificiale
 
 --- HOOK TESTUALE (dal frame) ---
 La Cina ha pubblicato gratis una IA che distrugge Nano Banana Pro
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con una maglietta nera sta parlando davanti ad una finestra con la luce del sole che illumina lo sfondo.
+Il video mostra un presentatore che parla di una nuova IA cinese gratuita che compete con Nano Banana Pro. Vengono mostrati screenshot di un sito web chiamato 'Z-Image-Turbo', che sembra essere una piattaforma di generazione di immagini AI. Il presentatore discute le capacità di questa IA, sottolineando come possa creare immagini ad alta qualità rapidamente. Viene anche menzionato un confronto con altre tecnologie come Gemini.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Z-Image-Turbo, Gemini
 
 --- CAPTION COMPLETA ---
 Inizia facendo questo:
@@ -58,4 +61,4 @@ Io sono il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video!
 #intelligenzaartificiale #nanobanana #generazioneimmagini #ai #gratis
 
 --- TRASCRIZIONE AUDIO ---
-Non ci posso credere, vi ricordate che Nano Banana era stata schiacciata da quest'intelligenza artificiale cinese che ti permetteva offline di creare immagini della stessa qualità completamente gratis? Ecco, se andate su questo sito qua, in particolare ve l'ho messo qui in descrizione, gli inserite il vostro prompt, che ovviamente lo create con l'intelligenza artificiale sempre, cliccate su Generate, lui in un secondo ti crea l'immagine di una qualità estremamente alta che potete scaricare in un secondo cliccando su questo pulsantino, ma soprattutto potete scriverci pure del testo Gemini comunque rimane il migliore per i testi perché è estremamente preciso anche senza la versione pro il link te l'ho messo in descrizione tu commenta con la parola Z e te lo mando direttamente sono Matteo Zampieri il tuo smanettone di fiducia e tu seguimi così noi ci vediamo ad un prossimo video
+Non ci posso credere, vi ricordate che Nano Banana era stata schiacciata da quest'intelligenza artificiale cinese che ti permetteva offline di creare immagini della stessa qualità completamente gratis? Ecco, se andate su questo sito qua, in particolare ve l'ho messo qui in descrizione, gli inserite il vostro prompt, che ovviamente lo create con l'intelligenza artificiale sempre, cliccate su Generate, lui in un secondo ti crea l'immagine di una qualità estremamente alta che potete scaricare in un secondo cliccando su questo pulsantino, Ma soprattutto potete scriverci pure del testo. Gemini comunque rimane il migliore per i testi perché è estremamente preciso anche senza la versione pro. Il link te l'ho messo in descrizione, tu commenta con la parola Z e te lo mando direttamente. Sono Matteo Zampieri, il tuo smanettone di fiducia e tu seguimi così noi ci vediamo ad un prossimo video.

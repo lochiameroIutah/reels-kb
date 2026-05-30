@@ -19,14 +19,17 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: tutorial_ai
-TAG: intelligenza artificiale, siti web, onepage.ai
-TOPIC: Matt Vision mostra come creare un sito web completo in meno di 2 minuti utilizzando onepage.ai
+TAG: onepage-ai, siti-web, intelligenza-artificiale, creazione-sito-web
+TOPIC: Come utilizzare onepage.ai per creare un sito web in meno di 2 minuti
 
 --- HOOK TESTUALE (dal frame) ---
 POV: Hai scoperto come creare un sito web in 2 minuti
 
 --- DESCRIZIONE VISIVA ---
-Una mano destra sfiora la tastiera di un portatile. Sullo schermo si intravede un testo su un documento
+Il video mostra come creare un sito web in due minuti. Inizia con una schermata di un computer che mostra un sito web in costruzione. Poi, si vedono varie schermate di un tool per creare siti web, tra cui una con il logo 'OpenAi' e una con una griglia di icone. Viene mostrato come personalizzare il sito, scegliendo template e personalizzando i contenuti. Si vedono anche screenshot di Instagram e altri elementi per personalizzare il sito. Il video termina con il creatore del contenuto, un uomo con una maglietta bianca e nera, che parla e gesticola.
+
+--- PRODOTTI / TOOL VISIBILI ---
+OpenAi, Instagram
 
 --- CAPTION COMPLETA ---
 Ecco come si chiama il sito:
@@ -50,4 +53,4 @@ Io sono il tuo smanettone di fiducia, ci vediamo al prossimo video.
 #intelligenzaartificiale #adv #ai #sitiweb #chatgpt #automatizzazione #onepageai
 
 --- TRASCRIZIONE AUDIO ---
-Devi vedere sta roba perché è senza senso. Guarda qua. Lui gli ho dato tutte le informazioni per il mio sito. Adesso gli dico vai. Lui adesso sta cominciando a fare tutto. Guarda. Mette tutto in italiano. Crea le immagini. Vuoi poi te la puoi modificare come vuoi. Infatti io alla fine ho scelto. Vediamo. Eccolo qua. Questo qua tipo duolingo. Adesso qua clicco. Modifico. Cambio il colore. Tutti in due clic. Quindi il grosso sì. Lo fai con l'intelligenza artificiale. Però poi vai di ogni pezzettino in pezzettino. E sistemi tutto quello che ti interessa. Tipo qui vedi 20.000 follower su Instagram, alla fine ho scelto quest'icona qua, modifico tutto quello che voglio, questa griglia, posso caricare tutte le immagini e dobbiamo parlare del mobile, cioè tutto preciso. Quando ho finito clicco pubblica e ha fatto tutto perfettamente in neanche due minuti. Si chiama onepage.ai, ha come pretesa quello di farti creare il tuo sito web di base con un singolo prompt e poi te lo modifichi come vuoi. Io sono il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video.
+Non mi devi vedere sta roba perchè è senza senso. Guarda qua, lui gli ho dato tutte le informazioni per il mio sito, adesso gli dico vai. Lui adesso sta cominciando a fare tutto. Guarda, mette tutto in italiano, crea le immagini, poi te la puoi modificare come vuoi. Infatti io alla fine ho scelto, vediamo, eccolo qua, questo qua tipo duolingo. Adesso qua clicco, modifico, cambio il colore, tutti in due click. Quindi il grosso sì, lo fai con l'intelligenza artificiale, però poi vai di ogni pezzettino in pezzettino e sistemi tutto quello che ti interessa. Tipo qui vedi vinti mila follower su Instagram, alla fine ho scelto quest'icona qua, modifico tutto quello che voglio, questa griglia, posso caricare tutte le immagini, e dobbiamo parlare del mobile, cioè tutto preciso. Quando ho finito clicco pubblica e ha fatto tutto perfettamente in neanche due minuti. Si chiama onepage.ai, ha come pretesa quello di farti creare il tuo sito web di base con un singolo prompt e poi te lo modifichi come vuoi. Io sono il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video.

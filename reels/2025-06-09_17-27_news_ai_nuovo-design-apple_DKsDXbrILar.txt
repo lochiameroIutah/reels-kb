@@ -19,18 +19,21 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: news_ai
-TAG: apple, design, ios26
-TOPIC: Il creatore di contenuti commenta il nuovo design della Apple
+TAG: apple, ios-26, design-apple, liquid-glass
+TOPIC: Il nuovo design di Apple in iOS 26 offre un'esperienza utente più fluida e dinamica grazie alla tecnologia Liquid Glass
 
 --- HOOK TESTUALE (dal frame) ---
-Nuovo design della Apple da ios7
+our broadest design update ever.
 
 --- DESCRIZIONE VISIVA ---
-Uno smartphone posizionato sopra un laptop mostra un video che ritrae un uomo in camicia bianca e pantaloni scuri, in piedi su un pavimento chiaro, che guarda verso la telecamera. Sullo sfondo, ci sono delle piante e una finestra luminosa.
+Il video mostra una serie di screenshot e demo di un nuovo sistema operativo o interfaccia utente, focalizzandosi su design rinnovato, fluidità delle animazioni e nuove funzionalità. Vengono mostrati vari elementi dell'interfaccia come icone, menu, schermi di sistema e una particolare attenzione viene data alla reattività al tocco e all'aspetto dinamico. Sono presenti anche scene con un presentatore in un ambiente lavorativo moderno.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Apple
 
 --- CAPTION COMPLETA ---
 Vi piace il nuovo design della Apple?
 #appleevent #ios26 #designapple
 
 --- TRASCRIZIONE AUDIO ---
-Let's take a look Attenzione New design New design Oh shit Mi ha detto che è appunto dalla iOS 7 dal 2013 che non c'era un design di questo tipo Ah ok ok ok Mamma mia che caso Stazione che porta gioia e deludio a ogni user experience no vabbè no ma sono ancora dei quadrati no che schifo dai sono ancora dei cazzi no vabbè mamma mia sono ancora dei cazzi di quadrati mamma mia che violenza non si possono vedere vabbè mamma mia che livello non stiamo scherzando mamma mia che benessere ah liquid glass non digital glass dicevano che si chiamava Digital Glass Bello bello bello Però non è estremamente diverso Bello vabbè ma questa raga è una classe CSS Vente di nuovo Vabbè Bello però ho fatto molto stiloso Bello bello bello bello bello mamma mia che bene Ok. Bello fino a una certa, comunque, raga. Bello questo. Figo, figo, figo. Bene, bene, bene. Paglie. Ovviamente arriverà da tutte le parti. Molto caso. Cosa dite?
+Let's take a look. Attenzione! New design, new design, oh shit! Mi ha detto che appunto è dalla iOS 7 dal 2013 che non c'era un design di questo tipo. Ah ok ok ok. Mamma mia che caso. Siamo felici per annunciare la nuova edizione più grande. Il nostro obiettivo è un nuovo design che porta gioia e delante a ogni user. No, vabbè. No, ma sono ancora dei quadrati. No, che schifo. Dai, sono ancora dei cazzi di... No, vabbè. Mamma mia, ancora dei... Sono ancora dei cazzi di quadrati. Mamma mia, che violenza. Non si possono vedere. Vabbè. Mamma mia che livello! Non stiamo scherzando! Mamma mia che benessere! Ah Liquid Glass non Digital Glass Vichero che si chiamava digital glass a fluidity that only Apple can achieve Bello vabb ma questa raga una classe CSS sento di nuovo Vabb Bello per ho fatto molto stiloso Bello! Bello! Bello! Bello, bello, bello! Il materiale è dinamico, quando si chiede più opzioni o quando si muove tra le vizie. Quando si scogli, il tabard è elevato quello che è davanti a te. Bello fino a una certa, comunque, bello questo. Figo, figo, figo, bene, bene, bene, taglie, ovviamente arriverà da tutte le parti, molto caso, cosa dite?

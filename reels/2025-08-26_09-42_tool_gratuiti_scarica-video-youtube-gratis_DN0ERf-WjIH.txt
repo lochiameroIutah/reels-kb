@@ -19,14 +19,17 @@ LINK IN CAPTION: sì (link presente)
 
 --- CATEGORIA ---
 CATEGORIA: tool_gratuiti
-TAG: youtube, downloader, video
-TOPIC: Scaricare video da YouTube con un tool gratuito
+TAG: youtube-downloader, github, windows, mac
+TOPIC: Come usare YouTubeDownloader per scaricare video da YouTube
 
 --- HOOK TESTUALE (dal frame) ---
 non so se lo Sai ma scaricare video da YouTube ormai è diventato un'impresa
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con una maglietta nera si trova in una stanza e saluta con la mano destra. Sullo sfondo, si vedono oggetti non ben definiti a causa della scarsa qualità dell'immagine.
+Il video mostra una serie di screenshot e filmati di una persona che spiega come scaricare video da YouTube. Inizia mostrando una ricerca su Google per 'youtube downloader' e poi naviga su GitHub per scaricare un tool chiamato YouTubeDownloader. Mostra come scaricare il file appropriato per il proprio sistema operativo (Windows o Mac), copiare il link del video da YouTube, incollarlo nel tool e procedere al download. Viene mostrato anche un terminale per eseguire comandi.
+
+--- PRODOTTI / TOOL VISIBILI ---
+GitHub, YouTubeDownloader
 
 --- CAPTION COMPLETA ---
 Ecco come scaricare i video da Youtube nel 2025 🚀
@@ -47,4 +50,4 @@ Per altri strumenti 👉 clicca segui @themattvision
 #risparmiare #youtubeitalia
 
 --- TRASCRIZIONE AUDIO ---
-Non so se lo sai ma scaricare video da YouTube ormai è diventato un'impresa. Cioè prova a scaricare video da YouTube non ce la fai. Infatti se provi a scaricare da qui YouTube Downloader, cioè tutti questi qua sono finti. Per questo motivo c'è il vostro smanitone di fiducia, non vi preoccupate, adesso vediamo come fare. Andate su questo sito qua, scansiona questo in caso se ti interessa e andate in fondo fino a che c'è scritto qui Download Stable Release. Da qui andate giù, guarda un po', scegliete il vostro tipo io ho il Mac, allora scriverò ARM64, se avete Windows scrivete X64. Una volta installato lo mettete nella cartella applicazione o lo installate normalmente. Prendete il vostro video, andate qui, fate incolla, fate invio, attenzione, 3, 2, 1, è pronto, cliccate Download, potete scegliere la qualità. è fenomenale, la qualità è massima è incredibile se ancora non mi segui fallo e poi noi ci vediamo alla prossima
+Non so se lo sai, ma scaricare video da YouTube ormai è diventato un'impresa. Cioè prova a scaricare video da YouTube, non ce la fai. Infatti se provi a scaricare da qui YouTube Downloader, cioè tutti questi qua sono finti. Per questo motivo c'è il vostro smanettone di fiducia, non vi preoccupate, adesso vediamo come fare. Andate su questo sito qua, scansiona questo in caso se ti interessa, e andate in fondo fino a che c'è scritto qui Download, Stable Release. Da qui andate giù, guarda un po', scegliete il vostro tipo io ho il Mac, allora scriverò ARM64, se avete Windows scrivete X64. Una volta installato lo mettete nella cartella applicazione o lo installate normalmente. Prendete il vostro video, andate qui, fate incolla, fate invio, attenzione, 3, 2, 1, è pronto, cliccate download, potete scegliere la qualità. È fenomenale, la qualità è massima, incredibile. Se ancora non mi segui fallo e poi noi ci vediamo alla prossima.

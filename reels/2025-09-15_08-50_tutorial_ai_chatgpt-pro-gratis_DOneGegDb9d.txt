@@ -18,15 +18,18 @@ CTA FOLLOW: sì
 LINK IN CAPTION: no
 
 --- CATEGORIA ---
-CATEGORIA: tutorial_ai
-TAG: intelligenza artificiale, chatgpt, perplexity
-TOPIC: Una guida passo passo per ottenere ChatGPT PRO gratuitamente per un anno
+CATEGORIA: risparmio_tech
+TAG: chatgpt-pro, perplexity, paypal, intelligenza-artificiale, claude, gemini
+TOPIC: Come ottenere ChatGPT PRO gratuito per un anno tramite la collaborazione di Perplexity con PayPal
 
 --- HOOK TESTUALE (dal frame) ---
 ChatGPT PRO è gratis per un anno se fai questo
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con una maglietta bianca guarda la telecamera con un'espressione seria, sullo sfondo un computer portatile acceso con una schermata colorata
+Un uomo con un look casual parla davanti alla telecamera in una stanza con pareti bianche. Indossa una maglietta bianca con dettagli neri. Gestisce le mani mentre parla. Nello sfondo si intravedono una libreria e lampade a sospensione. Nell'angolo in alto a sinistra di alcuni frame si vede un monitor con una schermata colorata. L'uomo sembra presentare un'offerta promozionale per ChatGPT PRO, menzionando che è gratis per un anno se si segue una certa procedura. Non si vedono elementi di B-roll informativo.
+
+--- PRODOTTI / TOOL VISIBILI ---
+ChatGPT
 
 --- CAPTION COMPLETA ---
 Inizia facendo questo:
@@ -74,4 +77,4 @@ Ecco la guida:
 #intelligenzaartificiale #risparmiare #ai #chatgpt #claude #chatgpthacks
 
 --- TRASCRIZIONE AUDIO ---
-Se sei curioso dell'intelligenza artificiale sappi che non c'è un momento migliore di questo. Infatti Perplexity ha fatto una collaborazione con Paypal per portare Chagipit, Cloud, Gemini e tutti i modelli di intelligenza artificiale e di creazione di immagini con l'intelligenza artificiale completamente gratuito per un anno. È una cosa incredibile, qui sotto nei commenti ovviamente trovi il link. Io sono il tuo smanetone di fiducia e attenzione non è fake, guardati il mio profilo, ci sono un sacco di altri video dove ti spiego bene come fare.
+Se sei curioso dell'intelligenza artificiale sappi che non c'è un momento migliore di questo. Infatti Perplexity ha fatto una collaborazione con PayPal per portare CiaGPT, Claude, Gemini e tutti i modelli di intelligenza artificiale e di creazione di immagini con l'intelligenza artificiale completamente gratuito per un anno. È una cosa incredibile. Qui sotto nei commenti ovviamente trovi il link. Io sono il tuo smanettone di fiducia e attenzione non è fake, guardati il mio profilo, ci sono un sacco di altri video dove ti spiego bene come fare.

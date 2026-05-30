@@ -19,14 +19,17 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: risparmio_tech
-TAG: harry-potter, hogwarts-legacy, giochi-gratis, epic-games
-TOPIC: Il gioco Hogwarts Legacy è disponibile gratuitamente per un periodo limitato di 5 giorni
+TAG: hogwarts-legacy, epic-games-store, fortnite, giochi-gratis
+TOPIC: Come ottenere Hogwarts Legacy gratuitamente tramite l'Epic Games Store
 
 --- HOOK TESTUALE (dal frame) ---
 Da oggi il gioco di Harry Potter è gratis grazie a Fortnite
 
 --- DESCRIZIONE VISIVA ---
-Un uomo è seduto davanti a una scrivania con un computer, con una mano alzata come per enfatizzare qualcosa. Sullo sfondo si vede una finestra con una vista esterna. L'uomo indossa una maglietta beige e ha i capelli castani.
+Il video mostra un uomo che guida gli spettatori attraverso il processo di ottenimento gratuito del gioco di Harry Potter tramite Fortnite. Inizia con una presentazione generale, poi mostra come accedere al gioco tramite l'Epic Games Store. Mostra varie schermate del suo computer, inclusa la homepage dell'Epic Games Store e la promozione del gioco Harry Potter. L'uomo gesticola e parla mentre conduce il tutorial.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Fortnite, Epic Games Store, Harry Potter
 
 --- CAPTION COMPLETA ---
 Solo per questi 5 giorni puoi ottenere il gioco di Harry Potter “Hogwarts Legacy” completamente gratis per sempre!
@@ -46,4 +49,4 @@ Io sono il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video!
 #harrypotter #risparmiare #hogwartslegacy #tutorial #gratis
 
 --- TRASCRIZIONE AUDIO ---
-Se ti piace Harry Potter, non so se lo sai, ma Hogwarts Legacy è gratuito per questa settimana. Cioè quindi te puoi prenderlo questa settimana e puoi giocarci tipo tra un mese, ma anche tra dieci anni. Per ottenerlo ti basta andare su questo sito qua, ovvero store.epicgames.com e lo troverai appunto dall'alto, scorri un attimo. Completamente gratuito, un gioco che all'uscita è costato tipo 60-70 euro, quindi andatelo a prendere. Io sono il tuo smanetto di liquiduccia, noi ci vediamo ad un prossimo video. Ricordati di seguirmi se ancora non l'hai fatto.
+Se ti piace Harry Potter, non so se lo sai, ma Hogwarts Legacy è gratuito per questa settimana. Cioè, quindi te puoi prenderlo questa settimana e puoi giocarci tipo tra un mese, ma anche tra dieci anni. Per ottenerlo ti basta andare su questo sito qua, ovvero store.epicgames.com e lo troverai appunto dall'alto, scorri un attimo. Completamente gratuito, un gioco che all'uscita è costato tipo 60-70€, quindi andatelo a prendere, io sono il tuo smanetto di liquiduccia, noi ci vediamo ad un prossimo video. Ricordati di seguirmi se ancora non l'hai fatto.

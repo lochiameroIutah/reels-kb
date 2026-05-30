@@ -18,18 +18,21 @@ CTA FOLLOW: no
 LINK IN CAPTION: no
 
 --- CATEGORIA ---
-CATEGORIA: altro
-TAG: tektonik, 2007, bullied
-TOPIC: Il creatore condivide un aneddoto personale legato al suo passato
+CATEGORIA: personale
+TAG: danza-tektonik, auto-aiuto, superamento-bullismo, viaggio-nel-tempo
+TOPIC: Matt Vision condivide la sua storia personale di come abbia superato il bullismo grazie alla danza tektonik
 
 --- HOOK TESTUALE (dal frame) ---
-[nessun testo rilevato]
+20years ago they bullied me for dancing that but today I'm stronger than me as teenager 
 
 --- DESCRIZIONE VISIVA ---
-Un uomo in giacca e pantaloni neri e cappello si trova su un mucchio di neve davanti ad un edificio residenziale, con un altro uomo sullo sfondo che spalaneve.
+Un uomo esegue una danza in diverse pose in due ambienti differenti. In alto, è mostrato mentre esegue una sequenza di passi all'aperto sulla neve davanti ad un palazzo. Nella parte inferiore, è seduto su una sedia in un interno, probabilmente la sua abitazione, e continua a ballare. L'uomo sembra essere felice e compiaciuto di sé mentre balla. In alcuni fotogrammi, guarda direttamente la telecamera, mentre in altri si concentra sul suo ballo. L'illuminazione è naturale nell'ambiente esterno e artificiale in quello interno.
+
+--- PRODOTTI / TOOL VISIBILI ---
+[nessuno]
 
 --- CAPTION COMPLETA ---
 Wtf #tektonik #2007 #bullied
 
 --- TRASCRIZIONE AUDIO ---
-Sous-titrage ST' 501
+live is gone live is gone live is gone

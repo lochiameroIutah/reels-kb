@@ -19,14 +19,17 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: tutorial_ai
-TAG: intelligenza artificiale, manus ai, social media manager
-TOPIC: Un tutorial su come utilizzare Manus AI per gestire i social media
+TAG: manus-ai, intelligenza-artificiale, social-media-manager, meta, automazione
+TOPIC: Come utilizzare Manus AI per automatizzare la gestione dei social media su Instagram
 
 --- HOOK TESTUALE (dal frame) ---
 Questa IA fa il social media manager al posto mio ma lo fa con stile
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con una maglietta bianca e una stampella tatuata guarda la telecamera con una mano alzata, mentre sullo sfondo si vede un laptop e una bottiglia d'acqua
+Il video mostra un uomo che gesticola mentre parla. Viene mostrata una schermata di un computer con un articolo su un giornale online chiamato 'Basta Fomo Ecologic' e un'altra schermata con un annuncio per un corso o servizio legato all'intelligenza artificiale. L'uomo indossa una maglietta e sembra trovarsi in un ambiente domestico o d'ufficio. Le schermate del computer mostrano principalmente il giornale online e il corso o servizio AI.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Meta
 
 --- CAPTION COMPLETA ---
 Puoi farlo anche tu, ti spiego:
@@ -58,4 +61,4 @@ Io sono il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video!
 #intelligenzaartificiale #manusai #socialmediamanager #ai #meta
 
 --- TRASCRIZIONE AUDIO ---
-Non ci posso credere, questa intelligenza artificiale sta facendo il social media manager al posto mio. Io gli ho dato tutti i miei post di Instagram che si trovano appunto dentro a questa cartella e gli ho detto di creare la caption e caricarli nel mio profilo. E lui sta facendo il lavoro di un qualsiasi social manager di livello base completamente con l'intelligenza artificiale. Si chiama Manu6i e questa azienda se l'è appena comprata Meta che è l'azienda dietro a Facebook, Instagram, Whatsapp. In questo momento sta pensando, posso vedere anche tutto quello che ha fatto, io vado a cliccare pubblica ora e in un attimo lui lo va a pubblicare, guarda qua, il post è stato pubblicato, clicco guarda ora e me lo apre su Instagram completamente. Ma non si ferma perché una volta pubblicato il primo lui adesso andrà a pubblicare il secondo e poi tutti gli altri. Io sono Matteo Zampieri, il tuo smanettone di fiducia, questo era Manu6AI e tu commenta con questa parola e ti mando direttamente il link per messaggio. Noi ci vediamo in un prossimo video e tu ricordati di seguirmi se ancora non l'hai fatto, se no poi ti perdi le prossime novità.
+Non ci posso credere, questa intelligenza artificiale sta facendo il social media manager al posto mio. Io gli ho dato tutti i miei post di Instagram che si trovano appunto dentro a questa cartella e gli ho detto di creare la caption e caricarli nel mio profilo e lui sta facendo il lavoro di un qualsiasi social manager di livello base completamente con l'intelligenza artificiale. Si chiama Manu6AI e questa azienda se l'è appena comprata Meta che è l'azienda dietro a Facebook, Instagram, Whatsapp. In questo momento sta pensando, posso vedere anche tutto quello che ha fatto. Io vado a cliccare pubblica ora e in un attimo lui lo va a pubblicare. Guarda qua, il post è stato pubblicato, clicco guarda ora e me lo apre su Instagram completamente. Ma non si ferma perché una volta pubblicato il primo, lui adesso andrà a pubblicare il secondo e poi tutti gli altri. Io sono Matteo Zampieri, il tuo smanettone di fiducia, questo era Manu6AI e tu commenta con questa parola e ti mando direttamente il link per messaggio. Noi ci vediamo in un prossimo video e tu ricordati di seguirmi se ancora non l'hai fatto, se no poi ti perdi le prossime novità.

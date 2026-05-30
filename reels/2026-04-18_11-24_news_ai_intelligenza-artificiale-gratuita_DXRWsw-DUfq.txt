@@ -18,15 +18,18 @@ CTA FOLLOW: sì
 LINK IN CAPTION: sì (link presente)
 
 --- CATEGORIA ---
-CATEGORIA: news_ai
-TAG: intelligenza artificiale, zimage, nanobanana, ai
-TOPIC: Presentazione di Z-Image Turbo, una intelligenza artificiale gratuita e senza censure per generare immagini
+CATEGORIA: tool_gratuiti
+TAG: z-image-turbo, intelligenza-artificiale, huggingface, comfyui
+TOPIC: Come utilizzare Z-Image Turbo per generare immagini con intelligenza artificiale gratuita e senza censure
 
 --- HOOK TESTUALE (dal frame) ---
-Questa intelligenza artificiale cinese sta spopolando e ti crea le immagini senza censure
+Questa intelligenza artificiale cinese sta spopolando e ti crea le immagini senza censura
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con un'espressione pensierosa e un po' stupita, indossa una maglietta nera e ha i capelli corti. Sembra che stia parlando o mostrando qualcosa alla telecamera. Nello sfondo, si vede un computer con uno schermo acceso.
+Una serie di screenshot e riprese di un uomo che presenta un'intelligenza artificiale cinese capace di generare immagini senza censura. Viene mostrato il processo di utilizzo di un sito web chiamato 'Z-Image-Turbo', che sembra essere un tool di generazione di immagini tramite AI. L'uomo, Matteo, illustra come funziona il tool e ne evidenzia le caratteristiche.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Z-Image-Turbo
 
 --- CAPTION COMPLETA ---
 Ecco il link:
@@ -50,4 +53,4 @@ Io sono Matteo Zampieri il tuo smanettone di fiducia, noi ci vediamo ad un pross
 #intelligenzaartificiale #zimage #nanobanana #ai #risparmiare
 
 --- TRASCRIZIONE AUDIO ---
-Non so se lo sai ma la Cina ha pubblicato Z-Image Turbo che è potente come nano banana ma completamente gratuito. Infatti il suo codice sorgente lo puoi trovare su Hacking Face dove si trovano tutte le intelligenze artificiali completamente gratuite. La cosa più assurda è che questo modello è completamente senza censure quindi puoi generare davvero qualsiasi cosa. E puoi farlo funzionare direttamente offline nel tuo computer utilizzando ConfUI. Ma se non sei così smanettone c'è qui il tuo smanettone di fiducia pronto qui a darti una mano. Ti basterà andare su questo sito qua che ti ho messo in descrizione e andare a incollare il tuo prompt che ti sei fatto creare da qualsiasi intelligenza artificiale e cliccare su generate. D'ora in poi sarai in grado di creare le tue immagini con l'intelligenza artificiale in maniera completamente gratuita, guarda qua. Il mio obiettivo era generare un maratoneta alla maratona di New York con qualcuno che dice segui il tuo smanettone di fiducia su Instagram e direi che il risultato non è niente male. Per i testi comunque il re indiscusso rimane comunque Nano Banana che è anche gratuito, circa 20 immagini ogni giorno puoi fare anche senza abbonamento. Io sono Matteo Zampieri, il tuo smanetto di fiducia e tu seguimi così noi ci vediamo ad un prossimo video.
+Non so se lo sai ma la Cina ha pubblicato Z-Image Turbo che è potente come nano banana ma completamente gratuito. Infatti il suo codice sorgente lo puoi trovare su HackingFace dove si trovano tutte le intelligenze artificiali completamente gratuite. La cosa più assurda è che questo modello è completamente senza censure quindi puoi generare davvero qualsiasi cosa. E puoi farlo funzionare direttamente offline nel tuo computer utilizzando ConfUI, ma se non sei così smanettone c'è qui il tuo smanettone di fiducia pronto qui a darti una mano. Ti basterà andare su questo sito qua che ti ho messo in descrizione e andare a incollare il tuo prompt che ti sei fatto creare da qualsiasi intelligenza artificiale e cliccare su Generate. D'ora in poi sarai in grado di creare le tue immagini con l'intelligenza artificiale in maniera completamente gratuita, guarda qua. Il mio obiettivo era generare un maratoneta alla Maratona di New York con qualcuno che dice segui il tuo smanettone di fiducia su Instagram e direi che il risultato non è niente male. Per i testi comunque il re indiscusso rimane comunque Nano Banana che è anche gratuito, circa 20 immagini ogni giorno puoi fare anche senza abbonamento. Io sono Matteo Zampieri, il tuo smanettone di fiducia e tu seguimi così noi ci vediamo ad un prossimo video.

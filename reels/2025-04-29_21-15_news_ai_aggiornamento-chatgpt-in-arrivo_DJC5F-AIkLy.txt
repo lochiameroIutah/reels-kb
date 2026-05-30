@@ -18,15 +18,18 @@ CTA FOLLOW: no
 LINK IN CAPTION: no
 
 --- CATEGORIA ---
-CATEGORIA: news_ai
-TAG: ai, chatgpt, gpt5
-TOPIC: Il creatore di AI annuncia una novità
+CATEGORIA: confronto_ai
+TAG: chatgpt, gpt-4, gpt-4.5, intelligenza-artificiale, confronto-modelli, sam-altman
+TOPIC: Il video presenta un confronto delle funzionalità di ChatGPT 4o, GPT-4o mini e GPT-4.5
 
 --- HOOK TESTUALE (dal frame) ---
-Non ci posso credere
+ChatGPT 4o
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con la faccia stupita e la bocca semiaperta, indossa una maglietta bianca e ha uno sfondo grigio alle spalle.
+Il video mostra una presentazione di ChatGPT 4o, con screenshot della schermata del computer che evidenziano le funzionalità del modello GPT-4o, GPT-4o mini, GPT-4o mini high e GPT-4.5. Viene mostrato un confronto tra le varie versioni del modello, con il presentatore che sembra discutere le novità e le caratteristiche di queste nuove versioni. Il B-roll informativo include screenshot della schermata del computer con testo in italiano.
+
+--- PRODOTTI / TOOL VISIBILI ---
+ChatGPT
 
 --- CAPTION COMPLETA ---
 Stanno per rifarlo 🫠
@@ -34,4 +37,4 @@ Stanno per rifarlo 🫠
 #ai #intelligenzaartificiale #chatgpt4 #chatgpt #chatgpt5 #gpt5 #samaltman
 
 --- TRASCRIZIONE AUDIO ---
-Grazie a tutti.
+Grazie a tutti!

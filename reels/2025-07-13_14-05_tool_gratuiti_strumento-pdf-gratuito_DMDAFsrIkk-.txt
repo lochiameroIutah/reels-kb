@@ -19,14 +19,17 @@ LINK IN CAPTION: sì (link presente)
 
 --- CATEGORIA ---
 CATEGORIA: tool_gratuiti
-TAG: notebooklm, google, intelligenzaartificiale
-TOPIC: Viene presentato NotebookLM, uno strumento gratuito di Google per leggere e comprendere documenti PDF
+TAG: google-notebooklm, intelligenza-artificiale, pdf-automatico, risparmio-tempo
+TOPIC: Utilizzare Google NotebookLM per automatizzare la lettura e comprensione dei documenti PDF
 
 --- HOOK TESTUALE (dal frame) ---
-DIMMI CHE ANCORA
+CHE CON L' INTELLIGENZA
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con la testa inclinata sorride verso la telecamera mentre un gatto bianco lo guarda dall'alto
+Il video mostra un uomo che parla di un prodotto o tool chiamato 'Google NotebookLM'. Viene mostrata una schermata del prodotto con una interfaccia utente, suggerendo che si tratti di uno strumento di prendere nota appunti o organizzazione delle informazioni. L'uomo indossa una maglietta con un logo 'Kikokixa' e parla in diversi frame, con alcuni gesti delle mani, mentre la maggior parte dei frame focalizza l'attenzione sul suo volto e sulle sue espressioni.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Google NotebookLM
 
 --- CAPTION COMPLETA ---
 Ok il link è questo:

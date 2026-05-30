@@ -19,14 +19,17 @@ LINK IN CAPTION: sì (link presente)
 
 --- CATEGORIA ---
 CATEGORIA: risparmio_tech
-TAG: amazon, keepa, risparmio
-TOPIC: Uno strumento per Chrome che aiuta a scoprire le offerte reali su Amazon
+TAG: amazon, keepa, chrome-extension, prezzi-tracker, offerte-real-time
+TOPIC: Come usare Keepa per tracciare i prezzi su Amazon e scoprire le offerte reali
 
 --- HOOK TESTUALE (dal frame) ---
 Vuoi trovare su Amazon solo offerte reali? Fai questo
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con una maglietta bianca seduto davanti a un computer con un monitor e un altoparlante sullo sfondo
+Il video mostra un uomo che parla e spiega come trovare offerte reali su Amazon. Il B-roll mostra schermate di un computer con grafici dei prezzi di prodotti su Amazon, screenshot del sito web di Amazon, screenshot di estensioni del browser, e screenshot di liste di prezzi. L'uomo sembra utilizzare un grafico per illustrare come i prezzi dei prodotti su Amazon variano nel tempo e come utilizzare uno strumento per trovare le offerte reali.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Amazon, Google Chrome, YouTube
 
 --- CAPTION COMPLETA ---
 Link: https://goo…
@@ -52,4 +55,4 @@ Io sono il tuo smanettone di fiducia, ci vediamo al prossimo video.
 #risparmiare #amazon #intelligenzaartificiale #keepa
 
 --- TRASCRIZIONE AUDIO ---
-Non so se lo sai ma Amazon ormai sembra progettato per fregarti, cioè prova te a non cadere nella trappola di qualche sua offerta, non ce la fai. Infatti qui vediamo un 40% di sconto che scade tra 4 giorni ma in realtà questa offerta la fanno ogni mese. Per questo motivo c'è il vostro smanettone di fiducia pronto qui a darvi una mano. Andate in questo sito qui ma non vi preoccupate poi ve lo metto in descrizione e cliccate aggiungi. Nel vostro Amazon comparirà qui in basso un grafico che vi mostrerà tutto l'andamento dei prezzi. Potrete sapere sempre se un'offerta è vantaggiosa Guardate qua Questo phone in realtà Che sembra avere un'offerta incredibile In realtà è solamente una classica offerta Che viene fatta a ogni tot Io sono il tuo smanettone di fiducia Noi ci vediamo ad un prossimo video E ricordati di seguirmi se ancora non l'hai fatto
+Non so se lo sai ma Amazon ormai sembra progettato per fregarti, cioè prova te a non cadere nella trappola di qualche sua offerta, non ce la fai. Infatti qui vediamo un 40% di sconto che scade tra 4 giorni ma in realtà quest'offerta la fanno ogni mese. Per questo motivo c'è il vostro smanettone di fiducia pronto qui a darvi una mano. Andate in questo sito qui ma non vi preoccupate poi ve lo metto in descrizione e cliccate aggiungi. Nel vostro Amazon comparirà qui in basso un grafico che vi mostrerà tutto l'andamento dei prezzi. potrete sapere sempre se un'offerta è vantaggiosa. Guardate qua, questo phone in realtà che sembra avere un'offerta incredibile, in realtà è solamente una classica offerta che viene fatta a ogni tot. Io sono il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video e ricordati di seguirmi se ancora non l'hai fatto.

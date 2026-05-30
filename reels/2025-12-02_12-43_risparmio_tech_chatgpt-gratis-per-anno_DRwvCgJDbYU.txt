@@ -19,14 +19,17 @@ LINK IN CAPTION: sì (link presente)
 
 --- CATEGORIA ---
 CATEGORIA: risparmio_tech
-TAG: intelligenzaartificiale, ia, risparmiare, chatgptgratis
-TOPIC: Un trucco per utilizzare ChatGPT e altre AI gratuitamente
+TAG: perplexity-pro, chatgpt-gratis, gemini-gratis, claude-gratis, grok-gratis, paypal-subscription
+TOPIC: Come utilizzare Perplexity Pro per avere accesso gratuito a ChatGPT, Gemini, Claude e Grok per un anno
 
 --- HOOK TESTUALE (dal frame) ---
 Con questo trucco RISPARMIO più di 250€ in un anno per l'intelligenza artificiale
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con la pelle olivastra, seduto davanti ad un computer acceso, con un testo sovrapposto al video. L'immagine è scura e si vede poco, ma l'attenzione è focalizzata sul monitor.
+Il video mostra un uomo che presenta un metodo per risparmiare più di 250€ in un anno sull'intelligenza artificiale. Inizia mostrando una schermata di un'auto e successivamente si concentra su un laptop con una schermata di Perplexity Pro. L'uomo illustra come utilizzare il servizio e cita varie opzioni come GPT-5.1, Claude Sonnet 4.5, Gemini 3 Pro, Grok 4.1 e Kimi K2 Thinking. La presentazione include anche screenshot di PayPal e dell'interfaccia utente di Perplexity Pro.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Perplexity Pro, PayPal, GPT-5.1, Claude Sonnet 4.5, Gemini 3 Pro, Grok 4.1, Kimi K2 Thinking
 
 --- CAPTION COMPLETA ---
 Il link per avere un anno di ChatGPT gratis insieme a gemini gratis e insegna Claude gratis e insieme a grok gratis è questo.
@@ -38,4 +41,4 @@ Io sono il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video
 #intelligenzaartificiale #ia #risparmiare #chatgptgratis
 
 --- TRASCRIZIONE AUDIO ---
-Non so se lo sai ma c'è un modo per utilizzare CiaGPT, Gemini, Cloud, tutto completamente gratis. Infatti guarda qua se io vado qui adesso, clicco file upgrade, mi chiede di pagare. Per questo motivo c'è il tuo smonettore di fiducia, adesso vediamo come fare. Possiamo andare su questo sito qua che ti permette di avere Perplexity Pro, che ti permette di utilizzare qualsiasi intelligenza artificiale completamente gratis. Questo è il mio Perplexity Pro che ho preso un anno gratis e guardate qua, ci abbiamo Cloud, Gemini, CiaGPT. Il link te l'ho messo in descrizione Io sono il tuo smalettone di fiducia Noi ci vediamo in un prossimo video Ricordati di seguirmi se ancora non l'hai fatto
+Non so se lo sai ma c'è un modo per utilizzare CiaGPT, Gemini, Claude, tutto completamente gratis. Infatti, guarda qua, se io vado qui e adesso clicco File Upgrade mi chiede di pagare. Per questo motivo c'è il tuo smanettone di fiducia, adesso vediamo come fare. Possiamo andare su questo sito qua che ti permette di avere Perplexity Pro, che ti permette di utilizzare qualsiasi intelligenza artificiale completamente gratis. Questo è il mio Perplexity Pro che ho preso un anno gratis e guardate qua, abbiamo Claude, Gemini, CiaGPT... Il link te l'ho messo in descrizione. Io sono il tuo smanettone di fiducia, noi ci vediamo in un prossimo video, ricordati di seguirmi se ancora non l'hai fatto.

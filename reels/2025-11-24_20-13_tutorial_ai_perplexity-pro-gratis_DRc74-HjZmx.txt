@@ -19,14 +19,17 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: tutorial_ai
-TAG: perplexity, intelligenza-artificiale, gratuito
-TOPIC: Un video tutorial su come utilizzare al meglio Perplexity Pro
+TAG: perplexity-pro, cia-gpt, gemini-3, automazione
+TOPIC: Come utilizzare al meglio Perplexity Pro per sbloccare il suo potenziale e sfruttare le funzionalità di CiaGPT e Gemini 3
 
 --- HOOK TESTUALE (dal frame) ---
 Hai preso GRATIS Perplexity Pro? Questo video è per te
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con la maglietta bianca parla davanti a una spiaggia con palme e un resort sullo sfondo
+Il video mostra un uomo in una maglietta bianca che parla e gesticola in vari luoghi di una spiaggia con palme, probabilmente alle Canarie. In uno dei frame, viene mostrata una schermata di un'app o sito web con un interfaccia utente, probabilmente Perplexity Pro, che sembra essere l'argomento principale del video. L'uomo sembra spiegare come utilizzare o sbloccare funzionalità di Perplexity Pro gratuitamente.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Perplexity Pro
 
 --- CAPTION COMPLETA ---
 Te lo metto anche qui nel dubbio
@@ -36,4 +39,4 @@ Te lo metto anche qui nel dubbio
 #intelligenzaartificiale #perplexity #tutorial
 
 --- TRASCRIZIONE AUDIO ---
-24 novembre, 24 novembre, di che cosa dobbiamo parlare? Guarda qua il sole, qui, capitalismo, questo è tutto capitalismo, guarda qua tutto capitalismo, però questo video serve per dirti che Ricordi Perplexity Pro, quel programmino che ti permette di usare CiaGPT, Cloud, Gemini 3, tutto completamente gratis per un anno, non lo stai utilizzando al top. Questo video qui ti spiega esattamente come sbloccare tutto il suo potenziale Ovviamente te lo mando se scrivi PRO qui sotto tra i commenti Ed è veramente tantissima roba perché non solo ti potrà scrivere i messaggi di Whatsapp super facilmente Ma anche gestire le email, inviarle per te, controllare, farti le task, le app, creare immagini, video Tu commenta PRO e te lo mando Io sono il tuo smanetto di fiducia qui alle Canarie Noi ci vediamo ad un prossimo video Ricordati di seguirmi se ancora non l'hai fatto
+24 novembre, 24 novembre, di che cosa dobbiamo parlare? Guarda qua il sole, qui, capitalismo, questo tutto è capitalismo, guarda qua tutto è capitalismo, però questo video serve per dirti che Ricordi Perplexity Pro, quel programmino che ti permette di usare CiaGPT, Claude, Gemini 3, tutto completamente gratis per un anno, non lo stai utilizzando al top. Questo video qui ti spiega esattamente come sbloccare tutto il suo potenziale, ovviamente te lo mando se scrivi PRO qui sotto tra i commenti. ed è veramente tantissima roba perché non solo ti potrà scrivere i messaggi di Whatsapp super facilmente ma anche gestire le email, inviarle per te, controllare, farti le task, le app, creare immagini, video. Tu commenta pro e te lo mando, io sono il tuo smanettone di fiducia qui alle Canarie, noi ci vediamo ad un prossimo video, ricordati di seguirmi se ancora non l'hai fatto.

@@ -20,14 +20,17 @@ LINK IN CAPTION: sì (matteozampieri.com/offline)
 
 --- CATEGORIA ---
 CATEGORIA: tutorial_ai
-TAG: intelligenza artificiale, ai, iphone, offline, chatgpt
-TOPIC: Scaricare un'intelligenza artificiale offline e gratuita per iPhone
+TAG: owen-3-6, chatgpt, intelligenza-artificiale, offline, iphone
+TOPIC: Come scaricare e utilizzare Owen 3.6, un'intelligenza artificiale offline e gratuita per iPhone che funziona 4 volte più veloce di ChatGPT
 
 --- HOOK TESTUALE (dal frame) ---
-Questa IA funziona offline e in locale su un iPhone 17 ed è GRATIS e 4 volte più veloce di ChatGPT-5... incredibile
+Questa IA funziona offline e in locale su un iPhone 17 ed è GRATIS e 4 volte più veloce di ChatGPT-5...incredibile
 
 --- DESCRIZIONE VISIVA ---
-Uno smartphone con un'interfaccia di una AI, con una mano che sembra digitare un messaggio, presumibilmente in un negozio o showroom.
+La sequenza di fotogrammi mostra una mano che utilizza un iPhone, con l'interfaccia utente dell'app 'Owen 3.6' visibile sullo schermo. L'utente interagisce con l'app, mostrando varie schermate, tra cui una schermata di benvenuto e diverse risposte del modello di intelligenza artificiale. L'utente sembra testare le funzionalità dell'app, come la scrittura di testi e la generazione di risposte.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Owen 3.6, ChatGPT
 
 --- CAPTION COMPLETA ---
 Per scaricarlo fai questo:

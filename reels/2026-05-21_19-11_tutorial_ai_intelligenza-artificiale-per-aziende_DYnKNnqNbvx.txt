@@ -18,15 +18,18 @@ CTA FOLLOW: sì
 LINK IN CAPTION: no
 
 --- CATEGORIA ---
-CATEGORIA: tutorial_ai
-TAG: Accio Work, intelligenza artificiale, automazione
-TOPIC: Matt Vision presenta Axio Work, un team di intelligenze artificiali che aiuta a gestire un'azienda
+CATEGORIA: automazione
+TAG: accio-work, intelligenza-artificiale, alibaba, automazione-aziendale
+TOPIC: Come utilizzare Accio Work per automatizzare l'azienda attraverso intelligenze artificiali specializzate
 
 --- HOOK TESTUALE (dal frame) ---
 Questa intelligenza artificiale ti fa risparmiare troppe ore di lavoro
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con una maglietta bianca guarda direttamente la telecamera con un'espressione seria. Sembra che stia parlando. Ha una mano alzata con le dita aperte. Sullo sfondo, una porta aperta con architrave bianca e pareti color arancione.
+Il video mostra un uomo che presenta un'intelligenza artificiale che aiuta a risparmiare tempo lavorativo. Vengono mostrati screenshot di un'installazione di un software, una schermata di configurazione di un tool chiamato 'Accio', una lista di prodotti, una schermata di connessione a vari servizi come Gmail, LinkedIn, Instagram e GitHub. L'uomo utilizza un microfono e gesticola mentre parla davanti a un laptop.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Accio, Gmail, LinkedIn, Instagram, GitHub
 
 --- CAPTION COMPLETA ---
 Inizia facendo questo:
@@ -54,4 +57,4 @@ Prima di tutto 👉 clicca segui @themattvision
 #adv #AccioWork #MyAccioWorks #AgenticBusiness #AIAgent Accio intelligenzaartificiale
 
 --- TRASCRIZIONE AUDIO ---
-Sono senza parole, cioè avete presente che creare un'azienda in Italia è praticamente impossibile, no? Ecco. La Cina ha appena rilasciato Axio Work, che in pratica è un team di intelligenze artificiali che ti fa girare un'azienda da sola dal tuo computer. La cosa figa è che non è il solito assistente generico di intelligenza artificiale, infatti si basa sui dati di Alibaba.com, che è l'azienda dietro ad Aliexpress, che ha più di 26 anni di esperienza, conosce già miliardi di prodotti, 50 milioni di aziende reali. Se non sai però come funziona non ti preoccupare perché c'è il tuo smanettone di fiducia pronto qui a darti una mano. Andiamo su work.axio.com, installiamo il programma e scegliamo il nostro agente. C'è quello per lo store online, per gli acquisti, quello per il marketing, si collega anche alla tua email, a telegram. Gli scriviamo il prompt, nel mio caso gli dico di trovarmi un prodotto in trend in questo momento, di trovare quindi tutti i vari fornitori che vendono quel prodotto e di contrattare per il prezzo migliore. Come vedi la gente principale sta dividendo tutti i micro compiti, c'è quello che cerca i trend, quello che confronta i fornitori, un altro che scrive direttamente al fornitore per conto mio. La roba pazzesca è che non sono obbligato a guardarlo mentre lavora perché posso comandarlo direttamente anche da Telegram. Invece di assumere un team di lavoro intero oppure fare tutto da solo deleghi tutto ad Axio Work. In questo modo riduci tempi, costi e ti concentri su quello che conta davvero. Sembra una follia ma è così e se vuoi dei crediti bonus. Commenta Axios scritto in questo modo Io sono Matteo Zampieri, il tuo smanettone di fiducia Noi ci vediamo ad un prossimo video e tu ricordati di seguirmi Così non ti perdi i prossimi video
+Sono senza parole, cioè avete presente che creare un'azienda in Italia è praticamente impossibile, no? Ecco. La Cina ha appena rilasciato Axio Work che in pratica è un team di intelligenze artificiali che ti fa girare un'azienda da sola dal tuo computer. La cosa figa è che non è il solito assistente generico di intelligenza artificiale, infatti si basa sui dati di Alibaba.com, che è l'azienda dietro ad Aliexpress, che ha più di 26 anni di esperienza, conosce già miliardi di prodotti, 50 milioni di aziende reali. Se non sai però come funziona non ti preoccupare perché c'è il tuo smanettone di fiducia pronto qui a darti una mano. Andiamo su work.axio.com, installiamo il programma e scegliamo il nostro agente. C'è quello per lo store online, per gli acquisti, quello per il marketing, si collega anche alla tua email, la telegram. Gli scriviamo il prompt, nel mio caso gli dico di trovarmi un prodotto in trend in questo momento, di trovare quindi tutti i vari fornitori che vendono quel prodotto e di contrattare per il prezzo migliore. Come vedi, l'agente principale sta dividendo tutti i micro-compiti, c'è quello che cerca i trend, quello che confronta i fornitori, un altro che scrive direttamente al fornitore per conto mio. E la roba pazzesca è che non sono obbligato a guardarlo mentre lavora, perché posso comandarlo direttamente anche da Telegram. Invece di assumere un team di lavoro intero, oppure fare tutto da solo, deleghi tutto ad Axio Work. In questo modo riduci tempi, costi e ti concentri su quello che conta davvero. Sembra una follia, ma è così e se vuoi dei crediti bonus. Commenta Axio scritto in questo modo. Io sono Matteo Zampieri, il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video e tu ricordati di seguirmi così non ti perdi i prossimi video.

@@ -19,14 +19,17 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: tutorial_ai
-TAG: vibecoding, intelligenzaartificiale, risparmiare
-TOPIC: Il metodo rivoluzionario Vibe Coding per creare app senza scrivere codice
+TAG: intelligenza-artificiale, gpt-5, vibe-coding, automazione, sviluppo-app
+TOPIC: Come utilizzare il modello GPT-5 per creare applicazioni con la tecnica del Vibe Coding senza scrivere codice
 
 --- HOOK TESTUALE (dal frame) ---
 POV: pensavi che fare un app fosse costoso
 
 --- DESCRIZIONE VISIVA ---
-Una mano destra sta puntando uno schermo del computer, su cui è aperta una presentazione di ChatGPT-5. Sullo schermo del laptop sotto è aperto un terminale.
+Il video mostra un uomo che gesticola davanti alla camera mentre parla di come creare un'app a basso costo. Viene mostrata una schermata di un computer con un browser aperto su una pagina relativa a GPT-5 e una mano che interagisce con l'interfaccia. Successivamente, viene visualizzata una pagina web di un'azienda di piante e un'altra schermata che sembra essere una pagina di un'applicazione o un sito web. L'uomo continua a parlare e a gesticolare, enfatizzando il concetto che creare un'app non deve essere costoso. Viene mostrato anche un frame con il testo 'SCRIVERE' e un altro con 'CON L'INTELLIGENZA ARTIFICIALE'.
+
+--- PRODOTTI / TOOL VISIBILI ---
+GPT-5
 
 --- CAPTION COMPLETA ---
 Conosci il Vibe Coding? 🚀
@@ -52,4 +55,4 @@ Clicca segui 👉 e ti svelo tutto nei prossimi video!
 #vibecoding #intelligenzaartificiale #risparmiare #ai #chatgpt
 
 --- TRASCRIZIONE AUDIO ---
-Ok, ciao GPT5 è qui e la parola magica è vibe coding, ovvero creare applicazioni con l'intelligenza artificiale. Chi è che non ha mai pensato? Mmm, vorrei fare un'app. In realtà, con l'intelligenza artificiale si può fare. Per questo motivo adesso creiamo il sito web di un'azienda di piante a Saunara con la possibilità di registrarsi. Benissimo, mi sta creando tutto riga dopo riga. Ed ecco qui la nostra pagina web Piverde Fiori Saunara. Un programmatore vi dirà che non si può fare, ma in realtà si può fare 2-3 anni, ma era semplicemente più complicato. Per questo motivo ho sempre provato in tutti i modi a creare applicazioni senza toccare una riga di codice. Questa roba l'ho creata in pochi minuti appunto con l'intelligenza artificiale, senza leggere né scrivere, solamente facendo una semplice richiesta. Immagina se tu sapessi tutti i consigli, gli strumentini, le cose che ti può dire solamente chi ci ha già smanettato sopra. Sono Matteo Zampieri, il tuo smanettone di fiducia pronto ad aiutarti a realizzare le tue applicazioni con l'intelligenza artificiale, quindi seguimi, noi ci vediamo nei prossimi giorni.
+Ok ciao GPT5 è qui e la parola magica è vibe coding ovvero creare applicazioni con l'intelligenza artificiale. Chi è che non ha mai pensato? Mmm vorrei fare un'app in realtà con l'intelligenza artificiale si può fare. Per questo motivo adesso creiamo il sito web di un'azienda di piante a Saunara con la possibilità di registrarsi. Benissimo mi sta creando tutto riga dopo riga ed ecco qui la nostra pagina web Piverde Fiori Saunara. Il programmatore vi dirà che non si può fare ma in realtà si può fare 2-3 anni ma era semplicemente più complicato. Per questo motivo ho sempre provato in tutti i modi a creare applicazioni senza toccare una riga di codice. Questa roba l'ho creata in pochi minuti appunto con l'intelligenza artificiale senza leggere né scrivere solamente facendo una semplice richiesta. Immagina se tu sapessi tutti i consigli, gli strumentini, le cose che ti può dire solamente chi ci ha già smanettato sopra. Sono Matteo Zampieri, il tuo smanettone di fiducia pronto ad aiutarti a realizzare le tue applicazioni con l'intelligenza artificiale, quindi seguimi, noi ci vediamo nei prossimi giorni.

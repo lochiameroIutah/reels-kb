@@ -18,15 +18,18 @@ CTA FOLLOW: no
 LINK IN CAPTION: sì (link presente)
 
 --- CATEGORIA ---
-CATEGORIA: news_ai
-TAG: intelligenza artificiale, video ai, longcat
-TOPIC: Un modello cinese di intelligenza artificiale supera i modelli più famosi al mondo per la creazione di video lunghi
+CATEGORIA: confronto_ai
+TAG: longcat-video, google-veo, intelligenza-artificiale, video-ai
+TOPIC: Il modello cinese LongCat Video supera Google Veo nella generazione di video lunghi fino a 3 minuti
 
 --- HOOK TESTUALE (dal frame) ---
 Google Veo è già stata già superata da questa intelligenza artificiale cinese
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con una maglietta beige sembra parlare direttamente alla telecamera. Dietro di lui, una finestra con cornice in legno.
+La griglia di fotogrammi mostra un uomo che parla e gesticola davanti a una postazione di lavoro con computer e monitor. Viene mostrato un terminale, una tastiera, uno screenshot di un'applicazione o sito web con un video in riproduzione, e un'altra schermata con del testo. L'uomo sembra discutere di una tecnologia di intelligenza artificiale, specificamente confrontando Google Veo con una soluzione cinese.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Google Veo
 
 --- CAPTION COMPLETA ---
 I cinesi continuano a superare i modelli più famosi al mondo, sono senza parole!
@@ -42,4 +45,4 @@ Io sono il tuo smanettone di fiducia, noi ci vediamo al prossimo video!
 #intelligenzaartificiale #risparmiare #videoai #ai #ia
 
 --- TRASCRIZIONE AUDIO ---
-Non ci posso credere, vi ricordate tipo un mesetto fa che è uscito VEO 3.1, poi è uscito Sora, poi tutti che ti fanno generare video da tipo massimo 10-15 secondi? Ecco, dei cinesi hanno creato il long cat video che però si è aggiornato e adesso in pochi minuti ti fa generare un video di 3 minuti addirittura. Guardate qua questo video, l'è generato completamente con l'intelligenza artificiale, adesso l'ho velocizzato a tipo 5-6x. Costa pochi dollari e con pochi euro vi crea video di questo tipo Cioè è un video che dura un sacco di tempo, l'ho velocizzato, stiamo guardando tipo 30-40 Se non volete pagare niente di abbonamenti per generare questi video e utilizzare questo modello La cosa incredibile è che potete farlo utilizzando ConfuY Questo però lo vediamo in un altro video Io sono Matteo Zampieri, il tuo smanettone di fiducia Noi ci vediamo ad un prossimo video, ricordati di seguirmi se ancora non l'hai fatto
+Non ci posso credere, vi ricordate tipo un mesetto fa che è uscito VEO 3.1, poi è uscito Sora, poi tutti che ti fanno generare video da tipo massimo 10-15 secondi? Ecco, dei cinesi hanno creato LongCat video che però si è aggiornato e adesso in pochi minuti ti fa generare un video di 3 minuti addirittura. Guardate qua questo video, l'hai generato completamente con l'intelligenza artificiale, adesso l'ho velocizzato a tipo 5-6x. Costa pochi dollari e con pochi euro vi crea video di questo tipo. Cioè è un video che dura un sacco di tempo, l'ho velocizzato, stiamo guardando tipo 30-40. Se non volete pagare niente di abbonamenti per generare questi video e utilizzare questo modello, la cosa incredibile è che potete farlo utilizzando ConfuY. Questo però lo vediamo in un altro video. Io sono Matteo Zampieri, il tuo smanettone di fiducia. Noi ci vediamo ad un prossimo video. Ricordati di seguirmi se ancora non l'hai fatto.

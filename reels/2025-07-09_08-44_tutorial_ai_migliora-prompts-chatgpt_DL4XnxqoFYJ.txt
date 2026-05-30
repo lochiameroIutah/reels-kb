@@ -19,14 +19,17 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: tutorial_ai
-TAG: promptengineering, chatgptprompt, chatgpthacks
-TOPIC: Migliora i prompt per ChatGPT come un vero esperto
+TAG: chatgpt, prompt-engineering, intelligenza-artificiale, ottimizzazione-prompt, themattvision
+TOPIC: Come ottimizzare i prompt per ChatGPT con le tecniche di prompt engineering
 
 --- HOOK TESTUALE (dal frame) ---
-Vuoi che ChatGPT migliori ogni tuo prompt come farebbe un vero esperto? Fai questo 🤫
+Vuoi che ChatGPT migliori ogni tuo prompt come farebbe un vero esperto? Fai questo
 
 --- DESCRIZIONE VISIVA ---
-Un uomo in camicia beige guarda intensamente uno smartphone, mentre tiene un tablet con una mano, in un ambiente domestico con un frigorifero decorato con magneti nello sfondo.
+Un uomo lavora su un portatile in una cucina, con un frigorifero e un forno sullo sfondo. Mostra varie espressioni e azioni mentre digita sul portatile. Non ci sono screenshot di terminali, app o codice mostrato.
+
+--- PRODOTTI / TOOL VISIBILI ---
+ChatGPT
 
 --- CAPTION COMPLETA ---
 Inizia scrivendo questo:

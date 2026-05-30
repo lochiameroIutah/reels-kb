@@ -19,14 +19,17 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: news_ai
-TAG: chatgpt, chatgpt5, intelligenzaartificiale
-TOPIC: Arrivo di ChatGPT-5
+TAG: chatgpt-5, intelligenza-artificiale, openai, annunci-tech
+TOPIC: L'annuncio imminente di ChatGPT-5, il nuovo modello di intelligenza artificiale di OpenAI
 
 --- HOOK TESTUALE (dal frame) ---
 POV: stanno per annunciare ChatGPT-5
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con i capelli grigi e un maglione nero guarda la telecamera. Sullo sfondo, un monitor acceso e un paio di casse audio.
+Il video mostra un uomo che sembra entusiasta dell'annuncio imminente di ChatGPT-5. Inizia con primi piani dell'uomo e di dispositivi elettronici. Poi, si vedono screenshot di un computer con una presentazione o un documento aperto, presumibilmente legato a ChatGPT-5. L'uomo gesticola eccitato e sembra interagire con i dispositivi. Verso la fine, l'uomo appare più volte, invitando gli spettatori a seguirlo.
+
+--- PRODOTTI / TOOL VISIBILI ---
+ChatGPT
 
 --- CAPTION COMPLETA ---
 ChatGPT-5 è arrivato:
@@ -36,4 +39,4 @@ Rimani sul pezzo 👉 clicca segui @themattvision
 #intelligenzaartificiale #ai #chatgpt #chatgpt5 #ia #futuro
 
 --- TRASCRIZIONE AUDIO ---
-Ragazzi pazzesco stanno per introdurre CiaoGPT5 Guardate qua CiaoGPT5 Canale ufficiale di OpenAI Incredibile Non vi preoccupate ragazzi io vi tengo aggiornati nel frattempo Seguitemi se ancora non lo fate che poi ci sentiamo e vi tengo subito sul pezzo Let's go
+Ragazzi, pazzesco, stanno per introdurre CiaGPT5. Guardate qua, CiaGPT5, canale ufficiale di OpenAI, incredibile. Non vi preoccupate ragazzi, io vi tengo aggiornati nel frattempo, seguitemi se ancora non lo fate, che poi ci sentiamo e vi tengo subito sul pezzo. Let's go!

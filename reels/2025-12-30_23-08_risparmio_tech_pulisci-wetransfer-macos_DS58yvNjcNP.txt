@@ -18,15 +18,18 @@ CTA FOLLOW: sì
 LINK IN CAPTION: no
 
 --- CATEGORIA ---
-CATEGORIA: risparmio_tech
-TAG: wetransfer, macos, trucchi
-TOPIC: Un trucco per evitare di avere file di WeTransfer sparsi nel computer
+CATEGORIA: tutorial_ai
+TAG: macos, wetransfer, utility-compressione, trucchi-tech
+TOPIC: Come utilizzare l'utility di compressione di MacOS per eliminare i file zip inutili dopo l'espansione
 
 --- HOOK TESTUALE (dal frame) ---
 Vuoi che il tuo computer non si riempia di zip inutili? Fai questo
 
 --- DESCRIZIONE VISIVA ---
-Una persona seduta, con una mano davanti alla bocca, in una stanza con una decorazione natalizia e un poster.
+Il video mostra una serie di passaggi per evitare che un computer si riempia di file zip inutili. Inizia con una persona seduta su un divano con un laptop, seguita da screenshot di una finestra di sistema operativo che mostra una cartella di compressione. L'utente seleziona un'opzione dal menu e poi chiude la finestra. Successivamente, si vede una mano che naviga attraverso una cartella di file, eliminando un file zip. Il video termina con la persona che sorride e tiene in mano il laptop, insieme a un'altra persona sullo sfondo.
+
+--- PRODOTTI / TOOL VISIBILI ---
+utility compressione
 
 --- CAPTION COMPLETA ---
 Perché non ne parla nessuno?!
@@ -42,4 +45,4 @@ Io sono Matteo Zampieri il tuo smanettone di fiducia, noi ci vediamo ad un pross
 #trucchisegreti #wetransfer #tutorial #risparmiare #hacksandtips
 
 --- TRASCRIZIONE AUDIO ---
-Leo adesso ti mostro un trick devastante Hai presente quando scarichi gli zip Si si apre la cartella ma è ancora lo zip vecchio Ecco adesso ti faccio vedere come fare Fai command spazio E digita utility compressione Fai invio Perfetto vedi che ti ha aperto utility compressione Anche se sembra che non sia successo niente qua Premi command più virgola Perfetto ti ha aperto questo menu delle preferenze Lei dice dopo l'espansione Come ti spostano nel cestino Perfetto adesso puoi chiudere Adesso fai doppio clic su quello che ti interessa Ok Vai, guarda cosa succede Tacchi in un attimo Te l'ha scompattato Ti ha creato la cartella Ti ha preso l'archivio Te l'ha buttato nel cestino Adesso hai solamente la tua cartella bella Incredibile Giastante, vero? Non si smette mai di imparare con lo smanettone di fiducia
+Allora Leo adesso ti mostro un trick devastante. Hai presente quando scarichi gli zip? Si. Si apre la cartella ma è ancora lo zip vecchio. Sì. Ecco adesso ti faccio vedere come fare. Fai command spazio e digita utility compressione, fai invio. Perfetto vedi che ti ha aperto utility compressione anche se sembra che non sia successo niente qua. Sì. Premi command più virgola. Ok. Perfetto ti ha aperto questo menu delle preferenze. Lei dice dopo l'espansione come ti spostano nel cestino. Perfetto, adesso puoi chiudere. Adesso fai doppio click su quello che ti interessa. Ok. Vai, guarda cosa succede, tacchi in un attimo. Te l'ha scompattato, ti ha creato la cartella, ti ha preso l'archivio, te l'ha buttato nel cestino e adesso hai solamente la tua cartella bella. Incredibile. Giastante, vero? Non si smette mai di imparare con lo smanettone di fiducia, eh.

@@ -19,14 +19,17 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: personale
-TAG: intelligenzaartificiale, chatgptprompts, ai, risparmiare, chatgpthacks
-TOPIC: L'autore invita i suoi follower a metterlo in discussione per aiutarlo a migliorare le sue idee
+TAG: chatgpt, ai, intelligenza-artificiale, pensiero-critico, miglioramento-personale
+TOPIC: Come utilizzare ChatGPT per migliorare il pensiero critico e la discussione aperta
 
 --- HOOK TESTUALE (dal frame) ---
-[nessun testo rilevato]
+Vuoi che ChatGPT smetta di essere sempre d'accordo con te? Fai questo
 
 --- DESCRIZIONE VISIVA ---
-{"hook_text": "Vuoi che ChatGPT smetta di essere sempre d'accordo con te? Fai questo", "visual_description": "Una persona in una cucina con un tablet}
+Un uomo con una maglietta bianca usa un laptop in una cucina, con un frigorifero e un forno sullo sfondo. L'uomo guarda il laptop con espressioni diverse, mentre inizialmente tiene il tablet con entrambe le mani. Non ci sono screenshot di terminali, schermate di app/siti, diagrammi, UI di prodotti o codice mostrato.
+
+--- PRODOTTI / TOOL VISIBILI ---
+ChatGPT
 
 --- CAPTION COMPLETA ---
 Inizia scrivendo questo:
@@ -57,4 +60,4 @@ Rimani utile, ma anche onesto. Sei qui per aiutarmi a pensare con chiarezza e a 
 #intelligenzaartificiale #chatgptprompts #ai #risparmiare #chatgpthacks
 
 --- TRASCRIZIONE AUDIO ---
-Grazie a tutti.
+We're burning up blue, now coming up for air, whenever I'm with you, fire, fire.

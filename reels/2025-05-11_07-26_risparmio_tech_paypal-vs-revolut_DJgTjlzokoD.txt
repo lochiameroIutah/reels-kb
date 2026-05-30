@@ -19,14 +19,17 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: risparmio_tech
-TAG: paypal, revolut, risparmiare
-TOPIC: Il creator consiglia di utilizzare Revolut al posto di Paypal per pagamenti online più efficienti
+TAG: paypal, revolut, servizi-finanziari, risparmio-veloce
+TOPIC: Come utilizzare Revolut per risparmiare tempo e denaro rispetto a PayPal
 
 --- HOOK TESTUALE (dal frame) ---
-DIMMI CHE ANCORA
+LA BANCA DEL FUTURO
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con i capelli castani scuri e un gatto bianco che guarda dritto la camera.
+Il video mostra un uomo in maglietta arancione che parla di servizi finanziari online, mostrando schermate di Revolut e facendo gesti con le mani. Viene visualizzato anche un gatto all'inizio e screenshot di un account con €6.012 e di un sito web di Revolut.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Revolut, PayPal
 
 --- CAPTION COMPLETA ---
 Ciao, ciao Paypal non ho tempo da perdere 😮‍💨
@@ -36,4 +39,4 @@ Seguimi per altri strumenti digitali utili 🚀
 #paypal #revolut #risparmiare #consiglifinanziari
 
 --- TRASCRIZIONE AUDIO ---
-Dimmi che ancora usi Paypal per i pagamenti online quando io utilizzo Revolut che è molto più veloce ed efficiente ma soprattutto non ti blocca i soldi nella carta. Sembra una follia ma è così ed è completamente gratuito, è solamente che le persone non lo conoscono. Ora lo conosci, valla a utilizzare e poi fammi sapere se ti trovi bene.
+Dimmi che ancora usi PayPal per i pagamenti online quando io utilizzo Revolut che è molto più veloce ed efficiente ma soprattutto non ti blocca i soldi nella carta. Sembra una follia ma è così ed è completamente gratuito è solamente che le persone non lo conoscono. Ora lo conosci? Valla a utilizzare poi fammi sapere se ti trovi bene.

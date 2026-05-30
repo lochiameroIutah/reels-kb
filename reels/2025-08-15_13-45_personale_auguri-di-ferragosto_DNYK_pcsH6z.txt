@@ -19,14 +19,17 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: personale
-TAG: ferragosto, intelligenzaartificiale, chatgpt5
-TOPIC: Il creatore di contenuti augura buon Ferragosto ai suoi follower
+TAG: ferragosto-2025, chatgpt-5, intelligenza-artificiale, auguri, la-risposta-inaspettata
+TOPIC: ChatGPT 5 invia messaggi di auguri per Ferragosto
 
 --- HOOK TESTUALE (dal frame) ---
 La risposta inaspettata
 
 --- DESCRIZIONE VISIVA ---
-Uno screenshot di un post su Instagram, con del testo e vari emoji che augura buon Ferragosto agli amici. Nella didascalia è presente un testo con un colore di sfondo grigio chiaro sovrapposto ad uno sfondo bianco. In basso è presente un testo su sfondo nero che recita 'La risposta inaspettata' con un emoji
+Una griglia 3x3 di 9 fotogrammi che mostrano screenshot di una chat con ChatGPT 5. Ogni frame mostra la stessa schermata con un messaggio di auguri per Ferragosto e il logo 'La risposta inaspettata' con un emoji sorridente sovrapposto. I messaggi di auguri sono identici in tutti i frame e includono un saluto e una breve spiegazione della festa di Ferragosto. Le schermate mostrano una chat con un'intelligenza artificiale, con il nome 'ChatGPT 5' visibile in alto.
+
+--- PRODOTTI / TOOL VISIBILI ---
+ChatGPT 5
 
 --- CAPTION COMPLETA ---
 Buon Ferragosto a voi 😂

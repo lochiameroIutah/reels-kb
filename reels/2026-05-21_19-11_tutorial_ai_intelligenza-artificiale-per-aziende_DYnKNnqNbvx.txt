@@ -6,8 +6,8 @@ DATA: 2026-05-21
 ORA: 19:11
 
 --- METRICHE ---
-LIKE: 631
-COMMENTI: 359
+LIKE: 645
+COMMENTI: 373
 DURATA VIDEO: 89 secondi
 CARATTERI CAPTION: 893
 HASHTAG: #adv #acciowork #myaccioworks #agenticbusiness #aiagent

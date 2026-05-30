@@ -19,14 +19,17 @@ LINK IN CAPTION: sì (link presente)
 
 --- CATEGORIA ---
 CATEGORIA: confronto_ai
-TAG: grok3, chatgpt, intelligenza-artificiale
-TOPIC: Il creator italiano di AI e tech confronta ChatGPT con Grok3, un'alternativa gratuita e senza limiti
+TAG: grok3, chatgpt, intelligenza-artificiale, tool-gratuito
+TOPIC: Matt Vision presenta Grok3 come alternativa più intelligente e gratuita a ChatGPT per l'intelligenza artificiale
 
 --- HOOK TESTUALE (dal frame) ---
 DIMMI CHE ANCORA
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con una espressione felice guarda verso l'alto dove si trova un gatto bianco che guarda verso la telecamera
+Un uomo in una maglietta gialla parla di intelligenza artificiale, mostrando un gatto e poi una schermata di un prodotto chiamato 'Grok', un tool di intelligenza artificiale. L'uomo gesticola molto e sembra spiegare come utilizza questo tool. Viene mostrata anche una schermata di un browser web con la barra degli indirizzi e un pulsante 'Home'.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Grok
 
 --- CAPTION COMPLETA ---
 Ciao, ciao ChatGPT Non ho tempo da perdere 😂

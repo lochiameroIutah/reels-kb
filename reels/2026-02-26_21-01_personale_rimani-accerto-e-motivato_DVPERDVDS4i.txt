@@ -19,14 +19,17 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: personale
-TAG: motivazione, vita, passione
-TOPIC: Il creatore italiani di AI e tech esorta a rimanere accesi e a trovare la propria passione
+TAG: motivazione-personale, passione, musica, ispirazione
+TOPIC: La musica come fonte di ispirazione e motivazione personale
 
 --- HOOK TESTUALE (dal frame) ---
 [nessun testo rilevato]
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con una maglietta gialla guarda verso la telecamera con un'espressione seria
+Una sequenza di 9 fotogrammi che mostrano un uomo con una maglietta gialla che fa diversi gesti e espressioni facciali. L'ambiente sembra essere una stanza in una casa con pareti bianche, porte in legno, lampade e finestre. Non ci sono elementi B-roll informativi, screenshot di terminali, schermate di app/siti, diagrammi, UI di prodotti o codice mostrato.
+
+--- PRODOTTI / TOOL VISIBILI ---
+[nessuno]
 
 --- CAPTION COMPLETA ---
 Per brillare dobbiamo accenderci e se non lo facciamo noi nessuno mai lo farà al posto nostro ❤️‍🔥
@@ -34,4 +37,4 @@ Per brillare dobbiamo accenderci e se non lo facciamo noi nessuno mai lo farà a
 #motivation #life
 
 --- TRASCRIZIONE AUDIO ---
-Bella fast, rimanete accesi cazzo, rimanete accesi e fatevi accendere da quello che vi accende di più. Nel mio caso c'è la musica, se io non ascolto musica, cioè me lo dimentico che mi accendo con la musica. Quello che voglio dire è proprio accendetevi, lasciatevi accendere cazzo. Porca puttana, so per certo che fare due salti, tan tan tan, cambia tutto, Quindi ricordiamoci sempre che bisogna rimanere accesi perché se no cazzo questa vita ci spegne E non possiamo farci accendere solamente dal sole
+Bella fast! Rimanete accesi, cazzo, rimanete accesi e fatevi accendere da quello che vi accende di più. Nel mio caso c'è la musica, se io non ascolto musica, cioè me lo dimentico che mi accendo con la musica. Quello che voglio dire è proprio accendetevi, lasciatevi accendere, cazzo. PORCA PUTTANA SO PER CERTO CHE FARE DUE SALTI TAN TAN TAN CAMBIA TUTTO, QUINI RICORDIAMOCI SEMPRE CHE BISOGNA RIMANERE ACCESI PERCHE SE NO, CAZZO, QUESTA VITA CI SPEGNE E NON POSEMO FARCI ACCENDERE SOLAMENTE DAL SOLE.

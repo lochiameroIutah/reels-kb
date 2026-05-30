@@ -20,17 +20,20 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: news_ai
-TAG: pokemon, intelligenza-artificiale, giochi
-TOPIC: The Pokémon Company lancia un nuovo gioco per il 30° anniversario
+TAG: pokemon-onda, pokemon-vento, intelligenza-artificiale, gioco-pokemon
+TOPIC: Il presentatore Matteo Zampieri presenta i nuovi giochi Pokémon VENTO e Pokémon ONDA creati per il 30° anniversario della compagnia
 
 --- HOOK TESTUALE (dal frame) ---
 Per festeggiare il 30° anniversario, The Pokémon Company ha creato questo gioco 100% non IA, ed è BELLO.
 
 --- DESCRIZIONE VISIVA ---
-L'immagine mostra un frame di un Reel Instagram con un testo in italiano sopra un video che sembra essere tratto da un gioco Pokémon. Sotto il video, si trova la foto di un uomo con una felpa arancione.
+Il video mostra il presentatore Matteo Zampieri che parla di un nuovo gioco Pokémon creato per il 30° anniversario della compagnia. Mostra varie scene del gioco, tra cui paesaggi, personaggi e logo del gioco. Le scene includono un'area con un grande albero, un villaggio con un negozio, un'area con un Pokémon, una foresta con creature, una spiaggia con starter Pokémon, un'animazione di un'onda d'acqua, uno screenshot di un ambiente sottomarino e il logo del gioco Pokémon VENTO e Pokémon ONDA.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Pokémon VENTO, Pokémon ONDA
 
 --- CAPTION COMPLETA ---
 Devo dire, ormai avevo perso anch’io le speranze 🫨￼ #pokemoncommunity #pokemon #intelligenzaartificiale
 
 --- TRASCRIZIONE AUDIO ---
-No, bella, bella, madonna! Beh, direi, della stante, o la, dai, bellissimo, cos'è? Un po' come Sole Luna 2, o Sole Luna 3, Orocea? Perostante Madonna nelle caverne Ok Abbiamo messo l'animazione Mamma mia I wingo stupendi Che volano Cos'è quella roba nello sfondo? Bellissimo Un disco Bellissimo Nuvole, avete visto le nuvole? Bellissimo, guarda le palme Manetta, i gusti Eccoci, eccoci, eccoci Nuovi starter? No, vabbè, ma che cazzo? Il pulcino molesto? Il leoncino? No, è che si è tipo la salamandra? Come si chiama? Mi viene in mente? No, vabbè, sì. No, bello, bello c'è Scoob, puoi andare sott'acqua, e questi pokemon e questi qua? Wailord giganti, bellissimo, bellissimo, bello, ora palesemente si chiamano pokemon onda e pokemon vento, cioè palesemente, ecco il wow, pokemon vento, però non si è visto molto del fatto del vento, si è visto del fatto della onda, bellissimo, bellissimo, leggendari non si sa 2027 2027 sono un po' di marzo
+No, bella, bella, madonna! Beh, direi, della stante, o la, dai, bellissimo, cos'è? Un po' come Sole Luna 2, o Sole Luna 3, Orocea? Della stanza. Madonna, nelle caverne. Ok, abbiano messo l'animazione. Mamma mia, i Wingo stupendi che volano. Madonna, cos'è quella roba nello sfondo? Bellissimo. Un disco, bellissimo. Nuvole, avete visto le nuvole? Bellissimo, guarda le palme, la manetta, i gusti. Eccoci, eccoci, eccoci, eccoci. Nuovi starter? No, vabbè. Ma che cazzo? Il pulcino molesto? Il leoncino? No, è che se dico la salamandra? Questa ma è la... ti viene in mente? No, vabbè, sì. Bello, bello, c'è Scoop, puoi andare sott'acqua, questi Pokémon e questi qua? Oh, Wilder giganti, bellissimo, bellissimo. Beh, allora palesemente si chiamano Pokémon Onda e Pokémon Vento, cioè palesemente... Ecco, wow, Pokémon Vento, però non si è visto molto del fatto del vento, si è visto del fatto della onda? Benissimo, benissimo. E leggendari? Non si sa? 2027. 2027? Sono un po' fumato.

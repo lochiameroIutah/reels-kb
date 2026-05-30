@@ -18,15 +18,18 @@ CTA FOLLOW: no
 LINK IN CAPTION: sì (link presente)
 
 --- CATEGORIA ---
-CATEGORIA: tool_gratuiti
-TAG: intelligenzaartificiale, vibecoding, lovable.ai
-TOPIC: Descrizione di un tool gratuito per costruire applicazioni con intelligenza artificiale
+CATEGORIA: altro
+TAG: 
+TOPIC: 
 
 --- HOOK TESTUALE (dal frame) ---
-non presente
+[nessun testo rilevato]
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con un'espressione divertente ha una pianta in un vaso di vetro posizionato sulla sua testa
+Una serie di screenshot da un video che mostra un uomo che fa diversi gesti e espressioni facciali. L'uomo sembra essere in vari luoghi, tra cui una casa e un patio. Non ci sono elementi visuali明顯i di B-roll informativo, come screenshot di terminali, schermate di app/siti, diagrammi, UI di prodotti, o codice mostrato.
+
+--- PRODOTTI / TOOL VISIBILI ---
+[nessuno]
 
 --- CAPTION COMPLETA ---
 Tocca qui per il LINK⤵️

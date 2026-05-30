@@ -18,15 +18,18 @@ CTA FOLLOW: sì
 LINK IN CAPTION: no
 
 --- CATEGORIA ---
-CATEGORIA: personale
-TAG: intelligenza_artificiale, chatgpt, _critica_costruttiva
-TOPIC: Il creatore di contenuti chiede ai suoi follower di metterlo in discussione per migliorare le sue idee
+CATEGORIA: tutorial_ai
+TAG: chatgpt, intelligenza-artificiale, pensiero-critico, automazione-del-pensiero
+TOPIC: Come utilizzare ChatGPT per pensare criticamente e migliorare il proprio modo di pensare
 
 --- HOOK TESTUALE (dal frame) ---
 Vuoi che ChatGPT smetta di essere sempre d'accordo con te? Fai questo
 
 --- DESCRIZIONE VISIVA ---
-Una persona sta appoggiando un tablet su un tavolo da cucina. Sullo sfondo un frigorifero con vari magneti.
+Il video mostra un uomo che utilizza un laptop in una cucina. Inizia aprendo il laptop e poi digita sulla tastiera. Lo schermo del laptop non è visibile, quindi non si può capire cosa stia facendo. L'uomo sembra riflettere e poi ride, suggerendo una qualche rivelazione o scoperta. Non ci sono screenshot di terminali, schermate di app/siti, diagrammi, UI di prodotti o codice mostrato.
+
+--- PRODOTTI / TOOL VISIBILI ---
+ChatGPT
 
 --- CAPTION COMPLETA ---
 Inizia scrivendo questo:

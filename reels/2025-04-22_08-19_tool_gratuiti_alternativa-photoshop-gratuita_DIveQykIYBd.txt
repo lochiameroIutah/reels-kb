@@ -19,14 +19,17 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: tool_gratuiti
-TAG: photoshop, fotopea, modifica foto online, gratuito
-TOPIC: Una alternativa gratuita a Photoshop
+TAG: photopea, photoshop, editor-grafico-gratuito, modifica-foto-online, risparmio-software
+TOPIC: Come utilizzare Photopea come alternativa gratuita a Photoshop per modificare foto
 
 --- HOOK TESTUALE (dal frame) ---
-DIMMI CHE USI
+ANCORA PHOTOSHOP PER
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con una mano vicino allorecchia guarda verso l'alto con un gatto bianco sopra la testa.
+Il video mostra un uomo che parla e gesticola mentre utilizza e mostra varie volte un laptop con la schermata di Photopea aperta, un'azienda che fornisce un editor grafico gratuito online molto simile a Photoshop. L'uomo sembra stia promuovendo o spiegando l'uso di Photopea come alternativa a Photoshop.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Photopea
 
 --- CAPTION COMPLETA ---
 Ho smesso di pagare Photoshop da quando l’ho scoperto 😮‍💨

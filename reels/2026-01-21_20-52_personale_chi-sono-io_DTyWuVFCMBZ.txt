@@ -19,14 +19,17 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: personale
-TAG: presentazione, credibilita
-TOPIC: Il creatore di contenuti si presenta e chiede ai suoi follower di confermare la loro fiducia in lui
+TAG: storia-della-tecnologia, evoluzione-ai, sviluppo-software, tecnologia-antica
+TOPIC: La storia della tecnologia vista attraverso le epoche, dalla preistoria al 2025, con un uomo che lavora con strumenti diversi in ogni epoca
 
 --- HOOK TESTUALE (dal frame) ---
 da quanti anni sei lo smanettone di fiducia?
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con un cappuccio grigio guarda direttamente la telecamera con un'espressione neutra. Sullo sfondo, una finestra con cornice di legno e una veneziana abbassata.
+L'immagine mostra un uomo che lavora con la tecnologia in diversi periodi storici. Inizia dall'era preistorica (1M years ago) dove l'uomo è vestito con pelli di animali e sta lavorando con pietre e selci. Poi, si passa attraverso varie epoche: 50 BC, dove l'uomo lavora con un tubo e una pergamena; 1500, dove indossa abiti rinascimentali e lavora con un congegno meccanico; 1995, con l'uomo in giacca e cravatta che lavora con un computer; e infine 2025, con l'uomo in completo che lavora con un laptop e server.
+
+--- PRODOTTI / TOOL VISIBILI ---
+[nessuno]
 
 --- CAPTION COMPLETA ---
 Se ti dico da sempre ci credi?!

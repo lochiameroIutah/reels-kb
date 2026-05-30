@@ -20,14 +20,17 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: personale
-TAG: wordpress, intelligenza-artificiale, sfogo
-TOPIC: Il creatore di contenuti esprime la sua frustrazione nei confronti di WordPress
+TAG: wordpress, intelligenza-artificiale, sfogo, tecnologia-obsoleta
+TOPIC: Il creatore di contenuti esprime la sua insoddisfazione per WordPress e la sua incapacità di adattarsi all'intelligenza artificiale
 
 --- HOOK TESTUALE (dal frame) ---
-Scusate lo sfogo ma non ne posso più mi sento estremamente limitato
+Fammi sapere se usi ancora oggi nel 2026 WordPress perchè mi sembra in assurdità
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con una maglia rosa è in una cucina, con una mano alzata e un'espressione di frustrazione. Sullo sfondo si vede un frigorifero e un forno.
+Il video mostra un uomo seduto che parla direttamente alla telecamera. Indossa una felpa color panna e gesticola con le mani mentre parla. Nelle prime 3 immagini in alto, sullo sfondo si vede un computer acceso con un'interfaccia di WordPress aperta. L'uomo sembra discutere della sua insoddisfazione per WordPress, menzionando che si sente estremamente limitato e che l'intelligenza artificiale non sarà mai comoda come WordPress. Non sono presenti screenshot di terminali, schermate di app/siti, diagrammi, UI di prodotti, codice mostrato o altro B-roll informativo.
+
+--- PRODOTTI / TOOL VISIBILI ---
+WordPress
 
 --- CAPTION COMPLETA ---
 Sinceramente non ne posso più. L’intelligenza artificiale dovrebbe essere dentro ad ogni sito web e WordPress non fa niente per adattarsi.
@@ -39,4 +42,4 @@ Io sono tuo smanettone di fiducia, noi ci vediamo ad un prossimo video
 #wordpress #sfogo #intelligenzaartificiale #tutorial ￼
 
 --- TRASCRIZIONE AUDIO ---
-Io odio, detesto WordPress. Ditemi, cioè, detesti WordPress? Io ho fatto il sito in WordPress ancora tipo un po' di tempo fa, perché ho detto, no dai, l'intelligenza artificiale non sarà mai comoda come WordPress, che è un ecosistema grande. Ragazzi, Wordpress fa cagare Chi usa Wordpress ad oggi? Semplicemente è come una banca Che non ha ancora i sistemi aggiornati Perché è una banca vecchia Odio Wordpress Con la O enorme
+Io odio, detesto WordPress. Ditemi, cioè, detesti WordPress? Io ho fatto il sito in WordPress ancora tipo un po' di tempo fa, perché ho detto, no dai, l'intelligenza artificiale non sarà mai comoda come WordPress, che è un ecosistema grande. Ragazzi, WordPress fa cagare, chi usa WordPress ad oggi? Semplicemente è come una banca che non ha ancora i sistemi aggiornati, perché è una banca vecchia. Odio Wordpress con la O enorme.

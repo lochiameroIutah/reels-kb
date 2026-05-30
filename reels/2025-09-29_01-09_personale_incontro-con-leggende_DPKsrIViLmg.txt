@@ -19,14 +19,17 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: personale
-TAG: motivazione, ispirazione
-TOPIC: Incontro con una leggenda
+TAG: vita-personale, incontro, leggende, ispirazione
+TOPIC: Incontro con una leggenda per discutere di vita e motivazione
 
 --- HOOK TESTUALE (dal frame) ---
-bro what you
+[nessun testo rilevato]
 
 --- DESCRIZIONE VISIVA ---
-Un primo piano di una persona con una espressione confusa e un po' sfocata, con altri elementi non definiti sullo sfondo
+Una griglia di 9 frame che mostrano due uomini che parlano e ridono insieme. I frame sembrano essere stati estratti da un video in cui i due uomini stanno discutendo e scherzando. Non sono presenti elementi visuali come screenshot di terminali, schermate di app/siti, diagrammi o codice.
+
+--- PRODOTTI / TOOL VISIBILI ---
+[nessuno]
 
 --- CAPTION COMPLETA ---
 Just met this legend 
@@ -34,4 +37,4 @@ Just met this legend
 #motivation
 
 --- TRASCRIZIONE AUDIO ---
-So, come hai detto? B e D, B è nato, D è morto, C è morto, e è C. E questo è il tuo choice.
+Vio, come ti chiedi? Vio, B e D, B è nato, D è morto, C è morto, e è morto, e è C, e è il tuo valore.

@@ -19,14 +19,17 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: tutorial_ai
-TAG: vibecoding, intelligenzaartificiale, ai
-TOPIC: Il metodo Vibe Coding rivoluziona la creazione di app senza codice
+TAG: claude-code, vibe-coding, intelligenza-artificiale, sviluppo-app, automazione
+TOPIC: Come utilizzare Claude per creare un'applicazione senza scrivere codice tramite il metodo Vibe Coding
 
 --- HOOK TESTUALE (dal frame) ---
 POV: sono le 4:30 di mattina
 
 --- DESCRIZIONE VISIVA ---
-Uno screenshot di un computer con una finestra dell'applicazione Weare e una finestra con un video di una persona
+Il video mostra una persona intenta a lavorare al computer, probabilmente sviluppando o configurando un'applicazione. Vengono visualizzate varie schermate, tra cui codice, terminali, e interfacce di sviluppo. Si vedono anche alcune schermate di un'applicazione per la gestione di icone, con menzioni di Claude e altri strumenti di sviluppo. La sequenza dei fotogrammi suggerisce che il creatore stia lavorando su un progetto tecnico durante le prime ore del mattino.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Ableton Icon Manager, Claude
 
 --- CAPTION COMPLETA ---
 Conosci il Vibe Coding? 🚀
@@ -52,4 +55,4 @@ Clicca segui 👉 e ti svelo tutto nei prossimi video!
 #vibecoding #intelligenzaartificiale #risparmiare #ai #chatgpt
 
 --- TRASCRIZIONE AUDIO ---
-Raga, completamente fatta con l'intelligenza artificiale. Io godo. Peccato solo che sono le quattro e mezza e sono finito. Però, guardate un po', Cloud direttamente ti permette di costruire questa incredibile applicazione. Bellissima, che permette di fare una cosa super da smanettoni. Addirittura con la versione italiana e inglese. Alle volte il vibe coding ti fa perdere quasi le speranze, ma se aspetti fino alle quattro di mattina... I did it again!
+Raga, completamente fatta con l'intelligenza artificiale. Io godo. Peccato solo che sono le quattro e mezza e sono finito. Però, guardate un po', Claude direttamente ti permette di costruire questa incredibile applicazione bellissima che permette di fare una cosa super da smanettoni, addirittura con la versione italiana e inglese. Alle volte il vibe coding ti fa perdere quasi le speranze, ma se aspetti fino alle quattro di mattina, I did it again.

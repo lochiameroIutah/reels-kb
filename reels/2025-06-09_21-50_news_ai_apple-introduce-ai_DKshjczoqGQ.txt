@@ -19,14 +19,17 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: news_ai
-TAG: apple, intelligenza artificiale, ai
-TOPIC: Apple introduce l'intelligenza artificiale nei comandi rapidi
+TAG: apple-intelligence, ai, intelligenza-artificiale, iphone, automazione
+TOPIC: Apple Intelligence consente di utilizzare l'AI all'interno dei comandi rapidi su iPhone
 
 --- HOOK TESTUALE (dal frame) ---
-Questo è il futuro se hai un iPhone 😱
+Questo è il futuro se hai un iPhone
 
 --- DESCRIZIONE VISIVA ---
-Uno screenshot di un video promozionale dell'app Shortcuts su un iPhone, con un uomo in un ambiente minimalista e una scritta 'Shortcuts help people get more done, faster every day.'
+La griglia mostra una serie di screenshot e demo di funzionalità di un prodotto Apple, probabilmente legate all'integrazione di Apple Intelligence. Inizia con schermate vuote per poi mostrare un MacBook con un monitor esterno, seguito da presentazioni di 'Intelligent actions' e demo di come queste funzionalità possano essere utilizzate. Viene mostrato anche un uomo in un ambiente di lavoro che illustra varie funzioni, tra cui la gestione di note e l'utilizzo di comandi. Le schermate mostrano anche il processo di configurazione e utilizzo di queste nuove funzionalità.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Apple Intelligence, iPhone, MacBook
 
 --- CAPTION COMPLETA ---
 Apple ora ti dà i superpoteri. ⤵️
@@ -42,4 +45,4 @@ Se vuoi rimanere sul pezzo, seguimi 🚀
 #appleintelligence #ai #intelligenzaartificiale #wwdc #eventoapple
 
 --- TRASCRIZIONE AUDIO ---
-Dai Dai Adesso dicono Adesso dicono che ci sarà l'intelligenza artificiale Predicted Vai nell'app command rapid Dai Oh Oh Finalmente ragazzi Possiamo usare l'intelligenza artificiale della Apple Del nostro computer direttamente per fare delle cose e tipo crea un'immagine al volo crea questo, fai quello riassumi finalmente addirittura si può usare o la potenza del nostro computer o il server dell'app questa tanta tanta roba mamma mia che benessere mamma mia ma qui puoi creare delle cose incredibili tipo N8N raga sta cosa incredibile no vabbè pure c'è GPT dentro vabbè ma già si poteva fare figata raga super top
+Dai! Dai! Adesso dicono che ci sarà l'intelligenza artificiale, predicted. Vai nell'app Command Rapid. Dai! Uuuuuh! Oh, finalmente ragazzi, possiamo usare l'intelligenza artificiale della Apple, del nostro computer, direttamente per fare delle cose, crea un'immagine al volo, crea questo, fai quello, riassumi, finalmente. Addirittura si può usare o la potenza del nostro computer o il server dell'app. Questa tanta tanta roba. Mamma mia che benessere! Mamma mia ma qui puoi creare delle cose incredibili, tipo n8n raga sta cosa, incredibile! No vabbè, pure c'è GPT dentro, vabbè ma già si poteva fare a metà. Figata raga, super top!

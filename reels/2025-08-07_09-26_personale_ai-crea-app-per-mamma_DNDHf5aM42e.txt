@@ -18,15 +18,18 @@ CTA FOLLOW: sì
 LINK IN CAPTION: no
 
 --- CATEGORIA ---
-CATEGORIA: personale
-TAG: intelligenza artificiale, app senza codice, vibe coding
-TOPIC: Il creator mostra come ha aiutato sua madre a creare un'app con l'intelligenza artificiale senza scrivere codice
+CATEGORIA: tutorial_ai
+TAG: intelligenza-artificiale, vibe-coding, collage-creator, pixart, automazione
+TOPIC: Come creare collage con l'intelligenza artificiale utilizzando l'app Collage Creator e il metodo Vibe Coding
 
 --- HOOK TESTUALE (dal frame) ---
 POV: Hai un figlio smanettone
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con una maglietta gialla tiene in mano uno smartphone, guardando verso la telecamera con un'espressione neutra. Sembra che stia parlando o presentando qualcosa.
+Il video mostra una serie di screenshot di un telefono cellulare e di un computer, con varie app e siti web aperti. Inizia con schermate di un'organizzatrice seriale e un'app per creare collage. Mostra anche la possibilità di utilizzare strumenti online per creare collage e altre attività. Verso la fine, si vedono reazioni di sorpresa e meraviglia, probabilmente di genitori o di una terza persona.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Collage Creator
 
 --- CAPTION COMPLETA ---
 Come fare felice la mamma con l’intelligenza artificiale
@@ -54,4 +57,4 @@ Clicca segui 👉 e ti svelo tutto nei prossimi video!
 #intelligenzaartificiale #ai #risparmiare #ia #chatgpt #storytelling
 
 --- TRASCRIZIONE AUDIO ---
-Vi faccio vedere sta cosa incredibile perché mia madre è un'organizzatrice seriale e infatti tipo scrive tutto no? E lei fa tutte queste immaginine così vedete queste quattro immagini alle volte ha tipo questo qua alle volte la fa questa più grande e così via. Come le crea queste immagini? Con un'app che si chiama PixArt perché lei è un'ex grafica bolcitaria. Era uno sbatti incredibile allora io con l'intelligenza artificiale vedete clicco qua viene mandata in questa mini app simpatica che gli permette di caricare le varie immagini. Mettiamo questa immagine Attenzione Le sta caricando Tra l'altro posso prendere questa e metterla per esempio qua Esporta Ha creato questa immagine Sono veramente contento perché ha aiutato mia mamma a creare questa cosa Io sono super proud of me Trisfatta? Cos'hai da dire? Ah grazie Top Benissimo L'ho fatto senza toccare una che sia una riga di codice Non sono un programmatore Sono uno smanettone
+Vi faccio vedere questa cosa incredibile perché mia madre è un'organizzatrice seriale e infatti scrive tutto. E lei fa tutte queste immaginine, così vedete queste quattro immagini, alle volte ha tipo questo qua, alle volte la fa questa più grande e così via. Come le crea queste immagini? Con un'app che si chiama PixArt perché lei è un'ex grafica bolcitaria. Era uno sbatti incredibile. Allora io con l'intelligenza artificiale, vedete, clicco qua, viene mandata in questa mini app simpatica che gli permette di caricare le varie immagini. Abbiamo questa immagine, attenzione, le sta caricando. Tra l'altro posso prendere questa e metterla per esempio qua. Esporta, ha creato questa immagine. Sono veramente contento perché ha aiutato mia mamma a creare questa cosa. Io sono super proud of me. Trisfatta? Cos'hai da dire? Cos'hai da dire? Top! Benissimo! L'ho fatto senza toccare una che sia una riga di codice. Non sono un programmatore, sono uno smanettone.

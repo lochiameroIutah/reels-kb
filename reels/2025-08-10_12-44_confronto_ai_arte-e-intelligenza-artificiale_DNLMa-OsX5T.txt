@@ -18,15 +18,18 @@ CTA FOLLOW: no
 LINK IN CAPTION: no
 
 --- CATEGORIA ---
-CATEGORIA: confronto_ai
-TAG: intelligenza-artificiale, arte, marketing
-TOPIC: Il creator discute l'impatto dell'intelligenza artificiale nel mondo artistico
+CATEGORIA: personale
+TAG: ai-e-arte, intelligenza-artificiale, marketing-artistico, creativita-e-tecnologia
+TOPIC: Il paradosso dell'arte e dell'intelligenza artificiale nel mondo dell'arte e del marketing
 
 --- HOOK TESTUALE (dal frame) ---
-INTELLIGENZA ARTIFICIALE E ARTE
+[nessun testo rilevato]
 
 --- DESCRIZIONE VISIVA ---
-Una giovane donna con i capelli lunghi e biondi, parzialmente legati, indossa una tracolla beige sulla spalla sinistra. È presente un cielo azzurro e del verde sullo sfondo.
+Un uomo con maglietta nera parla in un'auto e poi in una stanza, discutendo di qualcosa. Si susseguono fotogrammi della sua espressione mentre parla. Non ci sono elementi visuali significativi come screenshot di terminali, schermate di app/siti, diagrammi o codice.
+
+--- PRODOTTI / TOOL VISIBILI ---
+[nessuno]
 
 --- CAPTION COMPLETA ---
 Ti spiego meglio:
@@ -47,4 +50,4 @@ come diceva Keith Flint dei Prodigy, se non hai niente da dire, lascia parlare c
 #intelligenzaartificiale #ai #risparmiare #aivsart #chatgpt
 
 --- TRASCRIZIONE AUDIO ---
-penso dell'intelligenza artificiale nel mondo artistico? Allora fatemi rispondere anche oltre a fare musica sono anche un esperto di intelligenza artificiale e prima di in mezzo tra questi c'è anche il marketing. L'arte è un mondo ipocrita che funziona molto di più uno che ha l'idea interessante per vendere la sua arte piuttosto che una persona che non fa ciò ma comunque ha quello spirito artistico e così via. L'arte è ispirazione per l'umanità quindi il problema è è nel momento in cui io voglio vendere questa arte. Ovviamente mi ritrovo a scontrarmi con delle dinamiche di mercato. Ci rendiamo conto che i grandi artisti sono persone che hanno creato cose come farebbe l'intelligenza artificiale, solamente vendute bene con il marketing. Quindi se tu già volevi fare per esempio una canzone, un dipinto, oggi l'intelligenza artificiale ti può permettere di fare questa cosa. È fantastico in realtà. E il problema subentra nel momento in cui tu magari vuoi creare perché così trovi il modo di guadagnare due soldi. ma in realtà fai del male a tutti quei poveri artisti che già prima facevano fatica perché erano tanti. Devono fare i conti anche con la soglia dell'attenzione delle persone che si è abbassata, quei social e tutto il resto. Adesso con l'intelligenza artificiale un sacco di gente ti potrebbe voler male, perché l'arte senza significato è un contenuto vuoto.
+Io ne penso dell'intelligenza artificiale nel mondo artistico. Allora, fatemi rispondere anche, oltre a fare musica, sono anche un esperto di intelligenza artificiale e prima di... in mezzo tra questi c'è anche il marketing. L'arte è un mondo ipocrita che funziona molto di più, uno che ha l'idea interessante per vendere la sua arte piuttosto che una persona che non fa ciò ma comunque ha quello spirito artistico e così via. L'arte è ispirazione per l'umanità, quindi il problema è nel momento in cui io voglio vendere questa arte. Ovviamente mi ritrovo a scontrarmi con delle dinamiche di mercato. Ci rendiamo conto che i grandi artisti sono persone che hanno creato cose come farebbe l'intelligenza artificiale, solamente vendute bene con il marketing. Quindi se tu già volevi fare, per esempio, una canzone, un dipinto, oggi l'intelligenza artificiale ti può permettere di fare questa cosa. È fantastico in realtà. Il problema subentra nel momento in cui tu magari vuoi creare perché così trovi il modo di guadagnare due soldi, ma in realtà fai del male a tutti quei poveri artisti che già prima facevano fatica perché erano tanti. Devono fare i conti anche con la soglia dell'attenzione delle persone che si è abbassata, quei social e tutto il resto. Adesso con l'intelligenza artificiale un sacco di gente ti potrebbe voler male perché l'arte senza significato è un contenuto vuoto.

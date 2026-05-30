@@ -19,14 +19,17 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: tutorial_ai
-TAG: chatgpt, produttività, crescita
-TOPIC: Utilizzare ChatGPT per creare una strategia personale di crescita in 30 giorni
+TAG: chatgpt, produttività, crescita-personale, strategia-30-giorni, automazione
+TOPIC: Come utilizzare ChatGPT per creare una strategia personale di 30 giorni per raggiungere i propri obiettivi
 
 --- HOOK TESTUALE (dal frame) ---
 Puoi ottenere ciò che vuoi se solo avessi il coraggio di chiederlo a ChatGPT5
 
 --- DESCRIZIONE VISIVA ---
-Una persona in camicia bianca sta posando un laptop nero su un tavolo in legno in una cucina. Sullo sfondo, un frigorifero con molti magneti.
+Un uomo in una cucina con un laptop. Inizia aprendo il laptop, poi guarda lo schermo con espressione pensierosa e di frustrazione.
+
+--- PRODOTTI / TOOL VISIBILI ---
+ChatGPT
 
 --- CAPTION COMPLETA ---
 Inizia scrivendo questo:

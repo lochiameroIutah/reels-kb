@@ -20,14 +20,17 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: news_ai
-TAG: apple, intelligenza artificiale, creator studio
-TOPIC: Apple lancia Creator Studio con intelligenza artificiale integrata
+TAG: apple-creator-studio, intelligenza-artificiale, final-cut-pro, logic-pro
+TOPIC: Apple lancia Apple Creator Studio con intelligenza artificiale integrata in Final Cut Pro e Logic Pro
 
 --- HOOK TESTUALE (dal frame) ---
 Apple ha appena lanciato Apple Creator Studio è qui e le nuove App avranno anche l'intelligenza artificiale integrata
 
 --- DESCRIZIONE VISIVA ---
-Una mano destra poggiata su uno schermo di un Macbook, con la tastiera in primo piano e un altro schermo in secondo piano con un gioco sullo sfondo.
+Il video mostra una serie di screenshot e riprese di un uomo che utilizza un laptop per dimostrare le funzionalità di Apple Creator Studio. Vengono visualizzate varie schermate, tra cui una presentazione di Apple Creator Studio, l'interfaccia di un'app di design, il logo di Final Cut Pro e Motion, e altre schermate che mostrano come utilizzare le nuove app con intelligenza artificiale integrata. L'uomo nel video gesticola e parla mentre mostra le funzionalità.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Apple, Final Cut Pro, Motion
 
 --- CAPTION COMPLETA ---
 Finalmente Apple ha appena lanciato Apple Creator Studio dove rinnova tutte le sue applicazioni al Liquid Glass integrando anche l’intelligenza artificiale!
@@ -39,4 +42,4 @@ Io sono Matteo Zampieri il tuo smanettone di fiducia, noi ci vediamo ad un pross
 #applecreatorstudio #intelligenzaartificiale #tutorial #ia
 
 --- TRASCRIZIONE AUDIO ---
-Ok Apple ha droppato Creator Studio, finalmente ha rinnovato tutte le sue applicazioni appunto sfruttando anche l'intelligenza artificiale, ci sarà l'intelligenza artificiale dentro Logic Pro, dentro Final Cut Pro che è figata, poi ci sarà anche Pixelmator che è un'azienda che si è comprata a Apple tanto tempo fa, avete visto diceva PromptIt perché ci sarà anche l'intelligenza artificiale che oggi Apple ha confermato aver fatto la collaborazione con Google con Gemini Che figata con abbonamento ovviamente mensile hai tutte queste applicazioni Praticamente avete l'imbalazzo della scelta Potete disegnare, dipingere, fare musica, fare video Potremmo dire che è un nuovo competitor di Adobe C'è poco da fare, finiremo per pagare anche questo abbonamento Io sono Matteo Zampiri, il tuo smanettone di fiducia Noi ci vediamo in un prossimo video Ricordati di seguirmi se ancora non l'hai fatto
+Ok, Apple ha droppato Creator Studio, finalmente ha rinnovato tutte le sue applicazioni, appunto, sfruttando anche l'intelligenza artificiale. Ci sarà l'intelligenza artificiale dentro Logic Pro, dentro Final Cut Pro, che figata. Poi ci sarà anche Pixelmator, che è un'azienda che si è comprata a Apple tanto tempo fa. Avete visto, diceva PromptIt, perché ci sarà anche l'intelligenza artificiale, Che oggi Apple ha confermato esserci, aver fatto la collaborazione con Google, con Gemini, che figata con abbonamento ovviamente mensile hai tutte queste applicazioni. Praticamente avete l'imbalazzo della scelta, potete disegnare, dipingere, fare musica, fare video. Potremmo dire che è un nuovo competitor di Adobe. C'è poco da fare, finiremo per pagare anche questo abbonamento. Io sono Matteo Zampieri, il tuo smanettone di fiducia, noi ci vediamo in un prossimo video, ricordati di seguirmi se ancora non l'hai fatto.

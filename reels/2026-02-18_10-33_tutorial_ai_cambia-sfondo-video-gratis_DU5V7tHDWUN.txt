@@ -20,14 +20,17 @@ LINK IN CAPTION: sì (matteozampieri.com/switchx)
 
 --- CATEGORIA ---
 CATEGORIA: tutorial_ai
-TAG: intelligenza artificiale, beeble, aivideo, tutorial
-TOPIC: Un tutorial su come utilizzare SwitchX per cambiare lo sfondo dei video in tempo reale
+TAG: switchx, beeble, intelligenza-artificiale, video-editing
+TOPIC: Come utilizzare SwitchX di Beeble per cambiare lo sfondo dei video in tempo reale
 
 --- HOOK TESTUALE (dal frame) ---
-GUARDA CHE FIGATA,
+GUARDA CHE FIGATA
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con un cappuccio grigio parla in un ambiente casalingo
+Il video mostra un uomo in un grigio felpe che si muove in diversi ambienti, tra cui una cucina, un giardino lussureggiante e una città. L'uomo appare in varie pose, come inginocchiato o con le mani alzate. Non sono presenti screenshot di terminali, schermate di app/siti, diagrammi, UI di prodotti, codice o altro B-roll informativo.
+
+--- PRODOTTI / TOOL VISIBILI ---
+[nessuno]
 
 --- CAPTION COMPLETA ---
 Puoi farlo gratis (davvero), ti spiego:
@@ -66,4 +69,4 @@ Io sono il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video!
 #intelligenzaartificiale #beeble #aivideo #tutorial #risparmiare
 
 --- TRASCRIZIONE AUDIO ---
-Guarda che figata, questa in realtà non è casa mia, infatti con questa intelligenza artificiale posso essere in questa giungla super pericolosa, ma poi tutto a un tratto prendere e ritrovarmi a New York. Guarda, tra i grattacieli, io sono Matteo Zampiri, il tuo smanettone di fiducia e questo si chiama Switch X di Bipol, vi trovi il link in descrizione. Ciao!
+Guarda che figata, questa in realtà non è casa mia, infatti con questa intelligenza artificiale posso essere in questa giungla super pericolosa, ma poi tutto a un tratto prendere e ritrovarmi a New York, guarda, tra i grattacieli, io sono Matteo Zampieri, il tuo smanettone di fiducia e questo si chiama Switch X di Bipol, vi trovi il link in descrizione, ciao!

@@ -19,14 +19,17 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: tutorial_ai
-TAG: chatgpt, ai, intelligenza artificiale
-TOPIC: Matt Vision spiega come utilizzare al meglio ChatGPT
+TAG: chatgpt, intelligenza-artificiale, analisi-video, elaborazione-contenuto
+TOPIC: Come utilizzare ChatGPT per analizzare e comprendere il contenuto di un video
 
 --- HOOK TESTUALE (dal frame) ---
 POV: HAI TROVATO IL MODO MIGLIORE PER USARE CHATGPT
 
 --- DESCRIZIONE VISIVA ---
-Uno screenshot di un computer con un gioco di slot machine sullo schermo, con luci colorate e tre leve dorate, su sfondo buio.
+Il video mostra una serie di screenshot di una sessione con ChatGPT, un modello di intelligenza artificiale. L'utente sembra utilizzare ChatGPT per analizzare un video, fornendo dettagli come la durata, la risoluzione, il formato, il contenuto visivo e altro. Vengono mostrati i passaggi dell'elaborazione, con frasi come 'distribuiti' ed 'elaborando', per poi arrivare ad un'analisi dettagliata del contenuto video.
+
+--- PRODOTTI / TOOL VISIBILI ---
+ChatGPT
 
 --- CAPTION COMPLETA ---
 Prossimamente comunque si potrà fare l’ho sentito l’altro giorno
@@ -34,4 +37,4 @@ Prossimamente comunque si potrà fare l’ho sentito l’altro giorno
  #chatgpt #ai #ia #intelligenzaartificiale #chatgptprompts #risparmiare
 
 --- TRASCRIZIONE AUDIO ---
-no perché forse non mi è chiaro ti ha dato un video e ti dice quello che c'è hai estratto 10 frame rappresentativi Distribuiti nel video Ora le visualizzo Per darti un'idea Del contenuto visivo Sta elaborando Non sto capendo Mi sembra molto strano Cioè allora Qui dice Ancora analisi in corso Ok ecco l'analisi Dettagliata del video Scendere mentre Scendere mostrare Una varietà di colori Dominanti Ci sono delle ambientazioni diverse Sì ma vedi Tony tenente al rosso Possibile Eh però vedete Non lo fa Non lo fa per davvero È scam È scam
+No, perché forse non mi è chiaro. Gli ho dato un video e ti dice quello che c'è. Ha estratto 10 frame rappresentativi distribuiti nel video e ora le visualizzo per darti un'idea del contenuto visivo. Sta elaborando? Non sto capendo, mi sembra molto strano. Cioè, allora, qui dice ancora analisi in corso. Ok, ecco l'analisi dettagliata del video. Scende, mette la scena e mostro una varietà di colori dominanti. Ci sono delle ambientazioni diverse. Sì, ma vedi, Tony tenente al rosso, questo vino? Mmm... Eh, però vedete, non lo fa, non lo fa per davvero, è scam, è scam.

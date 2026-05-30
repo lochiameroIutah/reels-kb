@@ -20,14 +20,17 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: tutorial_ai
-TAG: vibecoding, intelligenzaartificiale, ai
-TOPIC: Il metodo rivoluzionario per creare App SENZA scrivere codice
+TAG: vibe-coding, intelligenza-artificiale, antigravity, lovable
+TOPIC: Come utilizzare il Vibe Coding per creare un CRM personale senza scrivere codice con l'aiuto dell'AI
 
 --- HOOK TESTUALE (dal frame) ---
 CHe piattaforma scegliere per il vibe coding?
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con un maglione beige guarda qualcosa sul suo laptop, con un'espressione seria e interessata. Sullo sfondo si vede una porta e un cappello appeso.
+Il video mostra un uomo seduto davanti a un laptop e un telefono, con una espressione pensierosa e mani che gesticolano. Non sono presenti screenshot di terminali, schermate di app/siti, diagrammi, UI di prodotti o codice mostrato.
+
+--- PRODOTTI / TOOL VISIBILI ---
+[nessuno]
 
 --- CAPTION COMPLETA ---
 Conosci il Vibe Coding? 🚀
@@ -49,4 +52,4 @@ Scrivi VIBE e ti aiuto a costruire le tue App in vibecoding 👇
 #vibecoding #intelligenzaartificiale #risparmiare #ai #chatgpt
 
 --- TRASCRIZIONE AUDIO ---
-chiaramente il vibe coding alle volte ti inganna, uno dice ah crea il tuo CRM in vibe coding, alle volte non è la soluzione migliore, io stesso appunto lo dicevo però negli ultimi due o tre mesi il mondo del vibe coding è esploso, lovable è la punta dell'iceberg, è uno dei pionieri principalmente del vibe coding, però tantissime altre aziende hanno raggiunto lo stesso identico livello, ognuno fa bene o male la stessa cosa con stili differenti, qual è la cosa che ti fa perdere più tempo? se potessi toglierla sarebbe una cosa positiva mettere insieme tutto mail, appuntamenti, chiamate organizzare comunque le settimane mi aiuterebbe a mantenere la prescadenza tu potresti crearti una versione embrionale nella chat direttamente ti crea una base a quel punto voglio fare uno step successivo mi scarico Antigravity una volta che hai la tua idea magari farti la tua applicazione per il telefono si può addirittura fare aiuta te, magari puoi aiutare anche qualcun altro
+Chiaramente il vibe coding alle volte ti inganna, uno dice ah crea il tuo CRM in vibe coding, alle volte non è la soluzione migliore. Io stesso appunto lo dicevo però negli ultimi due tre mesi il mondo del vibe coding è esploso. Lovable è la punta dell'iceberg, è uno dei pionieri principalmente del vibe coding, però tantissime altre aziende hanno raggiunto lo stesso identico livello. Ognuno fa bene o male la stessa cosa con stili differenti, qual è la cosa che ti fa perdere più tempo? Se potessi toglierla sarebbe una cosa positiva. Mettere insieme tutto, mail, appuntamenti, chiamate, organizzare comunque le settimane mi aiuterebbe a mantenere la prescadenza. Tu potresti crearti una versione embrionale nella chat direttamente, ti crea una base. A quel punto voglio fare uno step successivo. Mi scarico Antigravity. Una volta che hai la tua idea, magari farti la tua applicazione per il telefono, si può addirittura fare aiuta te, magari puoi aiutare anche qualcun altro.

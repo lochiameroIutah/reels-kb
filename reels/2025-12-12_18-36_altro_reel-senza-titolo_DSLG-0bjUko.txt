@@ -18,15 +18,18 @@ CTA FOLLOW: no
 LINK IN CAPTION: no
 
 --- CATEGORIA ---
-CATEGORIA: altro
-TAG: 
-TOPIC: 
+CATEGORIA: news_ai
+TAG: intelligenza-artificiale, ai, ia, linguaggio-tecnico
+TOPIC: Matteo Zampieri discute l'importanza di utilizzare il termine 'AI' anziché 'IA' per l'intelligenza artificiale in Italia
 
 --- HOOK TESTUALE (dal frame) ---
 Ecco come rimanere aggiornato gratis sul mondo dell'IA
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con una felpa grigia, visibilmente emozionato, che parla e gesticola con la mano destra; si trova davanti ad un mobile in legno marrone e una finestra oscurata.
+Il video mostra un uomo in un ambiente di lavoro che parla di intelligenza artificiale. Non ci sono screenshot di terminali, schermate di app/siti, diagrammi, UI di prodotti, codice o altro B-roll informativo visibile sullo sfondo. L'uomo gesticola e sembra discutere il concetto di rimanere aggiornati sul mondo dell'IA senza mostrare strumenti o prodotti specifici.
+
+--- PRODOTTI / TOOL VISIBILI ---
+[nessuno]
 
 --- CAPTION COMPLETA ---
 Tutti chiamano l’intelligenza artificiale “AI” ma solo in Italia la chiamiamo “IA” e questa cosa mi sembra completamente senza logica.
@@ -40,4 +43,4 @@ Io sono Matteo Zampieri, il tuo smanettone di fiducia, noi ci vediamo ad un pros
 #newsai #chatgpt #intelligenzaartificiale #ia #ai
 
 --- TRASCRIZIONE AUDIO ---
-Aiaiaia, ma dove cazzo vogliamo andare? Dobbiamo utilizzare la parola AI, Artificial Intelligence, no, IA. Smettiamo di farci di conoscere sempre noi italiani che non ci capiamo niente di inglese. Se tu mi dici, ah sì, a me piacerebbe fare cose con IA, c'è la IA che arriva fino a qui e poi c'è la AI che è da qui in su. Se volete arrivare in alto dovete neanche chiamarla AI, dovete chiamarla AI. Dai! In questo video non cambierà niente, però io ci credo. Io sono Mattaro Zampieri, il tuo smetto è il tuo nefiduccio, noi ci vediamo ad un prossimo video, ricordati di seguirmi se ancora non l'hai fatto.
+Aiaiaia, ma dove cazzo vogliamo andare? Dobbiamo utilizzare la parola AI, Artificial Intelligence, no, IA. Smettiamo di farci di conoscere sempre noi italiani che non ci capiamo niente di inglese. Se tu mi dici, ah sì, a me piacerebbe fare cose del I, con IA, c'è la IA, che arriva fino a qui, e poi c'è la AI che è da qui in su. Se volete arrivare in alto, dovete neanche chiamarla AI, dovete chiamarla AI. Questo video non cambierà niente, però io ci credo. Io sono Matteo Zampieri, il tuo smanetto è nefiducia, noi ci vediamo ad un prossimo video, ricordati di seguirmi se ancora non l'hai fatto.

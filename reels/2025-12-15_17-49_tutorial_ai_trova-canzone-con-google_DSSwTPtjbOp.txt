@@ -19,14 +19,17 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: tutorial_ai
-TAG: google, musica, intelligenza artificiale
-TOPIC: Trova una canzone in meno di 5 secondi con la funzione di Google
+TAG: google, riconoscimento-musicale, app-google, intelligenza-artificiale
+TOPIC: Come usare la funzione di riconoscimento musicale di Google per trovare una canzone in meno di 5 secondi
 
 --- HOOK TESTUALE (dal frame) ---
 Questa funzione di Google ti fa trovare una canzone in meno di 5 secondi
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con un'espressione sorpresa, seduto davanti ad un computer con uno schermo acceso. Sullo schermo si intravede una mano che parla, presumibilmente da un video su YouTube o una simile piattaforma. Sullo sfondo una parete grigia con un angolo di parete in legno.
+La griglia mostra un video che illustra come utilizzare una funzione di Google per trovare una canzone in meno di 5 secondi. Inizia con un uomo che parla, poi mostra uno smartphone con l'app Google aperta e una schermata di ricerca musicale. L'utente attiva la funzione di riconoscimento musicale, che sembra essere collegata a Google. Viene mostrato il logo di Google e una schermata con il titolo 'DEL MICROFONO'. L'utente poi attiva la ricerca e il telefono mostra una schermata con una molteplicità di colori. La funzione identifica una canzone di Michael Jackson e un'altra canzone, 'Deliah', di un artista di nome Lani. L'intero video è incentrato sull'utilizzo di questa funzione Google per identificare rapidamente le canzoni.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Google
 
 --- CAPTION COMPLETA ---
 Inizia facendo questo:
@@ -52,4 +55,4 @@ Io sono il tuo smanettone di fiducia, ci vediamo al prossimo video 🚀
 #google #musica #risparmiare #intelligenzaartificiale #ia
 
 --- TRASCRIZIONE AUDIO ---
-Non so se lo sai però quando non ti ricordi il titolo di una canzone trovarla è praticamente impossibile. Cioè te prova a cercarla in tutti i modi non ce la fai. Infatti uno dice uso riconosci brano no? E invece ogni volta nessun brano trovato. Per questo motivo c'è il tuo smanettone di fiducia pronto qui a darti una mano. Andiamo nell'App Store o Play Store e apriamo l'App di Google. A questo punto premiamo sull'iconcina del microfono e poi premiamo cerca un brano. A questo punto cantichiamo quello che vogliamo. Eccolo qua Trovato B di Michael Jackson Tra l'altro ti trovo subito Tutti i vari link Facciamone una più recente Guardate qua Eccola qua Delia Di Fred again D'ora in poi Saprai sempre Trovare la canzone Che cerchi Io sono Matteo Zanfili Il tuo smanetto E' un eterno di fiducia Noi ci vediamo In un prossimo video Ricordati di seguirmi Se ancora non l'hai fatta
+Non so se lo sai però quando non ti ricordi il titolo di una canzone trovarla è praticamente impossibile. Cioè te prova a cercarla in tutti i modi non ce la fai. Infatti uno dice uso riconosci brano no? E invece ogni volta nessun brano trovato. Per questo motivo c'è il tuo smanettone di fiducia pronto qui a darti una mano. Andiamo nell'App Store o Play Store e apriamo l'App di Google. A questo punto premiamo sull'iconcina del microfono e poi premiamo cerca un brano. A questo punto cantichiamo quello che vogliamo. Eccolo qua, trovato B di Michael Jackson. Tra l'altro ti trova subito tutti i vari link. Facciamone una più recente, guardate qua. Ecco la qua, Delya di Fred Again. D'ora in poi saprai sempre trovare la canzone che cerchi. Io sono Matteo Zampieri, il tuo suo maletone di fiducia. Noi ci vediamo in un prossimo video, ricordati di seguirmi se ancora non l'hai fatta.

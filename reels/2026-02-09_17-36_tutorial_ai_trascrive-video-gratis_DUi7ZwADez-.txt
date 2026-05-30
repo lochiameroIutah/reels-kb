@@ -20,14 +20,17 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: tutorial_ai
-TAG: intelligenza artificiale, trascrizione, ia, macos
-TOPIC: Il creator mostra come trascrivere un audio o un video utilizzando strumenti di intelligenza artificiale
+TAG: intelligenza-artificiale, trascrizione-automatizzata, notebike, macos
+TOPIC: Come utilizzare il tool Notebike per trascrivere automaticamente video e file audio utilizzando l'intelligenza artificiale
 
 --- HOOK TESTUALE (dal frame) ---
-Questa cosa trascvive col computer qualsiasi video o audio in un attimo gratis
+Questa cosa trascive col computer qualsiasi video o audio in un attimo gratis
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con la mano alzata, seduto davanti ad una parete beige.
+Il video mostra un uomo che presenta un tool di trascrizione automatica di video e file audio utilizzando l'intelligenza artificiale. Vengono mostrati screenshot di un computer con un'interfaccia di una applicazione per la trascrizione, il processo di caricamento di un file video, la selezione dell'output e la generazione della trascrizione. Si vede inoltre il prima e il dopo della trascrizione, con il risultato finale della trascrizione del video.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Notebike
 
 --- CAPTION COMPLETA ---
 Devo dire, godo ogni volta che devo trascrivere un audio o un video 😮‍💨
@@ -35,4 +38,4 @@ Devo dire, godo ogni volta che devo trascrivere un audio o un video 😮‍💨
 #intelligenzaartificiale #trascrizione #tutorial #ia #macos
 
 --- TRASCRIZIONE AUDIO ---
-Allora, vuoi sapere cosa significa essere nel corpo, vivere la vita dello smanettone di fiducia? Adesso ti faccio vedere. Allora, io mi sono appena passato questo file nel computer perché devo trascriverlo. È un video, vabbè, di una collab che sta per arrivare, quindi questo video sarà anche bello spoiler. Quindi, chissà che applicazione strana utilizzerò. Ovviamente qualcosa che ha a che fare con l'intelligenza artificiale. Mi sono creato un
+Allora, vuoi sapere cosa significa essere nel corpo, vivere la vita dello smanettone di fiducia? Adesso ti faccio vedere. Allora, io mi sono appena passato questo file nel computer, perché devo trascriverlo, è un video, vabbè, di una collab che sta per arrivare, quindi questo video sarà anche bello spoiler. Quindi, chissà che applicazione strana utilizzerò. Ovviamente qualcosa che ha a che fare con l'intelligenza artificiale. Mi sono creato un comando rapido pazzesco per Mac che richiamo premendo su questo, questo e questo, premiamoli, ok? Dice, fai ricevuti, inizio la trascrizione, qui mi dice, vuoi includere i timestamp? Io gli faccio invio, no? Invio. Solo il testo. Ok, perfetto. Lui la fa, fa tutto quello che deve fare, ti dice, trascrizione completata, vuoi eliminare il video? Beh, sì, non mi interessa, quindi faccio invio. Io due volte invio e ho la mia trascrizione completa. DEVASTANTE!

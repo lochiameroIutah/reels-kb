@@ -18,15 +18,18 @@ CTA FOLLOW: no
 LINK IN CAPTION: no
 
 --- CATEGORIA ---
-CATEGORIA: news_ai
-TAG: photoshop, intelligenza artificiale, google nano banana
-TOPIC: Un'estensione per Photoshop che utilizza l'intelligenza artificiale di Google per generare immagini a soli 9 euro
+CATEGORIA: tutorial_ai
+TAG: photoshop, google-nano-banana, intelligenza-artificiale, plugin-photoshop, graphic-design
+TOPIC: Come usare il plugin Nano Banana all'interno di Photoshop per migliorare le foto generate con l'intelligenza artificiale di Google
 
 --- HOOK TESTUALE (dal frame) ---
 Come migliorare le foto che ti crea Photoshop Ai
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con la pelle olivastra e capelli castani guarda direttamente la telecamera. Indossa una maglietta grigia e si trova davanti a uno sfondo beige.
+Il video mostra un tutorial su come migliorare le foto generate da Photoshop AI tramite un plugin chiamato Nano Banana Photoshop. Il presentatore illustra l'utilizzo di questo plugin, che costa 9€ e si paga una sola volta, e che utilizza l'intelligenza artificiale di Google per generare immagini. Vengono mostrate schermate del plugin, della sua installazione e del suo utilizzo all'interno di Photoshop.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Photoshop, Google, Nano Banana Photoshop plugin
 
 --- CAPTION COMPLETA ---
 Lo conoscevi? #photoshop #intelligenzaartificiale #risparmiare #ai #chatgpt #graphicdesigncentral

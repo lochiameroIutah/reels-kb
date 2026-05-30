@@ -19,14 +19,17 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: tool_gratuiti
-TAG: youtubedownloader, hacklife, hacksandtips
-TOPIC: Scopri come utilizzare l'App BlackHole per scaricare video da YouTube e altri social gratuitamente
+TAG: black-hole, youtube-downloader, scaricare-video, android-iphone, tiktok
+TOPIC: Come utilizzare Black Hole per scaricare video da YouTube e altri social
 
 --- HOOK TESTUALE (dal frame) ---
 Quest'App che ti scarica i video di YouTube ti fa risparmiare troppe ore del tuo tempo
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con una mano alzata, sfocato sullo sfondo un pc acceso
+Un video promozionale per un'app che permette di scaricare video da YouTube. Il presentatore, un uomo con una maglietta nera e poi una bianca, spiega come utilizzare l'app. Inizia mostrando frustrazione nel cercare un'app del genere e poi procede a scaricare e utilizzare l'app chiamata 'Black Hole'. Mostra come cercare e scaricare l'app, aprire l'app e premere un pulsante per avviare il download dei video.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Black Hole
 
 --- CAPTION COMPLETA ---
 L’App si chiama con un nome complicato ma ti fa scaricare i video da YouTube gratis, devastante!
@@ -44,4 +47,4 @@ Se ti sono stato utile 👉 clicca segui @themattvision
 #risparmiare #tutorial #youtubedownloader #hacklife #hacksandtips
 
 --- TRASCRIZIONE AUDIO ---
-Non so se lo sai ma scaricare video da YouTube ormai è diventato un'impresa. Cioè prova a scaricare video da YouTube non ce la fai. Infatti se provi a scaricare da qui YouTube Downloader, cioè tutti questi qua sono finti. Per questo motivo c'è il vostro smanettone di fiducia, non vi preoccupate, adesso vediamo come fare. Fai semplicemente, guarda, copia, dice copiato e ti scarichi appunto questa applicazione qua. Fai apri, premi semplicemente su questo pulsantino e quando ha finito poi clicchi videos e te l'ha scaricato. Io sono il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video, ricordati di seguirmi se ancora non l'hai fatto.
+Non so se lo sai, ma scaricare video da YouTube ormai è diventato un'impresa. Cioè prova a scaricare video da YouTube, non ce la fai. Infatti se provi a scaricare da qui YouTube Downloader, cioè tutti questi qua sono finti. Per questo motivo c'è il vostro smanettone di fiducia, non vi preoccupate, adesso vediamo come fare. Fai semplicemente, guarda, copia, dice copiato e ti scarichi appunto questa applicazione qua. Fai apri, premi semplicemente su questo pulsantino e quando ha finito poi clicchi videos, bam, e te l'ha scaricato. Io sono il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video, ricordati di seguirmi se ancora non l'hai fatto.

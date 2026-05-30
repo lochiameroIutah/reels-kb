@@ -18,15 +18,18 @@ CTA FOLLOW: sì
 LINK IN CAPTION: no
 
 --- CATEGORIA ---
-CATEGORIA: personale
-TAG: intelligenzaartificiale, chatgpt, critica
-TOPIC: Una richiesta per migliorare la discussione e il pensiero critico
+CATEGORIA: tutorial_ai
+TAG: chatgpt, intelligenza-artificiale, pensiero-critico, automatizzazione-del-processo, miglioramento-delle-risposte
+TOPIC: Come utilizzare ChatGPT per migliorare il pensiero critico e generare idee più accurate
 
 --- HOOK TESTUALE (dal frame) ---
 Vuoi che ChatGPT smetta di essere sempre d'accordo con te? Fai questo
 
 --- DESCRIZIONE VISIVA ---
-Una persona sta appoggiando un tablet su un tavolo in una cucina. Sullo sfondo si vede un frigorifero con molti magneti.
+Un uomo con una maglietta bianca usa un laptop in una cucina, con un frigorifero e un forno sullo sfondo. Mostra una serie di azioni con il laptop, inclusa la scrittura e la lettura. Non sono presenti screenshot di terminali, diagrammi o codice.
+
+--- PRODOTTI / TOOL VISIBILI ---
+ChatGPT
 
 --- CAPTION COMPLETA ---
 Inizia scrivendo questo:

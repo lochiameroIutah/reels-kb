@@ -19,14 +19,17 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: news_ai
-TAG: intelligenzaartificiale, ai, ia, chatgpt, aggiornamento
-TOPIC: Aggiornamento della funzionalità di registrazione vocale su ChatGPT
+TAG: chatgpt, aggiornamento, intelligenza-artificiale, registrazione-vocale, live-chat
+TOPIC: L'aggiornamento di ChatGPT consente di registrare e inviare messaggi vocali in modo più veloce e comodo
 
 --- HOOK TESTUALE (dal frame) ---
 Aggiornamento ChatGPT
 
 --- DESCRIZIONE VISIVA ---
-Uno screenshot di una chat con ChatGPT e una mano che tiene un accendino vicino alla testa di un uomo.
+Il video mostra una serie di screenshot di una conversazione con ChatGPT su uno smartphone, con un uomo che commenta e reagisce alle risposte dell'AI. Le schermate mostrano una conversazione in corso, con il testo della chat e le reazioni dell'uomo. In particolare, si vede la richiesta di creare un promemoria per cucinare per la nonna e la risposta di ChatGPT. L'uomo appare sorpreso e soddisfatto della risposta.
+
+--- PRODOTTI / TOOL VISIBILI ---
+ChatGPT
 
 --- CAPTION COMPLETA ---
 AGGIORNAMENTO ChatGPT
@@ -34,4 +37,4 @@ AGGIORNAMENTO ChatGPT
 #intelligenzaartificiale #ai #ia #chatgpt #aggiornamento
 
 --- TRASCRIZIONE AUDIO ---
-Ciao amici, guardate un po', adesso l'iconcina, quando premette l'iconcina per registrare su CiaGPT lui ascolta come se fosse la live chat e appena lo finisce di registrare lui lo invia subito, è stra comodo perché effettivamente non è il voice chat che è quello pesante dove tu parli e lui ti risponde parlando, è molto lento, lo devi ascoltare, ma in questo modo mandiamo il messaggio, ci dà subito la risposta senza che aspettiamo la generazione, dopo inviamo oppure aggiungiamo dell'altro testo. Era comodo aggiungere dell'altro testo perché alle volte si buggava, però effettivamente se non si dovesse buggare sarebbe anche una cosa molto figa, no? Voi cosa ne pensate? Fatemi sapere e niente, buona giornata!
+Ciao amici, guardate un po', adesso l'iconcina, quando premette l'iconcina per registrare su CiaGPT, lui ascolta come se fosse la live chat e appena lo finisce di registrare lui lo invia subito, è stra-comodo perché effettivamente non è il voice chat che è quello pesante dove tu parli e lui ti risponde parlando, è molto lento, lo devi ascoltare, ma in questo modo mandiamo il messaggio, ci dà subito la risposta senza che aspettiamo la generazione, dopo inviamo oppure aggiungiamo dell'altro testo. E' una comoda aggiungere dell'altro testo perché alle volte si buggava, però effettivamente se non si dovesse buggare sarebbe anche una cosa molto figa, no? Voi cosa ne pensate? Fatemi sapere. E niente, buona giornata!

@@ -18,15 +18,18 @@ CTA FOLLOW: sì
 LINK IN CAPTION: no
 
 --- CATEGORIA ---
-CATEGORIA: news_ai
-TAG: chatgpt, chatgpt5, intelligenzaartificiale
-TOPIC: ChatGPT-5 ora consente di creare app direttamente all'interno della piattaforma
+CATEGORIA: tutorial_ai
+TAG: chatgpt-5, sviluppo-app, intelligenza-artificiale, coding-automatico
+TOPIC: Come utilizzare ChatGPT-5 per creare applicazioni interattive senza utilizzare siti esterni
 
 --- HOOK TESTUALE (dal frame) ---
 POV: ChatGPT-5 ora ti crea le App direttamente
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con la pelle olivastra e vestito di nero si trova in un ambiente interno con una luce molto forte, probabilmente un finestrino, alle sue spalle; l'inquadratura è molto sfocata.
+La griglia di fotogrammi mostra un video che illustra come ChatGPT-5 possa creare app direttamente. I frame iniziali mostrano una mano che interagisce con un computer, seguito da screenshot di un computer che visualizzano codice, schermate di sviluppo di app e interfacce utente. Viene mostrata anche una presentazione con persone che discutono, presumibilmente sul tema dello sviluppo di app con ChatGPT-5. Verso la fine, il presentatore appare in frame, sottolineando il concetto. Le schermate mostrano vari stadi dello sviluppo di un'applicazione, suggerendo che ChatGPT-5 semplifica il processo di creazione.
+
+--- PRODOTTI / TOOL VISIBILI ---
+ChatGPT
 
 --- CAPTION COMPLETA ---
 Ora ChatGPT-5 ti crea le App
@@ -42,4 +45,4 @@ Rimani sul pezzo 👉 clicca segui @themattvision
 #intelligenzaartificiale #chatgpt #chatgpt5
 
 --- TRASCRIZIONE AUDIO ---
-Ok, incredibile. Ora Chagpt ti fa fare le app direttamente dentro a Chagpt, senza utilizzare siti esterni e cose. Adesso vediamo un po' come procede. Ovviamente si poteva già fare, però vediamo se quanta è migliorata. In questo caso sta facendo praticamente un'applicazione interattiva per imparare il francese. In pratica sta ricreando Duolingo. Ok, adesso lo va a provare, lui cliccherà in code, gira e ha creato in un singolo prompt questa applicazione. Ok, vedete lì c'è un quiz in francese e addirittura parla l'applicazione. Ok, quindi ha usato il text to speech, c'è un computer che sta leggendo delle parole in francese. Ho creato più versioni. Questa qua è un'altra versione che aveva pure la modalità giorno e notte. vediamo un po' ok ha fatto tipo due versioni quindi vedrai molto di questo è bene, purple è il mio colore preferito oh, è bello, ti amare il GPT5 quindi, come abbiamo visto, in un po' di minuti GPT5 ha creato un po' di demo per noi e per il mio partner per imparare il franzo GPT5 è veramente ottenuto un nuovo mondo di vibe coding e come abbiamo visto che il video è il futuro, lo continuo a dire direttamente dentro all'applicazione di CiaGPT senza usare strumenti a scari strumenti a scaldi voi pagate un abbonamento e direttamente avete anche il vibe coding veramente tantissima roba bisogna vedere ovviamente quanto vogliono farvi pagare perché magari potrebbero essere interessati loro a darvi un accenno poi ovviamente se volete fare di più dovreste pagare di più ma a sto punto utilizzate un altro programma come trae che ne parlo meglio nel mio profilo comunque seguitemi e niente alla prossima avventura
+Ok, incredibile. Ora CiaGPT ti fa fare le app direttamente dentro a CiaGPT, senza utilizzare siti esterni e cose. Adesso vediamo un po' come procede. Ovviamente si poteva già fare, però vediamo se quanta è migliorata. In questo caso sta facendo praticamente un'applicazione interattiva per tipo imparare il francese. La pratica sta ricreando Duolingo. Ok, adesso lo va a provare, lui clicca Run Code, gira, gli ha creato in un singolo prompt questa applicazione. Ok, vedete lì c'è un quiz in francese e addirittura parla l'applicazione. Ok, quindi ha usato il text to speech, c'è un computer che sta leggendo delle parole in francese. C'è creato più versioni. Questa qua è un'altra versione che aveva pure la modalità giorno e notte. Vediamo un po'? Ok. Ha fatto tipo due versioni. GV5 realizzata un nuovo mondo di vibe coding. A questo punto ho utilizzato un altro programma, Come Trae, che ne parlo meglio nel mio profilo. Comunque seguitemi e niente, alla prossima avventura.

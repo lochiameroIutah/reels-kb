@@ -19,14 +19,17 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: tool_gratuiti
-TAG: intelligenza artificiale, perplexity, ricerche online
-TOPIC: Il creator presenta un'alternativa gratuita a Google per le ricerche online utilizzando l'intelligenza artificiale
+TAG: perplexity, intelligenza-artificiale, ricerche-online, tools-gratuiti
+TOPIC: Come utilizzare Perplexity per effettuare ricerche online con l'intelligenza artificiale
 
 --- HOOK TESTUALE (dal frame) ---
-DIMMI CHE ANCORA
+Perplexity
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con i capelli castani e una maglietta nera sorride e guarda la telecamera mentre un gatto bianco gli si posa sulla testa.
+Un video che mostra un uomo in varie pose mentre parla di Perplexity, un tool di intelligenza artificiale. Viene mostrata la schermata di benvenuto del sito web di Perplexity, con il logo e il prompt di ricerca. L'uomo gesticola e sembra spiegare come funziona o le funzionalità di Perplexity.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Perplexity
 
 --- CAPTION COMPLETA ---
 Ciao ciao Google, non e ho tempo da perdere 😂

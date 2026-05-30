@@ -20,14 +20,17 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: confronto_ai
-TAG: ai, chatgpt, gemini, perplexity
-TOPIC: Il creator parla delle migliori AI disponibili nel 2026 e fornisce una panoramica dei loro punti di forza e debolezza
+TAG: chatgpt, gemini, perplexity, grok, deepseek, meta-ai
+TOPIC: Matteo Zampieri confronta le funzionalità di Gemini, Perplexity e Grok per scegliere la migliore piattaforma di intelligenza artificiale
 
 --- HOOK TESTUALE (dal frame) ---
-SE USI ANCORA
+AUTOMATICAMENTE LICENZIATO HA COMPLENTAMENTE GRATUITO PERO E SOLAMENTE
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con una felpa verde parla davanti alla camera con una mano alzata, mentre sullo sfondo si vede una porta in legno scuro con una maniglia dorata e un muro beige. Sembra essere una screenshot di un Reel Instagram, con una barra colorata a sinistra e delle emoji con contatori numerici in alto.
+Il video mostra una serie di screenshot di diverse applicazioni o piattaforme di intelligenza artificiale, tra cui ChatGPT, Groq, Deepseek, Perplexity, Meta AI, Grok e Gemini. Viene mostrata una griglia con diversi loghi e colori, presumibilmente per confrontare o illustrare le caratteristiche delle varie piattaforme. Il presentatore, un uomo con un cappuccio, gesticola e parla mentre scorrono le schermate.
+
+--- PRODOTTI / TOOL VISIBILI ---
+ChatGPT, Deepseek, Groq, Perplexity, Meta AI, Grok, Gemini
 
 --- CAPTION COMPLETA ---
 Non sai quale AI scegliere nel 2026?
@@ -53,4 +56,4 @@ Io sono Matteo Zampieri, il tuo smanettone di fiducia, noi ci vediamo ad un pros
 #intelligenzaartificiale #chatgpt #gemini #ai #risparmiare claude perplexity
 
 --- TRASCRIZIONE AUDIO ---
-Usi ancora Chagipit nel 2026, sei automaticamente licenziato. Ha fatto delle scelte discutibili e inoltre Codex per quanto sia molto efficiente, ma è estremamente mediocre. Quindi cosa usiamo? DeepSeek è completamente gratuito, però i dati vanno in Cina, quindi io non so te, ma non sono contento. Grok è estremamente utile perché è gratuito completamente, però è solamente per le applicazioni, Che non è quello di Elon Musk che è estremamente peggiore Ma sicuramente migliore in termini di velocità, efficienza e trasparenza Perplexity fantastico per le ricerche, fa veramente delle ricerche approfondite Ho la mossa di bloccare le immagini di USAID in Europa Però qualche mese fa potevi quindi mi sembra molto strano Meta AI figo perché ha dentro Instagram, direttamente dentro Whatsapp È completamente gratuita però è poco integrata Cloud molto utile, preciso però è estremamente costoso col piano da 20 euro non ci fai niente Gemini pazzesco c'hai Antigravity per fare le app c'hai Nanobanana per fare le immagini c'hai Beo per fare i video è integrato con Gmail vuoi fare mille altre cose e ti dà anche 2000 giga di spazio di archiviazione di Google Drive è un'azienda solida che conosciamo da 30 anni devo essere sincero io so già cosa scegliere tu cosa sceglierai io sono Matteo Zampiri tu sbagliate di fiducia noi ci vediamo in un prossimo video ricordati di seguirmi se ancora non l'hai fatto
+Se usi ancora CiaGPT nel 2026 sei automaticamente licenziato. Ha fatto delle scelte discutibili e inoltre Codex per quanto sia molto efficiente ma è estremamente mediocre. Quindi cosa usiamo? DeepSeek è completamente gratuito però i dati vanno in Cina quindi io non so te ma non sono contento. Grok è estremamente utile perché è gratuito completamente però è solamente per le applicazioni che non è quello di Elon Musk che è estremamente peggiore ma sicuramente migliore in termini di velocità, efficienza e trasparenza. Perplexity, fantastico per le ricerche, fa veramente delle ricerche approfondite. Ho la mossa di bloccare le immagini, sei in Europa, però qualche mese fa potevi, quindi mi sembra molto strano. Meta AI, figo perché ha dentro Instagram, direttamente dentro Whatsapp, è completamente gratuita, però è poco integrata. Cloud, molto utile, preciso, però è estremamente costoso, col piano da 20€ non ci fai niente. Gemini pazzesco, c'hai Antigravity per fare le app, c'hai Nano Banana per fare le immagini, c'hai Beo per fare i video, è integrato con Gmail, vuoi fare mille altre cose, ti dà anche 2000 giga di spazio di archiviazione di Google Drive. È un'azienda solida che conosciamo da 30 anni, devo essere sincero io so già cosa scegliere, tu cosa sceglierai, io sono Matteo Zampieri, tu smanettone di fiducia, noi ci vediamo in un prossimo video, ricordati di seguirmi se ancora non l'hai fatto.

@@ -18,15 +18,18 @@ CTA FOLLOW: sì
 LINK IN CAPTION: no
 
 --- CATEGORIA ---
-CATEGORIA: tutorial_ai
-TAG: intelligenza-artificiale, vibe-coding, app-senza-codice
-TOPIC: Creare app senza codice con l'intelligenza artificiale
+CATEGORIA: automazione
+TAG: vibe-coding, intelligenza-artificiale, app-senza-codice, pixart
+TOPIC: Come utilizzare il Vibe Coding e l'intelligenza artificiale per creare app complicate e specifiche come PixArt senza scrivere codice
 
 --- HOOK TESTUALE (dal frame) ---
-CIOè SIAMO NEL
+APP COMPLICATE SPECIFICHE
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con maglietta gialla guarda verso l'alto, probabilmente in direzione della cinepresa. Sullo sfondo si vede un angolo di una stanza con pareti chiare e un lampadario a soffitto rotondo.
+Il video mostra una serie di screenshot e interazioni con uno smartphone, principalmente focalizzato su come utilizzare un'applicazione specifica o su come funziona un certo tipo di tecnologia. Inizia con un uomo che parla e gesticola, seguito da vari screenshot di un telefono che mostrano diverse app e schermate, tra cui una schermata di Google e un'altra che sembra essere un'app di social media o di visualizzazione di immagini. Viene mostrato il processo di utilizzo dell'app, con vari passaggi e interfacce utente.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Google
 
 --- CAPTION COMPLETA ---
 Come fare felice la mamma nel 2025 🫶grazie all’intelligenza artificiale
@@ -54,4 +57,4 @@ Clicca segui 👉 e ti svelo tutto nei prossimi video!
 #intelligenzaartificiale #ai #risparmiare #ia #chatgpt #storytelling
 
 --- TRASCRIZIONE AUDIO ---
-Cioè siamo nel futuro, si possono fare app complicate, specifiche, precise con l'intelligenza artificiale. Vi faccio vedere questa cosa incredibile perché mia madre è un'organizzatrice seriale e infatti scrive tutto. E lei fa tutte queste immaginine, così, vedete queste quattro immagini? Alle volte ha tipo questo qua, alle volte la fa questa più grande e così via. Come le crea queste immagini? Con un'app che si chiama PixArt perché lei è un'ex grafica volcitaria. Era uno sbatti incredibile. Allora io con l'intelligenza artificiale, vedete, clicco qua, viene mandato in questa mini app simpatica che gli permette di caricare le varie immagini. Mettiamo questa immagine, attenzione, le sta caricando. Tra l'altro posso prendere questa e metterla per esempio qua. Esporta, ha creato questa immagine. Sono veramente contento perché ha aiutato mia mamma a creare questa cosa. Io sono super proud of me. Trisfatta, cosa hai da dire, cosa hai da dire? Ah, grazie. Top, bellissimo. L'ho fatto senza toccare una che sia una riga di codice. Non sono un programmatore, sono uno smanettone.
+Cioè siamo nel futuro, si possono fare app complicate, specifiche, precise con l'intelligenza artificiale. Vi faccio vedere questa cosa incredibile perché mia madre è un'organizzatrice seriale e infatti tipo scrive tutto, no? E lei fa tutte queste immaginine così, vedete queste quattro immagini? Alle volte ha tipo questo qua, alle volte la fa questa più grande e così via. Come le crea queste immagini? Con un'app che si chiama PixArt perché lei è un'ex grafica volcitaria. Era uno sbatti incredibile. Allora io con l'intelligenza artificiale, vedete, clicco qua, Viene mandata in questa mini app simpatica che gli permette di caricare le varie immagini. Mettiamo questa immagine, attenzione, le sta caricando. Tra l'altro posso prendere questa e metterla per esempio qua. Esporta, ha creato questa immagine. Sono veramente contento perché ha aiutato mia mamma a creare questa cosa. Io sono super proud of me! Trisfatta, cosa hai da dire, cosa hai da dire? Ah, grazie! Top, bellissimo! l'ho fatto senza toccare una che sia una riga di codice. Non sono un programmatore, sono uno smanettone.

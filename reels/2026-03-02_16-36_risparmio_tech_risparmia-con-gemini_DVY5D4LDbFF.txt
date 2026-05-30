@@ -20,14 +20,17 @@ LINK IN CAPTION: sì (matteozampieri.com/gemini)
 
 --- CATEGORIA ---
 CATEGORIA: risparmio_tech
-TAG: intelligenza artificiale, gemini, google one ai pro
-TOPIC: Come utilizzare l'intelligenza artificiale per risparmiare tempo e denaro
+TAG: gemini, google-one-ai-pro, intelligenza-artificiale, risparmio, strumenti-tecnologici
+TOPIC: Come utilizzare Gemini con il piano Google One AI Pro per integrare l'intelligenza artificiale in Gmail, Google Drive e altri strumenti
 
 --- HOOK TESTUALE (dal frame) ---
 Questo semplice ragionamento cambierà completamente il tuo modo di vivere e lavorare
 
 --- DESCRIZIONE VISIVA ---
-Un uomo in una maglietta arancione si muove velocemente sullo schermo, con un'espressione poco definita a causa della bassa risoluzione dell'immagine. Sembra che stia parlando e che il video sia stato ripreso con uno smartphone.
+Il video mostra un uomo che parla e gesticola. Non sono presenti screenshot di terminali, schermate di app/siti, diagrammi, UI di prodotti, codice o altro B-roll informativo. L'uomo indossa una maglietta grigia con scritta bianca e una camicia a quadri arancione e marrone. Sembra che stia parlando di un argomento generico, forse legato alla tecnologia o all'intelligenza artificiale, ma non ci sono elementi visivi specifici che lo dimostrino.
+
+--- PRODOTTI / TOOL VISIBILI ---
+[nessuno]
 
 --- CAPTION COMPLETA ---
 Ecco il link:
@@ -55,4 +58,4 @@ Io sono il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video!
 #intelligenzaartificiale #gemini #googleone #ai #risparmiare chatgpt ia
 
 --- TRASCRIZIONE AUDIO ---
-Ok allora se dovevi martellare una volta tu avevi bisogno del martello no? Oppure avevi bisogno di un martellatore però il martellatore ti costava magari 50 euro un'ora invece il martello 50 euro lo usavi quante volte volevi però il martello dovevi per forza imparare a utilizzarlo dovevi sbagliare, guardare video tutorial, perdere un sacco di tempo Oggi martellatori digitali ti costano talmente poco che per averli 24 ore su 24, 7 giorni su 7 Ci sono delle aziende che non ti chiedono 50 euro all'ora, ti chiedono 50 euro al mese. Però a quanto pare noi abbiamo un problema mentale che ci porta a credere che comprare un martello e perdere ore e giorni del nostro tempo per imparare a utilizzarlo sia più conveniente che pagare una persona che martella al posto nostro. E questo motivo anche se senti parlare di intelligenza artificiale tutti i giorni sappi che solamente un miliardo di persone su otto che siamo l'ha utilizzata almeno una volta nella vita. Ok Matteo, quindi adesso io apro CiaGPT e comincio a usare l'intelligenza artificiale. Assolutamente no. CiaGPT è troppo datato e poco integrato rispetto ai servizi di Google. In questo caso Gemini, col piano di abbonamento Gemini e Iai Pro, attenzione nessuno mi sta pagando per dire queste cose, hai l'intelligenza artificiale integrata dappertutto. Oltre per creare immagini c'hai anche le email, la creazione di documenti, Excel, creazione di applicazioni e siti web come faccio io tutti i giorni. Per questo dovrebbe essere utilizzata l'intelligenza artificiale Io sono Matteo Zampieri, il tuo smanettone di fiducia Il link te l'ho messo in descrizione Ma se mi iscrivi te lo mando tranquillamente Noi ci vediamo in un prossimo video E tu ricordati di seguirmi se ancora non l'hai fatto
+[nessuna trascrizione disponibile]

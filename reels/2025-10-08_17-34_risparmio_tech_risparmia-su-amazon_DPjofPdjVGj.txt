@@ -19,14 +19,17 @@ LINK IN CAPTION: sì (link presente)
 
 --- CATEGORIA ---
 CATEGORIA: risparmio_tech
-TAG: amazon, offerte, risparmio
-TOPIC: Come scoprire se un'offerta di Amazon è realmente vantaggiosa
+TAG: amazon, keepa, prezzi, offerte-vantaggiose
+TOPIC: Come usare Keepa per scoprire se un'offerta di Amazon è vantaggiosa
 
 --- HOOK TESTUALE (dal frame) ---
-non so se lo Sai ma Amazon sembra fatto per trovarti sempre offerte svantaggiose
+[nessun testo rilevato]
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con una maglietta bianca parla davanti ad una finestra con una vista sfocata della città. La sua mano sinistra è alzata come se stesse gesticolando mentre parla.
+Il video mostra un uomo che parla davanti alla camera mentre mostra screenshot di un computer, grafici e pagine web relative ad Amazon. Inizia mostrando una schermata di Amazon con varie offerte, poi passa a mostrare grafici e statistiche relative alle vendite di prodotti su Amazon. L'uomo sembra spiegare come trovare offerte vantaggiose su Amazon e come utilizzare strumenti per monitorare i prezzi e le vendite.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Amazon
 
 --- CAPTION COMPLETA ---
 Ecco come fare:

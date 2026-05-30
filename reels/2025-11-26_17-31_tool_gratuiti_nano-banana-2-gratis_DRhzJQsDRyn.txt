@@ -18,15 +18,18 @@ CTA FOLLOW: sì
 LINK IN CAPTION: no
 
 --- CATEGORIA ---
-CATEGORIA: tool_gratuiti
-TAG: nano-banana-2, gemini, intelligenza-artificiale
-TOPIC: Un'intelligenza artificiale gratuita chiamata Nano Banana 2/Pro può creare immagini e risolvere problemi complessi
+CATEGORIA: news_ai
+TAG: nano-banana-2-pro, gemini, intelligenza-artificiale, traduzione-automatica, chatgpt
+TOPIC: Il modello di intelligenza artificiale Nano Banana 2/Pro è in grado di ricostruire testi strappati e tradurre immagini di manga dal giapponese all'italiano
 
 --- HOOK TESTUALE (dal frame) ---
 Addio ChatGPT questa intelligenza artificiale fa qualsiasi cosa gratis
 
 --- DESCRIZIONE VISIVA ---
-Una mano destra che scorre con l'indice una schermata di un MacBook, con un testo in inglese sullo schermo che richiede di ricostruire dei pezzi di carta strappati con delle parole scritte a mano. Sotto il dito indice, il testo 'incredibile'.
+La griglia di fotogrammi mostra una persona che utilizza un computer per dimostrare le capacità di un'intelligenza artificiale. Inizia con schermate di un computer che mostrano un compito di ricostruzione di un testo strappato, seguito da un compito di integrazione matematica. Successivamente, vengono mostrate schermate di un manga in giapponese che viene tradotto e colorato. Infine, si vede un video che viene rimasterizzato e altri esempi di capacità dell'AI.
+
+--- PRODOTTI / TOOL VISIBILI ---
+ChatGPT
 
 --- CAPTION COMPLETA ---
 questa intelligenza artificiale per creare immagini è veramente pazzesca!
@@ -40,4 +43,4 @@ Io sono il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video!
 #Intelligenzaartificiale #risparmiare #ia #gemini3
 
 --- TRASCRIZIONE AUDIO ---
-Incredibile, cioè oggi se strappate un foglio di carta in mille pezzi con Nano Banana 2 te lo ricrea fedelmente. E non sto scherzando, guardate qui, addirittura qui gli ha chiesto di risolvere quest'integrale mostrando nella lavagna tutto il processo. Simula la fisica, traduce il testo dal giapponese all'italiano, ha tradotto praticamente un'immagine di un manga. Guardate che figata, è incredibile anche se la fedeltà qua si è andata un po' a perdere, però veramente sono senza parole. Io sono il tuo smalettone di fiducia, noi ci vediamo ad un prossimo video e ricordati di seguirmi se ancora non l'hai fatta.
+Incredibile, cioè oggi se strappate un foglio di carta in mille pezzi con nano banana 2 te lo ricrea fedelmente. E non sto scherzando, guardate qui, addirittura qui gli ha chiesto di risolvere quest'integrale mostrando nella lavagna tutto il processo. Simula la fisica, traduce il testo dal giapponese all'italiano, ha tradotto praticamente un'immagine di un manga. Guardate che figata, incredibile anche se la fedeltà qua si è andata un po' a perdere, però veramente sono senza parole. Io sono il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video e ricordati di seguirmi se ancora non l'hai fatta.

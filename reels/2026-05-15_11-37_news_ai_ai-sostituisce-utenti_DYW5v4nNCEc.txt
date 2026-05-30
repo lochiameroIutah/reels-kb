@@ -19,14 +19,17 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: news_ai
-TAG: ycombinator, intelligenzaartificiale, futurointernet
-TOPIC: Il futuro di internet sarà caratterizzato dall'uso di intelligenze artificiali al posto degli utenti umani
+TAG: y-combinator, intelligenza-artificiale, claude, automazione, future-tech
+TOPIC: Y Combinator sostiene che il futuro di internet sarà dominato dalle intelligenze artificiali come Claude, che eseguiranno compiti al posto degli utenti
 
 --- HOOK TESTUALE (dal frame) ---
-NO BRO Y-COMBINATOR
+The next trillion users
 
 --- DESCRIZIONE VISIVA ---
-Un uomo sbuzza una barretta di cioccolato davanti ad un computer, probabilmente mentre parla
+Il video mostra una serie di screenshot e scene che illustrano l'evoluzione e le funzionalità di un tool o applicazione legata all'intelligenza artificiale. Si parte con una presentazione di aziende come Reddit, Stripe e Y Combinator, per poi mostrare un uomo che utilizza un computer e beve da una tazza con un logo a forma di leone. Viene mostrato anche un'interfaccia utente di un'applicazione o tool chiamata 'Claude', insieme a una schermata di generazione di un sito web e un tool chiamato 'MCP TOOL' con specifiche tecniche. Il video include anche immagini di città futuristiche e l'illustrazione di come questo tool possa essere utilizzato per risolvere problemi.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Claude, MCP TOOL
 
 --- CAPTION COMPLETA ---
 Se vuoi ti spiego meglio:
@@ -70,4 +73,4 @@ Io sono il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video!
 #startup #intelligenzaartificiale #ai #ycombinator #tecnologia futuretech businessonline
 
 --- TRASCRIZIONE AUDIO ---
-No bro, Y Combinator ha appena detto una roba assurda. È l'azienda dietro Airbnb, Reddit, Twitch, Stripe, Dropbox. E adesso non stanno più cercando startup che risolve un problema alle persone. Stanno cercando startup che aiutano le intelligenze artificiali delle persone. Perché secondo loro internet non lo useremo più noi direttamente. Lo useranno le nostre intelligenze artificiali al posto nostro. The next trillion users on the internet won't be people. They'll be AI agents. Quindi già oggi fanno ricerche, comprano roba, prenotano online, esatto e se ci pensi è inquietante perché ha strasenso, cioè l'intelligenza artificiale non è che ha bisogno di vedere quanto è bello un pulsante, ha bisogno di sapere cosa fa quel pulsante alla fin fine. E quindi praticamente il secondo Y Combinator, il nuovo prossimo enorme business non sarà creare intelligenze artificiali ma creare strumenti che useranno queste intelligenze artificiali. Cioè Black Mirror è qui e non è più una serie tv. Io comunque sono Matto Zampieri, il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video e tu ricordati di seguirmi se ancora l'hai fatto che poi ti perdi questi super video.
+No bro, Y Combinator ha appena detto una roba assurda. È l'azienda dietro Airbnb, Reddit, Twitch, Stripe, Dropbox. E adesso non stanno più cercando startup che risolve un problema alle persone. Stanno cercando startup che aiutano le intelligenze artificiali delle persone. Perché secondo loro internet non lo useremo più noi direttamente, lo useranno le nostre intelligenze artificiali al posto nostro. I prossimi trillioni di usati dell'internet non saranno persone, saranno agenti AI. Cioè, Black Mirror è qui e non è più una serie tv. Io comunque sono Matto Zampieri, il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video e tu ricordati di seguirmi se ancora l'hai fatto che poi ti perdi questi super video.

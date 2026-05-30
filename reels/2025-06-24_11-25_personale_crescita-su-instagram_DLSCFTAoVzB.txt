@@ -18,15 +18,18 @@ CTA FOLLOW: sì
 LINK IN CAPTION: no
 
 --- CATEGORIA ---
-CATEGORIA: personale
-TAG: instagram, intelligenza-artificiale, crescita
-TOPIC: Il creatore discute sui motivi per cui i suoi contenuti non vengono visualizzati su Instagram
+CATEGORIA: tutorial_ai
+TAG: instagram, impostazioni-profilo, visualizzazione-reel, espansione-immagine-profilo
+TOPIC: Come abilitare la visualizzazione dei reel su Instagram attraverso l'impostazione 'Consenti espansione dell'immagine del profilo'
 
 --- HOOK TESTUALE (dal frame) ---
 Pov: Finalmente hai capito perché Instagram non mostrava i tuoi reel a nessuno
 
 --- DESCRIZIONE VISIVA ---
-Un uomo guarda un iPad su un tavolo in legno, in una cucina con una porta frigorifero magnetica piena di note e immagini.
+Un uomo con una maglietta bianca guarda un tablet e un laptop, con screenshot di Instagram e statistiche. L'attenzione si concentra su un grafico a barre colorato e su una schermata delle impostazioni di Instagram, in particolare su 'Consenti espansione dell'immagine del profilo', che sembra disabilitata.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Instagram
 
 --- CAPTION COMPLETA ---
 Dimmis che ancora non l’hai fatto 😵
@@ -36,4 +39,4 @@ Rimani sul pezzo ➜ segui @themattvision
 #cresceresuinstagram #intelligenzaartificiale #risparmiare #ai #instagram
 
 --- TRASCRIZIONE AUDIO ---
-Ciao
+Grazie a tutti!

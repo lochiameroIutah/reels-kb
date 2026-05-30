@@ -19,14 +19,17 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: tutorial_ai
-TAG: intelligenza-artificiale, ai, chatbot, versione-agentica
-TOPIC: Come utilizzare la versione agentica dell'intelligenza artificiale per risolvere problemi complessi
+TAG: gemini-cli, intelligenza-artificiale, chatgpt, automazione
+TOPIC: Come risolvere problemi con Gemini CLI e l'intelligenza artificiale
 
 --- HOOK TESTUALE (dal frame) ---
 Ecco come risolvere qualsiasi problema usando l'intelligenza artificiale
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con un cappello grigio e una maglietta scura è seduto su una sedia di plastica bianca, guarda uno schermo di un computer portatile posizionato su un tavolino. Sullo sfondo si vede una finestra con una tenda a righe arancioni e bianchi, un palazzo rosa e delle piante verdi.
+La griglia mostra un video che probabilmente spiega come utilizzare l'intelligenza artificiale per risolvere problemi. I primi frame mostrano due uomini, uno dei quali indossa un cappello e sembra discutere. Successivamente, viene mostrato un uomo solo che parla e gesticola. Vengono poi visualizzate immagini di laptop con schermi aperti, uno dei quali sembra mostrare del codice o una schermata di lavoro. Non ci sono diagrammi o grafici evidenti, ma si nota l'uso di dispositivi elettronici per illustrare il concetto. Le riprese includono anche scene esterne con piante e edifici sullo sfondo.
+
+--- PRODOTTI / TOOL VISIBILI ---
+[nessuno]
 
 --- CAPTION COMPLETA ---
 Ecco come ho risolto:
@@ -62,4 +65,4 @@ Io sono il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video!
 #intelligenzaartificiale #ai #vibecoding #claudecode geminicli tutorial chatgpt
 
 --- TRASCRIZIONE AUDIO ---
-Vero Paolo? Allora cos'è che era il problema? Stavi cercando di far eseguire un programma che creava dei grafici con delle cose che lui sta studiando ingegneria nucleare. Perché usava Gemini sì e uno dice Gemini è più scarso per questo non riesce. In realtà non è così. Vero Paolo? Abbiamo visto che Gemini, Cloud, Cogpt sono tutti incredibili. Dobbiamo dargli il contesto giusto. Usando Gemini Klee Quindi tipo un cloud code di Gemini Risolvi i problemi al posto tuo E non solo fa tutto il contesto Ma poi riesci anche a capire bene qual è il vero problema E in quanto ci ha messo Tipo due minuti, forse un minuto E praticamente ci ha anche creato un file Che ci spiega appunto tutto il problema E come è stato risolto Quindi ricordiamoci sempre il contesto dell'intelligenza artificiale Non usiamo i chatbot del cazzo Ma gli agenti L'intelligenza artificiale Che eseguono cose nel nostro computer e sono la svolta.
+Vero Paolo? Allora cos'è che era il problema? Stavi cercando di far eseguire un programma che creava dei grafici con delle cose che lui sta studiando Ingegneria Nucleare. Perché usava Gemini? Sì. E uno dice Gemini è più scarso per questo non riesce. In realtà non è così. Vero Paolo? Abbiamo visto che Gemini, Claude, CgPT, sono tutti incredibili. Dobbiamo dargli il contesto giusto. Usando Gemini CLI, quindi tipo un Claude Code di Gemini, risolve i problemi al posto tuo e non solo fa tutto il contesto, ma poi riesce anche a capire bene qual è il vero problema e in quanto ci ha messo, tipo due minuti, forse un minuto. E praticamente ci ha anche creato un file che ci spiega appunto tutto il problema e come è stato risolto. Quindi ricordiamoci sempre il contesto dell'intelligenza artificiale, non usiamo i chatbot del cazzo, ma gli agenti, l'intelligenza artificiale, che eseguono cose nel nostro computer Sono la svolta.

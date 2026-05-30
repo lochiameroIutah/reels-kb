@@ -18,15 +18,18 @@ CTA FOLLOW: sì
 LINK IN CAPTION: sì (matteozampieri.com/vibecode)
 
 --- CATEGORIA ---
-CATEGORIA: tool_gratuiti
-TAG: vibecoding, vibecode, intelligenzaartificiale, ai, ia
-TOPIC: Matteo Zampieri mostra come creare un'applicazione per trascrivere audio di Whatsapp con l'intelligenza artificiale
+CATEGORIA: tutorial_ai
+TAG: vibecode, app-pie, intelligenza-artificiale, sviluppo-app, whatsapp-trascrizione
+TOPIC: Come utilizzare Vibecode per creare un'app di trascrizione vocale di Whatsapp con l'intelligenza artificiale
 
 --- HOOK TESTUALE (dal frame) ---
-QUESTA COSA È
+Ti ho messo il nome dell'app che ti permette di creare la tua app in descrizione
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con un cappotto beige guarda verso la camera, probabilmente in un corridoio o un'area di servizio con illuminazione fluorescente e un soffitto grigio. Sembra di essere in un contesto urbano, forse una stazione o un aeroporto.
+Un uomo in un corridoio di un centro commerciale o aeroporto parla a una app che permette di creare un'altra app. Viene mostrata una schermata dell'app e il protagonista che gesticola in vari frame.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Appy Pie
 
 --- CAPTION COMPLETA ---
 Ecco come si chiama questa App per creare dal telefono la tua app personale
@@ -48,4 +51,4 @@ Io sono Matte Zampieri il tuo smanettone di fiducia, noi ci vediamo ad un prossi
 #vibecoding #vibecode #intelligenzaartificiale #ai #ia
 
 --- TRASCRIZIONE AUDIO ---
-Questa cosa è senza senso, sono qui che sto aspettando un mio amico perché devo andare a festeggiare Capodanno, c'è lo zaino E nel frattempo che aspettavo ho costruito con l'intelligenza artificiale questa applicazione completamente funzionante Quest'app principalmente servirà a trascrivere qualsiasi audio di Whatsapp completamente gratis Sono delle tecnologie super comode ma che nessuno conosce Io sono Matteo Zampieri, il tuo smanitore di fiducia qui alla stazione di Bologna Noi ci vediamo in un prossimo video, ricordati di seguirmi se ancora non l'hai fatto
+Questa cosa è senza senso, sono qui che sto aspettando un mio amico perché devo andare a festeggiare Capodanno, c'è lo zaino. E nel frattempo che aspettavo ho costruito con l'intelligenza artificiale questa applicazione completamente funzionante. Quest'app principalmente servirà a trascrivere qualsiasi audio di Whatsapp completamente gratis. Sono delle tecnologie super comode ma che nessuno conosce. Io sono Matteo Zampieri, il tuo smanitone di fiducia qui alla stazione di Bologna. Noi ci vediamo in un prossimo video, ricordati di seguirmi se ancora non l'hai fatto.

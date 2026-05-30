@@ -19,15 +19,18 @@ CTA FOLLOW: no
 LINK IN CAPTION: no
 
 --- CATEGORIA ---
-CATEGORIA: tutorial_ai
-TAG: intelligenzaartificiale, sora, chatgpt
-TOPIC: Il video spiega come accedere al nuovo social network Sora, creato dalla stessa azienda di ChatGPT, che consente di pubblicare video creati con l'intelligenza artificiale
+CATEGORIA: news_ai
+TAG: sora, chatgpt, intelligenza-artificiale, video-gratuiti
+TOPIC: Il nuovo social network Sora, creato dalla stessa azienda di ChatGPT, consente di pubblicare video creati con l'intelligenza artificiale gratuitamente
 
 --- HOOK TESTUALE (dal frame) ---
-Quest'App ti fa creare video con intelligenza artificiale GRATIS Te lo mando se mi scrivi un messaggio con scritto SORA Sto esportando questo video dove vi spiego come avere il nuovo social
+Quest'App ti fa creare video con intelligenza artificiale GRATIS
 
 --- DESCRIZIONE VISIVA ---
-Uno screenshot di un video editing software su un laptop, con una finestra popup che mostra una persona. Sembra che l'utente stia creando un video con un'app di intelligenza artificiale.
+Il video mostra una persona che utilizza un'applicazione per creare video con l'intelligenza artificiale. Inizia mostrando la registrazione di uno schermo di un computer con una interfaccia di editing video, poi passa a mostrare come utilizzare l'app su uno smartphone. La persona interagisce con l'app, mostrando come si possono creare video con l'intelligenza artificiale gratuitamente. Viene mostrata anche una schermata con un messaggio che invita a scrivere 'SORA' per ottenere informazioni sull'app.
+
+--- PRODOTTI / TOOL VISIBILI ---
+SORA
 
 --- CAPTION COMPLETA ---
 Scrivimi SORA per messaggio privato e te lo mando 
@@ -47,4 +50,4 @@ io sono il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video!
 #intelligenzaartificiale #sora2 #risparmiare #chatgpt #ia
 
 --- TRASCRIZIONE AUDIO ---
-Ragazzi sto esportando questo video dove vi spiego come avere il nuovo social network di ChatGPT che non è ancora disponibile in Italia, che vi permette di generare video con l'intelligenza artificiale completamente gratuito, vi aggiornano appena esce, non vedo l'ora di farvelo vedere.
+Ragazzi sto esportando questo video dove vi spiego come avere il nuovo social network di ChatGPT che non è ancora disponibile in Italia, che vi permette di generare video con l'intelligenza artificiale completamente gratuito. Vi aggiornano appena esce, non vedo l'ora di farvelo vedere.

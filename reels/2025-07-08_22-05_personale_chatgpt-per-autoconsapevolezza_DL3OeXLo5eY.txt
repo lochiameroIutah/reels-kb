@@ -18,15 +18,18 @@ CTA FOLLOW: sì
 LINK IN CAPTION: no
 
 --- CATEGORIA ---
-CATEGORIA: personale
-TAG: intelligenza artificiale, consapevolezza, chatgpt
-TOPIC: Il video parla di come utilizzare ChatGPT per ottenere feedback onesti e migliorare la propria lucidità
+CATEGORIA: tutorial_ai
+TAG: chatgpt, consapevolezza, intelligenza-artificiale, automazione, tool-di-ai
+TOPIC: Come utilizzare ChatGPT per riconoscere errori e prendere decisioni più lucide
 
 --- HOOK TESTUALE (dal frame) ---
 Vuoi che ChatGPT ti dica se stai facendo una cazzata? Fai questo
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con una maglietta beige è chino su un tablet nero poggiato su un tavolo in legno, con un frigorifero decorato con adesivi alle sue spalle.
+Un uomo in una cucina con un laptop, mostrato in vari momenti di interazione con esso, espressioni facciali che vanno dalla concentrazione allo sconforto
+
+--- PRODOTTI / TOOL VISIBILI ---
+ChatGPT
 
 --- CAPTION COMPLETA ---
 Inizia scrivendo questo:
@@ -57,4 +60,4 @@ Rimani utile, ma anche spietato. Sei qui per aiutarmi a evitare errori grossi, n
 #intelligenzaartificiale #chatgptprompts #ai #consapevolezza #chatgpthacks #utile
 
 --- TRASCRIZIONE AUDIO ---
-Grazie a tutti.
+We're burning up the room, I'm coming up for air, whenever I'm with you, fire, fire.

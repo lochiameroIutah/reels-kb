@@ -20,14 +20,17 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: confronto_ai
-TAG: chatgpt, gemini, intelligenza artificiale
-TOPIC: Il video descrive le alternative più potenti e convenienti a ChatGPT come Gemini
+TAG: chatgpt, gemini, risparmio, intelligenza-artificiale, tool-alternativi
+TOPIC: Come sostituire ChatGPT con Gemini per ottenere risultati più efficaci e risparmiare tempo e denaro
 
 --- HOOK TESTUALE (dal frame) ---
-Rispondi al commento di Simone difficileissimo creare una nuova pagina dal codice, o migliorare l'estetica.. ma poi mi immagino " ChatGPT migliorami l'estetica " 600 risposte inutili perchè non ha idea di cosa tu voglia
+difficilissimo creare una nuova pagina dal codice, o migliorare l'estetica.. ma poi mi immagino " ChatGPT migliori l'estetica" " 400 risposte inutili perchè non ha idea di cosa tu voglia
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con la mano alzata davanti ad uno schermo, con una finestra sul fondo
+Il video mostra un uomo che parla e spiega qualcosa. Inizia con una foto dell'uomo, poi si passa a screenshot di un computer con una finestra di chat aperta e un messaggio che parla di ChatGPT. Viene mostrato un computer con una schermata di Gemini e una di Google. L'uomo continua a parlare e a gesticolare. Viene mostrata una mano che indica qualcosa sullo schermo del computer. L'uomo si rivolge direttamente alla telecamera. L'attenzione è focalizzata sul modo in cui ChatGPT può essere utilizzato per migliorare l'estetica di una pagina.
+
+--- PRODOTTI / TOOL VISIBILI ---
+ChatGPT, Gemini
 
 --- CAPTION COMPLETA ---
 Non Usare ChatGPT nel 2026 per favore!
@@ -43,4 +46,4 @@ Se non lo sapevi 👉 clicca segui @themattvision
 Io sono Matteo Zampieri, il tuo smanettone di fiducia noi ci vediamo ad un prossimo video!￼￼￼
 
 --- TRASCRIZIONE AUDIO ---
-Ma siamo completamente impazziti nel 2026 di usare CiaGPT è estremamente inutile e ti fa solo perdere tempo. Solo perché è il più famoso non significa che sia il migliore. Anzi a Doddi ci sono una marea di intelligenza artificiale come Claude e Gemini. Claude super potente ma super costoso. Gemini invece nell'abbonamento normale quello da praticamente 20 euro al mese come CiaGPT che però per il primo mese ce l'hai a 0 euro. Oltre ad arti Gemini che è come c'è GPT ma ti permette di creare le tue app ad esempio io qui ho creato una random lista della spesa Sblocca l'intelligenza artificiale in tutto il mondo di Google, ti fa generare i video, ti fa generare tutte le immagini, ti dà anche 2000 giga di spazio sul Google Drive Se non sapevi queste cose è perché non segui Matteo Zampieri, lo smanettone di fiducia, piacere di conoscerti Noi ci vediamo ad un prossimo video e ricordati di seguirmi se ancora non l'hai fatto perché è gratis
+Ma siamo completamente impazziti. Nel 2026 usare CiaGPT è estremamente inutile e ti fa solo perdere tempo. Solo perché è il più famoso non significa che sia il migliore. Anzi, a Doddi ci sono una marea di intelligenza artificiale come Clawde e Gemini. Clawde super potente ma super costoso. Gemini, invece, nell'abbonamento normale, quello da praticamente 20 euro al mese come CiaGPT, che però per il primo mese ce l'hai a 0 euro, oltre a darti Gemini, che è come CiaGPT ma ti permette di creare le tue app. Ad esempio io qui ho creato una random lista della spesa. Si blocca l'intelligenza artificiale in tutto il mondo di Google, ti fa generare i video, ti fa generare tutte le immagini, ti dà anche 2000 giga di spazio sul Google Drive. Se non sapevi queste cose è perché non segui Matteo Zampieri, lo smanettone di fiducia, piacere di conoscerti. Noi ci vediamo ad un prossimo video e ricordati di seguirmi se ancora non l'hai fatto perché è gratis.

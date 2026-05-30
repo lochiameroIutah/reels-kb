@@ -20,14 +20,17 @@ LINK IN CAPTION: sì (matteozampieri.com/vibe-motion)
 
 --- CATEGORIA ---
 CATEGORIA: tutorial_ai
-TAG: intelligenza artificiale, motion design, animazione, ai
-TOPIC: Creare animazioni con intelligenza artificiale utilizzando Claude e Higgsfield
+TAG: claude-ai, higgsfield, motion-design, intelligenza-artificiale, automazione
+TOPIC: Come utilizzare Claude e Higgsfield per creare animazioni con l'intelligenza artificiale
 
 --- HOOK TESTUALE (dal frame) ---
 Questa app distrugge completamente qualsiasi app di presentazioni
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con la maglietta bianca guarda qualcosa fuori campo con un'espressione di incredulità, mentre sullo sfondo si vede un uscio marrone scuro aperto con una luce intensa provenire da fuori.
+Il video mostra un uomo che presenta un'app che crea animazioni e transizioni per presentazioni. Viene mostrata una schermata dell'app con opzioni per creare animazioni tra due immagini e scegliere preset. L'uomo gesticola e parla mentre sullo sfondo compaiono screenshot dell'app in uso e un orologio da viaggio.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Opus 4.8
 
 --- CAPTION COMPLETA ---
 Inizia facendo questo:
@@ -63,4 +66,4 @@ Io sono Matteo Zampieri, il tuo smanettone di fiducia, noi ci vediamo ad un pros
 #intelligenzaartificiale #claudeai #motiondesign #animazione #ai
 
 --- TRASCRIZIONE AUDIO ---
-Non ci posso credere, cioè vi ricordate che è uscito Claude che ti fa fare le presentazioni con l'intelligenza artificiale incredibili, pazzesche? Ecco, nelle ultime ore lo stesso Claude insieme a Higgsfield hanno collaborato insieme per creare animazioni con l'intelligenza artificiale. Cioè creare questa roba qua, di solito la pagheresti migliaia di euro. E adesso ti basterà andare su CiaGPT, ti crea il prompt per l'animazione, tutto in termini tecnici, poi vai su Higgsfield, vai in modalità vibe motion e in 4.4.8 te l'ha già creata. In questo modo puoi risparmiare centinaia di ore e migliaia di euro Non ti crea una cosa perfetta come un motion designer professionista Ma questo è solamente l'inizio Quindi i motion graphics sono in pericolo Io credo di no Il link te l'ho messo in descrizione Io sono Matteo Zampieri, il tuo smanettone di fiducia E tu se vuoi rimanere aggiornato Accertati di non essere in questo 90%
+Non ci posso credere, cioè vi ricordate che è uscito Claude che ti fa fare le presentazioni con l'intelligenza artificiale incredibili, pazzesche? Ecco, nelle ultime ore lo stesso Claude insieme a Higgsfield hanno collaborato insieme per creare animazioni con l'intelligenza artificiale. Cioè creare questa roba qua, di solito la pagheresti migliaia di euro. E adesso ti basterà andare su CiaGPT, ti crea il prompt per l'animazione, tutto in termini tecnici, poi vai su Higgsfield, vai in modalità vibe motion e in 4348 te l'ha già creata. In questo modo puoi risparmiare centinaia di ore e migliaia di euro. Non ti crea una cosa perfetta come un motion designer professionista, ma questo è solamente l'inizio. Quindi i motion graphics sono in pericolo, io credo di no. Il link te l'ho messo in descrizione. Io sono Matteo Zampieri, il tuo smanettone di fiducia e tu se vuoi rimanere aggiornato accertati di non essere in questo 90%.

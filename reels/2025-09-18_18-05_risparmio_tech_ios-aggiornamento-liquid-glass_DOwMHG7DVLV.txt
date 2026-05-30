@@ -19,14 +19,17 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: risparmio_tech
-TAG: ios26, iPhone, aggiornamento
-TOPIC: Il motivo per cui non vale la pena aggiornare il nuovo iPhone con il nuovo aggiornamento Liquid Glass
+TAG: ios-26, liquid-glass, iphone, apple, aggiornamento, risparmio
+TOPIC: Il nuovo aggiornamento iOS 26 con Liquid Glass non offre funzionalità interessanti e potrebbe ridurre la durata della batteria, quindi non vale la pena aggiornare il proprio iPhone
 
 --- HOOK TESTUALE (dal frame) ---
 POV: Vuoi aggiornare il tuo iPhone per il Liquid Glass
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con la pelle olivastra e capelli castani corti indossa una maglietta beige. Guarda verso destra con un'espressione seria e un accenno di sorriso, mentre parla alla telecamera. Lo sfondo è una parete bianca con un angolo di un quadro in legno marrone.
+Una serie di 9 fotogrammi che mostrano un uomo in una maglietta bianca che parla e gesticola. Le espressioni facciali e i gesti dell'uomo variano, mostrando diverse emozioni e reazioni. Non ci sono screenshot di terminali, schermate di app/siti, diagrammi, UI di prodotti o codice mostrato.
+
+--- PRODOTTI / TOOL VISIBILI ---
+iPhone
 
 --- CAPTION COMPLETA ---
 Te ha già aggiornato l’iPhone ? 
@@ -34,4 +37,4 @@ Te ha già aggiornato l’iPhone ?
 #ios26 #risparmiare #ia #apple #nuovoiphone #aggiornamento
 
 --- TRASCRIZIONE AUDIO ---
-Ha senso aggiornare il nuovo iPhone con il nuovo aggiornamento Liquid Glass? Assolutamente no, per un semplice motivo, ovvero non cambia niente. Solo la grafica, che è più pesante, quindi tu comincerai a sentire l'esigenza di dover comprare un nuovo iPhone. Soprattutto perché la tua batteria comincerà a scendere vertiginosamente. Non c'è alcuna tipo di funzionalità nuova veramente interessante, c'è solamente questo Liquid Glass. Ho aggiornato? Sì. Me ne sono pentito? Sì, perché il mio pensiero fisso adesso è solamente devo comprare il nuovo iPhone.
+Ha senso aggiornare il nuovo iPhone con il nuovo aggiornamento Liquid Glass? Assolutamente no, per un semplice motivo, ovvero non cambia niente. Solo la grafica, che è più pesante, quindi tu cominciarei a sentire l'esigenza di dover comprare un nuovo iPhone. Soprattutto perché la tua batteria comincerà a scendere vertiginosamente. Non c'è alcun tipo di funzionalità nuova veramente interessante, c'è solamente questo Liquid Glass. Ho aggiornato? Sì. Me ne sono pentito? Sì, perché il mio pensiero fisso adesso è solamente devo comprare il nuovo iPhone.

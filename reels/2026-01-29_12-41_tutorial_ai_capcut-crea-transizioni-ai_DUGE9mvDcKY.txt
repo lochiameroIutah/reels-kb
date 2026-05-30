@@ -20,14 +20,17 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: tutorial_ai
-TAG: capcut, intelligenza-artificiale, transizioni, sticker
-TOPIC: Guida all'utilizzo di CapCut per creare transizioni e sticker personalizzati con intelligenza artificiale
+TAG: capcut, intelligenza-artificiale, transizioni-ai, sticker-personalizzati
+TOPIC: Come utilizzare l'intelligenza artificiale di CapCut per creare transizioni e sticker personalizzati
 
 --- HOOK TESTUALE (dal frame) ---
 Questa funzione di CapCut ti fa risparmiare troppe ore del tuo tempo
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con una maglietta grigia scura guarda la telecamera con un'espressione sorridente. Sullo sfondo si vede un monitor con un video in miniatura che mostra una donna. L'ambiente sembra essere un' area di lavoro o una postazione per la creazione di contenuti digitali.
+Il video mostra una serie di screenshot e riprese di una coppia che utilizza l'app di editing video CapCut. Inizia con una coppia che gesticola e parla, poi passa a una schermata dell'app CapCut che mostra opzioni per generare automaticamente materiali video con descrizioni. Viene selezionato uno stile chiamato 'Pittura su olio'. La coppia appare nuovamente mentre la donna mostra come utilizzare la funzione e termina con una scena dove la coppia sembra discutere o ridere insieme davanti a un computer.
+
+--- PRODOTTI / TOOL VISIBILI ---
+CapCut
 
 --- CAPTION COMPLETA ---
 Ecco la guida completa:
@@ -77,4 +80,4 @@ Noi ci vediamo ad un prossimo video!
 #capcut #intelligenzaartificiale #ia #transizioni #contentcreator
 
 --- TRASCRIZIONE AUDIO ---
-Non so se lo sai ma CapCut è la prima applicazione che ti permette di usare l'intelligenza artificiale per creare le transizioni guarda qua! Cosa puoi fare? Più semplice di una piccola pillola di content c'è solo CapCut. Infatti nell'abbonamento pro hai i crediti per creare transizioni di questo tipo. E' semplice perché tra le clicche che hai ti basta cliccare il quadratino dove normalmente inseriresti una transizione e scegliere invece quella che utilizza la i. Ma c'è di più, infatti CapCut utilizza la i anche per farti creare degli sticker personalizzati. Infatti ti basterà andare su sticker, poi clicca su generati con le i e qui in basso potrai incollare il tuo prompt, cliccare su regola. Io in questo caso scelgo pittura su olio, posso vedere qui tutti gli esempi di tutti gli stili grafici e poi clicco su genera e attenzione di cliccare su consenti. D'ora in poi potrai decorare i tuoi video in maniera super originale, guarda qua. Ecco qui gli sticker che mi ha creato Vado a cliccare sul più ed eccolo qui Che me l'ha inserito all'interno del mio video Che posso prendere e spostare dove più mi piace Io sono Matteo Zampieri, il tuo smanitore di fiducia E io sono Flo, la tua content di fiducia Noi ci vediamo ad un prossimo video Ricordati di seguirci se ancora non l'hai fatto
+Non so se lo sai ma CapCat è la prima applicazione che ti permette di usare l'intelligenza artificiale per creare le transizioni, guarda qua! Cosa puoi fare? Più semplice di una piccola pillola di content, c'è solo CapCat. Infatti, nell'abbonamento pro hai i crediti per creare transizioni di questo tipo. È semplice perché tra le clicche che hai, ti basta cliccare il quadratino dove normalmente inseresti una transizione e scegliere invece quella che utilizza la i. Ma c'è di più, infatti CapCut utilizza la i anche per farti creare degli sticker personalizzati. Infatti ti basterà andare su sticker, poi clicca su generati con l'AI e qui in basso potrai incollare il tuo prompt, cliccare su regola, io in questo caso scelgo pittura su olio, posso vedere qui tutti gli esempi di tutti gli stili grafici e poi clicco su genera e attenzione di cliccare su consenti. D'ora in poi potrai decorare i tuoi video in maniera super originale, guarda qua, ecco qui gli sticker che mi ha creato, vado a cliccare sul più ed eccolo qui che me l'ha inserito all'interno del mio video che posso prendere e spostare dove più mi piace. Io sono Matteo Zampieri, il tuo smanettone di fiducia. Io sono Flo, la tua content di fiducia. Noi ci vediamo ad un prossimo video, ricordati di seguirci se ancora non l'hai fatto.

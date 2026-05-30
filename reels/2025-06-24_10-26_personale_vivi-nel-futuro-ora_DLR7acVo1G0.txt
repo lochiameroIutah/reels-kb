@@ -19,14 +19,17 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: personale
-TAG: intelligenza artificiale, chatgpt, motivation
-TOPIC: Il creator italiano di AI e tech condivide la sua esperienza con l'intelligenza artificiale
+TAG: intelligenza-artificiale, chatgpt, veo3, automazione
+TOPIC: Il creator italiano @themattvision racconta come utilizza ChatGPT e l'intelligenza artificiale per eseguire la sua applicazione e creare contenuti
 
 --- HOOK TESTUALE (dal frame) ---
 Pov: hai scoperto il bro che vive nel 2050
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con un'espressione divertita e un braccio alzato, indossa una maglietta bianca con un'immagine non definita, sfocata
+Il video mostra un uomo che parla di vivere nel 2050 e di lavorare con l'intelligenza artificiale. Vengono mostrate schermate di un computer con codice, un telefono cellulare e una presentazione di una città futuristica. L'uomo sembra lavorare su progetti futuri e tecnologici, probabilmente legati all'intelligenza artificiale.
+
+--- PRODOTTI / TOOL VISIBILI ---
+[nessuno]
 
 --- CAPTION COMPLETA ---
 L’ADHD è dietro l’angolo 🙋‍♂️
@@ -36,4 +39,4 @@ Rimani sul pezzo 👉 Clicca segui @themattvision
 #intelligenzaartificiale #chatgpt #motivation #ia #chatgptalternative #veo3 #risparmiare #storytelling #futuro
 
 --- TRASCRIZIONE AUDIO ---
-Ora sinceramente ditemi che non sono nel futuro, cioè praticamente sto eseguendo la mia applicazione creata con l'intelligenza artificiale incredibile. Allo stesso tempo sto scrivendo un'email con chat GPT e ho creato un video con l'intelligenza artificiale completamente gratuito. Ragazzi, il vostro smanettone di fiducia mi ha appena creato e ha scoperto un metodo fottuto. Raga, raga, ma l'intelligenza artificiale non ti farà il caffè, non ti farà le pulizie, però sicuramente è un fottuto game changer. E se ancora non sai che cosa è ChagPT, come si utilizza, non conosci Grok, l'alternativa ChagPT e molto altro, dovresti seguirmi perché hai un sacco di cose da imparare.
+Ora, sinceramente, ditemi che non sono nel futuro. Praticamente sto eseguendo la mia applicazione creata con l'intelligenza artificiale incredibile. Allo stesso tempo sto scrivendo un'email con ChatGPT e ho creato un video con l'intelligenza artificiale completamente gratuito. Ciao ragazzi, il vostro smanettone di fiducia mi ha appena creato e ha scoperto un metodo fottuto. Raga, raga, ma l'intelligenza artificiale non ti farà il caffè, non ti farà le pulizie, però sicuramente è un fottuto game changer. E se ancora non sai che cosa è ChatGPT, come si utilizza, non conosci Grok, l'alternativa ChatGPT e molto altro, dovresti seguirmi perché hai un sacco di cose da imparare.

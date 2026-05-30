@@ -20,14 +20,17 @@ LINK IN CAPTION: sì (matteozampieri.com/higgsfield)
 
 --- CATEGORIA ---
 CATEGORIA: tutorial_ai
-TAG: intelligenza artificiale, higgsfield, motion control
-TOPIC: Un tutorial su come utilizzare Higgsfield per creare video con motion control
+TAG: higgsfield, motion-control, intelligenza-artificiale, video-creazione
+TOPIC: Come utilizzare il tool Higgsfield con la funzione Motion Control per creare video con personaggi che si muovono in base a un video di riferimento
 
 --- HOOK TESTUALE (dal frame) ---
 L'IA ormai è impazzita
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con una maglietta grigia, seduto su una sedia da ufficio, guarda direttamente la telecamera con una mano alzata vicino alla testa
+Una serie di screenshot da un video che mostrano diversi presentatori in varie pose e abiti mentre parlano e gesticolano. Non sono presenti screenshot di terminali, schermate di app/siti, diagrammi, UI di prodotti, codice o altro B-roll informativo.
+
+--- PRODOTTI / TOOL VISIBILI ---
+[nessuno]
 
 --- CAPTION COMPLETA ---
 Puoi farlo gratis, ti spiego:
@@ -65,4 +68,4 @@ Io sono il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video!
 #intelligenzaartificiale #higgsfield #motioncontrol #risparmiare #tutorial
 
 --- TRASCRIZIONE AUDIO ---
-Grazie a tutti.
+Grazie a tutti!

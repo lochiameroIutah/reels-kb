@@ -19,14 +19,17 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: tutorial_ai
-TAG: intelligenza artificiale, evento, pagine web
-TOPIC: Creare una pagina web interattiva con intelligenza artificiale per eventi
+TAG: trae-ai, intelligenza-artificiale, eventi-aziendali, automazione
+TOPIC: Come usare Trae.ai per creare una pagina di evento con intelligenza artificiale
 
 --- HOOK TESTUALE (dal frame) ---
-Ogni evento dovrebbe essere fatto così bene 😍
+Ogni evento dovrebbe essere fatto così bene
 
 --- DESCRIZIONE VISIVA ---
-Uno screenshot di un computer, con una mano destra che punta lo schermo. Sullo schermo, una grafica che sembra un'anteprima di un evento su un'applicazione.
+Il video mostra una serie di screenshot di un computer, apparentemente un'organizzazione o promozione di eventi. Inizia con immagini di un evento specifico, mostrando dettagli come data, luogo e ingresso gratuito. Successivamente, si vedono immagini di una persona che interagisce con un'applicazione o un sito web, forse per la gestione degli eventi o per l'accesso agli eventi. Viene mostrato anche un processo di registrazione o prenotazione per un evento, con campi per inserire informazioni e un pulsante per confermare.
+
+--- PRODOTTI / TOOL VISIBILI ---
+[nessuno]
 
 --- CAPTION COMPLETA ---
 Per crearla GRATIS fai così:
@@ -56,4 +59,4 @@ Nel frattempo 👉 clicca segui @themattvision
 #intelligenzaartificiale #ai #risparmiare #eventiaziendali #eventi #party
 
 --- TRASCRIZIONE AUDIO ---
-Guardate un po' questa qua è la paginetta del link in bio e dei volantini che hanno un QR code dell'evento Fresh & Base. L'ho creata io con l'intelligenza artificiale, a parte il logo non l'ho fatto io, l'ha fatto un'illustratrice. Però c'è un problema, adesso cavolo il 18 luglio è passato, le persone che entrano in questa pagina vedono unisciti al gruppo e non sono più interessate perché dice questo evento è passato. Chi se ne frega. Allora ho creato un pulsantino magico che quando uno lo preme da dietro le quinte succede questo. Si vede le persone che scansionano il QR code Che vanno nel link in bio e cazzi e mazzi Praticamente vedono questa roba qui Che è come è andato l'evento E poi clicchi qui, scopri il prossimo party E da lì ti dice il prossimo party sta arrivando Entra nel gruppo segreto E praticamente ti chiede i dati Per poi accedere al gruppo segreto Questa è veramente, secondo me, una figata E ogni evento dovrebbe avere come minimo una roba del genere Cosa ne pensate?
+Guardate un po', questa qua è la paginetta del link in bio e dei volantini che hanno un QR code dell'evento Fresh & Base. L'ho creata io con l'intelligenza artificiale, a parte il logo, non l'ho fatto io, l'ha fatto un'illustratrice, però c'è un problema. Adesso, cavolo, il 18 luglio è passato, le persone che entrano in questa pagina vedono unisciti al gruppo e non sono più interessate perché dice questo evento è passato, chi se ne frega. Allora ho creato un pulsantino magico che quando uno lo preme, da dietro le quinte, succede questo. Si vede le persone che scansionano il QR Code, che vanno nel LinkinBio e cazzi e mazzi, praticamente vedono questa roba qui, che è come è andato l'evento, e poi clicchi qui, scopri il prossimo party e da lì ti dice il prossimo party sta arrivando, entra nel gruppo segreto e praticamente ti chiede i dati per poi accedere al gruppo segreto. Questa è veramente, secondo me, una figata e ogni evento dovrebbe avere come minimo una roba del genere. Cosa ne pensate?

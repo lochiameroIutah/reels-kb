@@ -19,14 +19,17 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: tutorial_ai
-TAG: macos, apple, word, trick
-TOPIC: Un trick per cancellare velocemente il testo su Word su macOS
+TAG: macos, word, scorciatoie-da-tastiera, editing-veloce, productivity-tech
+TOPIC: Come utilizzare la scorciatoia di cancellazione rapida con il tasto Option su MacOS per migliorare l'efficienza nella scrittura su Word
 
 --- HOOK TESTUALE (dal frame) ---
 Come abbiamo fatto ad usare il computer fino ad oggi senza sapere questa cosa?!
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con una maglietta rosa, seduto davanti a un computer. Sembra che stia parlando e gesticolando con la mano alzata.
+Un uomo in una maglietta rosa interacts con un computer, mostrando varie funzioni di editing del testo. Inizia tenendo un pezzo di carta (forse un documento stampato) e poi passa a utilizzare la tastiera. Mostra come selezionare del testo con il mouse e cancella una parte di testo. Viene mostrato anche un terminale o una finestra di comando con del codice e alcune operazioni di cancellazione rapida di testo. L'uomo sembra dimostrare un trucco o una scorciatoia per migliorare l'efficienza nell'uso del computer.
+
+--- PRODOTTI / TOOL VISIBILI ---
+[nessuno]
 
 --- CAPTION COMPLETA ---
 Ammetto che questa cosa l’ho scoperta poco tempo fa e mi ha completamente svoltato.
@@ -40,4 +43,4 @@ Io sono il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video!
 #tutorial #trick #macos #apple #word
 
 --- TRASCRIZIONE AUDIO ---
-Non so se lo sai ma c'è un trick segreto che nessuno ti dice che è una cazzata e ti svolta la vita quando stai scrivendo qualcosa ad esempio su Word. Infatti quando io voglio cancellare qualcosa come vedi è estremamente lento. E la soluzione qual è? Clicca, trascina col mouse, mille cazzi e mazzi. Per fortuna il cittoso manetto di fiducia è pronto qui a darti una mano. Mentre state premendo questo pulsante per cancellare cominciate a premere Option e vedete che andrà in una velocità incredibile. D'ora in poi potrai cancellare senza per forza usare il mouse e sarai estremamente più veloce. Io sono Matteo Zampieri, il tuo smanetto è in fiducia, noi ci vediamo ad un prossimo video, ricordati di seguirmi se ancora non l'hai fatto.
+Non so se lo sai ma c'è un trick segreto che nessuno ti dice che è una cazzata e ti svolta la vita quando stai scrivendo qualcosa ad esempio su Word. Infatti quando io voglio cancellare qualcosa come vedi è estremamente lento. E la soluzione qual è? Clicca, trascina col mouse, mille cazzi e mazzi. Per fortuna il Cettosmanetone di fiducia è pronto qui a darti una mano. Mentre state premendo questo pulsante per cancellare cominciate a premere Option e vedete che andrà in una velocità incredibile. D'ora in poi potrai cancellare senza per forza usare il mouse e sarai estremamente più veloce. Io sono Matteo Zampieri, il tuo smanetto è di fiducia, noi ci vediamo ad un prossimo video, ricordati di seguirmi se ancora non l'hai fatto.

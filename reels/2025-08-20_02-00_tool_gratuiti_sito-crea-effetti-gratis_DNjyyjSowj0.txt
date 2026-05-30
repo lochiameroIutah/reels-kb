@@ -19,14 +19,17 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: tool_gratuiti
-TAG: intelligenzaartificiale, effetti, risparmiare
-TOPIC: Il sito endlesstools.io offre strumenti gratuiti per creare testi 3D ed effetti
+TAG: endless-tools, effetti-3d, tool-online-gratuito, intelligenza-artificiale, creazione-design
+TOPIC: Come utilizzare Endless Tools per creare testi 3D e effetti grafici
 
 --- HOOK TESTUALE (dal frame) ---
 Questo sito crea gratis degli effetti ma lo fa con stile
 
 --- DESCRIZIONE VISIVA ---
-Un monitor acceso con uno schermo nero poggiato su un tavolo in legno accanto a degli occhiali. Sembra che il monitor sia spento. Sotto il monitor ci sono degli oggetti. Una mano destra si trova vicino al monitor, quasi a sfiorarlo.
+La griglia mostra una presentazione di un tool online chiamato Endless Tools. Inizia con schermate che mostrano il sito web in azione, generando effetti visivi. Vengono mostrati screenshot del sito web su un monitor, con il codice sorgente e vari effetti grafici. Successivamente, appaiono immagini colorate con filtri applicati, come una ragazza con un visore e pixel art sul viso. Le schermate del computer mostrano il sito web Endless Tools, enfatizzando la creazione di design audaci e vari effetti.
+
+--- PRODOTTI / TOOL VISIBILI ---
+endless.tools
 
 --- CAPTION COMPLETA ---
 Si chiama così:

@@ -18,18 +18,21 @@ CTA FOLLOW: no
 LINK IN CAPTION: no
 
 --- CATEGORIA ---
-CATEGORIA: confronto_ai
-TAG: chatgpt, analisi video, scam
-TOPIC: Il creator prova a utilizzare ChatGPT per analizzare un video e scopre una possibile truffa
+CATEGORIA: tutorial_ai
+TAG: chatgpt, analisi-video, elaborazione-contenuto, ai-per-video
+TOPIC: Come utilizzare ChatGPT per l'analisi dettagliata di video
 
 --- HOOK TESTUALE (dal frame) ---
 POV: HAI TROVATO IL MODO MIGLIORE PER USARE CHATGPT
 
 --- DESCRIZIONE VISIVA ---
-Uno screenshot di un computer che mostra una scena colorata con tre luci gialle a forma di clacson, sullo sfondo un browser aperto e la dock di un Mac in basso
+Il video mostra un metodo per utilizzare ChatGPT per l'analisi di video. Inizia con schermate di un computer che mostrano come caricare un video su ChatGPT e richiedere informazioni su di esso. Il video procede mostrando i risultati dell'elaborazione, con ChatGPT che fornisce dettagli sul video come durata, risoluzione e FPS. Successivamente, ChatGPT analizza il contenuto visivo del video, fornendo dettagli su scene, persone, oggetti riconoscibili, elementi testuali e tipologie di azioni. Le schermate del computer mostrano chiaramente l'interazione con ChatGPT.
+
+--- PRODOTTI / TOOL VISIBILI ---
+ChatGPT
 
 --- CAPTION COMPLETA ---
 Non ci credevo dovevo provarci 😮‍💨 #storytelling
 
 --- TRASCRIZIONE AUDIO ---
-no perché forse non mi è chiaro ti ho dato un video e ti dici quello che c'è hai estratto 10 frame rappresentativi Distribuiti nel video Ora le visualizzo Per darti un'idea Del contenuto visivo Sta elaborando Non sto capendo Mi sembra molto strano Cioè allora Qui dice Ancora analisi in corso Ok ecco l'analisi Dettagliata del video Scendermi C'è la mostro La varietà di colori Dominanti Ciuggerendo Alimentazioni diverse Sì ma vedi Tony tenente al rosso Possibile Eh però vedete Non lo fa Non lo fa per davvero È scam È scam
+No, perché forse non mi è chiaro. Gli ho dato un video e ti dice quello che c'è. Hai estratto 10 frame rappresentativi distribuiti nel video, ora le visualizzo per darti un'idea del contenuto visivo. Sta elaborando? Non sto capendo, mi sembra molto strano. Cioè, allora, qui dice ancora analisi in corso. Ok, ecco l'analisi dettagliata del video. Scendio, mette le scende e mostro una varietà di colori dominanti. Ci sono delle ambientazioni diverse. Sì, ma vedi, Tony tenente al rosso, questo viene? Eh, però vedete, non lo fa, non lo fa per davvero, è scam, è scam.

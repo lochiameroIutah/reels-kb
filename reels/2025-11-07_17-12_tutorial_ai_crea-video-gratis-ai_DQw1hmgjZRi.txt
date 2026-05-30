@@ -19,14 +19,17 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: tutorial_ai
-TAG: intelligenza artificiale, video, creazione video
-TOPIC: Creare video con intelligenza artificiale gratis
+TAG: sora-by-openai, chatgpt, intelligenza-artificiale, creazione-video, account-canadese
+TOPIC: Come utilizzare Sora by OpenAI per creare video con intelligenza artificiale gratuitamente
 
 --- HOOK TESTUALE (dal frame) ---
 Pov: sono le 5 di mattina
 
 --- DESCRIZIONE VISIVA ---
-Una persona con una mano in primo piano che punta lo schermo di un computer con una schermata di creazione account. Sullo schermo, una mano dell'utente sembra cliccare sul pulsante di creazione account.
+Il video mostra una sequenza di eventi che inizia con la visualizzazione di una pagina di registrazione di un account Apple, seguita dalla creazione di un account canadese tramite una pagina segreta. Successivamente, si passa a visualizzare il profilo dell'utente 'John Smith' e poi si cerca l'app 'Sora' sullo store. Viene mostrato il processo di ricerca dell'app Sora, che è descritta come un nuovo social network di chatGPT, e il tentativo di scaricarla senza VPN. Il video termina con il presentatore che si presenta e offre la sua assistenza.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Apple, Sora by OpenAI, ChatGPT
 
 --- CAPTION COMPLETA ---
 Se vuoi trovare il video prova a cercare
@@ -38,4 +41,4 @@ In questo video vediamo come creare video con l’intelligenza artificiale grati
 #chatgpthacks #iphonehacks
 
 --- TRASCRIZIONE AUDIO ---
-Vabbè bro, non hai capito che cosa ho trovato, ho scoperto praticamente questa pagina dell'Apple segreta di sto video di sto tipo, che praticamente ti permette di crearti un account canadese. Vedi che adesso si chiama John Smith, vedi lui adesso non è più in Italia, è in Canada e quindi cosa fa? Va a cercare Sora che è il nuovo social network di chat GPT che ti permette di creare 10 video al giorno. Con l'intelligenza artificiale. E lo scarica senza VPN né niente. Tra l'altro questa persona mi assomiglia un botto, cioè guarda ci assomigliamo, questo qua è il suo codice, se vuoi provare a creare gratis i video con intelligenza artificiale questo è il momento migliore, io sono il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video, ricordati di seguirmi se ancora non l'hai fatta.
+Vabbè, bro, non hai capito che cosa ho trovato. Ho scoperto praticamente questa pagina dell'Apple segreta di sto video di sto tipo, che praticamente ti permette di crearti un account canadese. Vedi che adesso si chiama John Smith? Vedi, lui adesso non è più in Italia, è in Canada e quindi cosa fa? Va a cercare Sora, che è il nuovo social network di ChatGPT che ti permette di creare 10 video al giorno. Con l'intelligenza artificiale. E lo scarica, senza VPN né niente. Tra l'altro questa persona mi assomiglia un botto, cioè guarda ci assomigliamo, questo qua è il suo codice, se vuoi provare a creare gratis i video con intelligenza artificiale questo è il momento migliore, io sono il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video, ricordati di seguirmi se ancora non l'hai fatta.

@@ -19,14 +19,17 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: news_ai
-TAG: intelligenza artificiale, ai, claude, anthropic
-TOPIC: L'intelligenza artificiale può clonarsi per lavorare più velocemente
+TAG: claude-code, dynamic-workflow, anthropic, automazione, intelligenza-artificiale
+TOPIC: Come usare i Dynamic Workflow di Claude Code per parallelizzare il lavoro e aumentare la velocità di elaborazione
 
 --- HOOK TESTUALE (dal frame) ---
 Da oggi l'intelligenza artificiale si clona per andare alla velocità della luce
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con un'espressione perplessa e una mano alzata, sullo sfondo un computer con del codice sullo schermo.
+Il video mostra una serie di screenshot e scene che illustrano l'evoluzione e le capacità di un'intelligenza artificiale. Si parte con l'introduzione di 'Opus 4.8' e si procede con screenshot di terminali, schermate di app/siti, diagrammi e codice. Viene mostrato un uomo che parla e gesticola, probabilmente spiegando il funzionamento e le applicazioni dell'AI. Il B-roll informativo include anche visualizzazioni di messaggi, finestre di chat e interfacce utente.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Opus 4.8, Claude
 
 --- CAPTION COMPLETA ---
 Questa è una di quelle novità che tra sei mesi useranno tutti.
@@ -56,4 +59,4 @@ Io sono il tuo smanettone di fiducia, ci vediamo al prossimo video!
 #intelligenzaartificiale #ai #claude #anthropic  #creatorsearchinsights
 
 --- TRASCRIZIONE AUDIO ---
-Non so se lo sai, ma nonostante parlino di questa nuova versione di Cloud 4.8 che è senza senso, niente da dire, nessuno sta parlando che nello stesso momento hanno pubblicato anche i Dynamic Workflow, che sono rivoluzionari, perché hai presente, no, che quando li usi l'intelligenza artificiale per fare un sito, un'app, questa scrive il codice, lo legge, pensa, li scrive, ecco, figata, però allo stesso tempo lentissimo. Con questo invece Dynamic Workflow l'intelligenza artificiale avvia decine, se no centinaia, di croni di se stessa che lavorano e parlano tra di loro alla velocità della luce e dopo qualche minuto ti mandano un messaggio con il risultato finale ed è assurdo perché è come passare da una persona che lavora per te a un'azienda intera al tuo servizio quindi se prima ci mettevi una settimana adesso ci metti mezza giornata l'unico problema è che consuma veramente tanta però ti consiglio di provarla io sono Matteo Zampieri, il tuo smanetone di fiducia noi ci vediamo in un prossimo video e tu ricordati di seguirmi così non ti perdi tutte queste novità
+Non so se lo sai, ma nonostante parlino di questa nuova versione di Claude 4.8 che è senza senso, niente da dire, nessuno sta parlando che nello stesso momento hanno pubblicato anche i Dynamic Workflow, che sono rivoluzionari, perché hai presente, no, che quando li usi l'intelligenza artificiale per fare un sito, un'app, questa scrive il codice, lo legge, pensa, li scrive, ecco, figata, però allo stesso tempo lentissimo. Con questo invece Dynamic Workflow l'intelligenza artificiale avvia decine se no centinaia di cloni di se stessa che lavorano e parlano tra di loro alla velocità della luce. E dopo qualche minuto ti mandano un messaggio con il risultato finale ed è assurdo perché è come passare da una persona che lavora per te a un'azienda intera al tuo servizio. Quindi se prima ci mettevi una settimana adesso ci metti mezza giornata. L'unico problema è che consuma veramente tanta però ti consiglio di provarla. Io sono Matteo Zampieri, il tuo smanettone di fiducia, noi ci vediamo in un prossimo video e tu ricordati di seguirmi così non ti perdi tutte queste novità.

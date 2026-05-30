@@ -18,15 +18,18 @@ CTA FOLLOW: sì
 LINK IN CAPTION: sì (matteozampieri.com/lista-con-ia)
 
 --- CATEGORIA ---
-CATEGORIA: tool_gratuiti
-TAG: intelligenzaartificiale, ai, chatgpt, claude, todolist
-TOPIC: Un tool gratuito per creare liste di task con l'aiuto dell'intelligenza artificiale
+CATEGORIA: tutorial_ai
+TAG: claude, lista-con-ia, automazione, task-ai, matteo-zampieri
+TOPIC: Come utilizzare la lista con IA di Matteo Zampieri per creare automaticamente liste di task con Claude
 
 --- HOOK TESTUALE (dal frame) ---
-Scusa Matteo, ma non mi sembra possibile che la to-do-list utilizzi le API di Claude, le task Al sono dei template predefiniti. O forse mi è sfuggito qualcosa, o non ho capito io
+Scusa Matteo, ma non mi sembra possibile che la to-do-list utilizzi le API di Claude, le task AI sono del template predefiniti. O forse mi è sfuggito qualcosa, o non ho capito io
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con la maglietta bianca, seduto davanti ad uno sfondo grigio, guarda verso la telecamera con un'espressione pensierosa. La sua mano destra è alzata verso l'alto, come se stesse facendo una domanda o sottolineando un punto. Sullo sfondo compare un commento di un utente su Instagram
+Il video mostra una serie di screenshot e riprese di un uomo che parla e interagisce con un computer. Inizia con una ripresa dell'uomo, seguito da screenshot di una to-do list su un'applicazione web, probabilmente una lista di task AI. L'uomo parla e gesticola mentre si vedono varie schermate del computer, tra cui terminali, siti web e interfacce utente. Le riprese del computer mostrano come l'uomo utilizza delle API per creare task AI, discutendo la sua incredulità sull'utilizzo delle API di Claude per una to-do-list. La maggior parte dei frame mostra screenshot delle schermate del computer, con alcuni frame dedicati alle reazioni e alle parole dell'uomo.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Claude
 
 --- CAPTION COMPLETA ---
 Il link è questo:
@@ -43,4 +46,4 @@ Io sono il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video!
 #intelligenzaartificiale #risparmiare #ai #chatgpt #claude #todolist
 
 --- TRASCRIZIONE AUDIO ---
-Hai capito? C'è la rivoluzione, è proprio questa. Se io adesso attivo la dittatura e dico, devo comprare il pane, devo andare da mangiare al gatto, andare da mia nonna, andare dal medico, comprare le cuffie nuove, regalare delle airpods a qualcuno e rubare le forbici, clicco genera task, lui in automatico adesso mi creerà tutto, guarda un po', sta generando, guarda va, comprare il pane, comprare il cibo per gatto, andare a trovare la nonna, è veramente comodissima eh adesso comunque per provarla andate in questo link qua ma comunque vi faccio vedere questo codice voi scansionate questo e potete andarci valla a provare che è completamente gratuita poi fammi sapere se funziona anche per te
+Hai capito? C'è la rivoluzione, è proprio questa. Se io adesso attivo la dettatura e dico devo comprare il pane, devo andare da mangiare al gatto, andare da mia nonna, andare dal medico, comprare le cuffie nuove, regalare delle airpods a qualcuno e rubare le forbici, clicco genera task, lui in automatico adesso mi creerà tutto. Guarda un po', sta generando... Guarda va, comprare il pane, comprare il cibo per gatto, andare a trovare la nonna... È veramente comodissima eh. Adesso comunque per provarla andate in questo link qua, ma comunque vi faccio vedere questo codice, voi scansionate questo e potete andarci. Falla a provare che è completamente gratuita, poi fammi sapere se funziona anche per te.

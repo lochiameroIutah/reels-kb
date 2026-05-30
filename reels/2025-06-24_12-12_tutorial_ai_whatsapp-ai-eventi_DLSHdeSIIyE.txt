@@ -19,14 +19,17 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: tutorial_ai
-TAG: whatsappai, calendarioconai, intelligenzaartificiale
-TOPIC: Dimostrazione dell'utilizzo di intelligenza artificiale su WhatsApp per la creazione di eventi e promemoria
+TAG: whatsapp-ai, intelligenza-artificiale, memorae, automazione
+TOPIC: Come utilizzare l'intelligenza artificiale di Memorae su WhatsApp per creare eventi e ricevere notifiche
 
 --- HOOK TESTUALE (dal frame) ---
-GUARDATE CHE FIGATA
+Intelligenza Artificiale
 
 --- DESCRIZIONE VISIVA ---
-Uno smartphone che mostra una schermata di WhatsApp con una conversazione in corso e una foto profilo di un uomo, su uno sfondo giallo
+La griglia mostra una serie di screenshot da uno smartphone, raffiguranti schermate di una app di messaggistica istantanea. L'utente sembra utilizzare una qualche applicazione basata sull'intelligenza artificiale per creare eventi sul proprio calendario e ricevere notifiche. Viene mostrato come l'utente interagisce con l'AI per creare un evento denominato 'Meeting con Guglielmo' e impostare promemoria. Le schermate mostrano anche il processo di creazione dell'evento e il coinvolgimento dell'utente con l'intelligenza artificiale per la gestione dei ricordi e delle attività.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Memorae
 
 --- CAPTION COMPLETA ---
 Ok siamo nel futuro 😵
@@ -36,4 +39,4 @@ Rimani sul pezzo 👉 clicca segui @themattvision
 #whatsappai #calendarioconai #calendar #intelligenzaartificiale #whatsapp
 
 --- TRASCRIZIONE AUDIO ---
-Guardate che figata, su WhatsApp c'ho un'intelligenza artificiale che se io gli dico domani ho un evento alle 7 di pomeriggio, aspetta, ha giunto l'evento domani alle 19, di che titolo lo vuoi chiamare? Ci sta, Meeting con Guglielmo. Stai trascrivendo con l'intelligenza artificiale, prende il testo, lo manda ai loro sistemi e ha creato l'evento. Andiamo a vedere, clicco qua, Meeting con Guglielmo, addirittura mi ha messo il link del Google Meet. Ma non è tutto ragazzi, perché guardate un po'. ricordami tra 5 minuti che devo andare a fare la spesa tra 5 minuti mi dirà devi andare a fare la spesa incredibile sinceramente non vedo l'ora di parlarvene nel prossimo anno quindi restate con me seguitemi che così rimaniamo in contatto e ci sentiamo
+Guardate che figata su WhatsApp c'ho un'intelligenza artificiale che se io gli dico domani ho un evento alle 7 di pomeriggio, aspetta aggiunto l'evento domani alle 19, di che titolo lo vuoi chiamare? Ci sta Meeting con Guglielmo. Stai trascrivendo con l'intelligenza artificiale, prende il testo, lo manda ai loro sistemi e ha creato l'evento. Andiamo a vedere, clicco qua, Meeting con Guglielmo. Addirittura mi ha messo il link del Google Meet, ma non è tutto ragazzi, perché guardate un po'. Ricordami tra 5 minuti che devo andare a fare la spesa. Tra 5 minuti mi dirà devi andare a fare la spesa. Incredibile. Sinceramente non vedo l'ora di parlarvene nel prossimo anno, quindi restate con me e seguitemi che così rimaniamo in contatto e ci sentiamo.

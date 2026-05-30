@@ -19,14 +19,17 @@ LINK IN CAPTION: sì (matteozampieri.com/ltx-offline)
 
 --- CATEGORIA ---
 CATEGORIA: news_ai
-TAG: facetune, ltx, intelligenza-artificiale
-TOPIC: LTX 2.3, un modello AI gratuito per generare video di qualità cinematografica offline sul computer
+TAG: ltx-2, facetune, intelligenza-artificiale, video-ai, offline
+TOPIC: LTX 2.3 di Facetune offre video di qualità cinematografica gratuitamente e offline sul computer
 
 --- HOOK TESTUALE (dal frame) ---
-NO BRO, CIOÈ
+The moment before everything changes
 
 --- DESCRIZIONE VISIVA ---
-Un frame di un Reel Instagram contenente due screenshot giustapposti. In alto, il primo è il close-up di una donna con una espressione felice. In basso, uomo con maglietta nera seduto davanti ad un computer, frustrato, con la mano destra sulla fronte.
+Il video mostra una serie di screenshot e scene che illustrano un prodotto o servizio legato alla tecnologia e alla produzione di contenuti. Si vedono immagini di persone, paesaggi, e una schermata con il testo 'faster'. Viene mostrato anche un uomo che lavora su un computer, con una presentazione su schermo che illustra le capacità di un prodotto chiamato 'Ltx-2'. Le immagini suggeriscono che il video parla di come un certo prodotto o tecnologia possa velocizzare i processi creativi e di produzione.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Ltx-2
 
 --- CAPTION COMPLETA ---
 Ecco il link:
@@ -54,4 +57,4 @@ Io sono Matteo Zampieri, il tuo smanettone di fiducia, noi ci vediamo ad un pros
 #intelligenzaartificiale #ai #ia #videoai #ltxvideo
 
 --- TRASCRIZIONE AUDIO ---
-No bro, cioè è assurdo, io sono senza parole, cioè ti ricordi Facetune, quell'applicazione che ti modifica la faccia, che hanno usato tutti? Cioè proprio loro hanno rilasciato un modello di intelligenza artificiale completamente gratuito che gira offline sul tuo computer e che ti fa dei video di una qualità assurda, cioè tipo cinematografica. Si chiama tipo LTEX 2.3, offline completo. Cioè, se ci pensi, sono passati tipo 4 anni da quando l'intelligenza artificiale è esplosa e oggi puoi avere sul tuo computer la stessa qualità. La stessa qualità che fino a poco tempo fa richiedeva budget enormi, server costosissimi, no? Cioè, guarda qua che video che genera, guarda che roba. Ma infatti mi chiedo, ma secondo te è questione di qualche anno? Prima che la potenza che oggi hanno le grandi aziende arrivi direttamente sul nostro computer? Oppure magari non vogliono che succeda questo Comunque il link per scaricarlo te l'ho messo in descrizione Io sono Matteo Zampieri, il tuo smanettone di fiducia Noi ci vediamo ad un prossimo video, quindi tu seguimi se no poi te lo perdi
+No bro, cioè, assurdo io sono senza parole, cioè, ti ricordi Facetune, quell'applicazione che ti modifica la faccia, che hanno usato tutti? Eh, cioè, proprio loro hanno rilasciato un modello di intelligenza artificiale completamente gratuito, che gira offline sul tuo computer e che ti fa dei video di una qualità assurda, cioè, tipo cinematografica, si chiama tipo LTX 2.3, offline completo. Cioè, se ci pensi, sono passati tipo 4 anni da quando l'intelligenza artificiale è esplosa e oggi puoi avere sul tuo computer la stessa qualità, la stessa qualità che fino a poco tempo fa richiedeva budget enormi, server costosissimi, no? Cioè, guarda qua che video che genera, cioè, guarda che roba. Infatti mi chiedo, ma secondo te è questione di qualche anno prima che la potenza che oggi hanno le grandi aziende arrivi direttamente sul nostro computer? Oppure magari non vogliono che succeda questo? Comunque il link per scaricarlo te l'ho messo in descrizione, io sono Matteo Zampieri, il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video, quindi tu seguimi, se no poi te lo perdi.

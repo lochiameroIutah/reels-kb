@@ -19,14 +19,17 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: confronto_ai
-TAG: chatgpt, grok3, intelligenza_artificiale
-TOPIC: Confronto tra ChatGPT e Grok3, un'alternativa gratuita e senza limiti
+TAG: grok, chatgpt, intelligenza-artificiale, tool-gratuiti, confronto-ai, tech
+TOPIC: Il video discute dei vantaggi di utilizzare Grok rispetto a ChatGPT per l'intelligenza artificiale
 
 --- HOOK TESTUALE (dal frame) ---
-DIMMI CHE ANCORA
+Grok
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con una felina bianca sul viso, che guarda verso l'alto con un'espressione divertente
+Un uomo in una maglietta gialla parla e gesticola davanti alla telecamera in più fotogrammi. Mostra anche screenshot di un laptop con un sito web chiamato 'Grok', un motore di ricerca o chatbot AI. Nella parte superiore sinistra, due fotogrammi mostrano un gatto bianco. L'intero video sembra dimostrare o discutere dell'intelligenza artificiale, specificamente del prodotto Grok.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Grok
 
 --- CAPTION COMPLETA ---
 Ciao ciao ChatGPT, non ho tempo da perdere 😮‍💨

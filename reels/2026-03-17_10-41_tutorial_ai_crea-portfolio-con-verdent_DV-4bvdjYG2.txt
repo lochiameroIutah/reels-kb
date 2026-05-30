@@ -19,14 +19,17 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: tutorial_ai
-TAG: verdent, ai, portfolio, creazione siti web
-TOPIC: Il video mostra come creare un portfolio con l'aiuto di Verdent AI
+TAG: verdent-ai, chatgpt, claude-gemini, sviluppo-web, automazione
+TOPIC: Come utilizzare Verdant AI per creare siti web con ChatGPT e Claude Gemini
 
 --- HOOK TESTUALE (dal frame) ---
 Quest'App crea siti web usando il metodo con ChatGPT Claude Gemini nello stesso momento
 
 --- DESCRIZIONE VISIVA ---
-Un frame di un Reel Instagram contenente una presentazione di un dentista e un uomo che lavora al computer
+La griglia mostra un video che illustra come Quest'App utilizza ChatGPT e Claude Gemini per creare siti web rapidamente. I frame mostrano alternativamente il presentatore, Matteo Zampieri, e screenshot di terminali, schermate di siti web in costruzione, e interfacce di programmazione. Viene mostrato il processo di creazione di un sito web, dalla configurazione iniziale alla stesura del codice, fino alla presentazione del risultato finale. Il B-roll informativo include immagini di siti web, finestre di terminale, e UI di strumenti di sviluppo.
+
+--- PRODOTTI / TOOL VISIBILI ---
+ChatGPT, Claude Gemini, Linkedin
 
 --- CAPTION COMPLETA ---
 Inizia facendo questo:
@@ -60,4 +63,4 @@ cc: @verdent__ai
 #adv #Verdent #VerdentAI #AIcoding #vibecoding
 
 --- TRASCRIZIONE AUDIO ---
-questo qua è il tuo sito web devi assolutamente cambiare strumento si vede palesemente che è fatto con l'intelligenza artificiale ma poi si vede guarda tutte le emoticons tutte le emoji quindi cosa utilizzare cloud gemini c'è questa applicazione che si chiama verdant che quando ti vai a fare una domanda lui va a interrogare tutte le intelligenze artificiali cloud gemini c'ha gpt prende tutte le risposte le confronta tra di loro e crea un'unica risposta completa e per dimostrarti quanto è potente adesso ti faccio vedere come costruisco il portfolio di un mio amico vado a fare new project quindi vado nella mia cartella dove ci sono tutti i miei progetti vado a fare nuova cartella lo chiamo portfolio e seleziono la cartella poi gli do questo prompt dove gli chiedo di creare il portfolio di questo mio amico dove gli do il link dei suoi profili di instagram e altre informazioni utili dicendogli anche che deve scaricarsi le informazioni che gli servono vado in modalità performance multi plan mode e poi faccio invia ecco qui che ha creato tutto il Piano di creazione. E noi cosa possiamo fare? O guardarcelo e poi dargli ulteriori informazioni. Io per voi cliccherò Build. E adesso inizierà a costruire tutto il portfolio. Ok ha terminato. Mi sta dicendo tutto realmente quello che ha fatto. Ha già avviato. Adesso andiamo a vedere il risultato. Eccolo qua. Guarda che roba. No vabbè. Bellissimo. Questa si chiama Verdent. Ti ho messo il link in descrizione. Ma se commenti con la parola Verdent. Allora te lo mando direttamente. Io sono Matto Zampieri. Il tuo smaretone di fiducia. Noi ci vediamo in un prossimo video. ricordati di seguirmi se ancora non l'hai fatto
+Se questo qua è il tuo sito web devi assolutamente cambiare strumento. Si vede palesemente che è fatto con l'intelligenza artificiale. Si ma poi si vede, guarda, tutte le emoticons, tutte le emoji. Quindi cosa utilizzare? C'è questa applicazione che si chiama Verdant che quando ti vai a fare una domanda lui va a interrogare tutte le intelligenze artificiali. Claude, Gemini, CiaGPT, prende tutte le risposte, le confronta tra di loro e crea un'unica risposta completa. E per dimostrarti quanto è potente adesso ti faccio vedere come costruisco il portfolio di un mio amico. Vado a fare New Project, quindi vado nella mia cartella dove ci sono tutti i miei progetti, vado a fare Nuova Cartella, lo chiamo Portfolio e seleziono la cartella. Poi gli do questo prompt dove gli chiedo di creare il portfolio di questo mio amico dove gli do il link dei suoi profili di Instagram e altre informazioni utili dicendogli anche che deve scaricarsi le informazioni che gli servono. Vado in modalità performance, multi-plan mode e poi faccio invia. Ecco qui che ha creato tutto il piano di creazione e noi cosa possiamo fare? O guardarcelo e poi dargli ulteriori informazioni, io per voi cliccherò build. Adesso inizierà a costruire tutto il portfolio. Ok ha terminato, mi sta dicendo tutto realmente quello che ha fatto, ha già avviato, adesso andiamo a vedere il risultato. Eccolo qua, guarda che roba! No vabbè, bellissima! Questa si chiama Verdent e ti ho messo il link in descrizione ma se commenti con la parola Verdent allora te lo mando direttamente. Io sono Mato Zampieri, il tuo smanettone di fiducia, noi ci vediamo in un prossimo video e ricordati di seguirmi se ancora non l'hai fatto.

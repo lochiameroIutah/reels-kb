@@ -19,15 +19,18 @@ CTA FOLLOW: sì
 LINK IN CAPTION: no
 
 --- CATEGORIA ---
-CATEGORIA: confronto_ai
-TAG: intelligenza artificiale, chatgpt, gemini, ia
-TOPIC: Il creator italiano aiuta a scegliere l'AI giusta per le esigenze specifiche
+CATEGORIA: risparmio_tech
+TAG: ai-personalizzata, gemini, automazione-email, n8n
+TOPIC: Come utilizzare Gemini per creare un assistente personalizzato per la gestione della posta elettronica
 
 --- HOOK TESTUALE (dal frame) ---
 Questa IA ti permette di creare un assistente personalizzato per il tuo lavoro o per la vita
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con un'espressione pensierosa guarda uno schermo di un computer, con una mano appoggiata al mento. Indossa una maglietta beige e si trova in una stanza con armadi e una porta.
+Un uomo con una maglietta beige parla davanti a una porta e un laptop. Mostra varie espressioni e gesti mentre parla. Non ci sono screenshot di terminali, schermate di app/siti, diagrammi, UI di prodotti, codice o altro B-roll informativo visibile.
+
+--- PRODOTTI / TOOL VISIBILI ---
+[nessuno]
 
 --- CAPTION COMPLETA ---
 Non sai quale AI scegliere nel 2026?
@@ -53,4 +56,4 @@ Io sono Matteo Zampieri, il tuo smanettone di fiducia, noi ci vediamo ad un pros
 #intelligenzaartificiale #chatgpt #gemini #ia #risparmiare
 
 --- TRASCRIZIONE AUDIO ---
-in alcune attività che vedo che la difficoltà maggiore è proprio nella gestione della posta. Appena arriva un'email, lui in automatico la analizza e ti dice, guarda, forse dovremmo rispondere così. Gemini può accedere alle tue email, addirittura gli puoi dare i file, aggiornato sempre, mi guardo io le email. Direttamente gli dico, guarda, mi è arrivata quest'email, vedi te cosa rispondere. Io in questa gem gli ho detto, capire di cosa si occupa, se ha a che fare con me, insomma tutte le varie cose, anche di controllare un documento dove ci sono le mie tariffe, ci tengo io a dare l'ultima rifinitura, poi è chiaro che ci sono appunto altre cose, n8n sicuramente ne avrei sentito parlare, no? Non è altro che una piattaforma che crea automazioni. Quando io faccio questa cosa appunto esegui queste azioni, semplicemente quando tu gli mandi un messaggio ti potrebbe aggiornarti il calendario, che fa anche Cloud tra l'altro, che fa anche Gemini, perché poi sono tutte integrate nei calendari e così via. Dipende sempre, secondo me, dal livello tuo e anche dall'obiettivo.
+in alcune attività che vedo che la difficoltà maggiore è proprio nella gestione della posta. Appena arriva un'email lui in automatico l'analizza e ti dice guarda forse dovremmo rispondere così. Gemini può accedere alle tue email, addirittura gli puoi dare i file, aggiornato sempre, mi guardo io le email, direttamente gli dico guarda mi è arrivata quest'email, vedi te cosa rispondere. Io in questa gem gli ho detto capire di cosa si occupa, se ha a che fare con me, insomma tutte le varie cose, anche di controllare un documento Un documento dove ci sono le mie tariffe, ci tengo io a dare l'ultima rifinitura, poi chiaro che ci sono appunto altre cose, n8n sicuramente ne avrei sentito parlare, no? Non è altro che una piattaforma che crea automazioni. Quando io faccio questa cosa appunto esegui queste azioni. Semplicemente quando tu gli mandi un messaggio ti potrebbe aggiornarti il calendario che fa anche Claude, tra l'altro, che fa anche Gemini, perché poi sono tutte integrate, no? nei calendari e così via. Dipende sempre, secondo me, dal livello tuo e anche dall'obiettivo.

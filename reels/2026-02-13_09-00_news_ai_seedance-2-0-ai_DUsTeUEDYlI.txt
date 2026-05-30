@@ -19,15 +19,18 @@ CTA FOLLOW: sì
 LINK IN CAPTION: sì (matteozampieri.com/higgsfield)
 
 --- CATEGORIA ---
-CATEGORIA: news_ai
-TAG: intelligenza artificiale, seedance, higgsfield
-TOPIC: L'azienda dietro TikTok rilascia Seedance 2.0 per creare video realistici con l'intelligenza artificiale
+CATEGORIA: tutorial_ai
+TAG: seedance-2-0, higgsfield, intelligenza-artificiale, video-ia, byte-dance
+TOPIC: Come utilizzare Seedance 2.0 di ByteDance all'interno della piattaforma Higgsfield per creare video realistici con l'intelligenza artificiale
 
 --- HOOK TESTUALE (dal frame) ---
 Da oggi sarà ancora più facile creare video che sembrano veri con l'intelligenza artificiale
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con una maglietta grigia guarda verso la telecamera con un'espressione seria. Sullo sfondo, si vede un televisore acceso con un'immagine sfocata.
+Il video mostra un uomo che presenta come creare video realistici usando l'intelligenza artificiale. Lui si alterna con screenshot e riprese di terminali, siti web e app. Nello specifico, mostra come si può accedere ad una piattaforma, elencando alcune caratteristiche, per poi mostrare alcune scene di video realizzati con l'intelligenza artificiale. L'uomo è ripreso davanti ad uno sfondo con delle scrivanie e lampade, ed in alcuni casi gesticola con le mani.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Sora
 
 --- CAPTION COMPLETA ---
 Se vuoi usarlo fai questo:
@@ -51,4 +54,4 @@ Io sono il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video!
 #intelligenzaartificiale #seedance #higgsfield #videoia #ia
 
 --- TRASCRIZIONE AUDIO ---
-Non ci posso credere, cioè vi ricordate i modelli di intelligenza artificiale che ti creano video incredibili, pazzeschi, senza senso. Ecco, l'azienda dietro a TikTok ha creato Seedance 2.0 ed è un modello cinese che non sto scherzando se ti dico che è impressionante. Qui si vede proprio la consistenza del personaggio, la scena. Guarda qua, balletti incredibili, adesso che si mette a fare breakdance. Questo qua va dentro una caverna, cosa qua pazzesca, cioè non so se notate la differenza, hanno aggiunto un cameraman. E dobbiamo parlare di tipo le animazioni fatte con l'intelligenza artificiale direttamente per le presentazioni. La troverai dentro a Xfield che è la piattaforma che consiglio sempre per generare video con l'intelligenza artificiale di altissima qualità. Ti lascio il link in descrizione, io sono Matteo Zampieri, il tuo smalettone di fiducia e tu seguimi perché il 99% dei casi non lo stai facendo e sono certo troverai solo cose utili nel mio profilo.
+Non ci posso credere. Cioè, vi ricordate i modelli di intelligenza artificiale che ti creano video incredibili, pazzeschi, senza senso? Ecco, l'azienda dietro a TikTok ha creato Seedance 2.0 ed è un modello cinese che non sto scherzando se ti dico che è impressionante. Qui si vede proprio la consistenza del personaggio, la scena. Guarda qua, balletti incredibili. Questo che si mette a fare breakdance. Questo qua va dentro una caverna. Cosa qua pazzesca. Cioè, non so se notate la differenza. Hanno aggiunto un cameraman. E dobbiamo parlare di tipo le animazioni fatte con l'intelligenza artificiale direttamente per le presentazioni. La troverai dentro a Xfield che è la piattaforma che consiglio sempre per generare video con l'intelligenza artificiale di altissima qualità. Ti lascio il link in descrizione. Io sono Matteo Zampieri, il tuo smanettone di fiducia e tu seguimi perché il 99% dei casi non lo stai facendo e sono certo troverai solo cose utili nel mio profilo.

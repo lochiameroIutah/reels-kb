@@ -19,14 +19,17 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: tutorial_ai
-TAG: intelligenzaartificiale, whatsapptips, ia, trascrizioni
-TOPIC: Utilizzare l'intelligenza artificiale per trascrivere audio da WhatsApp
+TAG: whatsapp, intelligenza-artificiale, trascrizione-automatica, tool-di-trascrizione
+TOPIC: Come utilizzare l'intelligenza artificiale per trascrivere i messaggi vocali su WhatsApp in modo più preciso
 
 --- HOOK TESTUALE (dal frame) ---
-Non basta fare trascrivere direttamente sotto il messaggio?
+Non basta fare trascrivi direttamente sotto il messaggio?
 
 --- DESCRIZIONE VISIVA ---
-Uno smartphone con chat WhatsApp aperte, un dito indice che scorre la schermata, una mano che sembra voglia cliccare. Si intravede la tastiera di un laptop/PC in basso.
+Il video mostra una persona che utilizza uno smartphone e un computer per dimostrare come funziona la trascrizione di un messaggio vocale su WhatsApp. Inizia mostrando la schermata di WhatsApp con un messaggio vocale e la trascrizione automatica che presenta errori con trattini di mezzo. La persona poi seleziona un'altra opzione di trascrizione che utilizza l'intelligenza artificiale, riuscendo a trascrivere il messaggio in modo più preciso. Il video illustra il confronto tra le due modalità di trascrizione.
+
+--- PRODOTTI / TOOL VISIBILI ---
+WhatsApp
 
 --- CAPTION COMPLETA ---
 Semplice no?
@@ -36,4 +39,4 @@ Se scrivi COMANDO te lo mando subito
 #intelligenzaartificiale #whatsapptips #ia #trascrizioni
 
 --- TRASCRIZIONE AUDIO ---
-facciamo trascrivere i nostri audio da whatsapp il 99 per cento ci sono questi trattini di mezzo perché whatsapp non ha capito bene in questo caso whatsapp non ci ha capito proprio una mazza con quest'altra modalità invece usato l'intelligenza artificiale per capire tutto perfettamente se lo vuoi anche tu commenta con la parola comando e te lo mando istantaneamente io sono matteo zampiedi il tuo smanettone di fiducia noi ci vediamo ad un prossimo video
+Come facciamo trascrivere i nostri audio da Whatsapp? Il 99% ci sono questi trattini di mezzo perché Whatsapp non ha capito bene. In questo caso Whatsapp non ci ha capito proprio una mazza. Con quest'altra modalità invece ho usato l'intelligenza artificiale per capire tutto perfettamente. Se lo vuoi anche tu commenta con la parola COMANDO e te lo mando istantaneamente. Io sono Matteo Zampieri, il tuo smanettone di fiducia e noi ci vediamo ad un prossimo video.

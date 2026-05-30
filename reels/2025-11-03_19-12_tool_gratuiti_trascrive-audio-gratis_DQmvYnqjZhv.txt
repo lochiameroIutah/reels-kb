@@ -19,14 +19,17 @@ LINK IN CAPTION: sì (link presente)
 
 --- CATEGORIA ---
 CATEGORIA: tool_gratuiti
-TAG: intelligenzaartificiale, perplexity, trascrizione
-TOPIC: Un'app che converte audio in testo gratuitamente
+TAG: perplexity, trascrizione-automatica, conversione-audio-testo, gratuito, intelligenza-artificiale
+TOPIC: Come utilizzare Perplexity per convertire audio in testo gratuitamente
 
 --- HOOK TESTUALE (dal frame) ---
 Quest'App ti converte gli audio in testo ma lo fa con stile e GRATIS
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con occhiali neri e maglione scuro guarda qualcosa fuori campo mentre è seduto su un letto con una coperta rosa e bianca, sullo sfondo una porta marrone e una finestra con tenda bianca
+Il video mostra un uomo che spiega come utilizzare un'app per convertire audio in testo. Inizia parlando e poi mostra come utilizzare l'app, registrando un audio e poi trascrivendolo. Mostra anche la schermata dell'app con la trascrizione dell'audio e il risultato finale. L'uomo illustra la facilità d'uso dell'app e come può essere utilizzata gratuitamente.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Perplexity
 
 --- CAPTION COMPLETA ---
 Se lo vuoi GRATIS fai questo:
@@ -46,4 +49,4 @@ Prima di tutto 👉 clicca segui @themattvision
 #intelligenzaartificiale #risparmiare #ai #chatgpthacks
 
 --- TRASCRIZIONE AUDIO ---
-Cos'è che hai appena fatto? Ho usato perplexity per convertire un audio in un file di testo. Ma dai, fammi vedere com'è che hai fatto. Devi spiegarlo. Cosa, come si fa? Basta prendere la tua registrazione, tipo questa qui, andare qui sui tre puntini, condividi, dopodiché attivate perplexity e poi gli dici cosa vuoi fare. Vuoi fare un riassunto? gli dici fammi un riassunto vuoi fare la trascrizione integrale trascrivi schiacci il bottoncino verde invii lui inizia a pensare tra qualche minuto vi dà la trascrizione integrale eccola qua quindi ha finito adesso abbiamo tutta la trascrizione quindi scorri vediamo ma quanto è lunga madonna mia ma è enorme un'ora di trascrizione intera volendo potete chiedere anche un riassunto quali sono i punti principali lui te li crea seguite lo smanettone per altri consigli interessanti
+Cosa hai appena fatto? Ho usato perplexity per convertire un audio in un file di testo. Ma dai, fammi vedere com'è che hai fatto. Devi spiegarlo. Come si fa? Basta prendere la tua registrazione, tipo questa qui, andare qui sui tre puntini, condividi, dopodiché attivate perplexity e poi gli dici cosa vuoi fare. Vuoi fare un riassunto? Quando gli dici fammi un riassunto, vuoi fare la trascrizione integrale, trascrivi. Mi schiacci il bottoncino verde, invii, lui inizia a pensare e tra qualche minuto vi dà la trascrizione integrale. Eccola qua, quindi ha finito, adesso abbiamo tutta la trascrizione quindi. Eccola qua la trascrizione in origine. Scorri, vediamo ma quanto è lunga, madonna mia ma è enorme. Un'ora di trascrizione intera, volendo potete chiedere anche un riassunto, quali sono i punti principali, lui te li crea. Seguite lo smanettone per altri consigli interessanti.

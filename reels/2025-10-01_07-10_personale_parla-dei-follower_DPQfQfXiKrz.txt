@@ -19,14 +19,17 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: personale
-TAG: intelligenzaartificiale, ai, instagram
-TOPIC: Il creatore di contenuti discute il suo rapporto con i follower e annuncia un nuovo reel
+TAG: instagram-reel, utilizzo-instagram, creatore-digitale, comportamento-utente
+TOPIC: Il creatore Matt Vision discute il comportamento degli utenti che lo seguono su Instagram solo per prendere informazioni senza restare fedeli
 
 --- HOOK TESTUALE (dal frame) ---
-Gente che mi segue prende il prompt e smette di seguirmi: 
+Gente che mi segue prende il prompt e smette di seguirmi:
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con la maglietta grigia e la giacca arancione guarda verso la telecamera. Sullo sfondo si vede un corridoio con delle cornici alle pareti e un soffitto arancione.
+Un uomo in un giubbotto rosso parla direttamente alla telecamera in vari scatti durante un video. Lui e una donna sono mostrati all'esterno in un ambiente urbano con edifici storici sullo sfondo. L'uomo gesticola e sembra discutere un argomento, probabilmente legato al suo seguito su Instagram e a come le persone usano i suoi contenuti. Non ci sono elementi visivi come screenshot di terminali, schermate di app, diagrammi o codice mostrato.
+
+--- PRODOTTI / TOOL VISIBILI ---
+[nessuno]
 
 --- CAPTION COMPLETA ---
 Sto usando questa nuova funzione di Instagram  he si chiama “reel collegato” che mi permette di aggiungere un video qua sotto.
@@ -38,4 +41,4 @@ Tocca sotto 👇 su:
 #intelligenzaartificiale #risparmiare #ai #chatgpt #ia
 
 --- TRASCRIZIONE AUDIO ---
-Sono delle persone che pensano che io sia qui a fare beneficenza su Instagram e quindi mi seguono, prendono quello che devono prendere e poi vanno via. Cosa dobbiamo dire a queste persone che pensano che io faccia beneficenza? Ma dove cazzo andate? Comunque questa sera, nuovo reel, nuovo trucco incredibile. Me l'ha consigliato tra l'altro mia sorella di fare questo video perché ho aiutato lei. Quindi let's go, preparatevi. Non so se lo vedrete perché lo pubblicherò in modalità prova. però insomma adesso vediamo, casomai ve lo metto qui nelle stories
+Sono delle persone che pensano che io sia qui a fare beneficenza su Instagram e quindi mi seguono, prendono quello che devono prendere e poi vanno via. Cosa dobbiamo dire a queste persone che pensano che io faccia beneficenza? Ma dove cazzo andate? Comunque questa sera nuovo reel, nuovo trucco incredibile. Me l'ha consigliato tra l'altro mia sorella di fare questo video perché ho aiutato lei e quindi let's go, preparatevi. non so se lo vedrete perché lo pubblicherò in modalità prova, però insomma adesso vediamo, casomai ve lo metto qui nelle stories.

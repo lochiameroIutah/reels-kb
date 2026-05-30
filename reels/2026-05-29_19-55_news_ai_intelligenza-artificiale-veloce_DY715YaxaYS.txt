@@ -1,0 +1,59 @@
+POST ID: 18472560562102506
+IG ID: 18472560562102506
+SHORTCODE: DY715YaxaYS
+PERMALINK: https://www.instagram.com/reel/DY715YaxaYS/
+DATA: 2026-05-29
+ORA: 19:55
+
+--- METRICHE ---
+LIKE: 110
+COMMENTI: 1
+DURATA VIDEO: 54 secondi
+CARATTERI CAPTION: 944
+HASHTAG: #intelligenzaartificiale #ai #claude #anthropic #creatorsearchinsights
+
+--- FLAGS ---
+CTA COMMENTO: no
+CTA FOLLOW: sì
+LINK IN CAPTION: no
+
+--- CATEGORIA ---
+CATEGORIA: news_ai
+TAG: intelligenza artificiale, ai, claude, anthropic
+TOPIC: L'intelligenza artificiale può clonarsi per lavorare più velocemente
+
+--- HOOK TESTUALE (dal frame) ---
+Da oggi l'intelligenza artificiale si clona per andare alla velocità della luce
+
+--- DESCRIZIONE VISIVA ---
+Un uomo con un'espressione perplessa e una mano alzata, sullo sfondo un computer con del codice sullo schermo.
+
+--- CAPTION COMPLETA ---
+Questa è una di quelle novità che tra sei mesi useranno tutti.
+
+Mentre il mondo guarda Claude 4.8, Anthropic ha rilasciato in silenzio i dynamic workflow dentro Claude Code.
+
+E sono una roba diversa da tutto quello che hai visto finora.
+
+Fino a ieri l’intelligenza artificiale lavorava come un dipendente da solo.
+
+Una cosa alla volta, lenta, con te costretto a controllare ogni passaggio.
+
+Adesso invece apre centinaia di copie di se stessa.
+
+Si dividono i compiti, lavorano insieme e si correggono a vicenda.
+
+Tu lanci il comando, vai a farti un caffè e quando torni il lavoro è finito.
+
+È come avere un’intera squadra che lavora per te mentre fai altro.
+
+L’unica cosa da sapere è che consuma parecchio, quindi tienila d’occhio.
+
+Se vuoi capirci davvero qualcosa di intelligenza artificiale 👉 segui 
+
+Io sono il tuo smanettone di fiducia, ci vediamo al prossimo video!
+
+#intelligenzaartificiale #ai #claude #anthropic  #creatorsearchinsights
+
+--- TRASCRIZIONE AUDIO ---
+Non so se lo sai, ma nonostante parlino di questa nuova versione di Cloud 4.8 che è senza senso, niente da dire, nessuno sta parlando che nello stesso momento hanno pubblicato anche i Dynamic Workflow, che sono rivoluzionari, perché hai presente, no, che quando li usi l'intelligenza artificiale per fare un sito, un'app, questa scrive il codice, lo legge, pensa, li scrive, ecco, figata, però allo stesso tempo lentissimo. Con questo invece Dynamic Workflow l'intelligenza artificiale avvia decine, se no centinaia, di croni di se stessa che lavorano e parlano tra di loro alla velocità della luce e dopo qualche minuto ti mandano un messaggio con il risultato finale ed è assurdo perché è come passare da una persona che lavora per te a un'azienda intera al tuo servizio quindi se prima ci mettevi una settimana adesso ci metti mezza giornata l'unico problema è che consuma veramente tanta però ti consiglio di provarla io sono Matteo Zampieri, il tuo smanetone di fiducia noi ci vediamo in un prossimo video e tu ricordati di seguirmi così non ti perdi tutte queste novità

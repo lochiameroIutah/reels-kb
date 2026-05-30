@@ -19,14 +19,17 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: news_ai
-TAG: intelligenza artificiale, ai, Trae
-TOPIC: Trae lancia una nuova funzionalità per creare applicazioni con intelligenza artificiale senza scrivere codice
+TAG: trae, solo, intelligenza-artificiale, creazione-app
+TOPIC: Trae lancia la nuova funzionalità Solo che consente di creare applicazioni con intelligenza artificiale senza scrivere codice
 
 --- HOOK TESTUALE (dal frame) ---
-[nessun testo rilevato]
+The Real AI Engineer
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con un look perplesso, con una mano destra alzata come per fare un saluto o un gesto di difesa. Indossa una maglietta nera e ha i capelli castani tagliati corti. Sullo sfondo si vede una finestra con le tapparelle abbassate.
+Il video mostra un uomo in maglietta nera che gesticola mentre parla. Nello sfondo, si vedono più volte un computer e un monitor con vari siti web aperti. Tra i siti, figura il logo 'Solo' e una schermata che dice 'Go solo with Trae'.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Solo
 
 --- CAPTION COMPLETA ---
 Io mondo cambia davvero velocemente
@@ -36,4 +39,4 @@ Rimani al passo ➜ clicca segui @themattvision
 #intelligenzaartificiale #ai #risparmiare #ia #trae #solomode #vibecoding
 
 --- TRASCRIZIONE AUDIO ---
-Attenzione, Trae è di nuovo qui che attacca Amazon e tutti gli altri player di creazione di app. Infatti hanno appena lanciato la nuova funzionalità solo che ti permette di creare applicazioni con l'intelligenza artificiale. La figata è che non devi nemmeno scrivere una riga di codici ma non devi nemmeno vedere che cosa sta succedendo. Tra l'altro ho pubblicato un attimo fa proprio un video su questo argomento sul mio canale YouTube. In questo video andiamo a vedere non solo che cos'è nello specifico ma anche come poterla ottenere in anteprima. Quindi se vuoi approfondire sai che puoi andare in questo video, nel frattempo seguimi se vuoi rimanere al passo per gli ultimi strumenti di intelligenza artificiale e molto di più.
+Attenzione, Trae è di nuovo qui che attacca Amazon e tutti gli altri player di creazione di app. Infatti hanno appena lanciato la nuova funzionalità solo che ti permette di creare applicazioni con l'intelligenza artificiale. La figata è che non devi nemmeno scrivere una riga di codici, ma non devi nemmeno vedere che cosa sta succedendo. Tra l'altro ho pubblicato un attimo fa proprio un video su questo argomento sul mio canale YouTube. In questo video andiamo a vedere non solo che cos'è nello specifico, ma anche come poterla ottenere in anteprima. Quindi se vuoi approfondire sai che puoi andare in questo video, nel frattempo seguimi se vuoi rimanere al passo per gli ultimi strumenti di intelligenza artificiale e molto di più.

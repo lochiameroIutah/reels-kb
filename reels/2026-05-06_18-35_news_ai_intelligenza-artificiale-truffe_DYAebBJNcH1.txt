@@ -19,17 +19,20 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: news_ai
-TAG: truffa, intelligenza-artificiale, chatgpt
-TOPIC: Un video che mette in guardia dagli utilizzi scorretti dell'intelligenza artificiale per truffe
+TAG: intelligenza-artificiale, truffe-online, chatgpt, sicurezza-informatica
+TOPIC: Come riconoscere truffe create con l'intelligenza artificiale come ChatGPT
 
 --- HOOK TESTUALE (dal frame) ---
-GUARDATE QUESTA TRUFFA,
+Prima del rinnovo, verifichi
 
 --- DESCRIZIONE VISIVA ---
-Uno screenshot di un Reel Instagram contenente una foto di un uomo con un indice alzato, sotto il quale appare un messaggio di testo in italiano, apparentemente un avviso di una possibile truffa.
+Il video mostra una serie di screenshot di un messaggio di testo riguardante la scadenza della Tessera Sanitaria e il suo rinnovo. Viene mostrato un messaggio iniziale che avvisa della scadenza e della necessità di rinnovo tramite SPID o CIE. Il presentatore, in vari fotogrammi, attira l'attenzione su diversi aspetti: la Tessera Sanitaria, il fatto che il messaggio sembra provenire da un sito web ingannevole, e alcuni dettagli specifici sullo schermo del telefono come il codice fiscale, i dati anagrafici e il medico di medicina generale. Viene infine mostrato come il mittente del messaggio non sia ufficiale e come bisogna fare attenzione a non cliccare su link sospetti.
+
+--- PRODOTTI / TOOL VISIBILI ---
+[nessuno]
 
 --- CAPTION COMPLETA ---
 Occhio alle truffe fatte con l’intelligenza artificiale #truffa #intelligenzaartificiale #chatgpt
 
 --- TRASCRIZIONE AUDIO ---
-Guardate questa truffa, vedete, sembra tutto legit, la tua tessera sanitaria, la mia tessera sanitaria scade il 6 maggio, ma guardate, sembra fatta veramente bene, codice fiscale, dati aneagrafici, medico, medicina generale, ma se clicco qui sopra, no, su questo, accedi al portale SSN, vedete un po' cosa succede, io lo clicco e mi dice questa cosa qua, sito ingannevole. Ovviamente perché io ho la protezione attiva, ma se tu non ce l'avessi probabilmente verresti truffato direttamente. Questa è un'email creata con l'intelligenza artificiale che però ha l'intento di truffarti, sembra fatta da Dio perché uno dice finalmente hanno usato l'intelligenza artificiale per migliorare il servizio della medicina italiana, non lo so. Quindi una persona dice che figata invece no dovete stare attenti e tra l'altro la cosa che dovete assolutamente guardare è toccare sul vostro destinatario perché se lo toccate vedete qua sopra qui trovi l'email direttamente che ti ha inviato quell'email in questo caso non è minimamente qualcosa associato con la sanità italiana ecco quindi mi raccomando stare sempre attenti io sono Matteo Zamperi il tuo smanetone di fiducia se vuoi altri consigli come questo seguimi e noi ci vediamo ad un prossimo video.
+Guardate questa truffa, vedete, sembra tutto legit, la tua tessera sanitaria, la mia tessera sanitaria scade il 6 maggio, ma guardate, sembra fatta veramente bene, codice fiscale, dati aneagrafici, medici o medicina generale, ma se clicco qui sopra, no, su questo, accedi al portale SSN, vedete un po' cosa succede, io lo clicco e mi dice questa cosa qua, sito ingannevole. Ovviamente perché io ho la protezione attiva, ma se tu non ce l'avessi probabilmente verresti truffato direttamente. Questa è un'email creata con l'intelligenza artificiale che però ha l'intento di truffarti. Sembra fatta da Dio perché uno dice finalmente hanno usato l'intelligenza artificiale per migliorare il servizio, no? Della medicina italiana, non lo so. Quindi una persona dice che figata, invece no, dovete stare attenti. E tra l'altro la cosa che dovete assolutamente guardare è toccare sul vostro destinatario perché se lo toccate, vedete qua sopra, qui trovi l'email direttamente che ti ha In questo caso non è minimamente qualcosa associato con la sanità italiana. Ecco quindi mi raccomando stare sempre attenti. Io sono Matteo Zampieri, il tuo smanettone di fiducia. Se vuoi altri consigli come questo seguimi e noi ci vediamo ad un prossimo video.

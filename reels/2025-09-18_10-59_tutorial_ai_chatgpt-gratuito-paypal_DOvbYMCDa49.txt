@@ -18,15 +18,18 @@ CTA FOLLOW: sì
 LINK IN CAPTION: no
 
 --- CATEGORIA ---
-CATEGORIA: tutorial_ai
-TAG: chatgpt, paypal, risparmio
-TOPIC: Guida passo passo per ottenere un anno di ChatGPT gratuito
+CATEGORIA: risparmio_tech
+TAG: chatgpt, paypal, abbonamento-gratuito, intelligenza-artificiale
+TOPIC: Come ottenere un anno di ChatGPT gratuito con l'abbonamento gratuito di PayPal
 
 --- HOOK TESTUALE (dal frame) ---
 POV: Non hai ancora preso il tuo anno di ChatGPT GRATIS
 
 --- DESCRIZIONE VISIVA ---
-Un primo piano di un uomo con la parte superiore del corpo coperta da una maglietta bianca. Sembra che stia parlando o guardando qualcosa con un'espressione seria e un po' stupita.
+La griglia di 9 frame mostra un uomo in una maglietta bianca che gesticola e parla direttamente alla telecamera. Lui sembra essere in una campagna promozionale per ChatGPT. In tutti i frame, l'uomo è ripreso in un ambiente casalingo con pareti beige e qualche quadro alle sue spalle. Lui sembra indicare e descrivere dettagli su come ottenere un anno gratis di ChatGPT. Non ci sono screenshot di terminali, schermate di app/siti, diagrammi, UI di prodotti, codice mostrato o altro B-roll informativo.
+
+--- PRODOTTI / TOOL VISIBILI ---
+ChatGPT
 
 --- CAPTION COMPLETA ---
 Inizia facendo questo:
@@ -74,4 +77,4 @@ Ecco la guida:
 #intelligenzaartificiale #risparmiare #ai #chatgpt #claude #chatgpthacks
 
 --- TRASCRIZIONE AUDIO ---
-Come? Mi stai dicendo che non hai ancora preso un anno di chat GPT gratis? PayPal ti sta regalando un anno di chat GPT e tu non l'hai ancora preso. Non so, sembra assolutamente una cosa fake, falsa. Nel dubbio ti ho fatto una guida, la trovi cliccando su questo pulsantino che ho scritto la guida. Puoi vedere sotto a quel video che ci sono una marea di commenti di persone che ci hanno provato e effettivamente è così, oppure puoi cercare su Google, trovi tutte le persone che ne parlano. Prendi la prima che scadi, sono il tuo smanitone di fiducia e noi ci vediamo ad un prossimo video.
+Come? Mi stai dicendo che non hai ancora preso un anno di CiaGPT gratis? PayPal ti sta regalando un anno di CiaGPT e tu non l'hai ancora preso. Non so, sembra assolutamente una cosa fake, falsa. Nel dubbio ti ho fatto una guida, la trovi cliccando su questo pulsantino che ho scritto LA GUIDA. Puoi vedere sotto a quel video che ci sono una marea di commenti di persone che ci hanno provato e effettivamente è così, oppure puoi cercare su Google, trovi tutte le persone che ne parlano. Prendi la prima che scadi, sono il tuo smanettone di fiducia e noi ci vediamo ad un prossimo video.

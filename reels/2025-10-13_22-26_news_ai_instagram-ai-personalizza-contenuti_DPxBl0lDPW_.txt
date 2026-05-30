@@ -19,14 +19,17 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: news_ai
-TAG: intelligenza artificiale, instagram, algoritmo
-TOPIC: Una nuova funzionalità di Instagram utilizza l'intelligenza artificiale per personalizzare i contenuti
+TAG: instagram, intelligenza-artificiale, personalizzazione-utente, algoritmo-ai
+TOPIC: Come attivare la nuova funzionalità di Instagram che utilizza l'intelligenza artificiale per personalizzare l'esperienza utente
 
 --- HOOK TESTUALE (dal frame) ---
 Finalmente l'intelligenza artificiale viene usata per qualcosa di utile
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con una maglietta bianca seduto in una stanza con una porta di legno e una finestra sullo sfondo.
+Il video mostra un uomo che parla di una nuova funzionalità di Instagram che utilizza l'intelligenza artificiale per permettere agli utenti di personalizzare la loro esperienza sulla piattaforma. Inizia mostrando come normalmente i social e Instagram propongono contenuti non sempre graditi, per poi mostrare una schermata del profilo e una schermata di preferenze in cui si può personalizzare l'esperienza. L'uomo parla e gesticola davanti alla telecamera, mentre scorrono screenshot delle schermate di Instagram.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Instagram
 
 --- CAPTION COMPLETA ---
 Ecco come attivarla:
@@ -55,4 +58,4 @@ Io sono il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video!
 #intelligenzaartificiale #ai #risparmiare #instagramreels #instagramupdate
 
 --- TRASCRIZIONE AUDIO ---
-Non so se lo sai ma gli algoritmi di questi social sono realmente tossici. Cioè prova te a non cadere nella trappola dell'algoritmo che ti tiene incollato allo schermo, non ce la fai. Infatti guarda qua, questa è una registrazione schermo dove io cerco di nascondere tutte le ragazze dall'algoritmo. Lui comunque mi continua a far vedere sempre ragazzi. Per questo motivo c'è il tuo smanettone di fiducia, non vi preoccupate, adesso vediamo come fare. In pratica c'è questa nuova funzionalità dove potremo parlare con l'algoritmo e lui ci dirà cosa stiamo vedendo in questo periodo. Tutti i nostri argomenti che ci interessano, quello che non vogliamo vedere ma anche quello che ci interessa soprattutto vedere. Questa funzionalità non è ancora disponibile in Italia ma non appena sarà disponibile qualche metodo particolare per attivarla prima degli altri sarò il primo a parlartene. Io sono il tuo smanettone di fiducia, se ancora non mi segui fallo e noi ci vediamo ad un prossimo video.
+Non so se lo sai, ma gli algoritmi di questi social sono realmente tossici. Cioè prova te a non cadere nella trappola dell'algoritmo che ti tiene incollato allo schermo, non ce la fai. Infatti, guarda qua, questa è una registrazione schermo dove io cerco di nascondere tutte le ragazze dall'algoritmo. Lui comunque mi continua a far vedere sempre ragazze. Per questo motivo c'è il tuo smanettone di fiducia, non vi preoccupate, adesso vediamo come fare. In pratica c'è questa nuova funzionalità dove potremo parlare con l'algoritmo e lui ci dirà cosa stiamo vedendo in questo periodo. Tutti i nostri argomenti che ci interessano, quello che non vogliamo vedere, ma anche quello che ci interessa soprattutto vedere. Questa funzionalità non è ancora disponibile in Italia, ma non appena sarà disponibile qualche metodo particolare per attivarla prima degli altri, sarò il primo a parlartene. Io sono il tuo smanettone di fiducia, se ancora non mi segui fallo e noi ci vediamo ad un prossimo video.

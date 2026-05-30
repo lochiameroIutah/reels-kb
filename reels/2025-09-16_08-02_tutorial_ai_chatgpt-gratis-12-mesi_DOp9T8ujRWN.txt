@@ -19,14 +19,17 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: tutorial_ai
-TAG: chatgpt, ai, perplexity-pro
-TOPIC: Guida passo passo per ottenere ChatGPT gratuito per un anno
+TAG: chatgpt, perplexity-pro, gemini, risparmio-tech
+TOPIC: Come ottenere Perplexity PRO gratuito per 12 mesi e utilizzare GPT-5, Claude e Gemini
 
 --- HOOK TESTUALE (dal frame) ---
 POV: ChatGPT fa schifo rispetto a questo
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con una maglietta bianca e nera sembra rivolgersi direttamente alla telecamera, con una mano alzata vicino alla testa e un'espressione ammiccante e divertente. Sullo sfondo si intravede una parete o un soffitto chiaro.
+Un uomo con un t-shirt bianco e nero parla e gesticola in vari fotogrammi. Mostra ripetutamente il suo viso e le sue mani mentre parla. In alcuni frame, mostra il suo telefono con una app aperta che sembra generare immagini. Sembra stia confrontando le capacità di ChatGPT con quelle di un'altra applicazione o tool, mostrando come quest'ultimo possa generare immagini più facilmente e velocemente. L'uomo sembra enfatizzare la sua esperienza positiva con il nuovo tool rispetto a ChatGPT.
+
+--- PRODOTTI / TOOL VISIBILI ---
+ChatGPT
 
 --- CAPTION COMPLETA ---
 Inizia facendo questo:
@@ -74,4 +77,4 @@ Ecco la guida:
 #intelligenzaartificiale #risparmiare #ai #chatgpt #claude #chatgpthacks
 
 --- TRASCRIZIONE AUDIO ---
-Vabbè sinceramente sono senza parole. Quel programmino che danno gratuitamente adesso per un anno. Ha anche la possibilità di generare foto. Ed è estremamente veloce e coerente con la richiesta. Anche se dobbiamo modificare un'immagine. Guarda qui questa è la foto originale. Aggiungi tanti gattini. Adesso lui sta generando l'immagine. Vedete che sono le 22 no 23 27. I tocchi finali eccola qua. Ha aggiunto tanti gattini. In descrizione ti dico come fa per averlo un anno gratis. affrettati perché non per sempre ci sarà questa offerta io sono il tuo smanettone di fiducia e noi ci vediamo ad un prossimo video
+Vabbè, sinceramente sono senza parole. Quel programmino che danno gratuitamente adesso per un anno ha anche la possibilità di generare foto ed è estremamente veloce e coerente con la richiesta, anche se dobbiamo modificare un'immagine. Guarda qui, questa è la foto originale, aggiungi tanti gattini. Adesso lui sta generando l'immagine, vedete che sono le 22, no, 23, 27. I tocchi finali, eccola qua, ha aggiunto tanti gattini. In descrizione ti dico come fa per averlo un anno gratis. affrettati perché non per sempre ci sarà questa offerta. Io sono il tuo smanettone di fiducia e noi ci vediamo ad un prossimo video.

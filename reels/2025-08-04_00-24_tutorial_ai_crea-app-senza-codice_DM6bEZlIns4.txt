@@ -19,14 +19,17 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: tutorial_ai
-TAG: vibecoding, intelligenzaartificiale, ai
-TOPIC: Il video mostra come creare un'applicazione senza scrivere codice utilizzando il metodo Vibe Coding e l'intelligenza artificiale
+TAG: vibe-coding, intelligenza-artificiale, claude, ableton-live
+TOPIC: Come utilizzare Claude per creare app senza scrivere codice con il metodo Vibe Coding
 
 --- HOOK TESTUALE (dal frame) ---
 POV: sono le 4:30 di mattina
 
 --- DESCRIZIONE VISIVA ---
-Uno screenshot di un computer con una finestra di un software aperto, con un gatto che guarda lo schermo e una webcam con un uomo.
+La griglia mostra una sequenza di screenshot di un computer, principalmente schermate di coding e sviluppo di un'applicazione. Si vedono ripetutamente finestre di terminali o editor di codice con righe di comando e testo, schermate di un software di produzione musicale (probabilmente Ableton Live) e finestre con interfaccia utente di un'applicazione in sviluppo. L'utente sembra lavorare su un progetto di sviluppo di un'applicazione, forse un plugin per un software di musica. Viene mostrato anche un utilizzo di un modello linguistico (probabilmente Claude) e una discussione su come perdere tempo quasi fino a mattina.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Ableton Live, Claude
 
 --- CAPTION COMPLETA ---
 Conosci il Vibe Coding? 🚀
@@ -52,4 +55,4 @@ Clicca segui 👉 e ti svelo tutto nei prossimi video!
 #vibecoding #intelligenzaartificiale #risparmiare #ai #chatgpt
 
 --- TRASCRIZIONE AUDIO ---
-Raga, completamente fatta con l'intelligenza artificiale. Io godo. Peccato solo che sono le quattro e mezza e sono finito. Però, guardate un po', Cloud direttamente ti permette di costruire questa incredibile applicazione. Bellissima, che permette di fare una cosa super da smanettoni. Addirittura con la versione italiana e inglese. Alle volte il vibe coding ti fa perdere quasi le speranze, ma se aspetti fino alle quattro di mattina... I did it again!
+Raga, completamente fatta con l'intelligenza artificiale. Io godo. Peccato solo che sono le quattro e mezza e sono finito. Però, guardate un po', Claude direttamente ti permette di costruire questa incredibile applicazione bellissima che permette di fare una cosa super da smanettoni, addirittura con la versione italiana e inglese. Alle volte il vibe coding ti fa perdere quasi le speranze, ma se aspetti fino alle quattro di mattina... I did it again!

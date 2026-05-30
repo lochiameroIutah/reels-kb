@@ -18,15 +18,18 @@ CTA FOLLOW: sì
 LINK IN CAPTION: no
 
 --- CATEGORIA ---
-CATEGORIA: tutorial_ai
-TAG: scaricare_video, intelligenza_artificiale, strumenti_tech
-TOPIC: Scaricare video da piattaforme diverse utilizzando uno strumento specifico
+CATEGORIA: tool_gratuiti
+TAG: black-hole, scaricare-video, app-gratuita, tech-trucchi
+TOPIC: Come utilizzare Black Hole per scaricare video da qualsiasi piattaforma
 
 --- HOOK TESTUALE (dal frame) ---
-Uffa ma non funziona proprio niente porca misera. Cosa?!
+Quest'App ti scarica i video facilmente ma lo fa con stile
 
 --- DESCRIZIONE VISIVA ---
-Una donna con i capelli biondi e gli occhiali sta guardando il suo cellulare seduta a un tavolo da cucina con un tovagliolo sotto le mani.
+Una donna cerca di scaricare un video da un'app. Mostra la sua frustrazione iniziale con il telefono. Un'altra persona le mostra come utilizzare l'app 'Black Hole' per scaricare video facilmente. La schermata del telefono mostra l'app e il processo di scaricamento del video.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Black Hole
 
 --- CAPTION COMPLETA ---
 Funziona anche con…
@@ -46,4 +49,4 @@ Io sono il tuo smanettone di fiducia noi ci vediamo ad un prossimo video!
 #intelligenzaartificiale #risparmiare #ai #chatgpt #chatgpthacks
 
 --- TRASCRIZIONE AUDIO ---
-Ma non funziona proprio niente, porca miseria. Cosa? Ma volevo scaricare un video, ma non so che cavolo devo fare. Eh, vabbè, ma scusa, ma non lo conosci Black Hole? No. Aspetta, ti faccio vedere. Allora, vai qui. Quindi fai semplicemente, guarda, copia, dice copiato e ti scarichi appunto questa applicazione qua. Fai apri, premi semplicemente su questo pulsantino e quando ha finito, poi clicchi videos. E guarda qua, c'è il tuo video. Bam, e te l'ha scaricato. Wow! Hai visto? Ho smalettone di fiducia, seguimi per altri consigli.
+Ma non funziona proprio niente, porca miseria. Cosa? Ma volevo scaricare un video, ma non so che cavolo devo fare. Eh, vabbè, ma scusa, ma non lo conosci, Black Hole? No. Aspetta, ti faccio vedere. Allora, vai qui, quindi fai semplicemente, guarda, copia, dice copiato e ti scarichi appunto questa applicazione qua. Fai apri, premi semplicemente su questo pulsantino e quando ha finito, poi clicchi videos. E guarda qua, c'è il tuo video. Bam, e te l'ha scaricato. Wow! Hai visto? S'ho smanettone di fiducia, seguimi per altri consigli.

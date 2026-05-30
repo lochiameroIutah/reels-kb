@@ -19,14 +19,17 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: tool_gratuiti
-TAG: intelligenzaartificiale, risparmiare, chatgpt, ia, ai, trucchiiphone
-TOPIC: Questo sito rimuove lo sfondo gratis ma lo fa con stile
+TAG: dverso, rimozione-sfondo, intelligenza-artificiale, strumenti-gratuiti, iphone
+TOPIC: Come utilizzare dverso per rimuovere lo sfondo dalle immagini gratuitamente
 
 --- HOOK TESTUALE (dal frame) ---
 Questo sito rimuove lo sfondo gratis ma lo fa con stile
 
 --- DESCRIZIONE VISIVA ---
-Uno screenshot di un computer o tablet con una schermata di sfondo che mostra un paesaggio naturale con alberi e rocce, e varie icone di app come TikTok, Spotify e Instagram; nella parte alta compare il browser Google Chrome con una barra di ricerca
+Il video mostra una serie di screenshot e video brevi che illustrano come utilizzare un sito web chiamato 'dverso' per rimuovere gratuitamente lo sfondo dalle immagini. Inizia con una schermata di ricerca e la homepage del sito, seguita da immagini di bucatoi e una schermata del sito stesso che mostra come caricare le immagini. Successivamente, vengono mostrati i risultati dell'elaborazione, con rimozioni di sfondi da varie immagini, tra cui il logo Nike. Il video termina con schermate che mostrano il processo di download o condivisione delle immagini modificate.
+
+--- PRODOTTI / TOOL VISIBILI ---
+dverso, Nike
 
 --- CAPTION COMPLETA ---
 Ecco il link:

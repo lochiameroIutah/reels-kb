@@ -18,15 +18,18 @@ CTA FOLLOW: no
 LINK IN CAPTION: no
 
 --- CATEGORIA ---
-CATEGORIA: altro
-TAG: 
-TOPIC: 
+CATEGORIA: tutorial_ai
+TAG: chatgpt, downdetector, grok, deepseek
+TOPIC: Come risolvere i problemi di ChatGPT utilizzando Downdetector e alternative gratuite come Grok e DeepSeek
 
 --- HOOK TESTUALE (dal frame) ---
-Everything on your screen, including notifications, will be recorded. Enable
+User Reports Indicate Problems At OpenAI
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con un'espressione seria indossa una maglietta nera. Sta puntando l'indice della mano destra verso l'alto. Sullo sfondo, si vede un telefono con una schermata di registrazione dello schermo, su cui si intravedono le parole 'Screen Recording' e il logo di ChatGPT.
+Il video mostra una serie di screenshot e interfacce di vari tool e app, tra cui ChatGPT, Downdetector, Grok, WhatsApp e DeepSeek. Viene mostrato un grafico di Downdetector che indica problemi, schermate di ChatGPT e altre app con errori o messaggi di stato. L'attenzione è focalizzata sugli errori e problemi tecnici relativi a queste piattaforme.
+
+--- PRODOTTI / TOOL VISIBILI ---
+ChatGPT, Downdetector, Grok, WhatsApp, DeepSeek
 
 --- CAPTION COMPLETA ---
 ChatGPT è Down? FAI QUESTO 🚀
@@ -34,4 +37,4 @@ ChatGPT è Down? FAI QUESTO 🚀
 #chatgptdown #chatgpt #chatgptalternative #intelligenzaartificiale #ai #risparmiare #grok3 #deepseek
 
 --- TRASCRIZIONE AUDIO ---
-Oh mio Dio, CiaGPT è down! Allora ragazzi, intanto se vi da questo problema, fate questa cosa, andate a cercare Down Detector, scrivete Down, Down Detector, scaricate questa applicazione e poi cliccate su OpenAI, vi mostrerà se veramente altre persone hanno avuto lo stesso problema. e qui in basso vedete potete tranquillamente reportare cos'è che non funziona in questo caso CiaGPT ricordatevi che se comunque CiaGPT non funziona potete utilizzare Grok che è gratuito Whatsapp nel pulsantino in basso a destra che vi viene fuori oppure anche DeepSeek tutte queste tre sono gratuite e funzionano parallelamente a CiaGPT perché sono di altre aziende mi raccomando il vostro smanettone di fiducia è sempre qui a darvi un aiuto
+Oh mio Dio, ChatGPT è down! Allora ragazzi, intanto se vi da questo problema, fate questa cosa, andate a cercare Down Detector, scrivete Down, Down Detector, scaricate questa applicazione e poi cliccate su OpenAI, vi mostrerà se veramente altre persone hanno avuto lo stesso problema. E qui, in basso, vedete, potete tranquillamente reportare cos'è che non funziona, in questo caso ChatGPT. Ricordatevi che se comunque CiaGPT non funziona potete utilizzare Grok, che è gratuito, Whatsapp, nel pulsantino in basso a destra che vi viene fuori, oppure anche DeepSeek. Tutte queste tre sono gratuite e funzionano parallelamente a CiaGPT perché sono di altre aziende. Mi raccomando, il vostro smanettone di fiducia è sempre qui a darvi un aiuto.

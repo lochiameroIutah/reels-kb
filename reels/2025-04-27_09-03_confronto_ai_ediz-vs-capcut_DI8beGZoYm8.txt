@@ -19,14 +19,17 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: confronto_ai
-TAG: edits, capcut, ediz, risparmio
-TOPIC: Il creatore presenta Ediz come alternativa gratuita e senza limiti a CapCut per il montaggio video
+TAG: edits, capcut, strumenti-video-gratuiti, creazione-video, risparmio-tempo
+TOPIC: Come utilizzare Edits come alternativa gratuita e più immediata a CapCut per la creazione di video
 
 --- HOOK TESTUALE (dal frame) ---
-DIMMI CHE USI
+ANCORA CAPCUT PER
 
 --- DESCRIZIONE VISIVA ---
-Un video di un uomo con la faccia molto vicina a quella di un gatto bianco.
+Il video mostra un uomo che presenta un'applicazione per la creazione di video. Inizia con selfie dell'uomo in varie pose, per poi mostrare schermate di un laptop con il sito web dell'app 'Edits' aperta, che sembra essere uno strumento per la creazione di video. L'uomo indossa una maglietta beige con un logo. Le schermate del laptop mostrano la homepage del sito 'Edits', evidenziando che è uno strumento per realizzare video straordinari, e che è gratuito. L'uomo gesticola e parla davanti alla telecamera, probabilmente spiegando come funziona l'app. Nelle ultime tre schermate, l'uomo si trova all'esterno, davanti a una casa rossa, continuando a parlare e a gesticolare.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Edits
 
 --- CAPTION COMPLETA ---
 Ciao, ciao CapCut non ho tempo da perdere 😮‍💨
@@ -37,4 +40,4 @@ creators.instagram.com/edits
 #edits #editsinstagram #risparmiare #ai
 
 --- TRASCRIZIONE AUDIO ---
-Dimmi che usi ancora CapCut per montare i tuoi video quando io utilizzo Ediz che è molto più immediata e soprattutto senza limiti. Sembra una follia ma è così ed è completamente gratuita, è solamente che le persone non lo conoscono. Ora la conosci, valla a utilizzare, se vuoi che ti mandi il link commenta con questa parola e poi fammi sapere come ti trovi.
+Dimmi che usi ancora CapCat per montare i tuoi video quando io utilizzo Edits che è molto più immediata e soprattutto senza limiti. Sembra una follia ma è così ed è completamente gratuita, è solamente che le persone non lo conoscono. Ora la conosci, valla a utilizzare, se vuoi che ti mandi il link commenta con questa parola e poi fammi sapere come ti trovi.

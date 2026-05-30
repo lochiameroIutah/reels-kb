@@ -19,14 +19,17 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: confronto_ai
-TAG: claude, chatgpt, intelligenza artificiale
-TOPIC: Confronto tra l'uso di ChatGPT e Claude in Italia
+TAG: claude-ai, intelligenza-artificiale, down-detector, chatgpt
+TOPIC: La mappa delle segnalazioni di Claude offline in Italia rivela dove viene utilizzato di più questo modello di intelligenza artificiale
 
 --- HOOK TESTUALE (dal frame) ---
 Questo sito mostra le città dove viene usata di più questa intelligenza artificiale
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con una maglia nera è seduto davanti ad una scrivania con un laptop acceso e una mano alzata, in una stanza con pareti grigie e una porta in legno.
+Il video mostra una persona che naviga su un sito web chiamato 'Claude' che sembra essere una piattaforma di intelligenza artificiale. La schermata principale del sito mostra una mappa dell'Italia con vari punti rossi che indicano le città dove viene utilizzata di più questa tecnologia. La persona nel video indica i punti sulla mappa, menzionando città come Milano, Napoli, Pol Bari. Viene inoltre mostrato che il servizio è offline.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Claude AI
 
 --- CAPTION COMPLETA ---
 Tu usi ChatGPT o Claude?
@@ -54,4 +57,4 @@ Io sono il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video!
 #claude #intelligenzaartificiale #ai #risparmiare #downdetector
 
 --- TRASCRIZIONE AUDIO ---
-Tutti si lamentano che Claude è offline, ma c'è una cosa interessante che dovremmo guardare. Eccola qua, questa è la mappa di dove le persone hanno segnalato che Claude è offline. E siccome è successo in questo momento, le persone che hanno segnalato sono persone che lo usano strattivamente. Guardate un po', abbiamo sì Milano, Bologna, Perugia, Roma, Napoli e poi Bari. Questa cosa secondo me è molto interessante perché ti fa capire in quali città viene maggiormente utilizzato Claude. realmente al punto di andare su Down Detector e segnalarlo cioè lo faccio io ma perché sono uno smanettone
+Tutti si lamentano che Claude è offline, ma c'è una cosa interessante che dovremmo guardare. Eccola qua, questa è la mappa di dove le persone hanno segnalato che Claude è offline. E siccome è successo in questo momento, le persone che hanno segnalato sono persone che lo usano strattivamente. Guardate un po', abbiamo sì Milano, Bologna, Perugia, Roma, Napoli e poi Bari. Questa cosa secondo me è molto interessante perché ti fa capire in quali città viene maggiormente utilizzato Claude. realmente al punto di andare su down detector e segnalarlo. Cioè lo faccio io ma perché sono uno smanettone.

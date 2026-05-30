@@ -19,14 +19,17 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: tutorial_ai
-TAG: verdent-ai, sito-web, intelligenza-artificiale
-TOPIC: Creazione di un sito web da zero utilizzando l'app Verdant AI
+TAG: verdent-ai, creazione-sito-web, intelligenza-artificiale, multimodal-plan, prompt-and-design
+TOPIC: Come utilizzare Verdant AI per creare un sito web completo partendo da un singolo prompt e un video di presentazione
 
 --- HOOK TESTUALE (dal frame) ---
 Quest'App crea siti web da 10mila euro in un singolo prompt
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con un'espressione pensierosa guarda un laptop, con una mano alzata e l'altra appoggiata sul tavolo, mentre sullo sfondo si vedono bottiglie d'olio e prodotti alimentari
+La griglia mostra un uomo seduto al tavolo con un laptop, che parla e gesticola. Vengono mostrati screenshot di un sito web e di un'interfaccia di programmazione, con codice e informazioni sullo sviluppo di un'applicazione. L'uomo sembra illustrare come un'app possa creare siti web di alta qualità con un singolo prompt. Viene mostrato il processo di creazione del sito, dalle impostazioni iniziali alla realizzazione del progetto, enfatizzando la facilità d'uso e l'efficacia dell'app.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Instagram, Facebook
 
 --- CAPTION COMPLETA ---
 Inizia facendo questo:
@@ -60,4 +63,4 @@ cc: @verdent__ai
 #adv #Verdent #VerdentAI #AIcoding #vibecoding
 
 --- TRASCRIZIONE AUDIO ---
-Non so se lo sai, ma questa azienda è stata abbandonata da chi gli ha fatto il sito web ancora nel 2003. E oggi, grazie all'intelligenza artificiale, lo rifarò completamente da zero in un singolo prompt. Lo utilizzerò Verdant, che anziché usare una semplice intelligenza artificiale, va a interrogarle tutte. Claude, Gemini, Chagpt, prende tutte le risposte e le impacchette in un unico piano completo per costruire il sito. Quindi creo una nuova cartella e vado a selezionarla. Vado a inserire il video di presentazione all'interno della cartella. vado a dargli questo prompt qua, vado a scegliere multimodal plan, clicco attenzione su skills e scelgo prompt and design, faccio quindi installa e applica e premo su invia. Ecco quindi che ha iniziato e adesso creerà tutto il piano di implementazione per costruire questo sito web. Ecco quindi che sta prendendo tutte le risposte che gli hanno dato l'intelligenza artificiale e sta creando un unico piano completo. Lui ci dice tutto quello che dovrà andare a fare e noi premeremo su build. Ed ecco qui che ha terminato e ci propone la next action Infatti in questa situazione cliccando su questo pulsante mi porta nel sito web completo Guardate che figata con il video di sfondo E qui esattamente tutti i dati che avevano messo nel sito Ovviamente le foto sono da aggiornare Questa app si chiama Verdant e il link te l'ho messo in descrizione Ma se commenti con la parola Verdant te lo mando direttamente per messaggi Io sono Matteo Zampiedi, il tuo smanettone di fiducia E tu ricordati di seguirmi così noi ci vediamo ad un prossimo video
+Non so se lo sai ma questa azienda è stata abbandonata da chi gli ha fatto il sito web ancora nel 2003 e oggi grazie all'intelligenza artificiale lo rifarò completamente da zero in un singolo prompt. Utilizzerò Verdant che anziché usare una semplice intelligenza artificiale va a interrogarle tutte. Claude, Gemini, Cia, GPT, prende tutte le risposte e le impacchette in un unico piano completo per costruire il sito. Quindi creo una nuova cartella e vado a selezionarla. Vado ad inserire il video di presentazione all'interno della cartella, vado a dargli questo prompt qua, vado a scegliere multimodal plan, clicco attenzione su skills e scelgo prompt and design. Faccio quindi installa e applica e premo su invia. Ecco quindi che ha iniziato e adesso creerà tutto il piano di implementazione per costruire questo sito web. Ecco quindi che sta prendendo tutte le risposte che gli hanno dato l'intelligenza artificiale e sta creando un unico piano completo. Lui ci dice tutto quello che dovrà andare a fare e noi premeremo su Build. Ed ecco qui che ha terminato e ci propone la next action. Infatti in questa situazione cliccando su questo pulsante mi porta nel sito web completo. Guardate che figata con il video di sfondo e qui esattamente tutti i dati che avevano messo nel sito. Ovviamente le foto sono da aggiornare. Questa app si chiama Verdent, il link te l'ho messo in descrizione, ma se commenti con la parola Verdent, te lo mando direttamente per messaggio. Io sono Matteo Zampieri, il tuo smanettone di fiducia, e tu ricordati di seguirmi, così noi ci vediamo ad un prossimo video.

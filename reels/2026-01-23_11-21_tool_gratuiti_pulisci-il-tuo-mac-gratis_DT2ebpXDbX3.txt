@@ -19,15 +19,18 @@ CTA FOLLOW: sì
 LINK IN CAPTION: sì (link presente)
 
 --- CATEGORIA ---
-CATEGORIA: tool_gratuiti
-TAG: mac, pulizia, cleanupbuddy
-TOPIC: Un'applicazione gratuita per pulire il Mac senza problemi
+CATEGORIA: tutorial_ai
+TAG: cleanupbuddy, mac, pulizia-schermo, homebrew, terminale
+TOPIC: Come utilizzare CleanupBuddy per pulire lo schermo del Mac senza problemi
 
 --- HOOK TESTUALE (dal frame) ---
 Quest'App ti aiuta a pulire il tuo Mac ma lo fa con stile
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con la barba e un maglione grigio è seduto davanti a un computer portatile aperto su una scrivania. Lui guarda verso il basso con un'espressione seria e ha la mano destra alzata con le dita aperte, come se stesse parlando o facendo un gesto enfatico. Sullo sfondo si vede una parete grigia e una finestra con una cornice in legno.
+Il video mostra un uomo che presenta un'app per pulire Mac. Inizia con lui che parla davanti a un Mac, poi mostra come utilizzare l'app. Viene visualizzata una schermata dell'app e un'animazione. L'uomo continua a spiegare e a mostrare il processo di pulizia del Mac.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Mac
 
 --- CAPTION COMPLETA ---
 Ecco come installarlo GRATIS:
@@ -61,4 +64,4 @@ Io sono il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video!
 #risparmiare #tutorial #apple #trucchi #intelligenzaartificiale
 
 --- TRASCRIZIONE AUDIO ---
-So se lo sai ma quando vuoi pulire il tuo Mac ogni volta è un casino. Infatti se lo voglio pulire ogni volta succede di tutto. Quindi la soluzione potrebbe essere spegnerlo, riaccenderlo ma no ti pare. Per questo motivo ho trovato questa applicazione che uso da anni. Una volta che l'abbiamo aperta ci basterà abbassare un po' la luminosità, consiglio non del tutto, e premere sul pulsante start clean up. D'ora in poi non avrai più problemi mentre pulisci il tuo schermo. Guarda qua, qualsiasi pulsante della mia tastiera adesso non funziona più Ed è comparsa questa simpatica animazione carina Per sbloccarlo ti basterà tenere premuti questi due pulsantini per 3 secondi E vedrai che si sbloccherà tutto, vedete adesso è tornato a funzionare In questo modo posso pulire il mio back super facilmente Io sono Matteo Zampieri, il tuo smanetto è in fiducia Di consigli come questi, mi hanno dati tantissimi Quindi tu seguimi e noi ci vediamo ad un prossimo video
+So se lo sai, ma quando vuoi pulire il tuo Mac, ogni volta è un casino. Infatti se lo voglio pulire, ogni volta succede di tutto. Quindi la soluzione potrebbe essere spegnerlo, riaccenderlo, ma no, ti pare. Per questo motivo ho trovato questa applicazione che uso da anni. Una volta che l'abbiamo aperta, ci basterà abbassare un po' la luminosità, consiglio non del tutto, e premere sul pulsante Start Cleanup. D'ora in poi non avrai più problemi mentre pulisci il tuo schermo. Guarda qua, qualsiasi pulsante della mia tastiera adesso non funziona più ed è comparsa questa simpatica animazione carina. Per sbloccarlo ti basterà tenere premuti questi due pulsantini per 3 secondi e vedrai che si sbloccherà tutto. Vedete, adesso è tornato a funzionare. In questo modo posso pulire il mio back super facilmente. Io sono Matteo Zampieri, il tuo smanettone di fiducia, li consiglio come questi, mi hanno dati tantissimi, quindi tu seguimi e noi ci vediamo ad un prossimo video.

@@ -19,14 +19,17 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: tool_gratuiti
-TAG: intelligenza artificiale, cloud, to-do list
-TOPIC: Creazione di uno strumento personale di intelligenza artificiale per generare to-do list
+TAG: claude, todo-list-ai, automazione, intelligenza-artificiale
+TOPIC: Come utilizzare il tool Todo List AI di Claude per creare liste di attività personalizzate con l'intelligenza artificiale
 
 --- HOOK TESTUALE (dal frame) ---
 POV: hai scoperto il bro che vive nel 2050
 
 --- DESCRIZIONE VISIVA ---
-Una mano destra che punta lo schermo di un computer, sullo schermo un testo blurry. Sotto la mano si intravede una tastiera nera.
+Il video mostra una serie di screenshot di un computer, principalmente di una pagina web dedicata alla gestione di una to-do list. Inizia con una schermata vuota, poi passa a una pagina con un titolo 'Com'è andata la giornata, Matteo?' seguita da una lista di task. L'utente sembra interagire con una funzione di generazione automatica delle to-do list, evidenziando come l'intelligenza artificiale possa automatizzare compiti ripetitivi. La mano dell'utente naviga attraverso le schermate, mostrando varie funzionalità dell'applicazione.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Todo List AI
 
 --- CAPTION COMPLETA ---
 Cioé da oggi puoi creare il tuo strumento personale di intelligenza artificiale, senza senso.
@@ -36,4 +39,4 @@ Rimani sul pezzo 👉 clicca segui @themattvision
 #intelligenzaartificiale #ai #chatgptdown #ia #motivation #chatgptalternative #storytelling #claude #chatgptvsclaude #artifacts #newsclaude
 
 --- TRASCRIZIONE AUDIO ---
-però tu non hai capito che cazzo ha appena rilasciato, non c'ha GPT ma si chiama Cloud, no? Io gli posso dare questo prompt, ovvero voglio creare uno strumento che ti crea una to-do list al volo con le AI, basandosi su quello che gli hai chiesto, no? E ogni task può essere spuntata, eventualmente scaricata e cazzi ammazzi. Faccio già vedere il risultato finale, praticamente è questa roba qua, vediamo se riesco a fartelo vedere, eccolo qua, generatore di to-do list con le AI. Gli ho dato delle cose stupide tipo fare la spesa, cibo gatti, pubblicare video YouTube, pubblicare Reel del cane, lui sta generando con l'intelligenza artificiale, l'ha già fatto, fare la spesa, comprare cibo per gatti, pubblicare video su YouTube, vedi che ha anche scritto correttamente, io avevo scritto male, pubblicare Reel del cane, posso cliccare qui? me l'ha spuntata l'ho fatta c'è generatore di to do list al volo incredibile sfrutta l'API di Cloud gratuitamente perché io qui non ho mica l'abbonamento pro cioè io qui zero
+Però tu non hai capito che cazzo ha appena rilasciato, non c'ha GPT ma si chiama Claude, no? Io gli posso dare questo prompt, ovvero voglio creare uno strumento che ti crea una to-do list al volo con l'AI, basandosi su quello che gli hai chiesto, no? E ogni task può essere spuntata, eventualmente scaricata e cazzi ammazzi. Faccio già vedere il risultato finale, praticamente è questa roba qua, vediamo se riesco a fartelo vedere, eccolo qua, generatore di to-do list con l'AI. Gli ho dato delle cose stupide tipo fare la spesa, cibo gatti, pubblicare video YouTube, pubblicare Reel del cane. Lui sta generando con l'intelligenza artificiale, l'ha già fatto, fare la spesa, comprare cibo per gatti, pubblicare video su YouTube, vedi che ha anche scritto correttamente, io avevo scritto male, pubblicare Reel del cane. Posso cliccare qui? Me l'ha spuntata, l'ho fatta, c'è generatore di to-do list al volo, incredibile. Sfrutta l'API di Claude gratuitamente, perché io qui non ho mica l'abbonamento pro, eh? Cioè io qui zero.

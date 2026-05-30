@@ -19,14 +19,17 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: news_ai
-TAG: intelligenzaartificiale, chatgpt, gemini
-TOPIC: Gemini 3 è stato rilasciato con funzionalità avanzate
+TAG: gemini-3, google-deepmind, chatgpt, intelligenza-artificiale, anteprima, modello-ia
+TOPIC: Il modello Gemini 3 di Google sta surclassando ChatGPT grazie alle sue capacità avanzate
 
 --- HOOK TESTUALE (dal frame) ---
-multimodal
+our most intelligent model
 
 --- DESCRIZIONE VISIVA ---
-uno screenshot di un video con un leone e un uomo che appare in un contesto urbano
+Il video mostra una serie di screenshot e filmati che presentano il modello Gemini 3 di Google, un'intelligenza artificiale avanzata. Viene mostrato un terminale con codice, schermate del sito web di Google DeepMind, e una rappresentazione grafica di un albero su un'isola. Il presentatore, un uomo con un cappuccio, parla e gesticola in vari contesti notturni, enfatizzando l'uscita di Gemini 3 e le sue capacità.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Gemini 3, Google DeepMind, ChatGPT
 
 --- CAPTION COMPLETA ---
 Assurdo Google ormai sta mettendo i piedi in testa a Chatgpt ormai è solo questione di tempo 
@@ -36,4 +39,4 @@ io sono il tuo smartphone di fiducia, noi ci vediamo ad un prossimo video
 #intelligenzaartificiale #risparmiare #ia #chatgpt #gemini
 
 --- TRASCRIZIONE AUDIO ---
-Guardate qua è uscito Gemini 3 Dopo il 2.5 è uscito il 3 E mi sa che c'è GPT Se ne può andare a casa Gemini 3 è arrivato È già qua in modalità preview Fa cose incredibili Andate a dare un'occhiata
+Guardate qua è uscito GEMINI 3, dopo il 2.5 è uscito il 3 e mi sa che CiaGPT se ne può andare a casa. GEMINI 3 è arrivato, è già qua in modalità preview, anteprima, fa cose incredibili. Andate a dare un'occhiata.

@@ -19,14 +19,17 @@ LINK IN CAPTION: sì (matteozampieri.com/prezzo)
 
 --- CATEGORIA ---
 CATEGORIA: risparmio_tech
-TAG: intelligenza artificiale, chatgpt, acquisti online
-TOPIC: Un sito per trovare il prezzo più basso di un prodotto utilizzando l'intelligenza artificiale
+TAG: chatgpt, intelligenza-artificiale, acquisti-online, matteo-zampieri
+TOPIC: Come utilizzare il sito di Matteo Zampieri per trovare il prezzo più basso per qualsiasi prodotto con ChatGPT
 
 --- HOOK TESTUALE (dal frame) ---
 Questo sito ti aiuta a trovare offerte usando l'intelligenza artificiale
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con un'espressione pensierosa è seduto davanti a una scrivania con un laptop acceso sullo schermo del quale è presente una schermata bianca. Sullo sfondo, un grande monitor da computer.
+Il video mostra un uomo che utilizza un computer per trovare offerte usando l'intelligenza artificiale. Inizia mostrando una schermata di un sito web con un prodotto, seguito da una schermata con un prezzo. Poi, si vede l'uomo digitare su una tastiera e aprire un sito web. Successivamente, mostra una schermata con un testo, seguita da una scena in cui apre un pacco insieme al prodotto acquistato. Infine, si vede l'uomo parlare direttamente alla telecamera e aprire il pacco per mostrare il contenuto.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Amazon
 
 --- CAPTION COMPLETA ---
 Ecco il link:
@@ -52,4 +55,4 @@ Io sono il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video!
 #risparmiare #intelligenzaartificiale #ai #chatgpthacks #acquistionline
 
 --- TRASCRIZIONE AUDIO ---
-Non so se lo sai ma ho trovato un sito che ti permette di trovare il prezzo più basso possibile immaginabile per qualsiasi prodotto ti interessi. Infatti io volevo comprare questo prodotto qua e l'ho trovato anziché a 90 euro a soli 50 euro. L'unico problema era il prompt quindi ho creato questo sito web che ti permette di inserire il prodotto e quanto sei disposto a spendere se lo vuoi usato o nuovo. Lui in automatico ti crea il testo da dargli all'intelligente artificiale. Siccome l'ho già utilizzato e mi ha trovato questa cosa, l'ho comprata e adesso l'andiamo a aprire insieme. Ho pagato con Paypal proprio per non avere fregature, infatti il pacco è arrivato, ma non so ancora se c'è un mattone dentro. Andiamo quindi ad aprire questo pacco. È arrivato tutto ammaccato, eh. Avevano paura di romperlo. Wow! Nessuno mi sta pagando per darti questi consigli, io sono Matteo Zamperi, il tuo smalitone di fiducia, infatti il link te l'ho messo in descrizione. Ho risparmiato 40 euro Tu magari molto di più potresti risparmiare rispetto a me Noi ci vediamo in un prossimo video E tu ricordati di seguirmi se ancora l'hai fatto
+Non so se lo sai, ma ho trovato un sito che ti permette di trovare il prezzo più basso possibile e immaginabile per qualsiasi prodotto ti interessi. Infatti io volevo comprare questo prodotto qua e l'ho trovato anziché a 90€ a soli 50€. L'unico problema era il prompt, quindi ho creato questo sito web che ti permette di inserire il prodotto e quanto sei disposto a spendere se lo vuoi usato o nuovo. Lui in automatico ti crea il testo da dargli all'intelligente artificiale. Siccome l'ho già utilizzato e mi ha trovato questa cosa, l'ho comprata e adesso l'andiamo aprire insieme. Ho pagato con PayPal proprio per non avere fregature, infatti il pacco è arrivato, ma non so ancora se c'è un mattone dentro. Andiamo quindi ad aprire questo pacco. È arrivato tutto ammaccato, eh? Avevano paura di romperlo. Wow! Nessuno mi sta pagando per darti questi consigli, io sono Matteo Zampieri, il tuo smanettone di fiducia, infatti il link te l'ho messo in descrizione. Ho risparmiato 40€, tu magari molto di più potresti risparmiare rispetto a me. Noi ci vediamo in un prossimo video e tu ricordati di seguirmi se ancora l'hai fatto.

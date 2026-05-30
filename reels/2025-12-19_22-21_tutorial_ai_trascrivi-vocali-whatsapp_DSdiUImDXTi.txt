@@ -18,15 +18,18 @@ CTA FOLLOW: sì
 LINK IN CAPTION: no
 
 --- CATEGORIA ---
-CATEGORIA: tutorial_ai
-TAG: whatsapp, intelligenza-artificiale, trascrizione
-TOPIC: Un tutorial su come utilizzare un tool di intelligenza artificiale per trascrivere messaggi vocali su WhatsApp
+CATEGORIA: risparmio_tech
+TAG: iphone, trascrizione-automatica, memo, whatsapp, risparmio-ore
+TOPIC: Come utilizzare la funzione di trascrizione automatica dell'iPhone per trascrivere messaggi di WhatsApp e risparmiare tempo
 
 --- HOOK TESTUALE (dal frame) ---
 Questa funzione dell'iPhone ti fa risparmiare troppe ore del tuo tempo
 
 --- DESCRIZIONE VISIVA ---
-Una giovane donna con un iPhone in mano, che guarda lo schermo con un'espressione di sorpresa o meraviglia. È seduta sulla spiaggia, indossa un costume da bagno azzurro e una camicia nera, con occhiali da sole sulla testa. Sullo sfondo si vedono persone che si rilassano sulla spiaggia e degli edifici.
+La griglia mostra una scena comica su una spiaggia con due personaggi. Viene mostrato un iPhone con schermate dell'app 'Memo' e sembra che il video spieghi come una funzione dell'iPhone possa aiutare a risparmiare tempo. La coppia usa l'iPhone per trascrivere un messaggio, evidenziando la funzionalità di trascrizione. La scena inizia con un dialogo sulla funzione, seguito dalla coppia che utilizza effettivamente l'app per trascrivere un messaggio, mostrando l'interfaccia dell'iPhone e le opzioni per copia, salvataggio e condivisione.
+
+--- PRODOTTI / TOOL VISIBILI ---
+iPhone
 
 --- CAPTION COMPLETA ---
 Inizia scrivendo questo:
@@ -46,4 +49,4 @@ Io sono il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video!
 #whatsapptips #intelligenzaartificiale #risparmiare #ia #chatgpt
 
 --- TRASCRIZIONE AUDIO ---
-Cosa c'è? Un minuto di locale Eh non puoi ascoltarlo No ma siamo qui insieme Eh ma scusa ma non ce l'hai la trascrizione quella là che ti avevo mandato? Come che si faceva? Aspetta ti faccio vedere Tieni premuto nel messaggio Fai inoltre Ok Poi fai condividi in basso a destra Esatto E poi fai esatto quella roba trascrivi Adesso lui in automatico te lo trascrive e guarda qua No vabbè è scritto perfetto Hai visto? Il link te l'ho messo in descrizione Io sono il tuo smanettone di fiducia Noi ci vediamo in un prossimo video Ricordati di seguirmi se ancora non l'hai fatto
+Cosa c'è? Un minuto di locale. Eh, non puoi ascoltarlo. No, ma siamo qui insieme. Eh, ma scusa, ma non ce l'hai la trascrizione quella là che ti avevo mandato? Come che si faceva? Aspetta, ti faccio vedere. Tieni premuto nel messaggio, fai inoltre, poi fai condividi in basso a destra, esatto, e poi fai, esatto, quella roba, trascrivi. Adesso lui in automatico te lo trascrive e guarda qua. No, vabbè, è scritto perfetto. Hai visto? Il link te l'ho messo in descrizione, io sono il tuo smanettone di fiducia, Ciao, noi ci vediamo in un prossimo video, ricordati di seguirmi se ancora non l'hai fatto.

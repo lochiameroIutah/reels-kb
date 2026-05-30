@@ -19,14 +19,17 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: tutorial_ai
-TAG: whatsapp, intelligenza artificiale, calendar, ai
-TOPIC: Utilizzo di un'intelligenza artificiale su WhatsApp per gestire il calendario
+TAG: whatsapp, google-calendar, intelligenza-artificiale, automazione-eventi, gestione-calendario
+TOPIC: Come utilizzare l'intelligenza artificiale di WhatsApp per gestire automaticamente gli eventi su Google Calendar
 
 --- HOOK TESTUALE (dal frame) ---
 Questa funzione di WhatsApp usa l'intelligenza artificiale per gestire il mio calendario
 
 --- DESCRIZIONE VISIVA ---
-Uno smartphone posizionato al centro di un riquadro giallo su sfondo nero, mostra una chat WhatsApp con un profilo business chiamato Memorae. Sembra che Memorae abbia una funzione di gestione del calendario tramite l'intelligenza artificiale. A destra del riquadro giallo c'è una piccola foto profilo dell'utente del Reel
+La sequenza di 9 frame mostra una persona che utilizza WhatsApp per gestire il proprio calendario. Inizia con una conversazione che si evolve nell'aggiunta di un evento chiamato 'Meeting con Guglielmo' su Google Calendar. Gli screenshot mostrano le schermate di WhatsApp, l'interfaccia per creare un evento e infine la conferma dell'evento aggiunto al calendario.
+
+--- PRODOTTI / TOOL VISIBILI ---
+WhatsApp, Google Calendar
 
 --- CAPTION COMPLETA ---
 Direi davvero comodo!
@@ -40,4 +43,4 @@ Io sono il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video!
 #intelligenzaartificiale #risparmiare #ai #chatgpt #calendar #ia #whatsapp
 
 --- TRASCRIZIONE AUDIO ---
-Su WhatsApp c'ho un'intelligenza artificiale che se io gli dico domani ho un evento alle 7 di pomeriggio. Attenzione, aspetta, ha giunto l'evento domani alle 19. Di che titolo lo vuoi chiamare? Ci sta. Meeting con Guglielmo. Quindi ovviamente lui di nuovo starà trascrivendo con l'intelligenza artificiale, prende il testo, lo manda ai loro sistemi e ha creato l'evento. Andiamo a vedere. Meeting, eccolo qua. Clicco qua, Meeting con Guglielmo. Addirittura mi ha messo il link del Google Meet.
+Su Whatsapp c'ho un'intelligenza artificiale che se io gli dico domani ho un evento alle 7 di pomeriggio, attenzione, aspetta, ha giunto l'evento domani alle 19, di che titolo lo vuoi chiamare? Ci sta, Meeting con Guglielmo. Quindi ovviamente lui di nuovo sta trascrivendo con l'intelligenza artificiale, prende il testo, lo manda ai loro sistemi e ha creato l'evento. Andiamo a vedere, Meeting, eccolo qua. Clicco qua, Meeting con Guglielmo, addirittura mi ha messo il link del Google Meet.

@@ -19,14 +19,17 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: tool_gratuiti
-TAG: perplexity, chatgpt, ai-gratis
-TOPIC: Come ottenere Perplexity gratis per un anno e utilizzare modelli di intelligenza artificiale come ChaGPT
+TAG: perplexity, chatgpt, claude-sonnet, gpt-5, gemini-2-5-pro
+TOPIC: Come utilizzare gratuitamente Perplexity per accedere a modelli AI come GPT-5 e Claude Sonnet
 
 --- HOOK TESTUALE (dal frame) ---
 POV: Da oggi ChaGPT e tutte le Ai sono GRATIS con questo trucco
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con capelli castani e maglietta nera sembra parlare direttamente alla telecamera in una cucina con pareti bianche e controsoffitto grigio. Sullo sfondo si vede un mobile marrone.
+Il video mostra un uomo che presenta un trucco per utilizzare gratuitamente ChatGPT e altre AI. Inizia con il presentatore che parla e gesticola. Poi, vengono mostrate schermate di un telefono con un elenco di modelli AI, tra cui 'Sonar', 'Claude Sonnet 4.5', 'GPT-5', 'Gemini 2.5 Pro', 'GPT-5 Thinking' e 'Claude Opus 4.1 Thinking'. L'uomo continua a parlare e a illustrare il trucco, sottolineando come sia possibile utilizzare questi strumenti gratuitamente.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Claude Sonnet 4.5, GPT-5, Gemini 2.5 Pro, GPT-5 Thinking, Claude Opus 4.1 Thinking
 
 --- CAPTION COMPLETA ---
 Ecco come fare:
@@ -54,4 +57,4 @@ Io sono il tuo smaettone di fiducia e noi ci vediamo al prossimo video
 #intelligenzaartificiale #chatgpt #perplexity #ai #ia
 
 --- TRASCRIZIONE AUDIO ---
-Non so se lo sai ma Cloud, Gemini, ChaGPT, Grok, Perplexity, tutti questi costano dai 20 ai 35 euro al mese. Ma tu puoi usarli tutti gratis per il prossimo anno perché sono dentro a Perplexity un po' nascosti. Infatti adesso andiamo a vedere sia come trovarli ma anche attivarli. Aprite la vostra app di Perplexity. Cliccate su questo all'inter di ingrandimento, cliccate su migliore e qui trovate l'elenco completo di tutti i modelli che potete utilizzare. c'ha GPT-5, Gemini 2.5 Pro, Cloud Sonnet il 4.5 è uscito ieri sera, cioè devastante, cioè c'è il modello di Elon Musk, chat GPT che ragiona a manetta, tutto dentro gratis, che in un anno sono circa 1500 euro totali risparmiati, un anno intero per capirne la potenzialità. Se l'avete sfruttato bene, sarete dei king dell'intelligenza artificiale e questi strumenti vi serviranno non solo utilizzabili per il lavoro, ma anche per la vita di tutti i giorni. Io sono Natto Zampieri, il tuo smanettone di fiducia, se ancora non l'hai fatto, seguimi e noi ci vediamo. Ad un prossimo video!
+Non so se lo sai, ma Claude, Gemini, CiaGPT, Grok, Perplexity, tutti questi costano dai 20 ai 35 euro al mese. Ma tu puoi usarli tutti gratis per il prossimo anno perché sono dentro a Perplexity un po' nascosti. Infatti adesso andiamo a vedere sia come trovarli ma anche attivarli. Aprite la vostra app di Perplexity. Cliccate su questo all'ente di ingrandimento, cliccate su migliore e qui trovate l'elenco completo di tutti i modelli che potete utilizzare. C'è il GPT-5, Gemini 2.5 Pro, Claude, Sonnet, il 4.5 è uscito ieri sera, cioè devastante, cioè c'è il modello di Elon Musk, ChatGPT che ragiona a manetta, tutto dentro gratis, che in un anno sono circa 1500€ totali risparmiati, un anno intero per capirne la potenzialità. Se l'avete sfruttato bene, sarete dei king dell'intelligenza artificiale e questi strumenti vi serviranno non solo utilizzabili per il lavoro, ma anche per la vita di tutti i giorni. Io sono Metteo Zampieri, il tuo smanettone di fiducia, se ancora non l'hai fatto seguimi e noi ci vediamo ad un prossimo video.

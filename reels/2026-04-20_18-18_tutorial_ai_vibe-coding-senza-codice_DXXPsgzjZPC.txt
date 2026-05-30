@@ -19,14 +19,17 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: tutorial_ai
-TAG: vibecoding, intelligenzaartificiale, nocode
-TOPIC: Creare applicazioni senza scrivere codice con il metodo Vibe Coding
+TAG: vibe-coding, intelligenza-artificiale, nocode, chatgpt
+TOPIC: Come utilizzare il Vibe Coding per creare applicazioni senza scrivere codice con l'intelligenza artificiale
 
 --- HOOK TESTUALE (dal frame) ---
 Questo è il modo migliore di usare l'intelligenza artificiale nel 2026 e oltre
 
 --- DESCRIZIONE VISIVA ---
-mano poggiata su una tastiera di un laptop acceso con un sito web sullo schermo
+La griglia mostra una sequenza di eventi in cui un uomo presenta come utilizzare al meglio l'intelligenza artificiale nel 2026 e oltre. Inizia mostrando come realizzare applicazioni con mini app che sono in attesa di 26 funzionalità. Mostra anche come un'applicazione possa essere usata per monitorare eventi, ad esempio una 'Party tracker'. L'uomo sottolinea l'importanza di fare le cose manualmente per 90 persone. Nella parte finale, si focalizza sull'importanza degli occhi e delle applicazioni per partecipare.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Party tracker
 
 --- CAPTION COMPLETA ---
 Conosci il Vibe Coding?
@@ -62,4 +65,4 @@ Io sono Matteo Zampieri, il tuo smanettone di fiducia, noi ci vediamo ad un pros
 #vibecoding #intelligenzaartificiale #ai #nocode #chatgpt
 
 --- TRASCRIZIONE AUDIO ---
-Questo esempio è fantastico per dimostrarvi che realizzare applicazioni con l'intelligenza artificiale, quindi in vibe coding, senza scrivere una riga di codice, senza appunto saper programmare, è estremamente utile. Questa è una mini app che ho creato dove ci sono le persone che voglio invitare al mio compleanno e vedi qua, totale persone che voglio invitare, 88 in attesa, 26 quindi che le ho invitate, adesso da invitare ne ho 52. Poi qui sulla destra c'è il messaggio che devo fare copie con un clic appunto me lo va a copiare e queste 88 persone me le ha aggiunte direttamente in intelligenza artificiale da degli screen che gli avevo dato. Su Excel dovevo scriverle manualmente, addirittura mi ha creato la versione scura. Io sono un caso a parte perché effettivamente chi è che invita un compleanno? 90 persone. Però il concetto è che ognuno ha i suoi problemi. Se pensi che non sia possibile sappi che ti dimostrerò in live dal vivo davanti ai tuoi occhi che con il giusto metodo anche senza saper programmare o non sapere proprio una mazza di niente comunque tu ce la potrai fare a costruire le tue applicazioni utili per la vita di tutti i giorni e per risolvere i tuoi problemi. Tu commenta con questa parola che così ti do tutte le informazioni per partecipare a questa live che non sarà pubblica e sarà nei prossimi giorni.
+Questo esempio è fantastico per dimostrarvi che realizzare applicazioni con l'intelligenza artificiale, quindi in vibe coding, senza scrivere una riga di codice, senza appunto saper programmare, è estremamente utile. Questa è una mini app che ho creato dove ci sono le persone che voglio invitare al mio compleanno, e vedi qua, totale, persone che voglio invitare, 88 in attesa, 26 quindi che li ho invitate, adesso da invitare ne ho 52. Poi qui sulla destra c'è il messaggio che devo fare copie con un click appunto me lo va a copiare e queste 88 persone me le ha aggiunte direttamente in intelligenza artificiale da degli screen che gli avevo dato. Su Excel dovevo scriverle manualmente, addirittura mi ha creato la versione scura. Io sono un caso a parte perché effettivamente chi è che invita un compleanno? 90 persone. Però il concetto è che ognuno ha i suoi problemi. Se pensi che non sia possibile sappi che ti dimostrerò in live dal vivo davanti ai tuoi occhi Anche che con il giusto metodo, anche senza saper programmare o non sapere proprio una mazza di niente, comunque tu ce la potrai fare a costruire le tue applicazioni utili per la vita di tutti i giorni e per risolvere i tuoi problemi. Tu commenta con questa parola che così ti do tutte le informazioni per partecipare a questa live che non sarà pubblica e sarà nei prossimi giorni.

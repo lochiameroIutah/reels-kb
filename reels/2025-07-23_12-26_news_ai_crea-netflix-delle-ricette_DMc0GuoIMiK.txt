@@ -19,14 +19,17 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: news_ai
-TAG: intelligenza artificiale, ricettaflix, netflix delle ricette
-TOPIC: Il creatore di contenuti @themattvision prova una nuova intelligenza artificiale che gli permette di creare applicazioni senza codice
+TAG: intelligenza-artificiale, netflix-delle-ricette, ricettaflix, sviluppo-web
+TOPIC: L'utilizzo della nuova intelligenza artificiale per creare il Netflix delle ricette, noto come Ricettaflix
 
 --- HOOK TESTUALE (dal frame) ---
 POV: Hai scoperto quello smanettone che vive nel 2050
 
 --- DESCRIZIONE VISIVA ---
-Una mano destra che scorre un menù a discesa su un portatile. Sullo sfondo si vede un altro schermo, quello di un computer.
+Il video mostra una persona che utilizza un computer per navigare in un'applicazione web, presumibilmente uno strumento di sviluppo o una piattaforma di programmazione. Inizia con la visualizzazione di un'IDE (ambiente di sviluppo integrato) con diverse cartelle e file, tra cui 'components', 'pages', e altri file specifici come 'LoadingSpinner.tsx' e 'RecipeCard.tsx'. L'utente seleziona un file e naviga attraverso diverse sezioni dell'applicazione, mostrando varie schermate, tra cui una pagina di ricette e un'altra con un grafico o una rappresentazione visiva dei dati. Viene mostrato del codice e l'utente interagisce con l'interfaccia, cliccando su diversi elementi. Il video termina con l'utente che sembra aver trovato o creato qualcosa, con una mano che punta o seleziona un elemento sullo schermo.
+
+--- PRODOTTI / TOOL VISIBILI ---
+[nessuno]
 
 --- CAPTION COMPLETA ---
 Sinceramente? Senza parole:
@@ -44,4 +47,4 @@ Se vuoi vedere il video dove ti faccio vedere tutto, se commenti LINK te lo mand
 Se ancora non l’hai fatto ➜ clicca segui @themattvision
 
 --- TRASCRIZIONE AUDIO ---
-No vabbè non hai capito che cosa è uscito, si chiama tra e solo, praticamente premendo questo pulsante passo a questa modalità segreta, sono tra l'altro il primo in Italia ad utilizzarlo che mi permette di creare sì le applicazioni ma senza vedere il codice, vedi qui io posso vedere tutte le cose del codice, invece cliccando su questo pulsantino magico praticamente passo in questa modalità che sì se voglio lo posso vedere ma principalmente quello che vedo è l'intelligenza artificiale e il sito web che mi ha appena creato. In questo caso io ho creato un Netflix delle ricette, si chiama Ricettaflix. È veramente una figata e per esempio io apro la ricetta e qui mi mostra tutte le informazioni. Questa roba non è ancora disponibile per tutti, io sono il primo in Italia ad averla provata e proprio per questo ci ho fatto un video dedicato proprio sul mio canale.
+No vabbè non hai capito che cosa è uscito si chiama tra e solo praticamente premendo questo pulsante passo a questa modalità segreta. Sono tra l'altro il primo in Italia ad utilizzarlo che mi permette di creare sì le applicazioni ma senza vedere il codice. Vedi qui io posso vedere tutte le cose del codice invece cliccando su questo pulsantino magico praticamente passo in questa modalità che sì se voglio lo posso vedere ma principalmente quello che vedo è l'intelligenza artificiale e il sito web che mi ha appena creato. In questo caso io ho creato un Netflix delle ricette, si chiama Ricettaflix. È veramente una figata e per esempio io apro la ricetta e qui mi mostra tutte le informazioni. Questa roba non è ancora disponibile per tutti, io sono il primo in Italia ad averla provata e proprio per questo ci ho fatto un video dedicato proprio sul mio canale.

@@ -19,17 +19,20 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: personale
-TAG: motivazione, positivita
-TOPIC: Un messaggio di speranza e motivazione
+TAG: motivazione-positiva, speranza, luminosita, ottimismo
+TOPIC: Il Matt Vision parla dell'importanza di ricordare che la luce e la speranza sono sempre presenti, anche se non le vediamo
 
 --- HOOK TESTUALE (dal frame) ---
-PICCOLO
+C'è sempre il sole, la luce
 
 --- DESCRIZIONE VISIVA ---
-Un vialetto di accesso a una proprietà con pavimentazione in mattoni, con due auto parcheggiate, una bianca e una rossa, sullo sfondo un giardino e una siepe
+Una serie di 9 foto che mostrano un uomo che si muove in un parcheggio e indica il sole. Le foto sono scattate in un ordine cronologico e mostrano l'uomo che passeggia, il sole nel cielo, e una mano che tiene qualcosa di piccolo. Il video sembra essere incentrato sul concetto di positività, luce e speranza.
+
+--- PRODOTTI / TOOL VISIBILI ---
+[nessuno]
 
 --- CAPTION COMPLETA ---
 Piccolo reminder #sputofatti
 
 --- TRASCRIZIONE AUDIO ---
-Piccolo reminder per dirvi che questo, anche se dietro ci sono le nuvole, c'è sempre. Il sole, la luce, c'è sempre. Anche se alle volte non la vediamo, c'è, splende, spinge, emana. Vaffanculo cazzo.
+Piccolo reminder per dirvi che questo, anche se dietro ci sono le nuvole, c'è sempre. Il sole, la luce, c'è sempre. Anche se alle volte non la vediamo, c'è, splende, spinge, emana. Vaffanculo, cazzo.

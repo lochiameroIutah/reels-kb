@@ -18,15 +18,18 @@ CTA FOLLOW: sì
 LINK IN CAPTION: no
 
 --- CATEGORIA ---
-CATEGORIA: personale
-TAG: instagram, marketing, instagram-hack
-TOPIC: Consiglio per aumentare la visibilità su Instagram
+CATEGORIA: tutorial_ai
+TAG: instagram, tecniche-di-marketing, strategie-di-visibilita, strumenti-gratuiti, social-media, instagram-hack
+TOPIC: Come utilizzare la tecnica del giorno nascosto per aumentare la visibilità del profilo Instagram tramite una singola storia visivamente d'impatto
 
 --- HOOK TESTUALE (dal frame) ---
-DIMMI ANCORA CHE
+LA TECNICA DEL
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con la testa rivolta verso l'alto sorride con un gatto bianco sopra la sua testa, che guarda l'inquadratura.
+Un presentatore in una serie di fotogrammi che spiega una tecnica su Instagram, mostrando schermate dell'app Instagram, come ad esempio la visibilità delle storie e il conteggio delle visualizzazioni, con alcuni elementi humoristici come un gatto bianco nei primi due fotogrammi.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Instagram
 
 --- CAPTION COMPLETA ---
 Ciao ciao Coach di Instagram, non ho tempo da perdere 😮‍💨

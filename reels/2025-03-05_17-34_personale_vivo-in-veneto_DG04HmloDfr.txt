@@ -19,17 +19,20 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: personale
-TAG: veneto, inverno, meteoropatico
-TOPIC: Il creatore descrive la sua reazione al sole invernale in Veneto
+TAG: veneto, inverno, meteoropatico, selfie
+TOPIC: Il creator racconta la sua esperienza di vivere in Veneto d'inverno con un umoristico riferimento alla sua meteoropatia
 
 --- HOOK TESTUALE (dal frame) ---
 Incredibile
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con barba e capelli corti indossa una giacca beige su una maglietta nera, sorride e guarda direttamente la telecamera, con un edificio rosso e beige sullo sfondo sotto un cielo azzurro.
+Una serie di selfie di un uomo che sembra essere in un parcheggio o un'area esterna con cielo sereno. L'uomo indossa una giacca beige e un maglione nero. Mostra diverse espressioni e gesti, come sorridere, alzare la mano, e fare un gesto con le dita. Non ci sono elementi visivi di tool, app, o prodotti tecnologici riconoscibili oltre allo smartphone che appare in alcuni fotogrammi.
+
+--- PRODOTTI / TOOL VISIBILI ---
+[nessuno]
 
 --- CAPTION COMPLETA ---
 Pov:vivi in Veneto d’inverno #fyp
 
 --- TRASCRIZIONE AUDIO ---
-Cioè, incredibile, esce il sole, sembra che non l'abbia mai visto, sono sempre qui che inquadro il cielo, che guardo il cielo e dico, wow, che bello. Cioè, sono letteralmente meteoropatico.
+Cioè, incredibile, esce il sole, sembra che non l'abbia mai visto, sono sempre qui che inquadro il cielo, che guardo il cielo e dico wow che bello, cioè sono letteralmente meteoropatico.

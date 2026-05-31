@@ -20,14 +20,17 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: tutorial_ai
-TAG: intelligenza artificiale, ios app, vibe coding
-TOPIC: Creazione di un'app iOS con intelligenza artificiale per rimuovere loghi e watermark dalle foto
+TAG: vibe-coding, intelligenza-artificiale, ios-app, rimozione-logo
+TOPIC: Come utilizzare l'applicazione Rimuovi Smanettando per rimuovere loghi e watermark dalle foto usando l'intelligenza artificiale
 
 --- HOOK TESTUALE (dal frame) ---
 Questa app completamente gratuita rimuove quello che vuoi dalle foto e l'ho creata in 2 giorni usando solo l'intelligenza artificiale
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con una giacca grigia e una felpa bianca è seduto dentro un'auto. Lui parla nella direzione della telecamera e tiene una mano alzata con tre dita tese. Sullo sfondo, si vede il tetto dell'auto e un finestrino laterale aperto.
+Il video mostra un uomo seduto in macchina che parla di un'applicazione che utilizza l'intelligenza artificiale per rimuovere elementi dalle foto. Viene mostrata la schermata dell'applicazione con varie opzioni, come la rimozione di loghi, watermark e oggetti dalle immagini. L'uomo gesticola e parla mentre mostra le funzioni dell'app.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Rimuovi Smanettando
 
 --- CAPTION COMPLETA ---
 Ho creato un’App iOS in 2 giorni con l’intelligenza artificiale 🤯
@@ -53,4 +56,4 @@ Io sono Matteo Zampieri, il tuo smanettone di fiducia, noi ci vediamo ad un pros
 #vibecoding #intelligenzaartificiale #iosapp #tutorial #ia
 
 --- TRASCRIZIONE AUDIO ---
-Allora mi sono appena svegliato ma sono ando subito in palestra perché ieri sera ho fatto le 5 di mattina, sono un pazzo fulminato male. Io mi ero stufato completamente di ogni volta sto cazzo di loghetto in basso a destra, veramente che palle. Allora cosa ho fatto? Sono andato a creare un'applicazione con l'intelligenza artificiale che sfrutta l'intelligenza artificiale in locale per andare a rimuovere facilmente quel logo ma eventualmente puoi rimuovere qualsiasi cosa. In un attimo rimuovi i loghi, eventualmente le persone, semplice e immediata Devo essere sincero, sono super soddisfatto, anzi guardate quando si apre l'applicazione che c'è questa super anteprima carina Fatta con l'intelligenza artificiale, siamo utilizzati Higgspild, quello di cui vi parlavo l'altro giorno Che ha appena pubblicato il Vibe Motion, veramente tantissima roba Adesso vado in palestra, ci vediamo dopo
+Allora, mi sono appena svegliato ma sono ando subito in palestra perché ieri sera ho fatto le 5 di mattina, sono un pazzo fulminato, male. Io mi ero stufato completamente di ogni volta sto cazzo di loghetto in basso a destra, veramente che palle. Allora cosa ho fatto? Sono andato a creare un'applicazione con l'intelligenza artificiale che sfrutta l'intelligenza artificiale in locale per andare a rimuovere facilmente quel logo, ma eventualmente puoi rimuovere qualsiasi cosa. In un attimo rimuovi i loghi, eventualmente le persone, semplice e immediata. Devo essere sincero, sono super soddisfatto, anzi guardate quando si apre l'applicazione che c'è questa super anteprima carina, fatta con l'intelligenza artificiale, siamo utilizzato Higgspild, quello di cui vi parlavo l'altro giorno, che ha appena pubblicato il Vibe Motion, veramente tantissima roba. Adesso vado in palestra, ci vediamo dopo.

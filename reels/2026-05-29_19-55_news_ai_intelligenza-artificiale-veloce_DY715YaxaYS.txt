@@ -6,8 +6,8 @@ DATA: 2026-05-29
 ORA: 19:55
 
 --- METRICHE ---
-LIKE: 110
-COMMENTI: 1
+LIKE: 145
+COMMENTI: 2
 DURATA VIDEO: 54 secondi
 CARATTERI CAPTION: 944
 HASHTAG: #intelligenzaartificiale #ai #claude #anthropic #creatorsearchinsights

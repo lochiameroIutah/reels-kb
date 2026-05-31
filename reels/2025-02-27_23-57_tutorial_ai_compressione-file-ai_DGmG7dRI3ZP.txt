@@ -19,14 +19,17 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: tutorial_ai
-TAG: intelligenza artificiale, compressione file, piattaforma ai
-TOPIC: Come utilizzare l'intelligenza artificiale per comprimere file
+TAG: intelligenza-artificiale, chatgpt, phoenix-ep, soundiiz
+TOPIC: Come utilizzare ChatGPT per creare una pagina web per il proprio EP musicale chiamato PHOENIX
 
 --- HOOK TESTUALE (dal frame) ---
-Mentre tipo sto aspettando
+PHOENIX EP
 
 --- DESCRIZIONE VISIVA ---
-Uno screenshot di un computer che mostra una mano destra che punta lo schermo. Sullo schermo è aperto un browser con un tab di Instagram aperto. Sembra che l'utente stia guardando un video di una serie di video, e seleziona uno di questi con il dito indice.
+Il video mostra una serie di screenshot di un computer, principalmente focalizzato su una pagina web dedicata a un EP musicale chiamato 'PHOENIX'. La pagina web sembra essere una piattaforma di streaming musicale, con opzioni per ascoltare su diverse piattaforme come Spotify, Apple Music e altro. Viene mostrato anche un pannello di controllo per la gestione della pagina, suggerendo che il creatore del contenuto sta configurando o promuovendo l'EP. In alcuni frame, compare un uomo che parla, probabilmente l'artista o il gestore del contenuto.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Spotify, Apple Music, Soundiiz
 
 --- CAPTION COMPLETA ---
 Farlo con l’Ai è la svolta, risultati pazzeschi nella metà del tempo di chi usa i metodi tradizionali 😮‍💨 
@@ -34,4 +37,4 @@ Farlo con l’Ai è la svolta, risultati pazzeschi nella metà del tempo di chi 
 Commenta Gatto e ti mando il link :)
 
 --- TRASCRIZIONE AUDIO ---
-Mentre tipo sto aspettando perché praticamente ho trovato il modo di convertire tipo un file che pesa tipo 2 giga in file che pesano massimo 170 mega. Best compressione ever. Vi voglio far vedere come ho realizzato questa cosa. Ditemi se dovete presentare un vostro prodotto e avete una paginetta di questo tipo se non è una cazzo di figata. È stato stra semplice. Ho usato una piattaforma che ho scoperto nel lontano 2019. Tutto con l'intelligenza artificiale raga tra l'altro. C'è qui la parte che con l'intelligenza artificiale ti può generare qualsiasi cosa e senza senso secondo me non lo faranno per sempre. C'hai tipo le pagine, in questo caso la home che io ho scelto semplicemente di mettere un video e poi dall'altra parte appunto ho creato questa pagina. Parte il fatto che ho preso semplicemente questa cosa qua, è un testo in grande, questo qua è uno sticker, era una fotografia e io l'ho utilizzato, l'ho messo dentro e lo puoi prendere e muovere come vuoi. Come vedete c'è tipo una griglia no? E poi ovviamente anche da mobile Fatto da Dio Cioè raga Matteo ma com'è che hai fatto a fare questa cosa? Chat GPT Io praticamente io gli ho dato tipo questa immagine qua C'è il link di Spotify Apple Music YouTube e così via Gliel'ho dato All'intelligenza artificiale E lui bam Questa roba qua E poi gli ho detto Aggiungi anche che quando ci vado sopra Diventa rosso Ci ho messo più il tempo a collegare Tutto che a realizzare questa cosa Commenta con questa parola Io ti mando il link dedicato Potete fare un figurone con i vostri amici Con i vostri clienti Fatelo
+Mentre tipo sto aspettando perché praticamente ho trovato il modo di convertire tipo un file che pesa tipo 2 giga in file che pesano massimo 170 mega. Best compressione ever! Vi voglio far vedere come ho realizzato questa cosa. Ditemi se dovete presentare un vostro prodotto e avete una paginetta di questo tipo se non è una cazzo di figata. È stato strasemplice. Ho usato una piattaforma che ho scoperto nel lontano 2019 tutto con l'intelligenza artificiale raga tra l'altro. C'è qui la parte che con l'intelligenza artificiale ti può generare qualsiasi cosa, senza senso secondo me non lo faranno per sempre. C'hai tipo le pagine, in questo caso la home che io ho scelto semplicemente di mettere un video e poi dall'altra parte appunto ho creato questa pagina. Parte il fatto che ho preso semplicemente questa cosa qua, è un testo in grande, questo qua è uno sticker, era una fotografia e io l'ho utilizzato, l'ho messo dentro e lo puoi prendere e muovere come vuoi. Come vedete c'è tipo una griglia, no? E poi ovviamente anche da mobile, fatto da Dio, cioè raga, Matteo ma com'è che hai fatto a fare questa cosa? ChatGPT. Io praticamente gli ho dato tipo questa immagine qua, c'è il link di Spotify, Apple Music, YouTube e così via. Gliel'ho dato all'intelligenza artificiale e lui bam, questa roba qua. E poi gli ho detto, aggiungi anche che quando ci vado sopra diventa rosso. Ci ho messo più il tempo a collegare tutto che a realizzare questa cosa. commenta con questa parola, io ti mando il link dedicato, potete fare un figurone con i vostri amici, con i vostri clienti, fatelo.

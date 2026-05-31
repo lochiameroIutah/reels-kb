@@ -19,14 +19,17 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: confronto_ai
-TAG: googlemeet, jitsymeet, risparmio
-TOPIC: Il creator presenta Jitsy Meet come alternativa gratuita e senza limiti a Google Meet
+TAG: jitsi-meet, google-meet, videoconferenze, tool-gratuiti
+TOPIC: Come utilizzare Jitsi Meet per videoconferenze senza limiti di tempo
 
 --- HOOK TESTUALE (dal frame) ---
-DIMMI CHE ANCORA
+è SOLAMENTE CHE
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con un gatto bianco sulla testa
+Il video mostra una serie di screenshot e riprese di una persona che utilizza il computer per dimostrare come utilizzare Jitsi Meet per videoconferenze. Inizia con una donna che usa il laptop su un divano, poi mostra la registrazione di una persona che utilizza Jitsi Meet su un computer. Viene mostrata anche una schermata del browser con l'URL di Jitsi Meet. La persona nel video fa gesti e parla mentre usa il computer.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Jitsi Meet
 
 --- CAPTION COMPLETA ---
 Ciao ciao Google Meet non ho tempo da perdere 😂

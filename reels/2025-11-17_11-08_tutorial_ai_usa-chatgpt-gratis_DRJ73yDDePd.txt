@@ -19,14 +19,17 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: tutorial_ai
-TAG: intelligenzaartificiale, chatgpt, claude, perplexity
-TOPIC: Una guida per utilizzare l'intelligenza artificiale gratuitamente
+TAG: perplexity-gratis, chatgpt-hacks, claude-ia, intelligenza-artificiale
+TOPIC: Come utilizzare ChatGPT dopo aver ottenuto Perplexity gratis per un anno con il metodo di Matt Vision
 
 --- HOOK TESTUALE (dal frame) ---
 Ok avete Perplexity GRATIS per un anno, ma come si fa a scegliere di usare ChatGPT?
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con una maglietta nera sorride e alza la mano sinistra, con una decorazione colorata sfocata sullo sfondo.
+Il video mostra un uomo che parla e gesticola in una stanza con pareti bianche e porte marroni. Lui indossa una maglietta nera. Non ci sono elementi visuali significativi come screenshot di terminali, schermate di app/siti, diagrammi, UI di prodotti, o codice mostrato. L'enfasi è sul presentatore che sembra offrire una guida su come utilizzare ChatGPT dopo aver ottenuto Perplexity gratis per un anno.
+
+--- PRODOTTI / TOOL VISIBILI ---
+[nessuno]
 
 --- CAPTION COMPLETA ---
 Bisogna farsi furbi per usare l’intelligenza artificiale gratis ed ecco il metodo
@@ -36,4 +39,4 @@ scrivi Ai e ti mando la video guida gratis
 #intelligenzaartificiale #risparmiare #ia #chatgpt #chatgpthacks #claude
 
 --- TRASCRIZIONE AUDIO ---
-a stare attenti perché non è che se avete preso perplexity gratis per un anno grazie a quella mia guida che ho pubblicato allora in automatico potete utilizzare CiaGPT, perplexity, Gemini, Claude, bisogna farsi furbi. Vi ho fatto una guida di un minuto, ve la mando se commentate solo a i e niente poi mi fate sapere se riuscite a sbloccare praticamente questo trucchetto e avere tutte le intelligenze che volete gratis per un anno.
+Volevo stare attenti, eh, perché non è che se avete preso perplexity gratis per un anno grazie a quella mia guida che ho pubblicato, allora in automatico potete utilizzare CiaGPT, perplexity, Gemini, Claude. Bisogna farsi furbi. Vi ho fatto una guida di un minuto, ve la mando se commentate solo AI e niente, poi mi fate sapere se riuscite a sbloccare praticamente questo trucchetto e avere tutte le intelligenze che volete gratis per un anno.

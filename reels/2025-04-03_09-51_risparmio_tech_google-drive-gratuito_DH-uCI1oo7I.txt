@@ -19,17 +19,20 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: risparmio_tech
-TAG: google drive, archiviazione foto, cloud gratuito
-TOPIC: Utilizzare Google Drive gratuitamente per archiviare foto
+TAG: google-drive, storage-illimitato, risparmio-online, google-photos
+TOPIC: Come utilizzare Google Drive illimitato gratuitamente caricando le proprie foto e disattivando l'abbonamento
 
 --- HOOK TESTUALE (dal frame) ---
-Rispondi al commento di Obli e che usi ora come cloud
+Come avere Google Drive illimitato
 
 --- DESCRIZIONE VISIVA ---
-Un uomo con una maglietta grigia scura guarda verso la telecamera con una mano sollevata. Sembra di essere in un ambiente interno con un soffitto bianco e una porta o pannello beige sullo sfondo. Sembra che l'uomo stia rispondendo a un commento in un Reel Instagram.
+Il video mostra una serie di riprese di un uomo che gesticola con le mani mentre parla. Non sono presenti screenshot di terminali, schermate di app/siti, diagrammi, UI di prodotti, codice o altri elementi di B-roll informativo. L'attenzione è focalizzata sul presentatore.
+
+--- PRODOTTI / TOOL VISIBILI ---
+[nessuno]
 
 --- CAPTION COMPLETA ---
 Tu lo sapevi? Google non vuole tu lo sappia 😎 #googledriveunlimited #segreto #risparmiare
 
 --- TRASCRIZIONE AUDIO ---
-Infatti c'è questo segreto qui che praticamente se tu carichi tutte le tue foto su Google e poi disattivi l'abbonamento, tipo ti fai solamente un mese, e poi Google non è che elimina le tue foto perché sennò sarebbe un delirio. Quindi ci puoi accedere gratis per sempre.
+Infatti c'è questo segreto qui che praticamente se tu carichi tutte le tue foto su Google e poi disattivi l'abbonamento, tipo ti fai solamente un mese, e poi Google non è che elimina le tue foto perché sennò sarebbe un delirio, quindi ci puoi accedere gratis per sempre.

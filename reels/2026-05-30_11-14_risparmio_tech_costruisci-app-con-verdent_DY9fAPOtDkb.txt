@@ -1,0 +1,71 @@
+POST ID: 18119583436664708
+IG ID: 18119583436664708
+SHORTCODE: DY9fAPOtDkb
+PERMALINK: https://www.instagram.com/reel/DY9fAPOtDkb/
+DATA: 2026-05-30
+ORA: 11:14
+
+--- METRICHE ---
+LIKE: 70
+COMMENTI: 70
+DURATA VIDEO: 69 secondi
+CARATTERI CAPTION: 1029
+HASHTAG: #adv #intelligenzaartificiale #vibecoding #ai #creatorsearchinsights
+
+--- FLAGS ---
+CTA COMMENTO: sì
+CTA FOLLOW: sì
+LINK IN CAPTION: no
+
+--- CATEGORIA ---
+CATEGORIA: risparmio_tech
+TAG: verdent, chatgpt, gemini, claude
+TOPIC: Come utilizzare Verdent per costruire un'applicazione in poche ore, risparmiando tempo con l'integrazione di multiple intelligenze artificiali come Claude e Gemini
+
+--- HOOK TESTUALE (dal frame) ---
+[nessun testo rilevato]
+
+--- DESCRIZIONE VISIVA ---
+```json
+{
+  "hook_text": "Questa intelligenza artificiale ti fa risparmiare troppe ore del tuo tempo",
+  "visual_description": "Il video mostra un uomo che lavora con un laptop all'aperto. Viene mostrata una schermata di un'applicazione o tool di intelligenza artificiale che sembra essere utilizzato per automatizzare o velocizzare delle attività. La schermata include codice, interfaccia utente e possibili output. L'uomo gesticola e parla, probabilmente spiegando come utilizza questo strumento per risparmiare tempo.",
+  "visible_products": ["Notion"] // non sono certo ma potrebbe esserci un terminale o simili
+}
+```
+
+--- PRODOTTI / TOOL VISIBILI ---
+[nessuno]
+
+--- CAPTION COMPLETA ---
+Inizia facendo questo:
+
+(commenta “VERDENT” e ti mando il link e il prompt)
+
+Prima di tutto 👉 clicca segui @themattvision
+
+1 Vai su Verdent, ma se vuoi ti mando il link e prompt se commenti VERDENT
+
+2 Scrivi semplicemente l’idea che hai in mente, esattamente come la racconteresti a un amico
+
+3 quando hai finito il tuo prompt e premi invia
+
+4 Lui da solo si fa il piano e inizia a costruire usando più intelligenze artificiali insieme, Claude, Gemini e ChatGPT, prendendo le risposte migliori da ognuna
+
+5 Aspetti qualche minuto e ti ritrovi la tua app già pubblicata online, senza terminale e senza codici strani
+
+6 se non te l ha pubblicata chiediglielo “pubblicala” 
+
+Io gli ho dato lo stesso identico prompt che avevo dato a ChatGPT. Con ChatGPT ci mettevo tre giorni, con Verdent due ore.
+
+Se ti sono stato utile 👉 clicca segui @themattvision
+
+Io sono Matteo Zampieri, il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video!
+
+@verdent__ai 
+
+#adv #intelligenzaartificiale #vibecoding #ai 
+#creatorsearchinsights
+
+--- TRASCRIZIONE AUDIO ---
+Non so se lo sai ma CiaGPT sembra proprio fatta apposta per farti perdere tempo. Cioè te prova a costruire un'idea che hai in mente e vuoi pubblicare e non ce la fai. Infatti io gli ho chiesto di costruirmi questa mini app per gestirmi tutti i miei clienti e le varie richieste che mi arrivano e mi ha risposto con questa roba che non so nemmeno dove mettere. Se ricarico perdo anche tutti i dati. Per questo motivo c'è il tuo smanettone di fiducia pronto qui a darti una mano. C'è questa applicazione che si chiama Verdant che è praticamente un'intelligenza artificiale che ti fa da amico smanettone socio-tecnico. Ragiona il posto tuo, si fa il piano e lo esegue ma si ricorda tutto del progetto. Ma non usa una singola intelligenza artificiale, ne usa varie. Claude, Gemini, CagPT, prende tutte le risposte e le impacchette in un unico piano completo per costruire tutto. Guarda qua, io gli incollo il prompt, semplicemente la stessa cosa che gli ho dato CagPT e faccio in via la roba pazzesca che lui adesso sta facendo. Ecco qui il gestionale pubblicato già online senza terminale o senza codici strani. Con CiaGPT praticamente ci mettevi tre giorni e con Verden ci metti tipo due ore, ma se vuoi farlo anche tu il link te l'ho messo in descrizione ma commenta Verden e ti mando anche il prompt esatto che ho utilizzato. Comunque io sono Matteo Zampieri, il tuo smanettone di fiducia, tu ricordati di seguirmi se ancora non l'hai fatto così noi ci vediamo ad un prossimo video.

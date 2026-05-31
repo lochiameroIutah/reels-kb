@@ -19,14 +19,17 @@ LINK IN CAPTION: no
 
 --- CATEGORIA ---
 CATEGORIA: personale
-TAG: unpopularopinions, marketingdigital, sputofatti, felicità
-TOPIC: Il creatore condivide una sua opinione personale
+TAG: vita-scolastica, anno-2003, felicità, esperienze-personali
+TOPIC: Il video riflette sulla vita scolastica nel 2003 e le esperienze personali degli studenti di allora.
 
 --- HOOK TESTUALE (dal frame) ---
 High School in 2003
 
 --- DESCRIZIONE VISIVA ---
-Un fotogramma di un Reel che mostra un primo piano di una ragazza con lunghi capelli castani e un look appariscentemente anni '90, con una felpa o un cappuccio scuro, davanti ad un muro con una scritta sfocata.
+La griglia mostra una sequenza di eventi legati alla vita scolastica nel 2003. I primi frame mostrano un cartellone con la scritta 'Class of' seguito da numeri che indicano l'anno di diploma. Si vedono poi immagini di studenti e persone che parlano, probabilmente condividendo esperienze o riflessioni sulla loro vita scolastica. Le didascalie in italiano forniscono ulteriore contesto sulle possibilità creative e le limitazioni dei giovani. Non sono presenti elementi visivi specifici di prodotti tecnologici o strumenti di sviluppo.
+
+--- PRODOTTI / TOOL VISIBILI ---
+[nessuno]
 
 --- CAPTION COMPLETA ---
 Sarebbe un mondo migliore 😮‍💨 #unpopularopinions #marketingdigital #sputofatti  #felicità

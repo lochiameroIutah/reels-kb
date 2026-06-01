@@ -6,8 +6,8 @@ DATA: 2026-05-26
 ORA: 19:31
 
 --- METRICHE ---
-LIKE: 288
-COMMENTI: 308
+LIKE: 293
+COMMENTI: 312
 DURATA VIDEO: 77 secondi
 CARATTERI CAPTION: 889
 HASHTAG: #vibecoding #intelligenzaartificiale #ai #workshop #creatorsearchinsights

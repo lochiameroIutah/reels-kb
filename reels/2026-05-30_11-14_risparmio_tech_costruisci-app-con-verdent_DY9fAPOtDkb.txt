@@ -6,8 +6,8 @@ DATA: 2026-05-30
 ORA: 11:14
 
 --- METRICHE ---
-LIKE: 114
-COMMENTI: 136
+LIKE: 117
+COMMENTI: 139
 DURATA VIDEO: 69 secondi
 CARATTERI CAPTION: 1029
 HASHTAG: #adv #intelligenzaartificiale #vibecoding #ai #creatorsearchinsights

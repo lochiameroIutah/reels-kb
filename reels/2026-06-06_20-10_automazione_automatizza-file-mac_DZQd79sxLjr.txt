@@ -1,0 +1,64 @@
+POST ID: 17893530273356700
+IG ID: 17893530273356700
+SHORTCODE: DZQd79sxLjr
+PERMALINK: https://www.instagram.com/reel/DZQd79sxLjr/
+DATA: 2026-06-06
+ORA: 20:10
+
+--- METRICHE ---
+LIKE: 40
+COMMENTI: 3
+DURATA VIDEO: 108 secondi
+CARATTERI CAPTION: 1314
+HASHTAG: #intelligenzaartificiale #vibecoding #ai #vibecodeapp #risparmiare
+
+--- FLAGS ---
+CTA COMMENTO: sì
+CTA FOLLOW: sì
+LINK IN CAPTION: no
+
+--- CATEGORIA ---
+CATEGORIA: automazione
+TAG: intelligenza-artificiale, vibe-coding, agent-sdk, telegram, mac
+TOPIC: Come usare l'intelligenza artificiale di AgentSDK per automatizzare la gestione di file e cartelle su Mac
+
+--- HOOK TESTUALE (dal frame) ---
+Questa intelligenza artificiale usa il computer completamente da sola
+
+--- DESCRIZIONE VISIVA ---
+La griglia di 9 frame mostra un video che illustra come un'intelligenza artificiale (AI) stia utilizzando un computer in modo autonomo. I frame iniziali mostrano schermate di terminali e interfacce di computer con codice e comandi in esecuzione. Man mano che il video procede, si vedono persone che interagiscono con il computer, alcune sembrano sorprese o incredule. Viene mostrato anche un utente che cerca di accedere a Telegram e ad altri file system. Le schermate del computer mostrano diversi programmi e finestre aperte, tra cui alcune relative a strumenti di sviluppo e editing.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Telegram
+
+--- CAPTION COMPLETA ---
+Ti spiego meglio qui 🤯
+
+Prima di tutto 👉 clicca segui @themattvision
+
+Ho costruito un’applicazione per Mac che usa l’intelligenza artificiale per gestire i tuoi file e cartelle al posto tuo. E l’ho fatto completamente usando solo l’intelligenza artificiale, senza scrivere una riga di codice.
+
+Funziona così: selezioni una cartella o un file, e spunta una finestrella dove scrivi a parole tue cosa vuoi che venga fatto. “Rinomina questi file con la data”, “Fammi un riassunto di questa lettera”, “Mettimi insieme queste foto”. E lui lo fa da solo, senza toccare i tuoi file originali.
+
+Fa sempre una copia di sicurezza prima di toccare qualsiasi cosa.
+
+Se deve fare qualcosa di delicato, ti chiede il permesso.
+
+Col tempo impara come ti piace lavorare.
+
+L’ho costruito con AgentSDK, una tecnologia nuovissima, e il “cervello” funziona già davvero.
+
+Adesso immagina di poterci parlare anche a voce.
+
+Diventa letteralmente l’assistente di Iron Man.
+
+Saranno così i computer del futuro?
+
+Questa è la potenza del vibe coding, creare applicazioni usando solo l’intelligenza artificiale. Ne parlo tutti i giorni sul mio profilo 👉 clicca segui @themattvision
+
+Io sono Matteo Zampieri il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video!
+
+#intelligenzaartificiale #vibecoding #ai #vibecodeapp #risparmiare
+
+--- TRASCRIZIONE AUDIO ---
+È nato su Prano! Eh sì, lo sta facendo! No, allora, bisogna fare assolutamente il video, perché non sappiamo se io e Prano se questa cosa funzionerà, vero Prano? Lo scopriamo. Ovvero, invia il link contenuto nel file, ok, questo file qua, ok, che è questo link qua, con Telegram a Prano. E qui abbiamo, vi presento, Prano. Allora, facciamo così, premiamo, invio e lui lo farà. Lui adesso sta pensando e praticamente andrà a prendere il link che è contenuto qua dentro e in qualche modo utilizzerà Telegram per mandarlo a te. Lui sta pensando, non so se lo farà, il fatto qual è? Gli abbiamo detto prima di tutto, comprimi quella cartella. Poi gli abbiamo detto, farica quella cartella online, gliacci un file di testo con tutte le cose per inviarlo. Poi gli abbiamo detto, prendi quel link del file e invialo con Telegram a Prano. Lui dice, sta pensando, è molto elaborata, più che altro devi usare il tuo computer. No fucking way, no fucking way. Mi chiede di consentire comunque. No fucking way. È andato su Prano, eh sì, lo sta facendo. Vai, ok, consenti. Attenzione, ha digitato Prano, adesso, devi premere invio. Premi, è andato su Laura, Pranovi ha sbagliato. No, no, no. Era tua cugina quella, ha detto, no, quella è sua cugina, non è lui. Perché Prano siamo amici da una vita e quindi ho Prano, amico Prano, cugina Prano. Niente, si è chiuso, ce la può fare. L'ha incollato, però ha scritto anche tab, tab HTTPS. Per ora si è salvata la bozza e l'ha inviato. L'ha inviato, e l'ha inviato. Allora, domanda, Alberto, siamo o non siamo nel futuro? Siamo nel futuro. Se oggi è possibile questo, vuol dire che questo è come il vibe coding, è qualcosa di rivoluzionario. Io sono comunque Matteo Zampieri, il tuo smartphone di fiducia con Prano qui, che ci rimettiamo at work, e noi ci vediamo in un prossimo video, tu ricordati di seguirmi se ancora non l'hai fatto, che poi ti perdi queste cose incredibili.

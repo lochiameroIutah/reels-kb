@@ -7,7 +7,7 @@ ORA: 11:35
 
 --- METRICHE ---
 LIKE: 2496
-COMMENTI: 459
+COMMENTI: 460
 DURATA VIDEO: 57 secondi
 CARATTERI CAPTION: 966
 HASHTAG: #intelligenzaartificiale #ai #ia #videoai #ltxvideo

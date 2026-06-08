@@ -6,8 +6,8 @@ DATA: 2026-06-01
 ORA: 09:50
 
 --- METRICHE ---
-LIKE: 23
-COMMENTI: 11
+LIKE: 25
+COMMENTI: 13
 DURATA VIDEO: 66 secondi
 CARATTERI CAPTION: 683
 HASHTAG: #adv #emergent #vibecoding #intelligenzaartificiale #viaggi

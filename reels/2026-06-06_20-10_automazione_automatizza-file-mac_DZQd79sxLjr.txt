@@ -6,8 +6,8 @@ DATA: 2026-06-06
 ORA: 20:10
 
 --- METRICHE ---
-LIKE: 40
-COMMENTI: 3
+LIKE: 45
+COMMENTI: 6
 DURATA VIDEO: 108 secondi
 CARATTERI CAPTION: 1314
 HASHTAG: #intelligenzaartificiale #vibecoding #ai #vibecodeapp #risparmiare

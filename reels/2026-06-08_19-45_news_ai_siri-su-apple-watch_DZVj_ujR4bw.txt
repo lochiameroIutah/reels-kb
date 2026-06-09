@@ -1,0 +1,54 @@
+POST ID: 17942901492214016
+IG ID: 17942901492214016
+SHORTCODE: DZVj_ujR4bw
+PERMALINK: https://www.instagram.com/reel/DZVj_ujR4bw/
+DATA: 2026-06-08
+ORA: 19:45
+
+--- METRICHE ---
+LIKE: 11
+COMMENTI: 0
+DURATA VIDEO: 33 secondi
+CARATTERI CAPTION: 610
+HASHTAG: #apple #siri #applewatch #appleglass #intelligenzaartificiale
+
+--- FLAGS ---
+CTA COMMENTO: no
+CTA FOLLOW: sì
+LINK IN CAPTION: no
+
+--- CATEGORIA ---
+CATEGORIA: news_ai
+TAG: siri, apple-watch, apple-glass, intelligenza-artificiale
+TOPIC: L'app ufficiale di Siri consente di utilizzare il tracciamento degli occhi per interagire con gli Apple Glass
+
+--- HOOK TESTUALE (dal frame) ---
+Apple ha pubblicato l'App ufficiale di Siri che sostituisce ChatGPT
+
+--- DESCRIZIONE VISIVA ---
+Il video mostra una serie di screenshot e riprese di dispositivi Apple, inclusi iPhone, Apple Watch e un computer portatile, con l'applicazione di Siri in funzione. Viene mostrata l'interfaccia utente dell'app, funzionalità di Siri e come viene utilizzata in diversi contesti. Si vedono anche scene di una persona che utilizza l'app e un ambiente domestico visualizzato tramite un dispositivo Apple.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Apple Watch, iPhone, ChatGPT, Siri
+
+--- CAPTION COMPLETA ---
+Siri su Apple Watch, Vision Pro e presto anche sugli Apple Glass.
+
+Prima di tutto 👉 clicca segui @themattvision
+
+È arrivata l’app ufficiale di Siri con tutta la lista delle conversazioni, come una vera chat.
+
+E quando arriveranno gli Apple Glass basterà guardarlo negli occhi per farlo partire, grazie al tracciamento degli occhi.
+
+Questo è il futuro che mi aspettavo.
+
+Tutto questo anche offline sul Mac.
+
+Se ti ho aiutato 👉 clicca segui @themattvision
+
+Io sono Matteo Zampieri il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video!
+
+#apple #siri #applewatch #appleglass #intelligenzaartificiale
+
+--- TRASCRIZIONE AUDIO ---
+Finalmente è arrivata l'app ufficiale di Siri. Come potete vedere c'è tutta la lista delle nostre conversazioni. Sarà anche per l'Apple Watch, fantastico, me lo sono comprato proprio ieri e anche in Apple Vision. Guardate che figata, questo è veramente il futuro e ragazzi preparatevi perché appena usciranno gli Apple Glass questa cosa qua sarà la nostra vita. Ti basterà guardare Siri e parlargli e lui capirà in automatico perché c'è il tracciamento degli occhi. Tutto ciò dentro al Mac offline.

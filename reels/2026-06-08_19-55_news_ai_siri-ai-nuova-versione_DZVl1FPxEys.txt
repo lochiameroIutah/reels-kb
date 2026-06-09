@@ -1,0 +1,54 @@
+POST ID: 17948049066011599
+IG ID: 17948049066011599
+SHORTCODE: DZVl1FPxEys
+PERMALINK: https://www.instagram.com/reel/DZVl1FPxEys/
+DATA: 2026-06-08
+ORA: 19:55
+
+--- METRICHE ---
+LIKE: 19
+COMMENTI: 0
+DURATA VIDEO: 93 secondi
+CARATTERI CAPTION: 656
+HASHTAG: #apple #siri #appleintelligence #ios26 #intelligenzaartificiale
+
+--- FLAGS ---
+CTA COMMENTO: no
+CTA FOLLOW: sì
+LINK IN CAPTION: no
+
+--- CATEGORIA ---
+CATEGORIA: news_ai
+TAG: siri-ai, apple-intelligence, google-gemini, liquid-glass
+TOPIC: Apple presenta la nuova versione di Siri che integra Apple Intelligence e Google Gemini per offrire un'esperienza personalizzata
+
+--- HOOK TESTUALE (dal frame) ---
+Apple ha pubblicato SiriAI che saprà tutto di te e farà le cose al posto tuo sul tuo iPhone
+
+--- DESCRIZIONE VISIVA ---
+Il video mostra una serie di screenshot e interazioni con l'iPhone e il computer, illustrando le funzionalità di Siri AI. Si parte dalla presentazione di un uomo che parla di un iPhone, seguita da schermate che mostrano 'Personal context understanding', 'System Orchestration' e altre funzionalità. Viene mostrato il logo di Siri e la combinazione 'Siri + Apple Intelligence'. Il video prosegue con demo pratiche sull'utilizzo di Siri AI per varie azioni, come personalizzare la voce, utilizzare un pulsante e altro.
+
+--- PRODOTTI / TOOL VISIBILI ---
+iPhone, Siri, Apple Intelligence
+
+--- CAPTION COMPLETA ---
+Finalmente la Siri che aspettavamo da anni.
+
+Prima di tutto 👉 clicca segui @themattvision
+
+Apple ha annunciato la collaborazione con Google Gemini e ha ricostruito Siri completamente da zero.
+
+Adesso capisce il contesto personale, capisce l’app che stai usando, e fa le cose al posto tuo direttamente dall’iPhone.
+
+Liquid Glass rinnovato, voce personalizzabile, e tutto aggiornato anche su AirPods e CarPlay.
+
+Il futuro è qui ma ci crediamo davvero?
+
+Se ti ho aiutato 👉 clicca segui @themattvision
+
+Io sono Matteo Zampieri il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video!
+
+#apple #siri #appleIntelligence #ios26 #intelligenzaartificiale
+
+--- TRASCRIZIONE AUDIO ---
+Finalmente può fare Apple Intelligence cose al posto nostro nel nostro iPhone, finalmente. Appena annunciata la sua collaborazione con Google Gemini che praticamente ci sarà un contesto personale su ognuno di noi, quindi lui prenderà tutte le nostre informazioni e le va a utilizzare sempre insieme a Siri e riesce anche a capire quello che stiamo facendo in base all'app che stiamo utilizzando. Stiamo andando in una direzione veramente interessante. Vedo System orchestration, System wide experiences, personal context, voice, text. Ci crediamo? Io sinceramente non troppo. Ok, ci siamo, una nuova Siri. Hanno ricostruito completamente Siri. Ha un'estetica pure diversa. Siri più Apple Intelligence. Benissimo. Siri AI. Questa cosa fa molto ridere, non sapevano come chiamarla. Praticamente adesso si va direttamente nell'applicazione di Siri, nella chat tipo chat GPT però di, della Apple ufficiale, direttamente dalla domanda che noi gli abbiamo fatto tenendo premuto il pulsante. Potrà fare Siri direttamente cose direttamente nel nostro iPhone al posto nostro, basterà dirglielo. Ci sarà una super integrazione direi veramente molto molto interessante con il Liquid Glass che lo vedo anche molto migliorato. Possiamo scegliere se renderlo... vedete? Quindi possiamo migliorare, quindi personalizzare la voce di Siri. E tutti questi aggiornamenti arrivano anche nelle Airpods, in CarPlay...

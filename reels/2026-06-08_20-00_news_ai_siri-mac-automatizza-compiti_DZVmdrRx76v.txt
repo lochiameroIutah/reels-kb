@@ -1,0 +1,54 @@
+POST ID: 18106403992779777
+IG ID: 18106403992779777
+SHORTCODE: DZVmdrRx76v
+PERMALINK: https://www.instagram.com/reel/DZVmdrRx76v/
+DATA: 2026-06-08
+ORA: 20:00
+
+--- METRICHE ---
+LIKE: 34
+COMMENTI: 1
+DURATA VIDEO: 53 secondi
+CARATTERI CAPTION: 685
+HASHTAG: #apple #siri #mac #appleintelligence #intelligenzaartificiale
+
+--- FLAGS ---
+CTA COMMENTO: no
+CTA FOLLOW: sì
+LINK IN CAPTION: no
+
+--- CATEGORIA ---
+CATEGORIA: news_ai
+TAG: apple, siri, intelligenza-artificiale, mac, automazione
+TOPIC: Come utilizzare Siri sul Mac per automatizzare compiti con l'intelligenza artificiale
+
+--- HOOK TESTUALE (dal frame) ---
+Apple ha finalmente reso utile Siri usando l'intelligenza artificiale
+
+--- DESCRIZIONE VISIVA ---
+Il video mostra una serie di screenshot e interazioni con un Mac, focalizzandosi sulle funzionalità di Siri potenziate dall'intelligenza artificiale. Inizia con la schermata di un Mac, seguita da un utente che interagisce con il dispositivo. Viene mostrata la creazione di applicazioni, la gestione delle finestre e l'integrazione con varie app. La dimostrazione include anche la ricerca di informazioni e l'invio di messaggi. Le immagini illustrano come Siri possa assistere nell'utilizzo del Mac, ad esempio, creando app, gestendo input e migliorando l'interazione utente.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Apple, Mac, Siri
+
+--- CAPTION COMPLETA ---
+Siri dentro al Mac che fa le cose al posto tuo come ChatGPT. No, sul serio.
+
+Prima di tutto 👉 clicca segui @themattvision
+
+Adesso puoi scrivere a Siri direttamente sul tuo Mac come se fosse una chat, e lui capisce da solo che è una domanda per lui.
+
+Puoi selezionare file, confrontarli, controllare i messaggi e creare bozze di email in base a quello che stavi già facendo.
+
+Tutto integrato, tutto in un posto.
+
+Per me è il cambiamento più grande che Apple abbia mai fatto al Mac.
+
+Se ti ho aiutato 👉 clicca segui @themattvision
+
+Io sono Matteo Zampieri il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video!
+
+#apple #siri #mac #appleIntelligence #intelligenzaartificiale
+
+--- TRASCRIZIONE AUDIO ---
+Finalmente hanno messo Siri dentro al Mac che può fare le cose nel Mac al posto tuo. Tu gli puoi scrivere le cose finalmente e lui capisce che questa è una domanda per Siri e lui sta andando su Siri e ti apre direttamente Siri dentro al tuo Mac, come se fosse un CiaGPT. È letteralmente identico a CiaGPT, comunque è pazzesco. Pensate quando poi potrà crearvi direttamente le applicazioni. Adesso lui va a selezionare vari file e li può dare tutti in input a Siri, vedete un po', gli fa la domanda con i tre file selezionati, compara questi, può controllare attorno ai tuoi messaggi le informazioni e tutto, vedete, ha cercato questa cosa direttamente dentro al tuo Mac, ultra comodo. Lui adesso gli ha chiesto di inviare un email, anzi di creare una bozza di un'email, vedete che lui l'ha creata direttamente in relazione a tutto il resto di quello che stavamo facendo prima.

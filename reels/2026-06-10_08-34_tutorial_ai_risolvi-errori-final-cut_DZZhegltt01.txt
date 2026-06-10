@@ -1,0 +1,63 @@
+POST ID: 18121784554670049
+IG ID: 18121784554670049
+SHORTCODE: DZZhegltt01
+PERMALINK: https://www.instagram.com/reel/DZZhegltt01/
+DATA: 2026-06-10
+ORA: 08:34
+
+--- METRICHE ---
+LIKE: 17
+COMMENTI: 0
+DURATA VIDEO: 72 secondi
+CARATTERI CAPTION: 862
+HASHTAG: #finalcutpro #intelligenzaartificiale #ai #tutorial #cloudfable
+
+--- FLAGS ---
+CTA COMMENTO: no
+CTA FOLLOW: sì
+LINK IN CAPTION: no
+
+--- CATEGORIA ---
+CATEGORIA: tutorial_ai
+TAG: final-cut-pro, cloudfable, intelligenza-artificiale, claude-mythos, risoluzione-problemi
+TOPIC: Come utilizzare Cloudfable per risolvere problemi di libreria danneggiata in Final Cut Pro
+
+--- HOOK TESTUALE (dal frame) ---
+Hanno pubblicato Claude Fable 5 che è l'intelligenza artificiale più potente mai creata
+
+--- DESCRIZIONE VISIVA ---
+Il video mostra un uomo che presenta Claude Fable 5, una presunta nuova intelligenza artificiale. Inizia con una introduzione (frame 1), poi mostra come lavorerà con essa su Final Cut (frame 2) e successivamente su Cloud Fable (frame 3). Mostra poi il processo di lavoro con screenshot di terminali e codice (frame 4, 5, 6), discutendo del percorso del file (frame 4), come Claude inizia a lavorare (frame 5) e analizza un problema (frame 6). L'uomo esprime dubbi su come utilizzare Claude Fable 5 (frame 7), sottolinea la pulizia e le capacità di Claude Fable 5 e Claude Mythos (frame 8) e conclude esprimendo sorpresa per non averlo realizzato prima (frame 9).
+
+--- PRODOTTI / TOOL VISIBILI ---
+Claude Fable 5, Final Cut, Cloud Fable, Claude Mythos
+
+--- CAPTION COMPLETA ---
+Ero fottuto. Questa cosa mi ha salvato:
+
+Prima di tutto 👉 clicca segui @themattvision
+
+Stavo editando un sacco di video su Final Cut Pro.
+
+A un certo punto freeze totale, uscita forzata.
+
+Riapro Final Cut e mi dice:
+“Questa libreria è danneggiata, non puoi aprirla.”
+
+Anni di lavoro, potenzialmente spariti.
+
+Vado su Cloudfable in stato di totale panico, gli dico il problema e gli mando il percorso del file.
+
+In due secondi ha capito cosa era successo e l’ha risolto.
+
+L’uscita forzata aveva lasciato dei file di blocco dentro la libreria, lui li ha trovati e rimossi.
+
+Cloudfable non è altro che il miglior modello Claude Mythos, accessibile da tutti.
+
+Se ti ho aiutato 👉 clicca segui @themattvision
+
+Io sono Matteo Zampieri, il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video!
+
+#finalcutpro #intelligenzaartificiale #ai #tutorial #cloudfable
+
+--- TRASCRIZIONE AUDIO ---
+Ok, Claude Fable è qui, è appena uscito e guardate che figata. Tutto un tratto mentre stavo editando il video praticamente mi si impalla completamente il computer e devo fare uscita forzata su Final Cut. Allora lo riapro e mi dice questa libreria è danneggiata non puoi aprirla. Disperatissimo quindi vado dal mio Claude Fable e vado a chiedergli in maniera estremamente disperata la mia soluzione che sto cercando. Quindi gli dico guarda questo e gli do il percorso del file. Ho questo problema, mi dice che questa libreria è danneggiata, aiutami, sono disperato. Fatti il piano e poi agisci. Lui inizia a controllare. In due secondi ha capito il problema e la risolve. Guarda qua, farmi tutta la spiegazione della risoluzione del problema. In questo caso, cosa era successo? L'uscita forzata dopo il freeze aveva lasciato dentro determinati file che adesso lui ha controllato. Non so se mi spiego ma io ero fottuto completamente eh se non c'era questo Claude Fable. Non è altro che il miglior modello Claude Mythos pulito e che non può fare cose illegali come dicevano che poteva fare Mythos. Io comunque sono Matteo Zampieri, il tuo smanettone di fiducia, tu ricordati di seguirmi se ancora non l'hai fatto così poi non ti perdi queste super chicche e noi ci vediamo ad un prossimo video.

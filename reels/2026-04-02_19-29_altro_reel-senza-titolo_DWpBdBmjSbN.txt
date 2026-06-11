@@ -7,7 +7,7 @@ ORA: 19:29
 
 --- METRICHE ---
 LIKE: 1279
-COMMENTI: 332
+COMMENTI: 330
 DURATA VIDEO: 73 secondi
 CARATTERI CAPTION: 89
 HASHTAG: #intelligenzaartificiale #vibecoding #ia #claudecode

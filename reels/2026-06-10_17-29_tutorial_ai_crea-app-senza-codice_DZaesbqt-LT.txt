@@ -1,0 +1,79 @@
+POST ID: 17936254590070403
+IG ID: 17936254590070403
+SHORTCODE: DZaesbqt-LT
+PERMALINK: https://www.instagram.com/reel/DZaesbqt-LT/
+DATA: 2026-06-10
+ORA: 17:29
+
+--- METRICHE ---
+LIKE: 57
+COMMENTI: 2
+DURATA VIDEO: 90 secondi
+CARATTERI CAPTION: 1289
+HASHTAG: #vibecoding #intelligenzaartificiale #app #nocode #tutorial
+
+--- FLAGS ---
+CTA COMMENTO: no
+CTA FOLLOW: sì
+LINK IN CAPTION: sì (matteozampieri.com)
+
+--- CATEGORIA ---
+CATEGORIA: tutorial_ai
+TAG: intelligenza-artificiale, sviluppo-app, nocode, matteo-zampieri, academy-matteo-zampieri
+TOPIC: Come creare la prima applicazione utilizzando l'intelligenza artificiale senza saper programmare con il corso di Matteo Zampieri
+
+--- HOOK TESTUALE (dal frame) ---
+Da oggi potrai imparare a creare le tue app usando solo l'intelligenza artificiale
+
+--- DESCRIZIONE VISIVA ---
+Il video mostra un tutorial su come creare app utilizzando l'intelligenza artificiale. Inizia con schermate di un computer che mostrano interfacce di sviluppo di app e siti web. Viene mostrata una mano che interagisce con il computer, selezionando opzioni e navigando attraverso varie schermate. Si vedono anche screenshot di terminali, schermate di app/siti, e UI di prodotti. Il presentatore, un uomo, appare in alcuni frame mentre parla e gesticola. Le schermate mostrano passaggi come la creazione di un'app, la selezione di opzioni, e la visualizzazione di codice.
+
+--- PRODOTTI / TOOL VISIBILI ---
+[nessuno]
+
+--- CAPTION COMPLETA ---
+Puoi creare la tua prima App senza saper programmare.
+
+Sì, davvero.
+
+Prima di tutto 👉 clicca segui @themattvision
+
+Per mesi mi sono sentito dire:
+
+“Matteo, ma io non so scrivere codice.”
+“Matteo, ma io parto da zero.”
+“Matteo, ma queste cose sono troppo complicate.”
+
+Ed è esattamente per questo che ho creato questo corso.
+
+Ti accompagno passo passo per circa 10 ore in un percorso pratico dove imparerai a creare la tua prima applicazione sfruttando solo l’intelligenza artificiale.
+
+Non teoria.
+
+Non lezioni infinite e incomprensibili.
+
+Solo pratica, esempi reali e un metodo che ti permette di trasformare un’idea in qualcosa che funziona davvero.
+
+Dentro trovi:
+✅ Lezioni complete
+✅ Roadmap passo passo
+✅ Certificazione da inserire su LinkedIn
+✅ Traguardi e incentivi per aiutarti a completare il percorso
+✅ Supporto dell’intelligenza artificiale integrata per fare domande quando vuoi
+
+E la cosa più assurda?
+
+La piattaforma che stai vedendo nel video l’ho costruita senza scrivere una riga di codice.
+
+Se vuoi iniziare il tuo percorso trovi tutto su:
+
+academy.matteozampieri.com
+
+Se ti ho aiutato 👉 clicca segui @themattvision
+
+Io sono Matteo Zampieri, il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video!
+
+#vibecoding #intelligenzaartificiale #app #nocode #tutorial
+
+--- TRASCRIZIONE AUDIO ---
+Aver creato tutte queste app sfruttando solo l'intelligenza artificiale e addirittura una piattaforma intera senza saper scrivere una riga di codice ci siamo tra 4, 3, 2, 1... Attenzione, vediamo se funziona... Niente, ok! Crea la tua prima app personale con le AI anche se parti da zero. Finalmente potrete imparare a fare applicazioni sfruttando solamente l'intelligenza artificiale. Guarda qua che figata! Qui in basso a destra potete fare tutte le domande che volete alla mia intelligenza artificiale. Vedete ti suggerisce le domande, può saper programmare? In questo caso cosa dice? Cosa dice? No, non è necessario saper programmare. Quando entrate nella vostra dashboard cliccate riprendi, li ritrovate catapultati appunto all'interno. Tutte le lezioni. Non è finita perché ho anche aggiunto la certificazione ufficiale che potete mettere su Linkedin. Ma poi c'è tutta la roadmap e anche l'incentivizzo che ti sembrerà assurdo ma tutto questo l'ho costruito realmente senza toccare una riga di codice sfruttando solo ed esclusivamente l'intelligenza artificiale. A parte una cosa, le 10 ore di lezione del corso con cui ti accompagnerò da zero alla tua prima applicazione. Per poterlo seguire vai su questo sito qua a cademi.mattozampieri.com. Io sono Matteo Zampieri, il tuo smartphone di fiducia. E anche se non ne sai niente di niente nel mondo delle app riuscirai a realizzare la tua primissima applicazione. Scrivimi se non sei soddisfatto che ti mando tutti i soldi indietro.

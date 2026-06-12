@@ -1,0 +1,68 @@
+POST ID: 18014016881905692
+IG ID: 18014016881905692
+SHORTCODE: DZc8BVkNPN4
+PERMALINK: https://www.instagram.com/reel/DZc8BVkNPN4/
+DATA: 2026-06-11
+ORA: 16:23
+
+--- METRICHE ---
+LIKE: 42
+COMMENTI: 71
+DURATA VIDEO: 61 secondi
+CARATTERI CAPTION: 959
+HASHTAG: #adv #intelligenzaartificiale #vibecoding #nocode #ai
+
+--- FLAGS ---
+CTA COMMENTO: sì
+CTA FOLLOW: sì
+LINK IN CAPTION: no
+
+--- CATEGORIA ---
+CATEGORIA: confronto_ai
+TAG: verden, chatgpt, intelligenza-artificiale, automazione
+TOPIC: Come utilizzare Verden per superare i limiti di ChatGPT nell'automazione di attività
+
+--- HOOK TESTUALE (dal frame) ---
+Questa intelligenza artificiale distrugge completamente Chatgpt
+
+--- DESCRIZIONE VISIVA ---
+Il video mostra una serie di screenshot e riprese di una persona che utilizza un laptop per dimostrare come funziona un'intelligenza artificiale. Inizia con la creazione di un'intelligenza artificiale che sembra non funzionare correttamente. La persona mostra frustrazione e confusione mentre cerca di farla funzionare. Successivamente, si vedono schermate di varie app e siti web, incluso un'interfaccia che sembra essere quella di un tool di intelligenza artificiale. La persona parla e gesticola davanti alla telecamera, discutendo delle funzionalità e delle prestazioni dell'intelligenza artificiale. Le riprese includono anche primi piani della persona e del laptop, con la persona che sembra discutere dei limiti e delle potenzialità dell'intelligenza artificiale rispetto a ChatGPT.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Chatgpt
+
+--- CAPTION COMPLETA ---
+Inizia facendo questo:
+
+(Se scrivi “FIGATA” tra i commenti ti mando il prompt)
+
+Prima di tutto 👉 clicca segui @themattvision
+
+Il problema del vibe coding oggi è sempre lo stesso.
+
+L’app sembra perfetta.
+
+La apri, fai due test e dici “ok ci siamo”.
+
+Poi arriva il primo cliente vero e qualcosa si rompe.
+
+Email che non partono.
+Onboarding che non funziona.
+Automazioni che si bloccano.
+
+Per questo sto testando una nuova intelligenza artificiale che ragiona in modo diverso.
+
+Invece di eseguire un’unica richiesta, crea una lista di attività, le divide e le svolge in parallelo collegandosi anche a GitHub, Stripe, Supabase e agli altri strumenti che servono.
+
+Nel video ti faccio vedere un esempio reale.
+
+Se vuoi il prompt che ho usato scrivi FIGATA nei commenti e te lo mando.
+
+Se ti ho aiutato 👉 clicca segui @themattvision
+
+Io sono il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video!
+
+#adv #intelligenzaartificiale #vibecoding #nocode #ai
+
+--- TRASCRIZIONE AUDIO ---
+Ma vabbè, guarda che figata, l'ho creata con l'intelligenza artificiale, adesso io metto l'email del cliente, faccio invia onboarding e guarda qua, non funziona, ma ogni volta non funziona. E questo è un problema noto quando vuoi fare applicazioni con l'intelligenza artificiale, cioè CiaGPT ti costruisce un'app che sembra funzionante, ma in realtà non lo è. Per questo motivo c'è qui il tuo smanettone di fiducia pronto qui a darti una mano. C'è questa intelligenza artificiale che si chiama Verden che praticamente ragiona a pezzi quindi si fa la lista di cose da fare e la esegue in parallelo. Guarda qua io gli scrivo questo prompt che ti mando se commenti con la parola figata io premi invio e lui sta già facendo tutto. Tra l'altro si connette da solo a github, stripe, super bass, tutto quanto. Eccolo qua che ha già finito nel giro di qualche minuto io quindi inserisco l'email premi invio e funziona perfettamente. Io sono Matteo Zampieri, il tuo smanettone di fiducia, tu commenta con la parola figata e ti mando tutto, noi ci vediamo in un prossimo video e tu ricordati di seguirmi se ancora non l'hai fatto così non ti perdi queste super chicche.

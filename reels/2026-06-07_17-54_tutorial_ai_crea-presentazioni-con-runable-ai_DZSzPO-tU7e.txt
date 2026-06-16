@@ -6,8 +6,8 @@ DATA: 2026-06-07
 ORA: 17:54
 
 --- METRICHE ---
-LIKE: 903
-COMMENTI: 250
+LIKE: 912
+COMMENTI: 256
 DURATA VIDEO: 68 secondi
 CARATTERI CAPTION: 780
 HASHTAG: #adv #runableai #intelligenzaartificiale #presentazioni #tutorial

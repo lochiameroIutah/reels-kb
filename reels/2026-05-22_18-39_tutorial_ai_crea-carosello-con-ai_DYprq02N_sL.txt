@@ -6,8 +6,8 @@ DATA: 2026-05-22
 ORA: 18:39
 
 --- METRICHE ---
-LIKE: 4005
-COMMENTI: 6158
+LIKE: 4038
+COMMENTI: 6207
 DURATA VIDEO: 42 secondi
 CARATTERI CAPTION: 1014
 HASHTAG: #intelligenzaartificiale #claude #carosello #instagramgrowth #ai

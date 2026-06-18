@@ -6,8 +6,8 @@ DATA: 2026-05-25
 ORA: 21:50
 
 --- METRICHE ---
-LIKE: 309
-COMMENTI: 31
+LIKE: 310
+COMMENTI: 33
 DURATA VIDEO: 54 secondi
 CARATTERI CAPTION: 1111
 HASHTAG: #intelligenzaartificiale #google #gemini #ainews #ai

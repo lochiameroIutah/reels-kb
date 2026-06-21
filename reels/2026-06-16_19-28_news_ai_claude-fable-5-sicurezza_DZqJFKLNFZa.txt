@@ -6,8 +6,8 @@ DATA: 2026-06-16
 ORA: 19:28
 
 --- METRICHE ---
-LIKE: 77
-COMMENTI: 9
+LIKE: 82
+COMMENTI: 10
 DURATA VIDEO: 81 secondi
 CARATTERI CAPTION: 768
 HASHTAG: #intelligenzaartificiale #ai #ia #claude #newsai

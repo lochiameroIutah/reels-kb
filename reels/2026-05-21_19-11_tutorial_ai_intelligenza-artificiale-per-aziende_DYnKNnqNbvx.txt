@@ -7,7 +7,7 @@ ORA: 19:11
 
 --- METRICHE ---
 LIKE: 833
-COMMENTI: 465
+COMMENTI: 466
 DURATA VIDEO: 89 secondi
 CARATTERI CAPTION: 893
 HASHTAG: #adv #acciowork #myaccioworks #agenticbusiness #aiagent

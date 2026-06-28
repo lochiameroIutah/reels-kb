@@ -7,7 +7,7 @@ ORA: 18:01
 
 --- METRICHE ---
 LIKE: 583
-COMMENTI: 125
+COMMENTI: 124
 DURATA VIDEO: 52 secondi
 CARATTERI CAPTION: 396
 HASHTAG: #intelligenzaartificiale #risparmiare #ai #chatgpt #claude #chatgpthacks

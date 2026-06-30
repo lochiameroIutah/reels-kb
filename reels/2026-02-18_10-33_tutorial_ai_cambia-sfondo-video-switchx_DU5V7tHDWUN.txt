@@ -1,0 +1,71 @@
+POST ID: 18077555030579739
+IG ID: 18077555030579739
+SHORTCODE: DU5V7tHDWUN
+PERMALINK: https://www.instagram.com/reel/DU5V7tHDWUN/
+DATA: 2026-02-18
+ORA: 10:33
+
+--- METRICHE ---
+LIKE: 334
+COMMENTI: 298
+DURATA VIDEO: 17 secondi
+CARATTERI CAPTION: 960
+HASHTAG: #intelligenzaartificiale #beeble #aivideo #tutorial #risparmiare
+
+--- FLAGS ---
+CTA COMMENTO: sì
+CTA FOLLOW: sì
+LINK IN CAPTION: sì (matteozampieri.com/switchx)
+
+--- CATEGORIA ---
+CATEGORIA: tutorial_ai
+TAG: switchx, beeble, intelligenza-artificiale, autopilot, video-editing
+TOPIC: Come utilizzare SwitchX di Beeble per cambiare lo sfondo dei video in tempo reale con l'intelligenza artificiale
+
+--- HOOK TESTUALE (dal frame) ---
+GUARDA CHE FIGATA, QUESTA GIUNGLA SUPER PERICOLOSA, PRENDERE E RITROVARMI
+
+--- DESCRIZIONE VISIVA ---
+Il video mostra un uomo in un grigio maglione che si muove in diversi ambienti, tra cui una cucina, una giungla e una città. L'uomo appare in varie pose, come se stesse presentando o interagendo con gli ambienti intorno a lui. Non ci sono screenshot di terminali, schermate di app/siti, diagrammi, UI di prodotti o codice mostrato.
+
+--- PRODOTTI / TOOL VISIBILI ---
+[nessuno]
+
+--- CAPTION COMPLETA ---
+Puoi farlo gratis (davvero), ti spiego:
+
+(Se scrivi “SWITCHX” ti mando il link direttamente)
+
+Hai presente quando nei video si cambia lo sfondo in tempo reale e sembra tutto vero?
+
+Ecco come si fa, ed è completamente gratis adesso perché è in beta.
+
+Prima di tutto 👉 clicca segui @themattvision
+
+Si chiama SwitchX ed è di Beeble.
+
+Funziona così:
+
+1. Vai su
+matteozampieri.com/switchx
+
+2. Carica il tuo video nel primo riquadro
+
+3. Nel secondo riquadro carica un’immagine di riferimento dello sfondo che vuoi oppure cliccaci sopra e lascia che l’intelligenza artificiale lo generi da sola con il prompt
+
+4. Attiva l’autopilot così lui capisce tutto da solo
+
+5. Clicca Generate ed è gratis finché è in beta
+
+Il risultato è pazzesco.
+
+Provalo e poi scrivimi com’è andata!
+
+Se ti ho aiutato 👉 clicca segui @themattvision
+
+Io sono il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video!
+
+#intelligenzaartificiale #beeble #aivideo #tutorial #risparmiare
+
+--- TRASCRIZIONE AUDIO ---
+Guarda che figata, questa in realtà non è casa mia, infatti con questa intelligenza artificiale posso essere in questa giungla super pericolosa, ma poi tutto a un tratto prendere e ritrovarmi a New York, guarda, tra i grattacieli, io sono Matteo Zampieri, il tuo smanettone di fiducia e questo si chiama Switch X di Bipol, vi trovi il link in descrizione, ciao!

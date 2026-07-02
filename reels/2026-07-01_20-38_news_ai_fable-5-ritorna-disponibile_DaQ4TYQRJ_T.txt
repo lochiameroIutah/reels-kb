@@ -1,0 +1,52 @@
+POST ID: 18106469008992014
+IG ID: 18106469008992014
+SHORTCODE: DaQ4TYQRJ_T
+PERMALINK: https://www.instagram.com/reel/DaQ4TYQRJ_T/
+DATA: 2026-07-01
+ORA: 20:38
+
+--- METRICHE ---
+LIKE: 65
+COMMENTI: 5
+DURATA VIDEO: 43 secondi
+CARATTERI CAPTION: 641
+HASHTAG: #intelligenzaartificiale #claude #ai #ia #fable5
+
+--- FLAGS ---
+CTA COMMENTO: no
+CTA FOLLOW: sì
+LINK IN CAPTION: no
+
+--- CATEGORIA ---
+CATEGORIA: news_ai
+TAG: fable-5, claude, anthropic, intelligenza-artificiale, nuove-misure-di-sicurezza
+TOPIC: Il modello Fable 5 di Anthropic è tornato disponibile grazie alle nuove misure di sicurezza implementate
+
+--- HOOK TESTUALE (dal frame) ---
+Anthropic ha pubblicato di nuovo Fable 5 grazie a delle nuove misure di sicurezza
+
+--- DESCRIZIONE VISIVA ---
+Il video mostra un uomo che parla davanti alla telecamera, insieme a screenshot di un computer che mostrano la pagina di Fable 5. La pagina include informazioni sul rilascio di Fable 5 con nuove misure di sicurezza. L'uomo gesticola e sembra spiegare come funzionano le nuove misure di sicurezza.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Fable 5, Claude
+
+--- CAPTION COMPLETA ---
+Vi ricordate quando l’America aveva bloccato l’intelligenza artificiale più potente di Claude?
+
+Prima di continuare 👉 clicca segui @themattvision
+
+Da oggi Fable 5 è tornato disponibile per tutti, perché Anthropic ha creato un nuovo filtro di sicurezza che blocca il problema quasi sempre.
+
+Se hai Pro, Max o Team lo trovi già dentro al tuo abbonamento, gratis fino al 7 luglio.
+
+Ti basta aprire Claude e scegliere Fable 5 dal menu dei modelli.
+
+Se ti sono stato utile 👉 clicca segui @themattvision
+
+Io sono Matteo Zampieri il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video!
+
+#intelligenzaartificiale #claude #ai #ia #fable5
+
+--- TRASCRIZIONE AUDIO ---
+Non ci posso credere, cioè vi ricordate quell'intelligenza artificiale che è stata censurata dall'America perché era troppo potente e poteva spaccare tipo il mondo a metà? Ecco, Antropic ha creato un nuovo filtro di sicurezza che blocca il problema praticamente sempre e quindi il governo ha tolto il blocco e ora è finalmente disponibile. E la figata è che per questa settimana, per festeggiare l'uscita di Fable 5, ci danno la possibilità di utilizzarlo all'interno del nostro abbonamento di Cloddy incluso gratuitamente. E considera che attualmente l'intelligenza artificiale è più potente sulla faccia della Terra, quindi se puoi provarlo, fallo, perché è davvero senza senso. Io comunque sono Matteo Zampieri, il tuo smanettone di fiducia, noi ci vediamo in un prossimo video e tu ricordati di seguirmi così non ti perdi queste super novità e super chicche.

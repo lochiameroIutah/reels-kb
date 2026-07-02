@@ -7,7 +7,7 @@ ORA: 10:48
 
 --- METRICHE ---
 LIKE: 1274
-COMMENTI: 1195
+COMMENTI: 1194
 DURATA VIDEO: 47 secondi
 CARATTERI CAPTION: 982
 HASHTAG: #intelligenzaartificiale #nanobanana #generazioneimmagini #ai #gratis

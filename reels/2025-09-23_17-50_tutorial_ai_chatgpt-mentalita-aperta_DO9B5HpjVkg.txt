@@ -6,8 +6,8 @@ DATA: 2025-09-23
 ORA: 17:50
 
 --- METRICHE ---
-LIKE: 153111
-COMMENTI: 4028
+LIKE: 153107
+COMMENTI: 4027
 DURATA VIDEO: 50 secondi
 CARATTERI CAPTION: 1343
 HASHTAG: #intelligenzaartificiale #chatgptprompts #ai #risparmiare #chatgpthacks

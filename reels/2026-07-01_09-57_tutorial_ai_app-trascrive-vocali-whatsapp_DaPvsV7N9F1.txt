@@ -6,8 +6,8 @@ DATA: 2026-07-01
 ORA: 09:57
 
 --- METRICHE ---
-LIKE: 23
-COMMENTI: 41
+LIKE: 31
+COMMENTI: 56
 DURATA VIDEO: 55 secondi
 CARATTERI CAPTION: 166
 HASHTAG: #trascriviaudio #ai #intelligenzaartificiale #creatorsearchinsights #whatsappstatus

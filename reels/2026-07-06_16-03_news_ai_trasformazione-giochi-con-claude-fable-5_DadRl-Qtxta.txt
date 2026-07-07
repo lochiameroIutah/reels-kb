@@ -1,0 +1,38 @@
+POST ID: 18108332920807867
+IG ID: 18108332920807867
+SHORTCODE: DadRl-Qtxta
+PERMALINK: https://www.instagram.com/reel/DadRl-Qtxta/
+DATA: 2026-07-06
+ORA: 16:03
+
+--- METRICHE ---
+LIKE: 110
+COMMENTI: 4
+DURATA VIDEO: 46 secondi
+CARATTERI CAPTION: 79
+HASHTAG: #intelligenzaartificiale #ai #claude #fable5
+
+--- FLAGS ---
+CTA COMMENTO: no
+CTA FOLLOW: no
+LINK IN CAPTION: no
+
+--- CATEGORIA ---
+CATEGORIA: news_ai
+TAG: claude-fable-5, intelligenza-artificiale, trasformazione-giochi, iphone, automazione
+TOPIC: Il video illustra la trasformazione di un gioco su un dispositivo portatile in un'app per iPhone grazie a Claude Fable 5
+
+--- HOOK TESTUALE (dal frame) ---
+Buon pmeriggio, Matteo
+
+--- DESCRIZIONE VISIVA ---
+La griglia mostra un video che illustra la trasformazione di un gioco su un dispositivo portatile in un'app per iPhone. I primi due frame mostrano un dispositivo portatile con un gioco che simula la guida di un'auto. Nei frame successivi, viene mostrato come questo gioco viene trasformato e adattato per funzionare su iPhone. Viene mostrato il processo di gioco su iPhone, con il giocatore che utilizza il dispositivo per guidare l'auto e raccogliere denaro. Il gioco sembra evolversi con l'aumentare del denaro raccolto.
+
+--- PRODOTTI / TOOL VISIBILI ---
+iPhone
+
+--- CAPTION COMPLETA ---
+Claude Fable 5 è davvero pazzesco… #intelligenzaartificiale #ai #claude #fable5
+
+--- TRASCRIZIONE AUDIO ---
+Lever 1 Grazie a tutti.

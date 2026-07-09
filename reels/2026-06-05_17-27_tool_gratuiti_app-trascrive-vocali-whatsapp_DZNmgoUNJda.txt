@@ -7,7 +7,7 @@ ORA: 17:27
 
 --- METRICHE ---
 LIKE: 206
-COMMENTI: 360
+COMMENTI: 362
 DURATA VIDEO: 57 secondi
 CARATTERI CAPTION: 79
 HASHTAG: #whatsapptips #intelligenzaartificiale #ai #vibecoding

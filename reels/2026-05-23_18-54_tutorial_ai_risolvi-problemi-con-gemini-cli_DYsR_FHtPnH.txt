@@ -1,0 +1,68 @@
+POST ID: 18140631601520028
+IG ID: 18140631601520028
+SHORTCODE: DYsR_FHtPnH
+PERMALINK: https://www.instagram.com/reel/DYsR_FHtPnH/
+DATA: 2026-05-23
+ORA: 18:54
+
+--- METRICHE ---
+LIKE: 117
+COMMENTI: 3
+DURATA VIDEO: 51 secondi
+CARATTERI CAPTION: 1329
+HASHTAG: #intelligenzaartificiale #ai #vibecoding #claudecode
+
+--- FLAGS ---
+CTA COMMENTO: no
+CTA FOLLOW: sì
+LINK IN CAPTION: no
+
+--- CATEGORIA ---
+CATEGORIA: tutorial_ai
+TAG: gemini-cli, intelligenza-artificiale, risoluzione-problemi, chatgpt, claude-code
+TOPIC: Come utilizzare Gemini CLI per risolvere problemi di ingegneria nucleare in pochi minuti
+
+--- HOOK TESTUALE (dal frame) ---
+Ecco come risolvere qualsiasi problema usando l'intelligenza artificiale
+
+--- DESCRIZIONE VISIVA ---
+La griglia mostra un video che probabilmente illustra come utilizzare l'intelligenza artificiale per risolvere problemi. I frame includono primi piani dei presentatori, screenshot di un laptop con un monitor acceso che mostra del codice, e scene esterne con piante e edifici sullo sfondo. Non ci sono diagrammi o UI specifici di prodotti AI mostrati, ma si vede l'uso generico di un laptop per lavorare.
+
+--- PRODOTTI / TOOL VISIBILI ---
+[nessuno]
+
+--- CAPTION COMPLETA ---
+Ecco come ho risolto:
+
+Prima di tutto 👉 clicca segui @themattvision
+
+Quando l’intelligenza artificiale ti sembra che non funzioni bene, fai questo 
+
+Prima di cambiare tool, chiediti una cosa: stai usando il chatbot o la versione agentica?
+
+La differenza è questa
+
+1 Il chatbot (quello sul sito, su browser) risponde alle tue domande ma non vede nulla del tuo computer
+
+2 La versione agentica invece si interfaccia direttamente con il tuo computer, legge i file, capisce il contesto, si scrive appunti da solo e risolve problemi uno per uno
+
+3 Ogni AI ha la sua versione agentica:
+
+- ChatGPT ha Codex
+- Claude ha Claude Code
+- Gemini ha Gemini CLI
+
+4 Se vuoi solo scrivere del testo, il chatbot va benissimo. Se vuoi costruire qualcosa, creare un grafico, risolvere un problema vero, devi usare la versione agentica
+
+5 Paolo stava cercando di far creare dei grafici con dei programmi nel suo computer, e dal momento che avrà dei problemi, chiedeva a Gemini dal sito web, e ha perso una mattinata.
+
+Poi in due minuti con Gemini CLI ha risolto tutto e gli ha anche creato un file che spiega il problema e come è stato risolto
+
+Se ti ho aiutato 👉 clicca segui @themattvision
+
+Io sono il tuo smanettone di fiducia, noi ci vediamo ad un prossimo video!
+
+#intelligenzaartificiale #ai #vibecoding #claudecode geminicli tutorial chatgpt
+
+--- TRASCRIZIONE AUDIO ---
+Vero Paolo? Allora cos'è che era il problema? Stavi cercando di far eseguire un programma che creava dei grafici con delle cose che lui sta studiando Ingegneria Nucleare. Perché usava Gemini? Sì. E uno dice Gemini è più scarso per questo non riesce. In realtà non è così. Vero Paolo? Abbiamo visto che Gemini, Claude, CgPT, sono tutti incredibili. Dobbiamo dargli il contesto giusto. Usando Gemini CLI, quindi tipo un Claude Code di Gemini, risolve i problemi al posto tuo e non solo fa tutto il contesto, ma poi riesce anche a capire bene qual è il vero problema e in quanto ci ha messo, tipo due minuti, forse un minuto. E praticamente ci ha anche creato un file che ci spiega appunto tutto il problema e come è stato risolto. Quindi ricordiamoci sempre il contesto dell'intelligenza artificiale, non usiamo i chatbot del cazzo, ma gli agenti, l'intelligenza artificiale, che eseguono cose nel nostro computer Sono la svolta.

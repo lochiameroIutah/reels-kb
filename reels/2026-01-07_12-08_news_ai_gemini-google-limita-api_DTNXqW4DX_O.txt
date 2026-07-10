@@ -1,0 +1,40 @@
+POST ID: 18325090804173322
+IG ID: 18325090804173322
+SHORTCODE: DTNXqW4DX_O
+PERMALINK: https://www.instagram.com/reel/DTNXqW4DX_O/
+DATA: 2026-01-07
+ORA: 12:08
+
+--- METRICHE ---
+LIKE: 5
+COMMENTI: 0
+DURATA VIDEO: 34 secondi
+CARATTERI CAPTION: 86
+HASHTAG: #intelligenzaartificiale #risparmiare #ia #chatgpt #riflessione
+
+--- FLAGS ---
+CTA COMMENTO: no
+CTA FOLLOW: no
+LINK IN CAPTION: no
+
+--- CATEGORIA ---
+CATEGORIA: news_ai
+TAG: google, gemini, intelligenza-artificiale, gpt-5-2, accesso-ai
+TOPIC: La chiusura delle API di Gemini da parte di Google e il suo impatto sull'accesso all'intelligenza artificiale con GPT-5.2
+
+--- HOOK TESTUALE (dal frame) ---
+Google chiude i rubinetti di Gemini: finisce l'era della cortesia mentre GPT-5.2 buss alla porta
+
+--- DESCRIZIONE VISIVA ---
+Una presentazione di un uomo in un maglione rosa che parla davanti a una serie di screenshot di articoli di notizie con un titolo su Google e Gemini. L'uomo gesticola e sembra discutere dell'impatto di GPT-5.2 e della chiusura delle API di Gemini. Non ci sono screenshot di terminali, schermate di app/siti, diagrammi, UI di prodotti, codice mostrato o altro B-roll informativo.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Gemini, GPT-5.2, Google
+
+--- CAPTION COMPLETA ---
+Succederà oppure no?!
+
+#intelligenzaartificiale #risparmiare #ia #chatgpt #riflessione
+
+--- TRASCRIZIONE AUDIO ---
+Attenzione ragazzi, Google chiude i robinetti. Ha abbassato da, adesso qui non si vede, da 250 a 20 richieste giornaliere che possiamo fare a Gemini gratuitamente. Vi immaginate quando tipo tra 5 anni ormai tutti non faremo a meno dell'intelligenza artificiale, dall'oggi al domani cominciano ad alzare i prezzi e solo i ricchi possono permettersela, i poveri continuano a fare le cose a mano. Andiamo a correre un rischio molto grande soprattutto perché siamo in una società super capitalizzata, no? Capitalismo estremo dappertutto. Cosa ne pensate di questa cosa?

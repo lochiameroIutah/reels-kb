@@ -1,0 +1,40 @@
+POST ID: 18167986399441468
+IG ID: 18167986399441468
+SHORTCODE: DalMn1LNuo-
+PERMALINK: https://www.instagram.com/reel/DalMn1LNuo-/
+DATA: 2026-07-09
+ORA: 17:58
+
+--- METRICHE ---
+LIKE: 559
+COMMENTI: 11
+DURATA VIDEO: 10 secondi
+CARATTERI CAPTION: 122
+HASHTAG: #intelligenzaartificiale #chatgptprompts #claude #cowork #ai
+
+--- FLAGS ---
+CTA COMMENTO: no
+CTA FOLLOW: no
+LINK IN CAPTION: no
+
+--- CATEGORIA ---
+CATEGORIA: confronto_ai
+TAG: chatgpt, gemini, intelligenza-artificiale, claude, ai-antropomorfi, automazione
+TOPIC: Un confronto tra ChatGPT e Gemini mentre interagiscono con un utente e i suoi aiutanti antropomorfi
+
+--- HOOK TESTUALE (dal frame) ---
+Fammi parlare prima col mio Team... Il mio Team
+
+--- DESCRIZIONE VISIVA ---
+Un uomo con un telefono in mano e un laptop Apple sullo sfondo, seguito da scene con l'uomo e due personaggi antropomorfi con teste a forma di logo, uno nero con un nodo e uno arancione con un asterisco, che rappresentano probabilmente tool di AI. L'uomo sembra interagire con loro mentre guarda il telefono e tiene il laptop acceso.
+
+--- PRODOTTI / TOOL VISIBILI ---
+ChatGPT, Gemini
+
+--- CAPTION COMPLETA ---
+La verità è che entrambi sanno pure clonarsi all’infinito 🙊
+
+#intelligenzaartificiale #chatgptprompts #claude #cowork #ai
+
+--- TRASCRIZIONE AUDIO ---
+Grazie a tutti!

@@ -6,8 +6,8 @@ DATA: 2026-05-27
 ORA: 10:50
 
 --- METRICHE ---
-LIKE: 2037
-COMMENTI: 3187
+LIKE: 2048
+COMMENTI: 3213
 DURATA VIDEO: 40 secondi
 CARATTERI CAPTION: 1029
 HASHTAG: #intelligenzaartificiale #chatgpt #carosello #instagramgrowth #ai

@@ -7,7 +7,7 @@ ORA: 22:51
 
 --- METRICHE ---
 LIKE: 794
-COMMENTI: 1969
+COMMENTI: 1971
 DURATA VIDEO: 36 secondi
 CARATTERI CAPTION: 933
 HASHTAG: #intelligenzaartificiale #claude #ai #tutorial #creatorsearchinsights

@@ -6,8 +6,8 @@ DATA: 2026-07-07
 ORA: 18:32
 
 --- METRICHE ---
-LIKE: 4412
-COMMENTI: 137
+LIKE: 4536
+COMMENTI: 144
 DURATA VIDEO: 77 secondi
 CARATTERI CAPTION: 179
 HASHTAG: #noadv #kappafuturefestival #intelligenzaartificiale

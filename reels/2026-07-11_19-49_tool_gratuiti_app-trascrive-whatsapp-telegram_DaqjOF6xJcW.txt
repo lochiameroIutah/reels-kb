@@ -1,0 +1,40 @@
+POST ID: 17983922616033961
+IG ID: 17983922616033961
+SHORTCODE: DaqjOF6xJcW
+PERMALINK: https://www.instagram.com/reel/DaqjOF6xJcW/
+DATA: 2026-07-11
+ORA: 19:49
+
+--- METRICHE ---
+LIKE: 12
+COMMENTI: 0
+DURATA VIDEO: 45 secondi
+CARATTERI CAPTION: 113
+HASHTAG: #intelligenzaartificiale #ai #risparmiare #chatgpt #trascriviaudio
+
+--- FLAGS ---
+CTA COMMENTO: no
+CTA FOLLOW: no
+LINK IN CAPTION: no
+
+--- CATEGORIA ---
+CATEGORIA: tool_gratuiti
+TAG: intelligenza-artificiale, trascrizione-automatica, whatsapp, telegram
+TOPIC: L'utilizzo dell'app di trascrizione automatica gratuita per trascrivere messaggi di Whatsapp e Telegram
+
+--- HOOK TESTUALE (dal frame) ---
+L'App definita per trascrivere qualsiasi cosa è gratuita
+
+--- DESCRIZIONE VISIVA ---
+Il video mostra un uomo che parla di un'app di trascrizione. Vengono mostrati screenshot dell'app in azione su uno smartphone, con chat di WhatsApp e Telegram trascritte. L'uomo parla mentre gesticola e si muove all'aperto, sotto gli alberi. Viene mostrata anche una schermata dell'App Store con varie app, tra cui TikTok e Instagram. L'app sembra essere in grado di trascrivere messaggi da diverse piattaforme e mostrare la trascrizione in tempo reale.
+
+--- PRODOTTI / TOOL VISIBILI ---
+WhatsApp, Telegram, TikTok, Instagram
+
+--- CAPTION COMPLETA ---
+Ho risolto il problema in maniera definita 😜
+
+#intelligenzaartificiale #ai #risparmiare #chatgpt #trascriviaudio
+
+--- TRASCRIZIONE AUDIO ---
+Non so se lo sai, ma la trascrizione dei messaggi di Whatsapp che c'è su iPhone è praticamente illegibile e quindi inutile. Per questo motivo ho costruito questa applicazione che ti trascrive direttamente i messaggi di Whatsapp, di Telegram, dei memo vocali, qualsiasi cosa. Puoi caricargli un file, puoi registrare direttamente dentro all'app, ti trascrive addirittura i video, tutto completamente gratis. Ma la cosa più figa, se l'audio è troppo lungo e parla di tanti argomenti, ti fa dei piccoli riassuntini in base a quello di cui parlava. Questa applicazione l'ho creata completamente con l'intelligenza artificiale senza scrivere neanche una riga di codice perché sono Matteo Zampieri, il tuo smanettone di fiducia, tu appunto commenta con wow bellissimo, che figata, quello che vuoi e te la mando direttamente. Noi ci vediamo in un prossimo video e tu ricordati di seguirmi così non ti perdi queste super chicche.

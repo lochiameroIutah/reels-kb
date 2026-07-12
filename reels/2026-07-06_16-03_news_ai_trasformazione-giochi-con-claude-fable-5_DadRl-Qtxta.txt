@@ -6,8 +6,8 @@ DATA: 2026-07-06
 ORA: 16:03
 
 --- METRICHE ---
-LIKE: 214
-COMMENTI: 9
+LIKE: 216
+COMMENTI: 10
 DURATA VIDEO: 46 secondi
 CARATTERI CAPTION: 79
 HASHTAG: #intelligenzaartificiale #ai #claude #fable5

@@ -6,8 +6,8 @@ DATA: 2026-07-03
 ORA: 18:11
 
 --- METRICHE ---
-LIKE: 442
-COMMENTI: 10
+LIKE: 448
+COMMENTI: 11
 DURATA VIDEO: 44 secondi
 CARATTERI CAPTION: 113
 HASHTAG: #intelligenzaartificiale #ai #musicbusiness #tutorial #chatgpthacks

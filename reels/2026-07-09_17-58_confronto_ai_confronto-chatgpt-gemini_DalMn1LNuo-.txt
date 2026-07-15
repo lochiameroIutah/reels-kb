@@ -6,8 +6,8 @@ DATA: 2026-07-09
 ORA: 17:58
 
 --- METRICHE ---
-LIKE: 1538
-COMMENTI: 19
+LIKE: 1759
+COMMENTI: 21
 DURATA VIDEO: 10 secondi
 CARATTERI CAPTION: 122
 HASHTAG: #intelligenzaartificiale #chatgptprompts #claude #cowork #ai

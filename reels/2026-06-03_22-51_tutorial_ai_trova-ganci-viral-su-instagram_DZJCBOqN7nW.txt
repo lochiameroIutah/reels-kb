@@ -6,8 +6,8 @@ DATA: 2026-06-03
 ORA: 22:51
 
 --- METRICHE ---
-LIKE: 810
-COMMENTI: 2006
+LIKE: 814
+COMMENTI: 2022
 DURATA VIDEO: 36 secondi
 CARATTERI CAPTION: 933
 HASHTAG: #intelligenzaartificiale #claude #ai #tutorial #creatorsearchinsights

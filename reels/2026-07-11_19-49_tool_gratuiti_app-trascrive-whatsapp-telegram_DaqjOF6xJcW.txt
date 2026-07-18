@@ -6,8 +6,8 @@ DATA: 2026-07-11
 ORA: 19:49
 
 --- METRICHE ---
-LIKE: 70
-COMMENTI: 251
+LIKE: 75
+COMMENTI: 266
 DURATA VIDEO: 45 secondi
 CARATTERI CAPTION: 113
 HASHTAG: #intelligenzaartificiale #ai #risparmiare #chatgpt #trascriviaudio

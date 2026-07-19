@@ -6,8 +6,8 @@ DATA: 2025-09-21
 ORA: 17:34
 
 --- METRICHE ---
-LIKE: 21
-COMMENTI: 0
+LIKE: 22
+COMMENTI: 1
 DURATA VIDEO: 85 secondi
 CARATTERI CAPTION: 1497
 HASHTAG: #intelligenzaartificiale #risparmiare #ai #chatgpt #claude #chatgpthacks

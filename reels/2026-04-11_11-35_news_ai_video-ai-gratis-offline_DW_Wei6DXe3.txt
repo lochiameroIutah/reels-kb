@@ -6,8 +6,8 @@ DATA: 2026-04-11
 ORA: 11:35
 
 --- METRICHE ---
-LIKE: 2781
-COMMENTI: 515
+LIKE: 2783
+COMMENTI: 518
 DURATA VIDEO: 57 secondi
 CARATTERI CAPTION: 966
 HASHTAG: #intelligenzaartificiale #ai #ia #videoai #ltxvideo

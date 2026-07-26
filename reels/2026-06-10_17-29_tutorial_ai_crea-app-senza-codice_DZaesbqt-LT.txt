@@ -6,8 +6,8 @@ DATA: 2026-06-10
 ORA: 17:29
 
 --- METRICHE ---
-LIKE: 88
-COMMENTI: 4
+LIKE: 89
+COMMENTI: 5
 DURATA VIDEO: 90 secondi
 CARATTERI CAPTION: 1289
 HASHTAG: #vibecoding #intelligenzaartificiale #app #nocode #tutorial

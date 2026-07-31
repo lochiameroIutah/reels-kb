@@ -6,8 +6,8 @@ DATA: 2026-06-13
 ORA: 18:37
 
 --- METRICHE ---
-LIKE: 222
-COMMENTI: 220
+LIKE: 226
+COMMENTI: 224
 DURATA VIDEO: 66 secondi
 CARATTERI CAPTION: 1040
 HASHTAG: #intelligenzaartificiale #ai #risparmiare #codex #creatorsearchinsights

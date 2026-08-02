@@ -1,0 +1,38 @@
+POST ID: 18020213720883570
+IG ID: 18020213720883570
+SHORTCODE: Dbflx7qNU0Z
+PERMALINK: https://www.instagram.com/reel/Dbflx7qNU0Z/
+DATA: 2026-08-01
+ORA: 10:10
+
+--- METRICHE ---
+LIKE: 10
+COMMENTI: 0
+DURATA VIDEO: 69 secondi
+CARATTERI CAPTION: 171
+HASHTAG: nessuno
+
+--- FLAGS ---
+CTA COMMENTO: no
+CTA FOLLOW: no
+LINK IN CAPTION: no
+
+--- CATEGORIA ---
+CATEGORIA: news_ai
+TAG: claude-opus-5, pokemon, ai-generativa, gioco-3d
+TOPIC: Il modello Claude Opus 5 genera un gioco Pokemon in 3D con personaggi originali
+
+--- HOOK TESTUALE (dal frame) ---
+Claude Opus 5 ha appena creato un nuovo gioco Pokemon
+
+--- DESCRIZIONE VISIVA ---
+La sequenza mostra gameplay 3D di un gioco che sembra ispirato a Pokémon. I frame iniziali (1-3 e 4-6) mostrano un ambiente esterno con case di stile cul-de-sac, vegetazione verde lussureggiante e uno sfondo che include un cielo e il mare. I frame centrali e finali (4-9) mostrano diverse stanze all'interno di edifici, con pavimento in legno, mobili come tavoli e scaffalature. I frame 3, 6 e 9 mettono in risalto un personaggio 3D originale e grottesco (reminiscente di un Pokémon ma chiaramente diverso e generato da AI). Alcuni frame (7-9) mostrano una black screen di caricamento con testo bianco. L'interfaccia utente in basso (frame 4-6) mostra un elenco di comandi da terminale. L'ultima scena (frame 9) presenta un messaggio di errore: 'Errore: Unable to transfer...', sottolineando l'esperimento con l'AI.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Claude Opus 5
+
+--- CAPTION COMPLETA ---
+Anche se i Pokemon sono spaventosi però devo dire che il risultato è molto interessante. Se avessimo dato i modelli 3 ufficiali avrebbe fatto un lavoro ancora più assurdo.
+
+--- TRASCRIZIONE AUDIO ---
+A Grazie a tutti.

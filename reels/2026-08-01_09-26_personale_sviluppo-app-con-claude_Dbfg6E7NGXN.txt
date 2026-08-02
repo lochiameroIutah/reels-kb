@@ -1,0 +1,38 @@
+POST ID: 18091890338531491
+IG ID: 18091890338531491
+SHORTCODE: Dbfg6E7NGXN
+PERMALINK: https://www.instagram.com/reel/Dbfg6E7NGXN/
+DATA: 2026-08-01
+ORA: 09:26
+
+--- METRICHE ---
+LIKE: 18
+COMMENTI: 0
+DURATA VIDEO: 21 secondi
+CARATTERI CAPTION: 63
+HASHTAG: nessuno
+
+--- FLAGS ---
+CTA COMMENTO: no
+CTA FOLLOW: no
+LINK IN CAPTION: no
+
+--- CATEGORIA ---
+CATEGORIA: personale
+TAG: claude, intelligenza-artificiale, sviluppo-app, adobition-issue-manager
+TOPIC: Il creatore utilizza Claude per costruire l'Adobition Issue Manager, un'applicazione per la gestione di issue
+
+--- HOOK TESTUALE (dal frame) ---
+POV: sono le 4:30 di mattina
+
+--- DESCRIZIONE VISIVA ---
+L'immagine mostra una serie di screenshot monitor in ambiente oscuro, illuminati solo dalla luce dello schermo, con una mano che interagiva con l'interfaccia. La schermata principale mostra l'interfaccia web del 'Adobition Issue Manager' e un editor di codice con sintassi evidenziata. Nei video call pop-up si vede una persona che parla. In basso è visibile un gatto bianco che dorme sul bordo del monitor o della scrivania.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Adobition Issue Manager
+
+--- CAPTION COMPLETA ---
+Io godo mi sento libero anche se ho fatto le 4:30 di mattina 😂
+
+--- TRASCRIZIONE AUDIO ---
+Raga, completamente fatta con l'intelligenza artificiale. Io godo, peccato solo che sono le quattro e mezza e sono finito, però, guardate un po', Claude direttamente ti permette di costruire questa incredibile applicazione bellissima che permette di fare una cosa super da smanettoni, addirittura quella versione italiana e inglese.

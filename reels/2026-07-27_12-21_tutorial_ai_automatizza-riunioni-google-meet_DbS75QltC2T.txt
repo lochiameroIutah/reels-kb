@@ -6,8 +6,8 @@ DATA: 2026-07-27
 ORA: 12:21
 
 --- METRICHE ---
-LIKE: 108
-COMMENTI: 35
+LIKE: 110
+COMMENTI: 39
 DURATA VIDEO: 55 secondi
 CARATTERI CAPTION: 961
 HASHTAG: #adv #runableai #intelligenzaartificiale #ai #googlemeet

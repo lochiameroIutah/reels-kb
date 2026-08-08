@@ -1,0 +1,70 @@
+POST ID: 18187628842399375
+IG ID: 18187628842399375
+SHORTCODE: Dbvyf4YNeWH
+PERMALINK: https://www.instagram.com/reel/Dbvyf4YNeWH/
+DATA: 2026-08-07
+ORA: 17:14
+
+--- METRICHE ---
+LIKE: 45
+COMMENTI: 16
+DURATA VIDEO: 44 secondi
+CARATTERI CAPTION: 1501
+HASHTAG: #vibecoding #trascriviaudio #android #ai #intelligenzaartificiale
+
+--- FLAGS ---
+CTA COMMENTO: no
+CTA FOLLOW: no
+LINK IN CAPTION: no
+
+--- CATEGORIA ---
+CATEGORIA: news_ai
+TAG: trascrivi-audio, android, vibe-coding, intelligenza-artificiale
+TOPIC: Il tool Trascrivi Audio è stato inviato per l'approvazione su Android e potrà essere presto pubblicato sul Play Store
+
+--- HOOK TESTUALE (dal frame) ---
+Grandi Notizie!
+
+--- DESCRIZIONE VISIVA ---
+Il video mostra un uomo che annuncia la possibilità di testare un'applicazione su iOS e Android. Alcuni frame mostrano prove pratiche: una schermata computer con il titolo 'Dashboard' e la scritta 'Turtle Audio', seguita sottostante dal tag 'Produzione'; un altro frame mostra l'uomo che indica esplicitamente questi elementi sul display. Infine, è visibile il video dell'uomo che parla a camera da un interno domenicano con la luce naturale.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Apple, Android, Turtle Audio
+
+--- CAPTION COMPLETA ---
+Ecco il link 👇
+
+Raga, oggi è un grande giorno.
+
+Trascrivi Audio è finalmente pronta anche per Android. 🥹
+
+Dopo settimane di sviluppo, test, bug, fix e soprattutto dopo aver completato tutto il percorso richiesto da Google, finalmente ho potuto inviare la richiesta per ottenere l’accesso alla produzione sul Play Store.
+
+E fidatevi: pubblicare un’app Android oggi con un account nuovo non è così immediato come potrebbe sembrare.
+
+Prima di poter andare in produzione Google ti obbliga a passare da un periodo di test, avere utenti reali che provano l’app e completare tutta una serie di requisiti.
+
+E finalmente ci siamo arrivati.
+
+Quindi grazie davvero a tutti quelli che hanno partecipato alla beta e mi hanno aiutato in queste settimane. ❤️
+
+Adesso manca solamente l’approvazione definitiva di Google e, se tutto va bene, Trascrivi Audio potrà essere pubblicata ufficialmente anche sul Play Store.
+
+Ma la cosa importante è questa:
+
+la versione beta che potete scaricare oggi è già la stessa versione che verrà pubblicata.
+
+Quindi se avete Android non dovete necessariamente aspettare.
+
+Potete già richiedere l’accesso dal link, io vi accetto appena posso e potete iniziare subito a usarla.
+
+E pensare che tutto questo è partito da un’idea e l’ho costruita praticamente da zero con il Vibe Coding.
+
+Ora Trascrivi Audio è pronta per iPhone e finalmente sta per arrivare ufficialmente anche su Android.
+
+Che cazzo di viaggio. 😂
+
+#vibecoding #trascriviaudio #android #ai #intelligenzaartificiale app
+
+--- TRASCRIZIONE AUDIO ---
+Ragazzi, ho una grandissima novità per tutti gli utenti Android perché Trascrivi Audio ho mandato finalmente la richiesta di accesso alla produzione. Questo significa che probabilmente avrò l'accesso appunto per pubblicare l'applicazione che ho creato, Trascrivi Audio finalmente, quindi grazie a tutti i tester, a quelli che hanno partecipato e vi aggiorno molto presto. Comunque, sappiate che la versione beta e la versione che verrà pubblicata è la stessa, quindi già se volete entrare andate su questo link che lo scrivete qua, fate lo screen, mandatelo a CiaGPT, ditegli estrae il link, andate in quella pagina e poi io stasera, domani, insomma, vi accetto appena posso.

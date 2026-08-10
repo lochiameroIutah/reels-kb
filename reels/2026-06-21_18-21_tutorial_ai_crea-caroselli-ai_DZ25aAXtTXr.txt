@@ -6,8 +6,8 @@ DATA: 2026-06-21
 ORA: 18:21
 
 --- METRICHE ---
-LIKE: 1207
-COMMENTI: 2263
+LIKE: 1214
+COMMENTI: 2274
 DURATA VIDEO: 72 secondi
 CARATTERI CAPTION: 933
 HASHTAG: #adv #runableai #intelligenzaartificiale #ai #socialtips

@@ -1,0 +1,38 @@
+POST ID: 17970002885940226
+IG ID: 17970002885940226
+SHORTCODE: Db75Lizt4uL
+PERMALINK: https://www.instagram.com/reel/Db75Lizt4uL/
+DATA: 2026-08-12
+ORA: 09:59
+
+--- METRICHE ---
+LIKE: 171
+COMMENTI: 10
+DURATA VIDEO: 68 secondi
+CARATTERI CAPTION: 120
+HASHTAG: #intelligenzaartificiale #chatgpt #assistentevirtual #reatime #esperiementosociale
+
+--- FLAGS ---
+CTA COMMENTO: no
+CTA FOLLOW: no
+LINK IN CAPTION: no
+
+--- CATEGORIA ---
+CATEGORIA: confronto_ai
+TAG: chatgpt, assistente-virtuale, pizza, ordine-telefonico, automazione
+TOPIC: Il video dimostra come utilizzare ChatGPT per ordinare una pizza tramite un assistente virtuale
+
+--- HOOK TESTUALE (dal frame) ---
+[nessun testo rilevato]
+
+--- DESCRIZIONE VISIVA ---
+Il video mostra un uomo in piedi su un balcone, vestito con una camicia a fiori bianchi e neri, che tiene in mano due smartphone. A destra (dal punto di vista dell'utente) tiene un iPhone (riconoscibile dal design e dalla schermata iniziale Apple) e a sinistra un telefono di cui viene mostrato il retro. L'uomo sembra confrontare i due dispositivi durante una dimostrazione video. Nell'ultimo fotogramma della griglia appare una schermata del secondo telefono che mostra un'app di interfaccia chat (simile a ChatGPT o un'app di delivery personalizzata con etichetta OCR 'Pizza'), con il testo sovrapposto 'Andiamo a prendere la pizza ordinata con ChatGPT...'.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Apple, ChatGPT
+
+--- CAPTION COMPLETA ---
+Assurdo tu pensa tra qualche anno 😂  #intelligenzaartificiale #chatgpt #assistentevirtual #reatime #esperiementosociale
+
+--- TRASCRIZIONE AUDIO ---
+Ciao CiaGPT, adesso chiamerò una pizzeria e tu ordinerai due pizze prosciutto e funghi, una con verdure e salame e un'altra. Una salsiccia e patate. Andiamo a prendere noi, dirgli per le nove e dirgli anche se possibilmente ce le può tagliare. Perfetto, adesso la chiamo. Buonasera. Buonasera. Vorrei ordinare quattro pizze d'asporto. Sì, mi dici, scusate, vuole a casa, quindi. Sì, va bene anche prima, se è pronto anche un quarto. Sì, mi dà il suo nome per favore? Bellotti. Perfetto, grazie a lei. Buona serata. Arrivederci. Crazy! Crazy! Io sono il tuo smetto di fiducia, noi ci vediamo al prossimo video. Siamo nel futuro.

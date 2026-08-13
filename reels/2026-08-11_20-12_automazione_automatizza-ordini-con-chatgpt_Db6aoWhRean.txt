@@ -6,8 +6,8 @@ DATA: 2026-08-11
 ORA: 20:12
 
 --- METRICHE ---
-LIKE: 36
-COMMENTI: 3
+LIKE: 43
+COMMENTI: 5
 DURATA VIDEO: 62 secondi
 CARATTERI CAPTION: 976
 HASHTAG: #intelligenzaartificiale #chatgpt #ai #ia

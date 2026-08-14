@@ -7,7 +7,7 @@ ORA: 19:31
 
 --- METRICHE ---
 LIKE: 342
-COMMENTI: 356
+COMMENTI: 358
 DURATA VIDEO: 77 secondi
 CARATTERI CAPTION: 889
 HASHTAG: #vibecoding #intelligenzaartificiale #ai #workshop #creatorsearchinsights

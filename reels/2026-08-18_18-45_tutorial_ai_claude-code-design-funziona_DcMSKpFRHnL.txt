@@ -1,0 +1,59 @@
+POST ID: 17942875920298583
+IG ID: 17942875920298583
+SHORTCODE: DcMSKpFRHnL
+PERMALINK: https://www.instagram.com/reel/DcMSKpFRHnL/
+DATA: 2026-08-18
+ORA: 18:45
+
+--- METRICHE ---
+LIKE: 132
+COMMENTI: 6
+DURATA VIDEO: 41 secondi
+CARATTERI CAPTION: 925
+HASHTAG: #claudecode #vibecoding #intelligenzaartificiale #ai #webdesign
+
+--- FLAGS ---
+CTA COMMENTO: sì
+CTA FOLLOW: sì
+LINK IN CAPTION: no
+
+--- CATEGORIA ---
+CATEGORIA: tutorial_ai
+TAG: claude-code, design-ai, prompt-design, webdesign, intelligenza-artificiale
+TOPIC: Scopri il nuovo comando /design di Claude Code per generare e implementare interfacce web direttamente dal testo
+
+--- HOOK TESTUALE (dal frame) ---
+ADDIO CLAUDE DESIGN.
+
+--- DESCRIZIONE VISIVA ---
+The video features a sequence of screenshots from a computer interface, showcasing an AI coding tool. The frames display a browser window and a command terminal, with visible text inputs like 'code landing.md' and code blocks containing HTML or CSS scripts. One frame highlights a website preview or logo design related to 'ClaudeCode/design'. The visual focus is on demonstrating the AI's ability to generate code and designs for web pages based on text commands.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Claude Code
+
+--- CAPTION COMPLETA ---
+No vabbè, Claude Code adesso fa anche il designer 🤯
+
+Prima di tutto 👉 clicca segui @themattvision per non perderti le prossime novità sull’intelligenza artificiale.
+
+Con il nuovo comando /design puoi:
+
+1. Descrivere l’interfaccia che vuoi creare.
+2. Ricevere diverse proposte visive.
+3. Scegliere quella che preferisci e modificarla.
+4. Farla implementare direttamente nel tuo progetto.
+
+Quindi molto meno avanti e indietro tra design e codice: gli dici cosa vuoi, sistemi il risultato visivamente e Claude Code pensa all’implementazione.
+
+È ancora una research preview, ma è già disponibile sui piani Pro, Max, Team ed Enterprise. Per provarla ti basta aggiornare Claude Code.
+
+Commenta DESIGN se vuoi un video in cui la provo davvero.
+
+Io sono Matteo Zampieri, il tuo smanettone di fiducia.
+
+👉 Clicca segui @themattvision e ci vediamo al prossimo video 🚀
+
+#claudecode #vibecoding #intelligenzaartificiale #ai #webdesign
+
+--- TRASCRIZIONE AUDIO ---
+Grazie a tutti. Grazie a tutti!

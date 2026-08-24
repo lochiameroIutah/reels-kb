@@ -6,8 +6,8 @@ DATA: 2026-08-07
 ORA: 17:14
 
 --- METRICHE ---
-LIKE: 83
-COMMENTI: 18
+LIKE: 89
+COMMENTI: 20
 DURATA VIDEO: 44 secondi
 CARATTERI CAPTION: 1501
 HASHTAG: #vibecoding #trascriviaudio #android #ai #intelligenzaartificiale

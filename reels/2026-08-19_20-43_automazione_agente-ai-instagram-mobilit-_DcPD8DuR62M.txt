@@ -1,0 +1,38 @@
+POST ID: 18019037708858645
+IG ID: 18019037708858645
+SHORTCODE: DcPD8DuR62M
+PERMALINK: https://www.instagram.com/reel/DcPD8DuR62M/
+DATA: 2026-08-19
+ORA: 20:43
+
+--- METRICHE ---
+LIKE: 37
+COMMENTI: 10
+DURATA VIDEO: 27 secondi
+CARATTERI CAPTION: 42
+HASHTAG: nessuno
+
+--- FLAGS ---
+CTA COMMENTO: no
+CTA FOLLOW: no
+LINK IN CAPTION: no
+
+--- CATEGORIA ---
+CATEGORIA: automazione
+TAG: agente-ai, instagram, automazione-lavoro, chat-mobile, intelligenza-artificiale
+TOPIC: Creazione di un agente AI che avvia la prima conversazione da Instagram e la trasferisce a un'applicazione mobile per automatizzare il lavoro
+
+--- HOOK TESTUALE (dal frame) ---
+Oggi l'intelligenza artificiale può automatizzare quasi completamente il tuo lavoro
+
+--- DESCRIZIONE VISIVA ---
+Il video mostra un uomo che parla a camera in un contesto all'aperto, con sfondi che includono piscine e giardini. Uno dei frame evidenzia uno screenshot di un'app di messaggistica o di chat (simile a WhatsApp o un'interfaccia chat AI) con un testo inserito da un utente e una risposta dell'AI. L'interfaccia AI è dark mode con una testata viola scuro. Non vengono mostrati terminali, schermi di programmazione o interfacce software complesse, ma principalmente il presentatore mentre discute del concetto di automazione.
+
+--- PRODOTTI / TOOL VISIBILI ---
+[nessuno]
+
+--- CAPTION COMPLETA ---
+Ormai è questione di tempo, c’è la farò 🚀
+
+--- TRASCRIZIONE AUDIO ---
+Sto costruendo un agente che dal mio instagram faccio partire praticamente la primissima conversazione, i primissimi messaggi e poi da lì mi sposto in un'applicazione per il mio telefono. In questo modo posso dire addio a questo computer e stare sdraiato sul lettino e lavorare al 100% completamente sfruttando l'intelligenza artificiale. Cioè se anche tu vuoi impostare un'intelligenza artificiale per il tuo lavoro seguimi così noi ci vediamo ad un prossimo video. E adesso io mi...

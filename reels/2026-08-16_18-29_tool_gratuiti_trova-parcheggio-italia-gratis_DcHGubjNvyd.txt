@@ -1,0 +1,38 @@
+POST ID: 17965633908153355
+IG ID: 17965633908153355
+SHORTCODE: DcHGubjNvyd
+PERMALINK: https://www.instagram.com/reel/DcHGubjNvyd/
+DATA: 2026-08-16
+ORA: 18:29
+
+--- METRICHE ---
+LIKE: 7
+COMMENTI: 0
+DURATA VIDEO: 22 secondi
+CARATTERI CAPTION: 84
+HASHTAG: nessuno
+
+--- FLAGS ---
+CTA COMMENTO: no
+CTA FOLLOW: no
+LINK IN CAPTION: no
+
+--- CATEGORIA ---
+CATEGORIA: tool_gratuiti
+TAG: zczee-parcheggi, parcheggi-italia, app-gratuita, trovaparcheggio, alberto-norris
+TOPIC: Come usare ZcZee - Parcheggi per trovare parcheggi in tutta Italia
+
+--- HOOK TESTUALE (dal frame) ---
+Come #trovi il tu trovare parcheggio in qualsiasi posto in Italia
+
+--- DESCRIZIONE VISIVA ---
+Una griglia di 9 frame tratti da un video turistico/tecnologico. L'unico elemento visivo informativo persistente in ogni frame è una schermata di app (ovviamente un mockup o una screenshot reale) che mostra il nome dell'app "ZcZee - Parcheggi" e sotto il titolo della hook. Il resto del video mostra un presentatore uomo che parla direttamente alla camera da vari punti di un'area urbana italiana (si vedono palazzi, marciapiedi, cielo azzurro) e gesticola con le mani mentre racconta. La sequenza è tipica di un Reel Instagram.
+
+--- PRODOTTI / TOOL VISIBILI ---
+ZcZee - Parcheggi
+
+--- CAPTION COMPLETA ---
+La conoscevi? Una delle poche App che non esisteva e finalmente qualcuno l’ha creata
+
+--- TRASCRIZIONE AUDIO ---
+Che utile per l'estate. Praticamente ho utilizzato questa applicazione si chiama Zigzag, è completamente gratuita, l'ha creato Alberto Norris, fortissimo, anzi non si sa dove sia finito perché è tipo sparito dai social, però è gratuita e mi ha permesso di trovare il parcheggio in questo posto che sono anche dove cazzo sono in questo momento. Dai ci sono tutti i parcheggi di tutta Italia, è assurda. Provatela e poi fatemi sapere.

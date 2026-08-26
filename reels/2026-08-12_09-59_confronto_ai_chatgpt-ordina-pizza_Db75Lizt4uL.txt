@@ -6,8 +6,8 @@ DATA: 2026-08-12
 ORA: 09:59
 
 --- METRICHE ---
-LIKE: 274
-COMMENTI: 11
+LIKE: 280
+COMMENTI: 12
 DURATA VIDEO: 68 secondi
 CARATTERI CAPTION: 120
 HASHTAG: #intelligenzaartificiale #chatgpt #assistentevirtual #reatime #esperiementosociale

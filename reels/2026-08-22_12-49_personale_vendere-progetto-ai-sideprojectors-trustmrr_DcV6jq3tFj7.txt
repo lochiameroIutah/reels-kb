@@ -6,8 +6,8 @@ DATA: 2026-08-22
 ORA: 12:49
 
 --- METRICHE ---
-LIKE: 1117
-COMMENTI: 19
+LIKE: 1140
+COMMENTI: 17
 DURATA VIDEO: 40 secondi
 CARATTERI CAPTION: 1012
 HASHTAG: #vibecoding #intelligenzaartificiale #ai #chatgpt #guadagnareonline

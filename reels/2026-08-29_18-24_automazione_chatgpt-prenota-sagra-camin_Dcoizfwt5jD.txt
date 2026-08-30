@@ -1,0 +1,44 @@
+POST ID: 17898082932371831
+IG ID: 17898082932371831
+SHORTCODE: Dcoizfwt5jD
+PERMALINK: https://www.instagram.com/reel/Dcoizfwt5jD/
+DATA: 2026-08-29
+ORA: 18:24
+
+--- METRICHE ---
+LIKE: 94
+COMMENTI: 2
+DURATA VIDEO: 52 secondi
+CARATTERI CAPTION: 50
+HASHTAG: nessuno
+
+--- FLAGS ---
+CTA COMMENTO: no
+CTA FOLLOW: no
+LINK IN CAPTION: no
+
+--- CATEGORIA ---
+CATEGORIA: automazione
+TAG: chatgpt, prenotazione, assistente-virtuale, screenshot, ai-quotidiano
+TOPIC: Come usare ChatGPT per trovare il numero di telefono e gestire la prenotazione della sagra di Camin
+
+--- HOOK TESTUALE (dal frame) ---
+[nessun testo rilevato]
+
+--- DESCRIZIONE VISIVA ---
+```json
+{
+"hook_text": "ChatGPT gratis è estremamente utile se lo usi in questo modo",
+"visual_description": "Una serie di screenshot mostrati su uno smartphone descrivono una conversazione con un assistente AI. La configurazione iniziale mostra un saluto automatico con il nome (Tu la sagra), seguito da un prompt per impostare il contesto aziendale ('Mio amico che opera nel settore degli infissi...'). Il testo evidenzia la detrazione fiscale del 50% per la sostituzione degli infissi, ricevuta come risposta dalla chat. La narrazione mostra come l'utente cerchi il 'numero verde' della detrazione (potete vedere la schermata del prompt di ricerca e la risposta in questo formato",
+"visible_products": "ChatGPT",
+}
+```
+
+--- PRODOTTI / TOOL VISIBILI ---
+[nessuno]
+
+--- CAPTION COMPLETA ---
+ChatGPT mi ha risparmiato una fatica tutto sommato
+
+--- TRASCRIZIONE AUDIO ---
+Questo mio amico che mi ha detto prenota tu la sagra di Camin. Ma dove trovo il numero? Devo cercarlo? Cosa? Adesso vi faccio vedere come faccio io. Faccio lo screenshot, poi faccio condividi con CiaGPT. Questo screenshot non è altro che la richiesta di questo mio amico che mi dice prova a cercare se c'è il numero e in caso prenota. A quel punto gli do semplicemente il contesto, quindi la sagra di Camin e faccio invio. In un attimo lui è andato subito a trovarmi il numero. Guarda qua. Lui non solo è andato a dirmi il numero di telefono ma mi dice addirittura che le prenotazioni solamente sono accettate dalle 12 alle 17. In questo caso sono le 7 e mezza quindi non posso prenotare però posso andare lì senza prenotazione, mi ha detto tutto lui. Questo è un ottimo modo per dire che abbiamo integrato l'intelligenza artificiale nella vita di tutti i giorni. Io comunque sono Matteo Zampieri, il tuo smanettone di fiducia nel mio profilo di soluzioni di questo tipo ne ho tantissime. Quindi tu seguimi e vatti a vedere tutte le altre. Noi ci vediamo ad un prossimo video.

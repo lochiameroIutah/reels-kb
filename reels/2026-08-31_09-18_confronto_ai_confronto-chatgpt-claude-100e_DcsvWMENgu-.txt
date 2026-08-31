@@ -1,0 +1,38 @@
+POST ID: 18179440552423811
+IG ID: 18179440552423811
+SHORTCODE: DcsvWMENgu-
+PERMALINK: https://www.instagram.com/reel/DcsvWMENgu-/
+DATA: 2026-08-31
+ORA: 09:18
+
+--- METRICHE ---
+LIKE: 24
+COMMENTI: 9
+DURATA VIDEO: 39 secondi
+CARATTERI CAPTION: 91
+HASHTAG: nessuno
+
+--- FLAGS ---
+CTA COMMENTO: no
+CTA FOLLOW: no
+LINK IN CAPTION: no
+
+--- CATEGORIA ---
+CATEGORIA: confronto_ai
+TAG: chatgpt, claude, piano-20e, piano-100e, abbonamento-ai
+TOPIC: Confronto tra il piano da 20 € di ChatGPT e il piano da 100 € di Claude, con esperienza d'uso in 8 ore
+
+--- HOOK TESTUALE (dal frame) ---
+Ho disdetto Claude Piano da 100€ bruciato in 8 ore
+
+--- DESCRIZIONE VISIVA ---
+Un uomo senza maglietto parla direttamente alla telecamera mentre la registra in un ambiente domestico con pareti colorate. Nei primi frame (centro della seconda riga) appare un breve sovrapposizione di uno screenshot di un chat di IA (probabilmente interfaccia di Claude o un message thread) in formato mobile, ma perlopiù i contenuti visivi si concentrano sul volto e i gesti di apertura/mano del presentatore.
+
+--- PRODOTTI / TOOL VISIBILI ---
+[nessuno]
+
+--- CAPTION COMPLETA ---
+Più che altro il piano da 20€ di ChatGPT era talmente generoso che mi ha convinto a provare
+
+--- TRASCRIZIONE AUDIO ---
+Ho disdetto Claude, l'abbonamento da 200€ al mese, ho fatto l'abbonamento a Codex, quindi CiaGPT, da 200€ al mese, ma ho detto, beh, faccio quello da 100€ intanto, poi farò quello da 200€ se proprio ne sentirò la necessità. Beh, dopo neanche 8 ore ne ho sentito la necessità. In questo vocale, appunto, vi spiego bene. È all'interno del mio canale qui di Instagram. Non ci siamo. C'è Claude molto più preciso, CHAGPT, fa mille giri e ti obbliga a utilizzare la loro app con le loro skill. Quindi è tipo bene, ma non benissimo, perché hai molta meno libertà. Fatemi sapere che cosa ne pensate se avete provato voi tutti e due i piani.

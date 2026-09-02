@@ -7,7 +7,7 @@ ORA: 12:21
 
 --- METRICHE ---
 LIKE: 123
-COMMENTI: 52
+COMMENTI: 54
 DURATA VIDEO: 55 secondi
 CARATTERI CAPTION: 961
 HASHTAG: #adv #runableai #intelligenzaartificiale #ai #googlemeet

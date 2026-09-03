@@ -1,0 +1,42 @@
+POST ID: 18107507360011991
+IG ID: 18107507360011991
+SHORTCODE: Dc0dIsXNSJM
+PERMALINK: https://www.instagram.com/reel/Dc0dIsXNSJM/
+DATA: 2026-09-03
+ORA: 09:09
+
+--- METRICHE ---
+LIKE: 5
+COMMENTI: 0
+DURATA VIDEO: 54 secondi
+CARATTERI CAPTION: 317
+HASHTAG: nessuno
+
+--- FLAGS ---
+CTA COMMENTO: no
+CTA FOLLOW: no
+LINK IN CAPTION: no
+
+--- CATEGORIA ---
+CATEGORIA: tutorial_ai
+TAG: chatgpt-work, local-ai, m5-pro, offline-usage, installazione-gratuita
+TOPIC: Come installare e usare ChatGPT Work in locale su un M5 Pro con 16 GB di RAM per avere IA offline senza abbonamento
+
+--- HOOK TESTUALE (dal frame) ---
+Da oggi usare l'IA senza Wifi è facile da installare e DEVI PROVARLA perché è GRATIS
+
+--- DESCRIZIONE VISIVA ---
+La sequenza di fotogrammi mostra un'unica inquadratura ravvicinata di un uomo che parla direttamente alla telecamera in un setting domestico (sfondo muro bianco con quadri appesi). L'uomo utilizza gesti della mano per enfatizzare il suo messaggio. Non ci sono visualizzazioni di schermi, software, diagrammi, B-roll tecnici o interfacce utente visibili; il focus è interamente sul presentatore.
+
+--- PRODOTTI / TOOL VISIBILI ---
+[nessuno]
+
+--- CAPTION COMPLETA ---
+Mi è bastato chiedere “cerca le ultime News sulle Ai in locale basandoti sulla potenza. He rilevi di questo computer e installa la versione migliore e fammela usare con Paseo” 
+
+Ha fatto tutto ChatGPT Work
+
+Io sono Matteo Zampieri il tuo smanettone di fiducia, tu ricorda di seguirmi così non ti perdi queste chicche!
+
+--- TRASCRIZIONE AUDIO ---
+Io ho installato un'intelligenza artificiale in locale in un M5 Pro da 16 giga di RAM e non solo il risultato di quell'intelligenza artificiale in locale che quindi non ha bisogno di un abbonamento ma funzionava a wifi spento ed è bellissimo vedere questa cosa. L'output è molto interessante ma è stato di una facilità disarmante. Cioè gliel'abbiamo realmente semplicemente chiesto a CiaGPT Work. Cia GPT Work. Gli abbiamo chiesto questa cosa con ignoranza, lui è andato a cercarsi le ultime cose, ha capito cosa bisogna installare, ci ha detto, ci ha spiegato, però ci siamo fatti spiegare e poi è pazzesco. Cioè io tutti i test che faccio li faccio sempre pensando a una persona che non ci capisce niente e vuole comunque fare le cose. E cazzo, è possibile.

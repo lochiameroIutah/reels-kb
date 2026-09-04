@@ -1,0 +1,40 @@
+POST ID: 18020793143870801
+IG ID: 18020793143870801
+SHORTCODE: Dc25jN7Nj2y
+PERMALINK: https://www.instagram.com/reel/Dc25jN7Nj2y/
+DATA: 2026-09-04
+ORA: 07:57
+
+--- METRICHE ---
+LIKE: 79
+COMMENTI: 3
+DURATA VIDEO: 131 secondi
+CARATTERI CAPTION: 98
+HASHTAG: #chatgpt #gptastra #chatgptastra #intelligenzaartificiale
+
+--- FLAGS ---
+CTA COMMENTO: no
+CTA FOLLOW: no
+LINK IN CAPTION: no
+
+--- CATEGORIA ---
+CATEGORIA: tutorial_ai
+TAG: openai, chatgpt, blender, 3d-modeling, stl, intelligenza-artificiale
+TOPIC: Come usare ChatGPT di OpenAI per generare un modello 3D di un razzo in Blender
+
+--- HOOK TESTUALE (dal frame) ---
+OpenAI ha pubblicato il primo assistente al mondo in grado di fare qualsiasi cosa usando solo la tua voce.
+
+--- DESCRIZIONE VISIVA ---
+La griglia mostra un reel di un presentatore intercalato con video dimostrativi di un'interazione vocale. I B-roll mostrano una persona in piedi in una stanza di casa che sembra interagire con un assistente AI (probabilmente tramite altoparlanti). Appaiono sottotitoli che trascrivono la conversazione in cui l'utente chiede all'assistente di chiamare un tecnico per riordinare gli strumenti del garage; l'assistente risponde che ha chiamato il tecnico 'Doug Bennett', e l'utente conferma l'arrivo del tecnico a breve. L'interfaccia visualizzata sembra quella di un'app mobile o tablet in modalità assistente.
+
+--- PRODOTTI / TOOL VISIBILI ---
+OpenAI
+
+--- CAPTION COMPLETA ---
+Il cerchio si chiude, ora è perfetto 🚀
+
+#chatgpt #gptastra #chatgptastra #intelligenzaartificiale
+
+--- TRASCRIZIONE AUDIO ---
+Can you draw me a small yellow circle? Done. Okay. Take this and make it the window of a rocket ship. I like this, but can you make it a lot more detailed? Your yellow circle is now the window on a rocket. Okay, this is awesome. Now make it a 3D model in Blender. e e La e e quindi si chiede a un file che mi 3dprinter. I'll get working on creating an stl file of this rocket. La Campati 3d.

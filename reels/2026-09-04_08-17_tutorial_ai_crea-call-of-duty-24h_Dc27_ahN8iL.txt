@@ -1,0 +1,38 @@
+POST ID: 17869507578650081
+IG ID: 17869507578650081
+SHORTCODE: Dc27_ahN8iL
+PERMALINK: https://www.instagram.com/reel/Dc27_ahN8iL/
+DATA: 2026-09-04
+ORA: 08:17
+
+--- METRICHE ---
+LIKE: 15
+COMMENTI: 2
+DURATA VIDEO: 71 secondi
+CARATTERI CAPTION: 41
+HASHTAG: nessuno
+
+--- FLAGS ---
+CTA COMMENTO: no
+CTA FOLLOW: no
+LINK IN CAPTION: no
+
+--- CATEGORIA ---
+CATEGORIA: tutorial_ai
+TAG: chatgpt-6-astra, call-of-duty-clone, ai-game-dev, prompt-engineering, low-poly-fps
+TOPIC: Come ChatGPT-6 Astra ha generato un clone di Call of Duty in meno di 24 ore usando prompt iterativi
+
+--- HOOK TESTUALE (dal frame) ---
+GPT 6 Astra è insane 🤯
+
+--- DESCRIZIONE VISIVA ---
+The video begins with text explaining that a young man created a clone of Call of Duty in less than 24 hours using ChatGPT-6 Astra, claiming the result is crazy. Visuals alternate between a male presenter talking to the camera and a screen recording of a computer monitor. The monitor displays a first-person shooter game that resembles Call of Duty in a retro/low-poly style. The gameplay footage shows the user navigating a 3D environment, holding a gun, and viewing a map. In one segment, the presenter also points to a monitor showing lines of code or a file directory, referencing the AI development process. The video ends with the presenter holding a white mug.
+
+--- PRODOTTI / TOOL VISIBILI ---
+ChatGPT-6 Astra, GPT 6 Astra
+
+--- CAPTION COMPLETA ---
+Ha creato Call off duty in meno di 24 ore
+
+--- TRASCRIZIONE AUDIO ---
+Scream 4, Weapons free. Look at this. So I created Call of Duty, and I'll show you this game in just a second. Literally started with this prompt. We went back and forth, and then this was the result. Today. Check this out. The Sub machine gun. There's 8 loadouts. Check this out. Scream 4, Weapons free. Ah! I'm going to use the Vax. I'm going to use the Matteo Zampieri. Vizio. Vizio. Vizio. Vizio. Vizio. Vizio.

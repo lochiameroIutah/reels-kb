@@ -1,0 +1,38 @@
+POST ID: 18049934945801801
+IG ID: 18049934945801801
+SHORTCODE: Dc4GhxeNeii
+PERMALINK: https://www.instagram.com/reel/Dc4GhxeNeii/
+DATA: 2026-09-04
+ORA: 19:36
+
+--- METRICHE ---
+LIKE: 7
+COMMENTI: 4
+DURATA VIDEO: 43 secondi
+CARATTERI CAPTION: 148
+HASHTAG: nessuno
+
+--- FLAGS ---
+CTA COMMENTO: sì
+CTA FOLLOW: no
+LINK IN CAPTION: no
+
+--- CATEGORIA ---
+CATEGORIA: tutorial_ai
+TAG: chatgpt, xcode, swift, trascrizione-audio, iphone-pieghevole, app-gratuita
+TOPIC: Come usare ChatGPT con Xcode per creare un’app di trascrizione audio ottimizzata per il nuovo iPhone pieghevole
+
+--- HOOK TESTUALE (dal frame) ---
+ChatGPT ha rivelato come sarà il prossimo iPhone 18 pieghevole
+
+--- DESCRIZIONE VISIVA ---
+La sequenza mostra un uomo mentre è seduto di fronte a un computer portatile. Schermo per schermo viene mostrato il simulatore di un dispositivo Apple (iPad/iPhone) su un software di sviluppo. Vengono visualizzate le fasi di creazione di un'applicazione, partendo da uno screen con layout bianco e nero, passando per l'interfaccia coding (Xcode) con codice Java/Swift e anteprima, fino all'avvio dell'app risultante che mostra una schermata gialla con la text 'Task Manager' e il logo di Swift. Il testo di hook in alto a sinistra è presente in tutti i frame. I sottofondi sono legati alle azioni mostrate a schermo o al concetto generale del video.
+
+--- PRODOTTI / TOOL VISIBILI ---
+ChatGPT, Xcode, Swift
+
+--- CAPTION COMPLETA ---
+Questa volta la Apple si è fatta beccare 😮‍💨 Commenta TRASCRIVI e ti mando la mia app che ho ottimizzato anche per il primo iPhone pieghevole 🔥🔥
+
+--- TRASCRIZIONE AUDIO ---
+Stavo creando la mia applicazione quando mi ha aperto questo simulatore di iPhone un po' strano. Infatti questo qua è un simulatore di iPhone che però sembra tipo un iPad ma non è un iPad. Palesemente questo qua è il nuovo iPhone pieghevole e lo stiamo vedendo adesso in anteprima mondiale. E io ne sto approfittando per creare già l'impostazione per la mia applicazione che trascrive qualsiasi audio sfruttando appunto l'intelligenza artificiale. L'applicazione la puoi scaricare andando direttamente a commentare il video qua sotto oppure scrivendo la parola TRASCRIVI. Io te la mando direttamente, è solamente su invito, è completamente gratuita. Io sono Matteo Zampieri, il tuo smanettone di fiducia. Tu, se non mi segui, fallo che ti conviene e noi ci vediamo ad un prossimo video.

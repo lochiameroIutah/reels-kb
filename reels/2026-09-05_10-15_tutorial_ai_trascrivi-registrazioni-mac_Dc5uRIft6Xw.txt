@@ -1,0 +1,38 @@
+POST ID: 17960388294196243
+IG ID: 17960388294196243
+SHORTCODE: Dc5uRIft6Xw
+PERMALINK: https://www.instagram.com/reel/Dc5uRIft6Xw/
+DATA: 2026-09-05
+ORA: 10:15
+
+--- METRICHE ---
+LIKE: 6
+COMMENTI: 0
+DURATA VIDEO: 47 secondi
+CARATTERI CAPTION: 26
+HASHTAG: nessuno
+
+--- FLAGS ---
+CTA COMMENTO: no
+CTA FOLLOW: no
+LINK IN CAPTION: no
+
+--- CATEGORIA ---
+CATEGORIA: tutorial_ai
+TAG: macos, macbook, visualizza-trascrizione, trascrizione-audio, produttivita
+TOPIC: Come usare la funzione "Visualizza trascrizione" di macOS per trasformare rapidamente le registrazioni in testo
+
+--- HOOK TESTUALE (dal frame) ---
+[nessun testo rilevato]
+
+--- DESCRIZIONE VISIVA ---
+Il video mostra un uomo in un ambiente domestico/in ufficio che spiega un concetto, alternando inquadraturasu di sé a screenshot dell'interfaccia utente di MacOS. Nei frame centrali, si vede chiaramente l'app 'Tutte le registrazioni' del sistema operativo con una lista di file presenti (inclusi riferimenti a 'Novella'). In altri fotogramma, è mostrato un documento open source (Editor di testo) con molto testo e in basso la dicitura '0/0000, 98'0 visualizzato su un laptop MacBook.
+
+--- PRODOTTI / TOOL VISIBILI ---
+MacOS, Macbook
+
+--- CAPTION COMPLETA ---
+(Funziona anche da iPhone)
+
+--- TRASCRIZIONE AUDIO ---
+Ti faccio vedere una cosa, faccio vedere una cosa, hai presente che abbiamo appena registrato tipo 11 minuti di cose devastanti che abbiamo parlato io e te, no? Ecco, e dobbiamo trascriverle. Come facciamo? Adesso ci vorrebbe un'intelligenza artificiale, ma ancora meglio, ancora più velocemente, ancora più che neanche te l'aspettavi e lui lo stava già facendo, il tuo Mac, se tu fai tasto destro puoi fare visualizza trascrizione. E ce l'hai già. Addirittura, in un attimo, senza visualizzarla, puoi fare copia trascrizione e se eventualmente tu premi play, puoi andare tranquillamente a cliccare in un punto e spostarti all'interno della trascrizione. Questa è la potenza di conoscere un Mac. Io sono Matteo Zampieri, il tuo smanettone di fiducia, lui è Andrea. Noi ci vediamo in un prossimo video e tu ricordati di seguirmi se ancora non l'hai fatto.

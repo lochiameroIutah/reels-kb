@@ -1,0 +1,38 @@
+POST ID: 18229300690322084
+IG ID: 18229300690322084
+SHORTCODE: Dc5vVzett_1
+PERMALINK: https://www.instagram.com/reel/Dc5vVzett_1/
+DATA: 2026-09-05
+ORA: 10:24
+
+--- METRICHE ---
+LIKE: 11
+COMMENTI: 0
+DURATA VIDEO: 47 secondi
+CARATTERI CAPTION: 26
+HASHTAG: nessuno
+
+--- FLAGS ---
+CTA COMMENTO: no
+CTA FOLLOW: no
+LINK IN CAPTION: no
+
+--- CATEGORIA ---
+CATEGORIA: automazione
+TAG: macos, visualizza-trascrizione, final-cut-pro, automazione, shortcut
+TOPIC: Come usare la funzione Visualizza trascrizione su macOS per trascrivere rapidamente video in Final Cut Pro
+
+--- HOOK TESTUALE (dal frame) ---
+CICCCIAMOLO!
+
+--- DESCRIZIONE VISIVA ---
+A dynamic video sequence showing two men in an office setting discussing a software automation problem. The frames feature a speaker demonstrating a process involving 'screener' (likely screen recording or monitoring software) and explaining how to replicate actions. Several frames show close-ups of a Mac computer screen displaying file lists and video timelines in what appears to be Final Cut Pro or a similar video editing/transcription software. The interface shows file names with timestamps, transcription options, and editable text content, illustrating a workflow for managing or editing recorded/screen-captured material. Shots alternate between the presenter speaking, hand gestures emphasizing steps, and screen captures showing the software's transcription and editing features.
+
+--- PRODOTTI / TOOL VISIBILI ---
+Final Cut Pro, Mac
+
+--- CAPTION COMPLETA ---
+(Funziona anche da iPhone)
+
+--- TRASCRIZIONE AUDIO ---
+Ti faccio vedere una cosa, faccio vedere una cosa, hai presente che abbiamo appena registrato tipo 11 minuti di cose devastanti che abbiamo parlato io e te, no? Ecco, e dobbiamo trascriverle. Come facciamo? Adesso ci vorrebbe un'intelligenza artificiale, ma ancora meglio, ancora più velocemente, ancora più che neanche te l'aspettavi e lui lo stava già facendo, il tuo Mac, se tu fai tasto destro puoi fare visualizza trascrizione. E ce l'hai già. Addirittura, in un attimo, senza visualizzarla, puoi fare copia trascrizione e se eventualmente tu premi play, puoi andare tranquillamente a cliccare in un punto e spostarti all'interno della trascrizione. Questa è la potenza di conoscere un Mac. Io sono Matteo Zampieri, il tuo smanetto è un'infiducia, lui è Andrea, noi ci vediamo in un prossimo video e tu ricorda di seguirmi se ancora non l'hai fatto.

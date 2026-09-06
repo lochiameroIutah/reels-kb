@@ -6,8 +6,8 @@ DATA: 2026-09-04
 ORA: 07:57
 
 --- METRICHE ---
-LIKE: 270
-COMMENTI: 8
+LIKE: 305
+COMMENTI: 9
 DURATA VIDEO: 131 secondi
 CARATTERI CAPTION: 98
 HASHTAG: #chatgpt #gptastra #chatgptastra #intelligenzaartificiale

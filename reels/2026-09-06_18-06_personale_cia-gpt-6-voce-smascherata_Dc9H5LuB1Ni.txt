@@ -1,0 +1,38 @@
+POST ID: 18017779274926870
+IG ID: 18017779274926870
+SHORTCODE: Dc9H5LuB1Ni
+PERMALINK: https://www.instagram.com/reel/Dc9H5LuB1Ni/
+DATA: 2026-09-06
+ORA: 18:06
+
+--- METRICHE ---
+LIKE: 62
+COMMENTI: 0
+DURATA VIDEO: 45 secondi
+CARATTERI CAPTION: 60
+HASHTAG: nessuno
+
+--- FLAGS ---
+CTA COMMENTO: no
+CTA FOLLOW: no
+LINK IN CAPTION: no
+
+--- CATEGORIA ---
+CATEGORIA: personale
+TAG: cia-gpt-6, chatgpt, voice-control, ai-news, automazione
+TOPIC: CiaGPT 6 e le sue funzionalità vocali a confronto con le versioni precedenti
+
+--- HOOK TESTUALE (dal frame) ---
+[nessun testo rilevato]
+
+--- DESCRIZIONE VISIVA ---
+The video features a presenter discussing artificial intelligence. The visual content transitions from the presenter speaking in a dim room to him outdoors with a sunset backdrop, illustrating his points with hand gestures. Additionally, the frames show 'B-roll' footage including screenshots of a computer workspace with a green cursor or loading animation, a browser tab, and a document editor interface containing text like '03 / WEEKENDER'. There is also a clip of the presenter sitting on a ceiling or easel, accompanied by overlay icons of a rocket ship which appear at the top of the screen.
+
+--- PRODOTTI / TOOL VISIBILI ---
+ChatGPT
+
+--- CAPTION COMPLETA ---
+Non fatevi fregare, in caso chiedete a me che vi aiuto ❤️‍🔥
+
+--- TRASCRIZIONE AUDIO ---
+Non avete capito niente perché CiaGPT 6 che è uscito appunto con questo trailer di presentazione dove si vede che CiaGPT è in grado di fare delle cose che noi gli diciamo con la voce non è altro che un modo per vendervela meglio ma questa cosa che appunto si comanda CiaGPT con la voce si poteva fare già prima. Infatti l'altro giorno ho creato proprio un sito web con mia madre facendole vedere come poteva costruirlo semplicemente parlando con CiaGPT e utilizzavamo CiaGPT 5.6. Ciaude, Cpt6 è incredibile perché ti fa le cose precise anche utilizzando il mouse, simulando proprio il comportamento di un umano e facendole percepite da noi umani belle. Io comunque sono Matteo Zamperi, il tuo smanettone di fiducia e tu seguimi se vuoi rimanere sul pezzo e non farti abbindolare da queste pubblicità di intelligenza artificiale molto belle ma comunque mezzo ingannevoli.

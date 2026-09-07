@@ -7,7 +7,7 @@ ORA: 19:49
 
 --- METRICHE ---
 LIKE: 110
-COMMENTI: 427
+COMMENTI: 429
 DURATA VIDEO: 45 secondi
 CARATTERI CAPTION: 113
 HASHTAG: #intelligenzaartificiale #ai #risparmiare #chatgpt #trascriviaudio

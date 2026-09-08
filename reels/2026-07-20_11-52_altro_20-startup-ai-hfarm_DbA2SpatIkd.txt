@@ -7,7 +7,7 @@ ORA: 11:52
 
 --- METRICHE ---
 LIKE: 556
-COMMENTI: 83
+COMMENTI: 85
 DURATA VIDEO: 66 secondi
 CARATTERI CAPTION: 595
 HASHTAG: #hfarm #startup #intelligenzaartificiale #ai #ia
